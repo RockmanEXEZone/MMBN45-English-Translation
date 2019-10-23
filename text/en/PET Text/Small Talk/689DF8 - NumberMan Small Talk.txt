@@ -1,0 +1,978 @@
+﻿###TextArchive:689DF8
+###Script:0
+Error!
+Put info in
+the form!
+###--------
+###Script:1
+Can you recall all
+the details about
+your BattleChips?
+###--------
+If you exchange
+info with friends
+at <printSchool>,
+###Command:printSchool capitalizeFirst=false
+###--------
+your win rate in
+battles will go
+up,you know!
+###--------
+###Script:2
+Time for a
+pop quiz!
+###--------
+The total attack
+power of Cannon
+and MiniBomb is...?
+###--------
+The answer is 90!
+A question like that
+should be a snap.
+###--------
+Why not do some
+math practice
+at <printSchool>?
+###Command:printSchool capitalizeFirst=false
+###--------
+###Script:3
+Even a brilliant
+mind such as
+myself is amazed
+###--------
+at the sheer
+number of Battle-
+Chips that exist...
+###--------
+Do they teach you
+that sort of thing
+at <printSchool>?
+###Command:printSchool capitalizeFirst=false
+###--------
+###Script:5
+The Net is one
+fascinating place!
+###--------
+I'd like to express
+this enjoyment
+with a number...
+###--------
+That's something
+<printOlderBro> would
+do too,right?
+###Command:printOlderBro capitalizeFirst=false
+###--------
+###Script:6
+The probability
+that I'm jacked
+out is 100%!
+###--------
+Hehe,well,that's
+obvious enough.
+###--------
+But the probability
+that <printYoungerBro>
+is jacked in
+###Command:printYoungerBro capitalizeFirst=false
+###--------
+right now is
+about 50%⋯
+###--------
+###Script:7
+Mathematics is an
+important part of
+Net research!
+###--------
+<printOlderSis> says
+the same thing!
+###Command:printOlderSis capitalizeFirst=true
+###--------
+###Script:8
+A great deal of
+Navis can be
+found on the Net.
+###--------
+I wonder what the
+exact number is?
+I'd like to know.
+###--------
+I get the feeling
+<printYoungerSis> would
+know...
+###Command:printYoungerSis capitalizeFirst=false
+###--------
+###Script:9
+Network Duels can
+lead to friendship!
+###--------
+This formula is
+common knowledge.
+###--------
+I think <printFriend>
+knows this,too.
+###Command:printFriend capitalizeFirst=false
+###--------
+###Script:10
+According to my
+calculations...
+<printPlayerNickname> and
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printFriend> grew
+closer through
+Network Duels.
+###Command:printFriend capitalizeFirst=false
+###--------
+Hehe... My math
+is right on the
+money,isn't it?
+###--------
+###Script:11
+Eureka!
+There's a 100%
+chance that...
+###--------
+I want to have
+more Network Duels!
+###--------
+Why don't you
+challenge <printFriend>
+to a battle?
+###Command:printFriend capitalizeFirst=false
+###--------
+###Script:13
+People who eat
+<printFavFood>
+###Command:printFavFood capitalizeFirst=false
+###--------
+after they're done
+playing on the Net...
+###--------
+Have a 100%
+chance of liking
+<printBestSubject>!
+###Command:printBestSubject capitalizeFirst=false
+###--------
+###Script:14
+Here's something I
+heard on the Net!
+###--------
+If you calculate the
+number of calories
+in <printFavFood>,
+###Command:printFavFood capitalizeFirst=false
+###++++++++
+the result is at
+least 800 kcal!
+###--------
+Or so they say...
+Hehehe.
+###--------
+###Script:15
+It seems eating
+<printFavFood> makes
+you better at math.
+###Command:printFavFood capitalizeFirst=false
+###--------
+So make sure
+to eat lots
+of <printFavFood>!
+###Command:printFavFood capitalizeFirst=false
+###--------
+###Script:17
+Both the Data
+Library and
+<printHobby>
+###Command:printHobby capitalizeFirst=false
+###--------
+have a resemblance
+to math drills...
+###--------
+That's my new
+theory. What do
+you think?
+###--------
+I'm sure it'll be
+included in next
+year's textbooks!
+###--------
+###Script:18
+It's easy to lose
+track of time when
+collecting chips.
+###++++++++
+Just like with
+<printHobby>.
+###Command:printHobby capitalizeFirst=false
+###--------
+Maybe it's even
+more fun than
+doing calculations...
+###--------
+###Script:19
+The huge number
+of chip types is
+awe-inspiring!
+###--------
+Aren't numbers
+just magnificent?
+###--------
+It seems there's
+many types of
+<printHobby>,too...
+###Command:printHobby capitalizeFirst=false
+###--------
+###Script:21
+I came up with a
+theory regarding
+tournaments!
+###--------
+"Strong Navis win!"
+###--------
+Whaaaat?
+You already knew!?
+I'm impressed!
+###--------
+With brains like
+yours,your dream
+###++++++++
+to become a<printDream>
+<printDream> is
+sure to come true.
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:22
+That tournament
+got really heated!
+###--------
+So hot that it
+caused problems
+in my calculations...
+###--------
+Do things get that
+heated for a<printDream>
+<printDream>,too...?
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+Don't get burnt!
+###--------
+###Script:23
+The viewer rate
+for the tournament
+broadcast...
+###--------
+It was over 50%!
+###--------
+<printDream>s have
+fierce competition
+for popularity!
+###Command:printDream capitalizeFirst=true
+###--------
+###Script:25
+Hmmm!
+The probability
+is quite high!
+###--------
+Eh? For what,
+you ask?
+Naturally,I mean...
+###--------
+The probability
+that <printPlayerNickname>
+likes <printCrush>!
+###Command:printPlayerNickname capitalizeFirst=false
+###Command:printCrush capitalizeFirst=false
+###--------
+###Script:26
+Yes,yes...
+Please do
+be careful.
+###--------
+If you think
+about nothing
+but <printCrush>,
+###Command:printCrush capitalizeFirst=false
+###--------
+even the simplest
+of calculations will
+prove too difficult!
+###--------
+###Script:27
+It's unfortunate,
+but according to
+my calculations...
+###--------
+The chance that
+<printCrush> likes
+<printPlayerNickname>⋯
+###Command:printCrush capitalizeFirst=false
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+...is a flat 0%.
+###--------
+...Not!
+Hehehehe!
+###--------
+###Script:29
+You've received
+a prank mail from
+<printPlayerEnemy>!
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+The probability
+that I just lied
+is 100%⋯
+###--------
+###Script:30
+Mail can reveal
+a person's way
+of thinking.
+###--------
+Best be careful
+when sending mail
+to <printPlayerEnemy>.
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+###Script:31
+If you got a mail
+from <printPlayerEnemy>
+asking you to
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+hang out together,
+what would you do?
+###--------
+Oh? You seem
+conflicted...
+###--------
+###Script:33
+A perfect 10!!
+###--------
+That's how
+fascinating our
+Network Duels are.
+###--------
+They're just about
+as fascinating
+as <printFavShow>!
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:34
+After a tough
+Network Duel,
+what happens
+###--------
+if you chat about
+<printFavShow> with
+your opponent?
+###Command:printFavShow capitalizeFirst=false
+###--------
+There's a 100%
+chance you'd
+get along well!
+###--------
+###Script:35
+There are some
+similarities between
+the joy you get
+###--------
+from Network Duels
+and from watching
+<printFavShow>.
+###Command:printFavShow capitalizeFirst=false
+###--------
+I don't believe
+Pythagoras said
+anything like that...
+###--------
+###Script:37
+<printPlayerNickname>,I wonder
+how many chips
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+your idol,
+<printIdol>,
+has gathered...
+###Command:printIdol capitalizeFirst=false
+###--------
+Perhaps so many,
+even I wouldn't be
+able to count them?
+###--------
+###Script:38
+Completely filling
+the Data Library...
+It's one quick way
+###--------
+to get on the
+same level
+as <printIdol>.
+###Command:printIdol capitalizeFirst=false
+###--------
+That's what my
+brilliant mind is
+whispering to me.
+###--------
+###Script:39
+Doesn't looking at
+the Data Library
+###--------
+remind you of
+<printIdol>⋯?
+###Command:printIdol capitalizeFirst=false
+###--------
+In the end,when
+you think about it,
+###--------
+they're basically
+a walking Data
+Library...
+###--------
+###Script:41
+Come to
+think of it...
+###--------
+How did your
+<printBestSubject>
+test go?
+###Command:printBestSubject capitalizeFirst=false
+###--------
+Of course,you got
+a perfect score,
+right? Right???
+###--------
+###Script:42
+Even if you search
+the entire Net,
+you'll never find
+###--------
+a Navi who can
+do calculations
+as well as me.
+###--------
+I've heard
+you're good at
+<printBestSubject>,but...
+###Command:printBestSubject capitalizeFirst=false
+###--------
+What's your
+rank on the
+Net,<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:43
+With my
+brilliant mind,
+###--------
+and your expertise
+at <printBestSubject>⋯
+###Command:printBestSubject capitalizeFirst=false
+###--------
+The two of us are
+really raising the
+bar,aren't we?
+###--------
+###Script:45
+That reminds me.
+Even on the Net,
+###--------
+there's a lot of
+people who dislike
+<printWorstSubject>.
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+That's a relief.
+You're not
+the only one!
+###--------
+###Script:46
+Ah,yes.
+I forgot to
+mention,but...
+###--------
+I wrote up a bunch
+of <printWorstSubject>
+test questions!
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+Hehe,just kidding!
+You sure seemed
+to be panicking!
+###--------
+The hand you're
+holding the PET
+in is all sweaty!
+###--------
+###Script:47
+As I recall,
+somewhere
+on the Net...
+###--------
+There's a Navi
+that forces you to
+study <printWorstSubject>⋯
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+And that Navi...
+is me!!
+###--------
+Heh,I'm kidding!
+Pranks can be fun
+sometimes,right?
+###--------
+###Script:49
+Which is more
+valuable? Winning
+a tournament,
+###--------
+or a<printWish> <printWish>?
+Let's try
+calculating it...
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+Eureka! It's equal!
+They're worth
+about the same.
+###--------
+###Script:50
+A highly intelligent
+person can easily
+win in tournaments.
+###--------
+It's the same when
+it comes to getting
+a<printWish> <printWish>.
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+They...ARE the
+same,right?
+###--------
+###Script:51
+The road to the
+tournament is
+a long one...
+###--------
+But does it come
+close to getting
+a<printWish> <printWish>⋯?
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+###Script:53
+Battling is
+good for you!
+###++++++++
+It's just like
+math textbooks.
+###--------
+I especially got
+some good data
+###--------
+from your battle
+with <printMostFrequentOpponent>.
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+###Script:54
+Say,<printPlayerNickname>,
+how about this?
+Roll a die,
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+and if you get a
+3,let's do more
+Network Duels.
+###--------
+Our opponent?
+Naturally,it's
+<printMostFrequentOpponent>!
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+###Script:55
+Hmm...it's just a
+thought,but I think
+###--------
+###--------
+you and <printMostFrequentOpponent>
+are pretty
+evenly matched.
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+There are no
+inaccuracies in
+my estimation.
+###--------
+###Script:57
+Hmm...according
+to the data
+I've gathered...
+###--------
+If I'm up against
+<printLostToOpponent>,I'm at a
+big disadvantage...
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+I'd prefer to avoid
+battles with a low
+chance of victory.
+###--------
+Well,if you really
+want me to battle,
+guess I'll have to...
+###--------
+###Script:58
+Let me be clear
+about this...
+###--------
+I really don't
+want to battle
+with <printLostToOpponent>.
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+Their battle style
+is so difficult
+to calculate!
+###--------
+###Script:59
+U-Um...
+It's hard for me
+to say this but...
+###--------
+I'm feeling quite
+uneasy about
+battling <printLostToOpponent>⋯
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+I feel like they've
+solved the equation
+for victory.
+###--------
+###Script:61
+This is just a
+thought,but...
+###--------
+I think that if we
+choose our equip-
+ment carefully,
+###--------
+we'll stand a
+good chance
+against <printMostLostToOpponent>,
+###Command:printMostLostToOpponent capitalizeFirst=false
+###++++++++
+even if they
+use <printMostLostToOpponentsChip>.
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+That's just based
+on the statistics I
+calculated,though...
+###--------
+###Script:62
+According to my
+information from
+a reliable source,
+###--------
+it seems <printMostLostToOpponentsChip>
+can be used as
+a calculator...
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+Huh...?
+It can't?
+###--------
+Uhh...I knew that!
+O-Of course I did!
+###--------
+Sure would be nice
+if it could,though!
+Right? Haha...ha...
+###--------
+###Script:63
+Research studies
+on <printMostLostToOpponentsChip> give
+mixed results.
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+Its usefulness
+can be either
+a 0 or 10,
+###++++++++
+depending on
+how you use it.
+###--------
+###Script:65
+According to my
+analysis,<printDefeatedOpponent>
+is quite bad
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+with calculations.
+Therefore,they'll
+never beat us.
+###--------
+Although,they might
+be practicing math
+right this moment...
+###--------
+###Script:66
+Battling with
+<printDefeatedOpponent> is like
+adding 1+1!
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+Hm?
+What do I mean,
+you ask?
+###--------
+I mean that
+beating them is
+REALLY simple.
+###--------
+###Script:67
+Is <printDefeatedOpponent> just
+an unlucky person?
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+That's what
+these dice rolls
+are telling me...
+###--------
+###Script:69
+One thing I've
+learned from
+Network Duels
+###--------
+is that <printMostDefeatedOpponentsChip>
+can be positive as
+well as negative.
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+It all depends
+on the user...
+###--------
+###Script:70
+Even if <printMostDefeatedOpponent>
+uses <printMostDefeatedOpponentsChip>,
+###Command:printMostDefeatedOpponent capitalizeFirst=false
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+they still stand
+a 0% chance of
+beating us! Ha!
+###--------
+That's what's
+written in this
+math textbook.
+###--------
+###Script:71
+From what I could
+tell from our
+battle just now,
+###--------
+you should pay close
+attention to how
+<printMostDefeatedOpponentsChip> is used.
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+If used improperly,
+it may result in
+a miscalculation.
+###--------
+###Script:73
+Try imagining a
+battle in your head.
+###--------
+...Right.
+Good,good...
+###--------
+Aha! I knew it!
+<printFavStandardChip1> is 100%
+a necessary chip!
+###Command:printFavStandardChip1 capitalizeFirst=true
+###--------
+###Script:74
+The volume of data
+in the Data Library
+is so entrancing...
+###--------
+In particular,
+there's an
+80% probability
+###--------
+that <printFavStandardChip1>
+catches my eye.
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+###Script:75
+Time to throw out
+all these copies
+of <printFavStandardChip1>⋯
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+Hah,just kidding!
+Should've seen the
+shock on your face!
+###--------
+I wouldn't do
+something so
+wasteful. After all,
+###--------
+calculating gains
+and losses is my
+area of expertise.
+###--------
+###Script:77
+Calculations form
+the foundation
+of battling.
+###--------
+<printFavStandardChip2> is a
+reliable chip,with
+sound calculations.
+###Command:printFavStandardChip2 capitalizeFirst=true
+###--------
+Though,it is
+a bit plain...
+###--------
+###Script:78
+I'd say it's 50%.
+###--------
+The probability
+that you'll use
+<printFavStandardChip2>,that is!
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+It's not always
+the best choice...
+###--------
+###Script:79
+It feels nice to
+use <printFavStandardChip2>,but...
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+I don't like the
+chip number!
+###--------
+Well,what did you
+expect? After all,
+I'm NumberMan!
+###--------
+###Script:81
+3.14159265
+3589793238
+4626433832⋯
+###--------
+It's pi. Sometimes
+I just feel like
+reciting it.
+###--------
+Sometimes you just
+feel like using
+<printFavStandardChip3> too,yes?
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+###Script:82
+It appears you're
+not the biggest
+fan of <printFavStandardChip3>.
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+But it seems to be
+popular amongst
+certain enthusiasts.
+###--------
+###Script:83
+Have you memorized
+the names of
+every chip yet?
+###--------
+<printFavStandardChip3> has a
+distinctive
+sounding name,
+###Command:printFavStandardChip3 capitalizeFirst=true
+###--------
+so it's easy to
+remember,right?
+###--------
+I'll test you
+tomorrow to see
+if you remember!
+###--------
+###Script:85
+Mastering the
+use of <printFavMegaChip>
+seems to be
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+about as difficult
+as multiplications
+with fractions.
+###--------
+But as long as
+you have my
+brilliant mind,
+###--------
+you'll at least be
+able to do simple
+additions with them.
+###--------
+###Script:86
+You should always
+put <printFavMegaChip>
+into our folder.
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+With it,our win
+rate goes up
+by 10%.
+###--------
+Probably...
+###--------
+###Script:87
+<printFavMegaChip> is one
+reliable chip.
+###Command:printFavMegaChip capitalizeFirst=true
+###--------
+You can trust it,
+just like you can
+trust numbers.
+###--------
+###Script:89
+10 out of 10!!
+###--------
+That's what I want
+to scream when
+I see <printFavGigaChip>!
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+###Script:90
+If I were to
+use <printFavGigaChip>⋯
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+Then I wouldn't
+just be NumberMan...
+I'd be Number 1!!
+###--------
+Eh? You're not
+laughing... Maybe
+I miscalculated...
+###--------
+###Script:91
+<printFavGigaChip>'s power
+is too high,so
+there are times
+###Command:printFavGigaChip capitalizeFirst=true
+###--------
+when it makes
+my calculations
+go haywire.
+###--------
+After all,my brain
+is delicate like a
+complex machine...
+###--------

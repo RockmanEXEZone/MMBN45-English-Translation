@@ -1,0 +1,7 @@
+﻿###TextArchive:6824B8
+###Script:1
+Jack in!
+ProtoMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

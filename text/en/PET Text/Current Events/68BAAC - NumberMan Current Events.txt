@@ -1,0 +1,32 @@
+﻿###TextArchive:68BAAC
+###Script:1
+Ah,yes. The
+tournament is
+this weekend.
+###--------
+Would you like
+to get in some
+practice?
+###--------
+Though I wouldn't
+mind if you'd
+rather not...
+###--------
+###Script:2
+It's the day of
+the tournament.
+###--------
+Well,let's see how
+this turns out.
+###--------
+All we can do
+is do our best.
+###--------
+###Script:3
+Huh! There's an
+interesting item
+here,it seems!
+###--------
+Let's take a look
+at our Key Items!
+###--------

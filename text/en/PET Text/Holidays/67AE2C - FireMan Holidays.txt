@@ -1,0 +1,155 @@
+﻿###TextArchive:67AE2C
+###Script:1
+Happy New Year!!
+###--------
+Let's make this an
+even hotter year!
+###--------
+Fiiiiiire!!
+###--------
+###Script:2
+Today is
+April Fools' Day!
+###--------
+Don't pull any
+pranks involving
+fire,though!
+###--------
+Safety comes first!
+###--------
+###Script:3
+Today is
+Valentine's Day...
+###--------
+Actually,I don't
+like chocolate
+that much.
+###--------
+Why? Well,it's
+because my flames
+melt it in no time!
+###--------
+That said...
+I don't mind
+receiving some.
+###--------
+###Script:4
+Today is
+Valentine's Day...
+###--------
+Actually,I don't
+like chocolate
+that much.
+###--------
+Why? Well,it's
+because my flames
+melt it in no time!
+###--------
+That said...
+I don't mind
+receiving some.
+###--------
+###Script:5
+Tonight is
+Halloween!
+###--------
+Hey,after
+you carve a
+jack-o'-lantern,
+###--------
+ya need to
+put a candle
+inside it,right!?
+###--------
+Say no more!!
+I was born for
+this kind of thing!
+###++++++++
+Though,the light
+from the PET
+might be too dim...
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve!
+###--------
+Today we
+should stop the
+fiery battles
+###--------
+and enjoy a warm
+night with friends
+and family!
+###--------
+###Script:9
+Just so ya know...
+Merry Christmas!
+###--------
+###--------
+Once today's over,
+let's get back to
+some hot battles!
+###--------
+###Script:10
+Finally...it's
+New Year's Eve!
+###--------
+Time to have
+our last battle
+of the year!
+###--------
+Let's make it a
+real fireworks
+display!
+###--------
+###Script:11
+Hey,uh...
+Today's your
+birthday,ain't it?
+###--------
+Congrats!
+###--------
+...This is kinda
+embarrassing...
+but here goes!
+###--------
+"Happy Burn-day!
+ Happy Burn-day!"
+###--------
+Happy Burn-day
+to you,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And...
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------

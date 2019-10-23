@@ -1,0 +1,7 @@
+﻿###TextArchive:6664D0
+###Script:1
+Jack in!
+GutsMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

@@ -1,0 +1,171 @@
+﻿###TextArchive:78AE58
+###Script:10
+###Mugshot:PlantMan
+Let's leave no stone
+unturned on the Net...
+###--------
+###Script:11
+###Mugshot:PlantMan
+How about we take
+that Apprentice
+License exam?
+###--------
+###Script:12
+###Mugshot:PlantMan
+Shall we head over
+to the Apprentice
+License exam?
+###--------
+###Script:13
+###Mugshot:PlantMan
+Let's go look for
+a "<printChip>"...
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:PlantMan
+Let's go pick up our
+Apprentice License...
+###--------
+###Script:15
+###Mugshot:PlantMan
+Excellent job on that
+Apprentice License
+exam...
+###++++++++
+###Mugshot:PlantMan
+Say,how about
+a break?
+###--------
+###Script:16
+###Mugshot:PlantMan
+I'd like to know
+what's going on
+in Internet3...
+###--------
+###Script:17
+###Mugshot:PlantMan
+It would seem that
+Navi we beat was
+the culprit...
+###--------
+###Mugshot:PlantMan
+You must be tired,
+hmm? How about we
+jack out for now...
+###--------
+###Script:18
+###Mugshot:PlantMan
+I'd like to know
+what's going on
+in Internet5...
+###--------
+###Script:19
+###Mugshot:PlantMan
+I'd like to know
+what's going on
+in Internet7...
+###--------
+###Script:20
+###Mugshot:PlantMan
+I'd like to know
+what's going on
+in Internet9...
+###--------
+###Script:21
+###Mugshot:PlantMan
+I'd like to know
+what's going on
+in Internet10...
+###--------
+###Script:22
+###Mugshot:PlantMan
+I'd like to know
+what's going on
+in Internet12...
+###--------
+###Script:23
+###Mugshot:PlantMan
+Let's retrieve
+that "MinusKey"
+from BlackWorks.
+###--------
+###Script:24
+###Mugshot:PlantMan
+It would seem the
+other Navi has
+the "MinusKey"...
+###--------
+###Script:25
+###Mugshot:PlantMan
+Let's return the
+"MinusKey" to the
+Navi in Internet9.
+###--------
+###Script:26
+###Mugshot:PlantMan
+Let's head to the
+Official Tournament
+entry desk...
+###--------
+###Script:27
+###Mugshot:PlantMan
+Let's go to
+the Undernet.
+###++++++++
+###Mugshot:PlantMan
+The Navi we're
+after should be
+near a coffin...
+###--------
+###Script:28
+###Mugshot:PlantMan
+Let's go enter the
+Official Tournament,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:29
+###Mugshot:PlantMan
+The Official Tournament
+is this weekend. It's
+our time to blossom!
+###--------
+###Script:30
+###Mugshot:PlantMan
+The Official Tournament...
+The perfect stage to
+make our beauty known!
+###--------
+###Script:31
+###Mugshot:PlantMan
+Let's see if we
+can get to the
+root of the Net...
+###--------
+###Script:32
+###Mugshot:PlantMan
+Let's go take the
+Official Tournament
+prelims,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:33
+###Mugshot:PlantMan
+How about reading
+that mail we just
+got,<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:34
+###Mugshot:PlantMan
+Once the weekend is
+over,let's go enter
+the Official Tournament.
+###--------
+###Script:35
+###Mugshot:PlantMan
+The Navi we're
+after should be
+near a coffin...
+###--------

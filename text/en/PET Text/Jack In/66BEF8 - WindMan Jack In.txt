@@ -1,0 +1,7 @@
+﻿###TextArchive:66BEF8
+###Script:1
+Jack in!
+WindMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

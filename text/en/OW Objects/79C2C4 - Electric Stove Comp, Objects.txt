@@ -1,0 +1,121 @@
+﻿###TextArchive:79C2C4
+###Script:1
+It's the Everyday
+Tournament,held each
+day of the week!
+###--------
+Takes place
+every day at the
+following times:
+###--------
+<regionUS>9:00 AM to 10:00 AM<regionEnd><regionEU>[1px] 9:00 to 10:00<regionEnd>,
+<regionUS>1:00 PM to [1px] 2:00 PM<regionEnd><regionEU>13:00 to 14:00<regionEnd>,
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+<regionUS>4:00 PM to [1px] 5:00 PM<regionEnd><regionEU>16:00 to 17:00<regionEnd>,
+<regionUS>8:00 PM to [1px] 9:00 PM<regionEnd><regionEU>20:00 to 21:00<regionEnd>.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+NetBattlers who
+think they're the
+best,assemble!
+###--------
+###Script:2
+###Mugshot:PurpleNavi
+E-VE-RY! E-VE-RY!
+###--------
+###Mugshot:PurpleNavi
+Welcome to the
+Everyday Tournament!
+###--------
+###Mugshot:PurpleNavi
+Navis wanting to test
+their mettle have come
+here to compete.
+###--------
+###Mugshot:PurpleNavi
+If you're confident in
+your NetBattling skills,
+###--------
+###Mugshot:PurpleNavi
+how about entering?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:PurpleNavi
+It's settled!
+Let's get started!
+###--------
+###Mugshot:PurpleNavi
+Whether you win or lose,
+cheer or cry,it all
+depends on your skill!
+###--------
+###Mugshot:PurpleNavi
+Victory is within grasp!
+Let's get this Everyday
+Tournament starteeeddd!
+###--------
+###Script:3
+###Mugshot:PurpleNavi
+Well...if you want
+to test your skills,
+come again.
+###--------
+###Script:4
+###Mugshot:PurpleNavi
+That wraps up this
+Everyday Tournament!
+###--------
+###Mugshot:PurpleNavi
+Congrats on winning!
+Come and challenge
+the tournament again!
+###--------
+###Mugshot:PurpleNavi
+It's held the same
+times every day:
+###--------
+###Mugshot:PurpleNavi
+<regionUS>9:00 AM to 10:00 AM<regionEnd><regionEU>[1px] 9:00 to 10:00<regionEnd>,
+<regionUS>1:00 PM to [1px] 2:00 PM<regionEnd><regionEU>13:00 to 14:00<regionEnd>,
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:PurpleNavi
+<regionUS>4:00 PM to [1px] 5:00 PM<regionEnd><regionEU>16:00 to 17:00<regionEnd>,
+<regionUS>8:00 PM to [1px] 9:00 PM<regionEnd><regionEU>20:00 to 21:00<regionEnd>.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------

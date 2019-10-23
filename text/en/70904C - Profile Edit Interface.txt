@@ -1,0 +1,273 @@
+﻿###TextArchive:70904C
+## WARNING! If you mess with anything in this file,
+## titlescreenprofileedithack.asm should be updated.
+###Script:0
+"<printItem>"
+just expired!
+###Command:printItem buffer=0 item=43
+###--------
+###Script:1
+"<printItem>"
+just expired!
+###Command:printItem buffer=0 item=41
+###--------
+###Script:2
+##BugFrag counter, move to right 1 char due to kanji being removed
+ <printBuffer>
+###Command:printBuffer buffer=0 minLength=6 padZeros=false padLeft=true
+###--------
+###Script:10
+###Mugshot:MegaMan
+You have mail,
+Lan!
+###--------
+###Script:21
+PRESS START
+###--------
+###Script:24
+Select your gender.MaleFemale
+###--------
+###Script:25
+Input your age.0123456789years
+###--------
+###Script:26
+Choose your occupation.PreschoolElementaryMid schoolHigh schoolCollegeGap yearPart-timerEmployeeSelf-employedHomemaker
+###--------
+###Script:27
+Enter the date and time.Is this OK?YesNo
+###--------
+###Script:28
+[square][square][square][square][square][square][square][square][square][square][square][square][square][square][square][square]
+###--------
+###Script:30
+Select your gender.
+###--------
+###Script:31
+Male
+###--------
+###Script:32
+Female
+###--------
+###Script:33
+Input your age.
+###--------
+###Script:34
+years
+###--------
+###Script:35
+0
+###--------
+###Script:36
+1
+###--------
+###Script:37
+2
+###--------
+###Script:38
+3
+###--------
+###Script:39
+4
+###--------
+###Script:40
+5
+###--------
+###Script:41
+6
+###--------
+###Script:42
+7
+###--------
+###Script:43
+8
+###--------
+###Script:44
+9
+###--------
+###Script:50
+Choose your occupation.
+###--------
+###Script:51
+Preschool
+###--------
+###Script:52
+Gap year
+###--------
+###Script:53
+Elementary
+###--------
+###Script:54
+Part-timer
+###--------
+###Script:55
+Mid school
+###--------
+###Script:56
+Employee
+###--------
+###Script:57
+High school
+###--------
+###Script:58
+Self-empl.
+###--------
+###Script:59
+College
+###--------
+###Script:60
+Homemaker
+###--------
+###Script:61
+Enter the date and time.
+###--------
+###Script:62
+Yes
+###--------
+###Script:63
+[0lower]
+###--------
+###Script:64
+[1lower]
+###--------
+###Script:65
+[2lower]
+###--------
+###Script:66
+[3lower]
+###--------
+###Script:67
+[4lower]
+###--------
+###Script:68
+[5lower]
+###--------
+###Script:69
+[6lower]
+###--------
+###Script:70
+[7lower]
+###--------
+###Script:71
+[8lower]
+###--------
+###Script:72
+[9lower]
+###--------
+###Script:73
+Is this OK?
+###--------
+###Script:74
+No
+###--------
+###Script:75
+[Alower][Mlower]
+###--------
+###Script:76
+[Plower][Mlower]
+###--------
+###Script:77
+/
+###--------
+###Script:78
+[:lower]
+###--------
+###Script:79
+([1px]Su[1px])
+###--------
+###Script:80
+([1px]Mo[1px])
+###--------
+###Script:81
+([1px]Tu[1px])
+###--------
+###Script:82
+([1px]We)
+###--------
+###Script:83
+([1px]Th[1px])
+###--------
+###Script:84
+([1px]Fr[1px])
+###--------
+###Script:85
+([1px]Sa)
+###--------
+###Script:88
+Is this OK?
+###--------
+###Script:89
+<printPlayerName>
+###Command:printPlayerName
+###--------
+###Script:90
+0
+###--------
+###Script:91
+1
+###--------
+###Script:92
+2
+###--------
+###Script:93
+3
+###--------
+###Script:94
+4
+###--------
+###Script:95
+5
+###--------
+###Script:96
+6
+###--------
+###Script:97
+7
+###--------
+###Script:98
+8
+###--------
+###Script:99
+9
+###--------
+###Script:100
+Name:
+###--------
+###Script:101
+Gender:
+###--------
+###Script:102
+Age:
+###--------
+###Script:103
+Occupation:
+###--------
+###Script:104
+Yes
+###--------
+###Script:105
+No
+###--------
+###Script:106
+Male
+###--------
+###Script:107
+Female
+###--------
+###Script:108
+years
+###--------
+###Script:110
+Use <printCurrentNavi>
+as your Navi?
+
+###Command:printCurrentNavi
+###--------
+ <option><space> Yes  <option><space> No
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:111
+                
+###--------

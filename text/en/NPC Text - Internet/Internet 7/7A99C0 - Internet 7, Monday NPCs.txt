@@ -1,0 +1,27 @@
+﻿###TextArchive:7A99C0
+###Script:0
+###Mugshot:NormNaviYellow
+Oh,today's trash day.
+I'll have to take
+out the trash later.
+###--------
+###Script:1
+###Mugshot:NaviGirlOrange
+Hey,didya know?
+They say that Mr.Progs
+are partially made from
+###--------
+###Mugshot:NaviGirlOrange
+the recycled trash
+data that's thrown
+out on Mondays!
+###--------
+###Mugshot:NaviGirlOrange
+There's still a lot of
+usable data inside
+junk data,after all.
+###--------
+###Mugshot:NaviGirlOrange
+Betcha weren't
+expecting that,huh?
+###--------

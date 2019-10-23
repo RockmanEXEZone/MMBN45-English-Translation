@@ -1,0 +1,344 @@
+﻿###TextArchive:7A7000
+###Script:0
+###Mugshot:MrProgGreen
+WELCOME!
+THIS IS INTERNET4!
+###--------
+###Mugshot:MrProgGreen
+TODAY AS WELL,
+DON'T FORGET TO
+DO! YOUR! BEST!
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+HEEEEEEEEY!!
+THIS IS INTERNET4!!
+###--------
+###Mugshot:MrProgGreen
+THIS IS A PEACEFUL
+AREA! FEEL FREE
+TO TAKE IT EASY!
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+GOOD EVENING!
+###--------
+###Mugshot:MrProgGreen
+DON'T STAY OUT TOO
+LATE HAVING FUN!
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+*SNORE...*
+###--------
+###Mugshot:MrProgGreen
+THIS IS...INTERNET4...
+*MUMBLE,MUMBLE...*
+###--------
+###Script:10
+###Mugshot:MrProgGreen
+WAAAAH!!
+I WANT TO NET-
+BATTLE TOOOO!!
+###--------
+###Mugshot:MrProgGreen
+ARE PROGRAMS NOT
+ALLOWED TO TAKE PART
+IN THE TOURNAMENT?
+###--------
+###Script:11
+###Mugshot:MrProgGreen
+SEEING ALL OF THESE
+NAVIS NETBATTLING
+###--------
+###Mugshot:MrProgGreen
+KINDA MAKES ME WANT
+TO TRY BATTLING TOO.
+###--------
+###Mugshot:MrProgGreen
+BUT,YOU KNOW...
+I'M A PROGRAM,SO...
+###--------
+###Script:15
+###Mugshot:NormNaviYellow
+Most people are
+just passing through
+this area.
+###--------
+###Mugshot:NormNaviYellow
+If you go past the
+top of the hill,you'll
+reach Internet5.
+###--------
+###Script:30
+###Mugshot:FireMan
+Yo! Are you makin'
+every day a hot one!?
+###--------
+###Mugshot:FireMan
+If there ain't enough
+heat for ya,then how
+'bout a battle with me?
+###--------
+###Mugshot:FireMan
+That's sure to get
+you runnin' HOT,
+I'll tell ya!
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> I'll pass
+###Command:positionOptionHorizontal width=13
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:FireMan
+Hit me up when you
+wanna get red-hot!
+###--------
+###Script:31
+###Mugshot:FireMan
+Argh! All burned out...
+###--------
+###Script:32
+###Mugshot:FireMan
+Ain't hot enough yet!
+###--------
+###Mugshot:FireMan
+You gotta burn brighter
+than that or you won't
+win against me!
+###--------
+###Script:33
+###Mugshot:StarMan
+Hey!
+Do you want to
+battle with me?
+###--------
+###Mugshot:StarMan
+I'll show you
+the beauty of
+shooting stars!
+###--------
+<positionOptionHorizontal><option><space> Let's!  <option><space> Let's not!
+###Command:positionOptionHorizontal width=16
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:StarMan
+Tsk! Lame!
+###--------
+###Script:34
+###Mugshot:StarMan
+Y-You got me...
+###--------
+###Mugshot:StarMan
+I'm seeing stars...
+###--------
+###Script:35
+###Mugshot:StarMan
+Well? Did you
+make a wish?
+###--------
+###Script:36
+###Mugshot:FireMan
+I'm all fired up!
+###--------
+###Mugshot:FireMan
+Battle routine,set!
+###--------
+###Mugshot:FireMan
+Execute!
+###--------
+###Script:37
+###Mugshot:StarMan
+Shooting stars,
+bring me victory!
+###--------
+###Mugshot:StarMan
+Battle routine,set!
+Execute!
+###--------
+###Script:38
+###Mugshot:FireMan
+Hey,who in blazes
+are you?
+###--------
+###Mugshot:FireMan
+Tsk,you look
+exactly like me...
+This ain't right!
+###--------
+###Mugshot:FireMan
+There's only room
+for one FireMan,
+and that's me!
+###--------
+###Mugshot:FireMan
+C'mon! We're
+gonna settle this!
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> I'll pass
+###Command:positionOptionHorizontal width=13
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:FireMan
+Guess you're just
+a faker after all!
+###--------
+###Script:39
+###Mugshot:StarMan
+They say there are
+7 people in the world
+that look just like you.
+###--------
+###Mugshot:StarMan
+This sure is a
+rare occurrence,
+isn't it?
+###--------
+###Mugshot:StarMan
+How about it?
+Care for a battle?
+###--------
+<positionOptionHorizontal><option><space> Let's!  <option><space> Let's not!
+###Command:positionOptionHorizontal width=16
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:StarMan
+Tsk! Lame!
+###--------
+###Script:50
+###Mugshot:OfficialNavi
+Lately there have
+been these fiendish
+Navis around,
+###++++++++
+###Mugshot:OfficialNavi
+calling themselves
+"Darkloids".
+###--------
+###Mugshot:OfficialNavi
+Please stay alert!
+###--------
+###Script:51
+###Mugshot:OfficialNavi
+Where did the
+Darkloid run off to...?
+###--------
+###Script:52
+###Mugshot:OfficialNavi
+Some info suggests
+the Darkloid is hiding
+out in the Undernet...
+###--------
+###Mugshot:OfficialNavi
+It'll be hard to make
+a move against it
+if it's in there...
+###--------
+###Script:53
+###Mugshot:OfficialNavi
+It seems like the
+Navi that won the
+Official Tournament
+###++++++++
+###Mugshot:OfficialNavi
+is the same Navi who
+took out that Darkloid.
+###--------
+###Mugshot:OfficialNavi
+But those Darkloids
+are an elusive lot...
+###--------
+###Mugshot:OfficialNavi
+Even if one is deleted,
+it might come back.
+###--------
+###Mugshot:OfficialNavi
+We can't lower our
+guards for a second.
+###--------
+###Script:80
+###Mugshot:NormNaviYellow
+Hey,hey!
+You over there!
+###--------
+###Mugshot:NormNaviYellow
+Want a "<printItem>"?
+###Command:printItem buffer=0 item=5
+###--------
+###Mugshot:NormNaviYellow
+It'll unlock the door
+that's sitting between
+Internet2 and 3!
+###--------
+###Mugshot:NormNaviYellow
+And right now,
+it can be yours for
+a mere 500 Zennys!
+###--------
+###Mugshot:NormNaviYellow
+So,do we have
+a deal?
+###--------
+<positionOptionHorizontal><option><space> Sold!  <option><space> Forget it!
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Oh yeah...?
+###--------
+###Mugshot:NormNaviYellow
+Well,if you're
+ever interested,
+come see me...
+###--------
+###Script:82
+###Mugshot:NormNaviYellow
+Terribly sorry,but it
+looks like you're a
+little short on cash...
+###--------
+###Mugshot:NormNaviYellow
+I'm selling it for
+as low as it can go.
+I really can't go lower.
+###--------
+###Mugshot:NormNaviYellow
+Sorry,but you'll have
+to come back later.
+###--------
+###Script:83
+###Mugshot:NormNaviYellow
+...I wonder what other
+business I can do...
+###--------
+###Script:84
+###Mugshot:NormNaviYellow
+Wow,big spender!
+###--------
+###Mugshot:NormNaviYellow
+Well then,I'll hand
+over the goods! Here!
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=5
+###--------
+###Mugshot:NormNaviYellow
+Thanks! You scored
+a good deal there!
+###--------

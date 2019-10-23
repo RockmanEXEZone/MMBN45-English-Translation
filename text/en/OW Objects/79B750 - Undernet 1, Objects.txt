@@ -1,0 +1,42 @@
+﻿###TextArchive:79B750
+###Script:2
+This door opens only
+for the strongest
+of the Net above...
+###--------
+###Script:3
+I feel a terrifying
+power coming from you...
+###--------
+So,you've defeated
+ShadeMan...
+###--------
+Very well,I will allow
+you to use this path.
+###--------
+###Script:15
+I am the security
+program for this door.
+###--------
+If you wish to use
+this path I guard,
+###--------
+show me that you have
+the power to defeat
+a Darkloid or two.
+###--------
+###Script:16
+This door opens only
+for the strongest
+in the Net above...
+###--------
+<printCurrentNavi> held out:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=4
+###--------
+A testament to
+your strength...
+###--------
+You may proceed...
+###--------

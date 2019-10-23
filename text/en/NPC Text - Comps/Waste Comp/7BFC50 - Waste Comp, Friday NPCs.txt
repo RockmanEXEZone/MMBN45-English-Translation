@@ -1,0 +1,78 @@
+﻿###TextArchive:7BFC50
+###Script:0
+###Mugshot:HeelNaviBlack
+To have made it
+this far, you must
+be pretty strong...
+###--------
+###Mugshot:HeelNaviBlack
+Want to battle me?
+###--------
+<positionOptionHorizontal><option><space> Bring it!  <option><space> No way
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviBlack
+Scared...?
+###--------
+###Script:1
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:HeelNaviBlack
+Tsk! You're stronger
+than I expected...
+###--------
+###Script:3
+###Mugshot:HeelNaviBlack
+That all you've got...?
+###--------
+###Script:4
+###Mugshot:HeelNaviBlack
+My DarkPower... Do
+you wish to test it...?
+###--------
+<positionOptionHorizontal><option><space> Yeah  <option><space> No way
+###Command:positionOptionHorizontal width=11
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviBlack
+The DarkPower is
+terrifying,isn't it!?
+Heh heh heh!
+###--------
+###Script:5
+###Mugshot:HeelNaviBlack
+Ohhhhh...
+###--------
+###Mugshot:HeelNaviBlack
+O darkness...
+The time has come
+for your awakening!
+###--------
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!
+###--------
+###Script:6
+###Mugshot:HeelNaviBlack
+My DarkPower doesn't
+work on you...
+###--------
+###Mugshot:HeelNaviBlack
+H-How...!?
+###--------
+###Script:7
+###Mugshot:HeelNaviBlack
+Haha!!
+Now do you understand
+the DarkPower?
+###--------

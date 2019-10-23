@@ -1,0 +1,36 @@
+﻿###TextArchive:6FB41C
+###Script:6
+###Mugshot:ElecMan
+No need to
+use it now.
+###--------
+###Script:7
+###Mugshot:ElecMan
+You want to
+use "<printItem>"?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printItem buffer=1 item=0
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:11
+###Mugshot:ElecMan
+You're already
+using "<printItem>".
+###Command:printItem buffer=1 item=0
+###--------
+###Script:12
+###Mugshot:ElecMan
+There isn't
+any locked
+data.
+###--------
+###Script:13
+###Mugshot:ElecMan
+No viruses
+around
+here yet.
+###--------

@@ -1,0 +1,359 @@
+﻿###TextArchive:7CAF40
+###Script:0
+So it was you who
+deleted LaserMan...
+###--------
+My heart thirsts
+for battle...
+###--------
+I wonder...if you
+can satiate it...?
+###--------
+###Script:1
+###Mugshot:MegaMan
+T-There's a terrible
+power coming closer!
+###--------
+###Script:2
+###Mugshot:Roll
+M-My body is shaking...
+W-What's happening?
+###--------
+###Mugshot:Roll
+W-Who are you!?
+###--------
+###Script:3
+###Mugshot:GutsMan
+G...Guts...
+Wha-What's goin' on!?
+###--------
+###Script:4
+###Mugshot:WindMan
+This storm of miasma...
+Who...ARE you!?
+###--------
+###Script:5
+###Mugshot:SearchMan
+Target approaching!
+###--------
+###Mugshot:SearchMan
+T-These power
+readings... Is my
+sensor broken!?
+###--------
+###Script:6
+###Mugshot:FireMan
+T-This is it...
+This is the terrifying
+power I felt earlier...
+###--------
+###Script:7
+###Mugshot:ThunderMan
+T-This power...
+The magnetic field
+is being distorted...
+###--------
+###Mugshot:ThunderMan
+This is...unlike anything
+I've ever seen.
+###--------
+###Script:8
+###Mugshot:ProtoMan
+S-Something's
+approaching fast!
+###--------
+###Mugshot:ProtoMan
+Compared to this...
+LaserMan's power was
+just child's play!
+###--------
+###Mugshot:ProtoMan
+...Show yourself!!
+###--------
+###Script:9
+###Mugshot:NumberMan
+*shiver,shiver*
+A t-terrible mass of
+power is getting close!
+###--------
+###Mugshot:NumberMan
+No... This much
+concentrated power
+in the Cyberworld...
+###--------
+###Mugshot:NumberMan
+...Theoretically,this
+shouldn't be possible!
+###--------
+###Script:10
+###Mugshot:MetalMan
+⋯*shiver!*
+###--------
+###Mugshot:MetalMan
+I-It feels like my
+heart is sinking...
+###--------
+###Mugshot:MetalMan
+This feeling...
+Is it fear...?
+###--------
+###Script:11
+###Mugshot:JunkMan
+I-It feels like...
+My body is about to
+be torn apart...
+###--------
+###Mugshot:JunkMan
+W-What's going on!?
+###--------
+###Script:12
+###Mugshot:AquaMan
+...The air is shaking!
+###++++++++
+###Mugshot:AquaMan
+F-Feels like my
+water tank is
+going to crack,drip...
+###--------
+###Script:13
+###Mugshot:WoodMan
+Gwoooooh!!
+###--------
+###Mugshot:WoodMan
+Who are you!?
+Show yourself!
+###--------
+###Script:14
+###Mugshot:StarMan
+Wha-Wha-Wha-Wha-
+What's this!?
+###--------
+###Script:15
+###Mugshot:ShadowMan
+This power...
+So it really was you...
+###--------
+###Script:16
+###Mugshot:KnightMan
+Gwooooh!
+Such terrible power!
+###--------
+###Mugshot:KnightMan
+Who goes there!?
+Show thyself!
+###--------
+###Script:17
+###Mugshot:NapalmMan
+I-I know this...
+This power...
+###--------
+###Mugshot:NapalmMan
+N-No... This one's...
+Way stronger than
+the one I knew...!
+###--------
+###Script:18
+###Mugshot:IceMan
+...A-Ahhh...
+###--------
+###Script:19
+###Mugshot:ElecMan
+W-What...?
+What's this incredible
+energy!?
+###--------
+###Mugshot:ElecMan
+A-Are we inside a
+nuclear power plant?
+###--------
+###Script:20
+###Mugshot:PlantMan
+T-This power...
+It couldn't be...
+Impossible...!
+###--------
+###Script:21
+###Mugshot:Bass
+Mwahahaha...
+###--------
+###Script:22
+Battle...with me...
+###--------
+###Script:23
+###Mugshot:MegaMan
+H-Here he comes!
+###--------
+###Script:24
+###Mugshot:Roll
+H-Here he comes!
+###--------
+###Script:25
+###Mugshot:GutsMan
+H-He's comin'!
+###--------
+###Script:26
+###Mugshot:WindMan
+Be careful!
+Here he comes!
+###--------
+###Script:27
+###Mugshot:SearchMan
+Deploying for combat!
+...Here he comes!
+###--------
+###Script:28
+###Mugshot:FireMan
+Tsk! Ask questions
+later,huh!?
+###--------
+###Mugshot:FireMan
+No running now!
+I'm returning fire!
+###--------
+###Script:29
+###Mugshot:ThunderMan
+Stand strong!
+We cannot falter now!
+###--------
+###Script:30
+###Mugshot:ProtoMan
+Even with that kind
+of power,there must
+be some weakness...!
+###--------
+###Mugshot:ProtoMan
+...Haaaaa!!
+###--------
+###Script:31
+###Mugshot:NumberMan
+B-By my calculations,
+our chances of escape
+are zero!
+###--------
+###Mugshot:NumberMan
+A-And our chances
+of winning are...
+###--------
+###Mugshot:NumberMan
+······
+A mere 0.00001%!
+###--------
+###Mugshot:NumberMan
+B-But...we have no
+choice but to try!
+###--------
+###Script:32
+###Mugshot:MetalMan
+It's not my style to
+back down from a
+fight like a coward!
+###--------
+###Mugshot:MetalMan
+Even in the face of
+destruction... We must
+stand our ground!
+###--------
+###Script:33
+###Mugshot:JunkMan
+I-I...I'll win...
+For sure!!
+###--------
+###Script:34
+###Mugshot:AquaMan
+I-It's like my
+legs are frozen...
+I can't move,drip...
+###--------
+###Mugshot:AquaMan
+B-But if it's come
+to this...we have
+to fight it,drip!
+###--------
+###Script:35
+###Mugshot:WoodMan
+...Don't worry.
+Mother Earth is
+always at our side.
+###--------
+###Mugshot:WoodMan
+Are you ready!?
+Here he comes!
+###--------
+###Script:36
+###Mugshot:StarMan
+H-He's coming!
+###--------
+###Mugshot:StarMan
+H-He's like a giant
+meteor heading
+straight for us...!
+###--------
+###Script:37
+###Mugshot:ShadowMan
+I don't plan to
+forfeit my life
+to you just yet...
+###--------
+###Mugshot:ShadowMan
+O spirits of war,
+aid me in battle!
+###--------
+###Script:38
+###Mugshot:KnightMan
+I,KnightMan,shall
+be your opponent!
+###--------
+###Mugshot:KnightMan
+En garde!!
+###--------
+###Script:39
+###Mugshot:NapalmMan
+Shoot!!
+###--------
+###Mugshot:NapalmMan
+Ya better prepare
+all the chips we got!
+###--------
+###Mugshot:NapalmMan
+This is gonna be
+an all-out war!
+###--------
+###Script:40
+###Mugshot:IceMan
+...H-He's coming!
+###--------
+###Mugshot:IceMan
+Please...I'm counting
+on your operating!
+###--------
+###Script:41
+###Mugshot:ElecMan
+Tsk,looks like I'll
+have to use every
+bit of juice I have!
+###--------
+###Script:42
+###Mugshot:PlantMan
+Looks like we can't
+beat this one with
+half-hearted passion...
+###--------
+###Mugshot:PlantMan
+Behold! PlantMan's
+all-or-nothing
+flower petal storm!
+###--------
+###Script:43
+###Mugshot:Bass
+Hmph. Idiotic clone...
+###--------
+###Mugshot:Bass
+Don't get so full
+of yourself!
+###--------
+###Script:44
+###Mugshot:Bass
+...Come!
+I will bathe in
+your blood!
+###--------

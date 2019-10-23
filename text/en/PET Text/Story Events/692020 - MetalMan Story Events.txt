@@ -1,0 +1,145 @@
+﻿###TextArchive:692020
+###Script:10
+Let's take a stroll
+around the Net...
+###--------
+###Script:11
+Let's go take
+the Apprentice
+License exam...
+###--------
+###Script:12
+Let's blow through
+this Apprentice
+License exam.
+###--------
+###Script:13
+Let's go get
+a "<printChip>"...
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+Let's go get our
+Apprentice License.
+###--------
+###Script:15
+We passed the
+Apprentice
+License exam...
+###++++++++
+How about we take
+a little break?
+###--------
+###Script:16
+I want to see
+what's going on
+in Internet3...
+###--------
+###Script:17
+Looks like the Navi
+we beat caused
+the incident...
+###--------
+You must be worn
+out... Let's jack
+out for now.
+###--------
+###Script:18
+I want to see
+what's going on
+in Internet5...
+###--------
+###Script:19
+I want to see
+what's going on
+in Internet7...
+###--------
+###Script:20
+I want to see
+what's going on
+in Internet9...
+###--------
+###Script:21
+I want to see
+what's going on
+in Internet10...
+###--------
+###Script:22
+I want to see
+what's going on
+in Internet12...
+###--------
+###Script:23
+Let's get that
+"MinusKey" back
+from BlackWorks...
+###--------
+###Script:24
+Guess the other
+Navi has the
+"MinusKey"...
+###--------
+###Script:25
+Let's bring back
+the "MinusKey"
+###--------
+to the Navi
+in Internet9.
+###--------
+###Script:26
+###--------
+Let's head to the
+Official Tournament
+entry desk...
+###--------
+###Script:27
+Let's head to
+the Undernet.
+###--------
+The Navi we're
+after should be
+near a coffin...
+###--------
+###Script:28
+Let's go enter
+the Official
+Tournament.
+###--------
+###Script:29
+The Official
+Tournament is
+this weekend.
+###++++++++
+Time to get
+serious...
+###--------
+###Script:30
+The Official
+Tournament
+is upon us...
+###++++++++
+My fists
+are itching...
+###--------
+###Script:31
+Let's keep
+exploring the Net...
+###--------
+###Script:32
+Let's take the
+Official Tournament
+prelims...
+###--------
+###Script:33
+We ought to
+read the mail
+we just got...
+###--------
+###Script:34
+Once the
+weekend is over,
+###--------
+let's go enter
+the Official
+Tournament...
+###--------

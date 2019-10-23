@@ -1,0 +1,174 @@
+﻿###TextArchive:787ACC
+###Script:10
+###Mugshot:SearchMan
+Let's scope out
+the Net,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:11
+###Mugshot:SearchMan
+The Apprentice License...
+Can't say I'm not
+interested.
+###--------
+###Script:12
+###Mugshot:SearchMan
+Let's do our best
+on the Apprentice
+License exam...
+###--------
+###Script:13
+###Mugshot:SearchMan
+We need to locate
+a "<printChip>".
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:SearchMan
+Let's go get our
+Apprentice License,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:15
+###Mugshot:SearchMan
+Great work on the
+Apprentice License
+exam.
+###++++++++
+###Mugshot:SearchMan
+Shall we take it
+easy for a bit?
+###--------
+###Script:16
+###Mugshot:SearchMan
+Let's go check
+the situation in
+Internet3...
+###--------
+###Script:17
+###Mugshot:SearchMan
+Looks like the
+Navi we beat
+was the culprit...
+###--------
+###Mugshot:SearchMan
+Solid work out there.
+Shall we jack out?
+###--------
+###Script:18
+###Mugshot:SearchMan
+Let's go check
+the situation in
+Internet5...
+###--------
+###Script:19
+###Mugshot:SearchMan
+Let's go check
+the situation in
+Internet7...
+###--------
+###Script:20
+###Mugshot:SearchMan
+Let's go check
+the situation in
+Internet9...
+###--------
+###Script:21
+###Mugshot:SearchMan
+Let's go check
+the situation in
+Internet10...
+###--------
+###Script:22
+###Mugshot:SearchMan
+Let's go check
+the situation in
+Internet12...
+###--------
+###Script:23
+###Mugshot:SearchMan
+We need to recover
+the "MinusKey"
+from BlackWorks.
+###--------
+###Script:24
+###Mugshot:SearchMan
+Looks like the other
+Navi is holding
+the "MinusKey".
+###--------
+###Script:25
+###Mugshot:SearchMan
+Let's bring back the
+"MinusKey" to the
+Navi in Internet9.
+###--------
+###Script:26
+###Mugshot:SearchMan
+Let's go to the
+Official Tournament
+entry desk.
+###--------
+###Script:27
+###Mugshot:SearchMan
+Let's go to
+the Undernet.
+###++++++++
+###Mugshot:SearchMan
+Our target Navi
+was last seen
+near a coffin...
+###--------
+###Script:28
+###Mugshot:SearchMan
+Let's go enter the
+Official Tournament!
+###--------
+###Script:29
+###Mugshot:SearchMan
+The Official
+Tournament is
+this weekend.
+###++++++++
+###Mugshot:SearchMan
+Our victory is
+all but assured.
+###--------
+###Script:30
+###Mugshot:SearchMan
+Current objective:
+win the Official
+Tournament...
+###--------
+###Script:31
+###Mugshot:SearchMan
+Let's explore even
+deeper into the Net...
+###--------
+###Script:32
+###Mugshot:SearchMan
+Let's go take the
+Official Tournament
+prelims,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:33
+###Mugshot:SearchMan
+<printPlayerNickname>,let's
+read the mail
+that just came in!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:34
+###Mugshot:SearchMan
+Once the weekend is
+over,let's go enter
+the Official Tournament.
+###--------
+###Script:35
+###Mugshot:SearchMan
+Our target Navi
+was last seen
+near a coffin...
+###--------

@@ -1,0 +1,593 @@
+﻿###TextArchive:661858
+###Script:1
+The Net sure
+was fun!
+###--------
+It's not fair to
+keep this fun
+all to yourself!
+###--------
+You gotta share
+it with someone,
+you know!
+###--------
+<printPlayerNickname>,do
+you have a
+big brother?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Really? So,
+what's his name?
+###--------
+###Script:2
+Oh,I see...
+###--------
+###Script:3
+The Net sure
+was fun!
+###--------
+It's not fair to
+keep this fun
+all to yourself!
+###--------
+You gotta share
+it with someone,
+you know!
+###--------
+<printPlayerNickname>,do
+you have a
+little brother?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Really? So,
+what's his name?
+###--------
+###Script:4
+Oh,I see...
+###--------
+###Script:5
+The Net sure
+was fun!
+###--------
+It's not fair to
+keep this fun
+all to yourself!
+###--------
+You gotta share
+it with someone,
+you know!
+###--------
+<printPlayerNickname>,do
+you have a
+big sister?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Really? So,
+what's her name?
+###--------
+###Script:6
+Oh,I see...
+###--------
+###Script:7
+The Net sure
+was fun!
+###--------
+It's not fair to
+keep this fun
+all to yourself!
+###--------
+You gotta share
+it with someone,
+you know!
+###--------
+<printPlayerNickname>,do
+you have a
+little sister?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Really? So,
+what's her name?
+###--------
+###Script:8
+Oh,I see...
+###--------
+###Script:9
+I think battling
+can strengthen
+friendships!
+###--------
+Oh,right!
+###--------
+<printPlayerNickname>,tell me
+about one of your
+close friends!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I wanna be friends
+with 'em,too!
+###--------
+###Script:11
+Running around
+the Net sure
+makes you hungry!
+###--------
+Hey <printPlayerNickname>!
+Whenever you
+get hungry,
+###Command:printPlayerNickname
+###--------
+what food do
+you like to eat?
+###--------
+###Script:13
+Being stuck in
+the PET can be
+a little boring...
+###--------
+I wonder if I can
+find a hobby I can
+do by myself...
+###--------
+Hey,<printPlayerNickname>!
+Just for reference,
+###Command:printPlayerNickname
+###--------
+what's your hobby?
+###--------
+###Script:15
+Being a tournament
+winner is every
+Navi's dream!
+###--------
+<printPlayerNickname>,what
+do you dream
+to become?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I'm super curious!
+###--------
+###Script:17
+I was hoping
+we'd get some
+lovey-dovey mail,
+###--------
+but we didn't get
+anything like that...
+###--------
+<printPlayerNickname>,tell me
+the name of the
+person you like!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+If they send you
+some lovey-dovey
+mail,and I don't
+###--------
+know their name...
+I won't know
+it's from them!
+###--------
+###Script:19
+I was hoping
+we'd get some
+lovey-dovey mail,
+###--------
+but we didn't get
+anything like that...
+###--------
+...Heeeeeyyy,
+###--------
+<printPlayerNickname>,tell me
+the name of the
+person you like!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+C'mon! As your
+Navi,I have to
+know,right!?
+###--------
+If they send you
+some lovey-dovey
+mail,and I don't
+###--------
+know their name...
+I won't know
+it's from them!
+###--------
+###Script:21
+People who've
+filled out the
+entire library
+###--------
+must've put in
+a ton of effort...
+I respect them!
+###--------
+<printPlayerNickname>,who do
+you look up to?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:23
+Hey <printPlayerNickname>,
+is there anyone
+in particular that
+###Command:printPlayerNickname
+###--------
+you'd rather not
+receive mail from?
+###--------
+###Script:25
+I'm not the best
+at NetBattling...
+###--------
+If I had to pick,
+I'd rather relax
+and watch TV!
+###--------
+Hey <printPlayerNickname>,
+what's a TV
+show you like?
+###Command:printPlayerNickname
+###--------
+###Script:27
+Everyday knowledge
+is surprisingly
+useful on the Net.
+###--------
+Is there a subject
+you're good at,
+<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:29
+Everyday knowledge
+is surprisingly
+useful on the Net.
+###--------
+Maybe you don't
+have one,but...
+###--------
+Is there a subject
+you're bad at,
+<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:31
+If we were to win
+a tournament,and
+you were told you
+###--------
+could choose any-
+thing as the prize,
+what would it be?
+###--------
+###Script:32
+What's the name
+of the preschool
+you attend?
+###--------
+###Script:33
+What's the name
+of the school
+you attend?
+###--------
+###Script:34
+What's the name
+of the company
+you work for?
+###--------
+###Script:40
+Hey,<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:41
+Do you have more
+big brothers?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:42
+Oh,I see...
+###--------
+###Script:43
+Hey,<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:44
+Do you have more
+little brothers?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:45
+Oh,I see...
+###--------
+###Script:46
+Hey,<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:47
+Do you have more
+big sisters?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:48
+Oh,I see...
+###--------
+###Script:49
+Hey,<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:50
+Do you have more
+little sisters?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:51
+Oh,I see...
+###--------
+###Script:52
+Hey,<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+<printStringBuffer3>
+###Command:printStringBuffer3
+###--------
+###Script:53
+Do you have
+other friends?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:54
+Oh,I see...
+###--------
+###Script:55
+Hey,<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:56
+Do you have any
+other hobbies?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:57
+Oh,I see...
+###--------
+###Script:58
+Hey,<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:59
+Do you like any
+other TV shows?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:60
+Oh,I see...
+###--------
+###Script:61
+Hey,<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:62
+Do you want any
+other things?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+Oh,I see...
+###--------
+###Script:80
+You should tell
+him just how
+fun the Net is!
+###--------
+By the way...
+Is your big
+brother cool?
+###--------
+Just kidding!
+Ahahaha!
+###--------
+###Script:81
+You probably
+argue with your
+little brother,but
+###--------
+you should tell
+him just how
+fun the Net is!
+###--------
+###Script:82
+You should tell
+her just how
+fun the Net is!
+###--------
+But...I kinda feel
+like I have
+a rival now...
+###--------
+###Script:83
+You should tell
+her just how
+fun the Net is!
+###--------
+###Script:84
+Introduce me
+to your friend
+sometime!
+###--------
+###Script:85
+I love that too!
+The crispiness
+is just the best!
+###--------
+...Huh? Did I say
+something weird?
+###--------
+###Script:86
+Wow,didn't think
+you were such
+a daydreamer!
+###--------
+###Script:87
+Having a dream
+for the future
+is fantastic!
+###--------
+###Script:88
+No way! Really!?
+You're kidding!
+###--------
+My heart's beating
+like crazy!
+###--------
+###Script:89
+...Who's that again?
+###--------
+###Script:90
+Well,since
+you've met so
+many people,
+###--------
+there's bound
+to be someone
+you dislike!
+###--------
+It'd be strange
+if you had no
+one you disliked!
+###--------
+###Script:91
+Ah,I saw that
+show recently!
+###--------
+That's the one
+where the fuzzy
+monster attacked!
+###--------
+...Isn't it?
+###--------
+###Script:92
+Uh-huh! It's great
+to have something
+you're good at!
+###--------
+###Script:93
+If you put in
+enough effort,
+###++++++++
+you can overcome
+all the things
+you're bad at!
+###--------
+###Script:94
+Wow...
+That's surprisingly
+trendy...
+###--------
+###Script:95
+That's a cute
+name! I like it!
+###--------

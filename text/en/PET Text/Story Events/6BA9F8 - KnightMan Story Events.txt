@@ -1,0 +1,152 @@
+﻿###TextArchive:6BA9F8
+###Script:10
+Let us have a look
+around on the Net.
+###--------
+###Script:11
+We must surely take
+on this Apprentice
+License exam!
+###--------
+###Script:12
+Let us do our best
+on the Apprentice
+License exam!!
+###--------
+###Script:13
+Let us acquire
+this "<printChip>"!
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+Let us go pick
+up our Apprentice
+License.
+###--------
+###Script:15
+Splendid job on
+the Apprentice
+License exam!
+###--------
+Shall we take a
+moment's rest?
+###--------
+###Script:16
+I am curious what
+could be the matter
+in Internet3...
+###--------
+###Script:17
+It appears that
+Navi we beat
+was the culprit...
+###--------
+You must be tired.
+May I suggest we
+jack out for now?
+###--------
+###Script:18
+I am curious what
+could be the matter
+in Internet5...
+###--------
+###Script:19
+I am curious what
+could be the matter
+in Internet7...
+###--------
+###Script:20
+I am curious what
+could be the matter
+in Internet9...
+###--------
+###Script:21
+I am curious what
+could be the matter
+in Internet10...
+###--------
+###Script:22
+I am curious what
+could be the matter
+in Internet12...
+###--------
+###Script:23
+Let us reclaim
+the "MinusKey"
+from BlackWorks!
+###--------
+###Script:24
+It would appear
+the other Navi has
+the "MinusKey".
+###--------
+###Script:25
+Let us return
+the "MinusKey"
+###--------
+to the Navi
+in Internet9!
+###--------
+###Script:26
+###--------
+Let us head to the
+Official Tournament
+entry desk!
+###--------
+###Script:27
+Onward,to
+the Undernet!
+###--------
+The Navi we seek
+shall be found
+near a coffin!
+###--------
+###Script:28
+###--------
+Now,let us enter
+the Official
+Tournament!
+###--------
+###Script:29
+The Official
+Tournament takes
+place this weekend!
+###++++++++
+I can barely
+contain my
+anticipation!
+###--------
+###Script:30
+The Official
+Tournament
+is upon us!
+###++++++++
+I am trembling
+with excitement!
+###--------
+###Script:31
+<printPlayerNickname>,may I
+suggest we explore
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+deeper into
+the Net?
+###--------
+###Script:32
+Let us partake
+in the Official
+Tournament prelims!
+###--------
+###Script:33
+May I suggest
+we read the mail
+that just arrived?
+###--------
+###Script:34
+Once the weekend
+has passed,
+###--------
+let us enter
+the Official
+Tournament.
+###--------

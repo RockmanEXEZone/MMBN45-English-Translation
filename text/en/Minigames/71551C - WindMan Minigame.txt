@@ -1,0 +1,1504 @@
+﻿###TextArchive:71551C
+## The OFFICIAL cybermeters to cyberfeet conversion chart!
+## 
+## Fail1	   500 ->   1640.42 ->   1500
+## Fail2	  3150 ->  10334.65 ->  10000
+## Internet2	  4000 ->  13123.36 ->  13000 (100z, 1 bugfrag)
+## Internet3	  6200 ->  20341.21 ->  20000 (200z, 2 bugfrags)
+## Internet4	  7800 ->  25590.55 ->  26000 (...etc.)
+## Internet5	  9600 ->  31496.06 ->  31000
+## Internet6	 11000 ->  36089.24 ->  36000
+## Internet7	 12300 ->  40354.33 ->  40000
+## Internet8	 13000 ->  42650.92 ->  43000
+## Internet8	 16000 ->  52493.44 ->  52000
+## Internet9	 20000 ->  65616.80 ->  66000
+## Internet10	 28000 ->  91863.52 ->  92000
+## Internet11	 33000 -> 108267.72 -> 110000
+## Internet12	 40000 -> 131266.60 -> 130000
+## Internet12	 44000 -> 144356.96 -> 140000
+## Undernet1	 65000 -> 213254.59 -> 210000 -> 200000
+## Undernet1	 70000 -> 229658.79 -> 230000 -> 220000
+## Undernet2	 80000 -> 262467.19 -> 260000 -> 256000
+## Undernet2	 85000 -> 278871.39 -> 280000 -> 270000
+## Undernet3	 95000 -> 311679.79 -> 310000 -> 290000
+## Undernet3	100000 -> 328083.99 -> 330000 -> 300000
+## 
+## Mostly follows actual meter -> feet conversion, but the numbers at the end
+## are fudged so that 80000 converts to 256000 (the Mr. Prog has a memory
+## capacity joke) and 100000 converts to 300000 (a nice round number).
+## 
+## Note that some scripts use <printBuffer> to print a number of cyberfeet.
+## These values are set in asm/minigames.asm and taken from this chart.
+## 
+###Script:0
+###Mugshot:WindMan
+Now,I will initiate
+you into a ritual
+that has been
+###--------
+###Mugshot:WindMan
+passed down since
+ancient times,
+for calling forth
+###--------
+###Mugshot:WindMan
+the wind,and
+rousing storms: the
+"Wind God's Dance".
+###--------
+<positionOptionVertical><option><space> Please do!
+<positionOptionVertical><option><space> How?
+###Command:positionOptionVertical width=7
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:1
+###Mugshot:WindMan
+First,I must teach you
+how the ritual works.
+###--------
+###Mugshot:WindMan
+This ritual allows
+you to feel the
+heart of the wind,
+###--------
+###Mugshot:WindMan
+and transmits my
+power into a tornado.
+###--------
+###Mugshot:WindMan
+It is a ritual capable
+of drawing out
+the wind's power.
+###--------
+###Mugshot:WindMan
+The correct timing
+to transmit my power
+###--------
+###Mugshot:WindMan
+is when my body
+flashes green.
+###--------
+###Mugshot:WindMan
+When that happens,
+quickly press
+the B Button.
+###--------
+###Mugshot:WindMan
+If you are able
+to continuously
+transmit my power,
+###--------
+###Mugshot:WindMan
+the tornado will
+charge up energy
+and grow larger.
+###--------
+###Mugshot:WindMan
+But if you
+continuously fail to
+transmit my power,
+###--------
+###Mugshot:WindMan
+the tornado will lose
+energy and shrink.
+###--------
+###Mugshot:WindMan
+Once you feel as if the
+tornado has reached
+its maximum size,
+###--------
+###Mugshot:WindMan
+press the A Button.
+###--------
+###Mugshot:WindMan
+The stored power will
+then be released,
+###++++++++
+###Mugshot:WindMan
+and the Mr.Prog will
+be sent flying toward
+the heavens.
+###--------
+###Mugshot:WindMan
+If the tornado has
+sufficient power,
+###--------
+###Mugshot:WindMan
+he will land at the
+target location.
+###--------
+###Mugshot:WindMan
+It's important to
+feel the heart
+of the wind.
+###--------
+###Mugshot:WindMan
+If you cannot tell when
+the tornado has reached
+its maximum power,
+###--------
+###Mugshot:WindMan
+you will end up making
+a mistake when
+releasing its power.
+###--------
+###Mugshot:WindMan
+That is the
+"Wind God's Dance".
+###--------
+###Mugshot:WindMan
+Have you
+memorized it?
+###--------
+<positionOptionVertical><option><space> Of course!
+<positionOptionVertical><option><space> Uhh...
+###Command:positionOptionVertical width=7
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:2
+###Mugshot:WindMan
+Hm.
+###--------
+###Script:3
+###Mugshot:WindMan
+*whoosh*
+I hope you are
+prepared! Let's go!
+###--------
+###Script:4
+###Mugshot:WindMan
+......
+...Hm...hm.
+<wait>Apologies.
+###Command:wait frames=40
+###--------
+###Script:5
+###Mugshot:MrProgGreen
+......
+.........
+###--------
+###Mugshot:MrProgGreen
+<wait>YEOUCH!
+###Command:wait frames=20
+###--------
+###Mugshot:MrProgGreen
+WHO KNEW FLYING
+WOULD BE SO
+PAINFUL...
+###--------
+###Mugshot:MrProgGreen
+<wait>...HEY,WAIT A
+SECOND! I DIDN'T
+FLY AT ALL!
+###Command:wait frames=40
+###--------
+###Mugshot:MrProgGreen
+Y-YOU'RE AWFUL!
+###--------
+###Script:6
+###Mugshot:MrProgGreen
+THANK YOU,MR.WINDMAN.
+I WAS ABLE TO FLY!
+###--------
+###Mugshot:MrProgGreen
+THIS IS A SMALL
+TOKEN OF MY
+APPRECIATION.
+###--------
+###Mugshot:MrProgGreen
+PLEASE ACCEPT IT!
+###--------
+###Script:7
+WindMan got:
+"HP Memry"!!!
+###--------
+###Script:8
+WindMan got:
+"<printBuffer> Zennys"!!!
+###Command:printBuffer buffer=3 minLength=1 padZeros=false padLeft=true
+###--------
+###Script:9
+WindMan got
+<printBuffer> BugFrags!!!
+###Command:printBuffer buffer=3 minLength=1 padZeros=false padLeft=true
+###--------
+###Script:10
+###Mugshot:MrProgGreen
+......
+.........
+###--------
+###Mugshot:MrProgGreen
+WAAAAAAAHH!
+###--------
+###Mugshot:MrProgGreen
+MR.WINDMAN,ARE
+YOU REALLY A GOD
+OF THE WIND...?
+###--------
+###Script:11
+###Mugshot:MrProgGreen
+I WANT TO FLY
+<regionUS>13,000<regionEnd><regionEU>4,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>
+TO INTERNET2.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+IT SEEMS THE TIME
+HAS COME FOR MY
+WISH TO BE GRANTED.
+###--------
+###Mugshot:MrProgGreen
+WHAT DOES IT
+FEEL LIKE TO FLY
+THROUGH THE SKY?
+###--------
+###Script:12
+###Mugshot:MrProgGreen
+<regionUS>20,000<regionEnd><regionEU>6,200<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>
+TO INTERNET3,
+PLEASE!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+I HAVE A
+LOVER THERE...
+###--------
+###Mugshot:MrProgGreen
+UH...I MEAN...
+NEVER MIND THAT!!
+NOW,IF YOU PLEASE...
+###--------
+###Script:13
+###Mugshot:MrProgGreen
+I WANT TO FLY
+<regionUS>26,000<regionEnd><regionEU>7,800<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>
+TO INTERNET4.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+MY FRIENDS MADE
+FUN OF ME,
+###++++++++
+###Mugshot:MrProgGreen
+A PROGRAM WHO
+DREAMS OF SOARING
+THROUGH THE SKY...
+###--------
+###Mugshot:MrProgGreen
+BUT I'LL SHOW THEM
+ALL OUR WISHES
+CAN COME TRUE!
+###--------
+###Script:14
+###Mugshot:MrProgGreen
+<regionUS>31,000<regionEnd><regionEU>9,600<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>
+TO INTERNET5,
+PLEASE!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+SOMETIMES I JUST
+WANT TO FORGET
+ABOUT MY JOB
+###--------
+###Mugshot:MrProgGreen
+AND TAKE IT
+EASY...BY FLYING!
+###--------
+###Script:15
+###Mugshot:MrProgGreen
+I WANT TO FLY
+<regionUS>36,000<regionEnd><regionEU>11,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>
+TO INTERNET6.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+I'D LIKE TO CHECK
+OUT THE SALES,
+JUST FOR ONCE.
+###--------
+###Script:16
+###Mugshot:MrProgGreen
+O-OKAY!
+BRING IT ON!
+###--------
+###Mugshot:MrProgGreen
+I'M NOT SCARED OF
+SOMETHING AS EASY
+###++++++++
+###Mugshot:MrProgGreen
+AS FLYING TO
+INTERNET7!
+###--------
+###Mugshot:MrProgGreen
+<regionUS>40,000<regionEnd><regionEU>12,300<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>?
+NO BIGGIE!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+I'LL BECOME A
+HERO OF THE SKIES!
+###++++++++
+###Mugshot:MrProgGreen
+I-I'M NOT SCARED
+ONE BIIIIIT!
+###--------
+###Script:17
+###Mugshot:MrProgGreen
+WELL,
+HERE I AM,SO...
+###--------
+###Mugshot:MrProgGreen
+SEND ME <regionUS>43,000<regionEnd><regionEU>13,000<regionEnd>
+CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd> TO
+INTERNET8,PLEASE.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+DO IT WITH A
+###--------
+###Mugshot:MrProgGreen
+WHOOOOOSH!
+###--------
+###Script:18
+###Mugshot:MrProgGreen
+ALRIGHT,I'M A-OK
+TO GO ANYTIME!
+###--------
+###Mugshot:MrProgGreen
+I'M FULLY PREPARED
+TO FLY TO INTERNET8.
+###--------
+###Mugshot:MrProgGreen
+IT'S LIKE A DREAM,
+TO BE ABLE TO FLY
+<regionUS>52,000<regionEnd><regionEU>16,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>⋯
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+WHAT IS THIS? MY
+HEART IS POUNDING...
+IS THIS A BUG?
+###--------
+###Script:19
+###Mugshot:MrProgGreen
+I WANT TO FLY
+TO INTERNET9.
+###--------
+###Mugshot:MrProgGreen
+AFTER ALL,THE
+SKY IN INTERNET9
+###--------
+###Mugshot:MrProgGreen
+IS SUPPOSED TO
+BE SO BEAUTIFUL...
+###--------
+###Mugshot:MrProgGreen
+I'VE ALWAYS DREAMED
+OF FLYING THROUGH
+THAT SKY.
+###--------
+###Mugshot:MrProgGreen
+APPARENTLY <regionUS>66,000<regionEnd><regionEU>20,000<regionEnd>
+CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd> FROM HERE
+IS ESPECIALLY PRETTY.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Script:20
+###Mugshot:MrProgGreen
+APPARENTLY YOU
+CAN FULFILL
+DREAMS,BUT...
+###--------
+###Mugshot:MrProgGreen
+WELL,THERE'S NO WAY
+YOU COULD FLY ME TO
+INTERNET10,RIGHT?
+###--------
+###Mugshot:MrProgGreen
+THAT'S <regionUS>92,000<regionEnd><regionEU>28,000<regionEnd> CYBER-
+<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd> FROM HERE!
+IT'S IMPOSSIBLE!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+I GET IT.
+I SUPPOSE I MUST BE
+DREAMING TOO BIG.
+###--------
+###Script:21
+###Mugshot:MrProgGreen
+HM,LET'S SEE...
+FROM HERE,
+###--------
+###Mugshot:MrProgGreen
+I WANT TO FLY
+<regionUS>110,000<regionEnd><regionEU>33,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>
+TO INTERNET11.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+I HAVE THE FEELING
+THAT THAT'S WHERE
+I WAS BORN.
+###--------
+###Mugshot:MrProgGreen
+LET'S FLY,PLEASE!
+###--------
+###Script:22
+###Mugshot:MrProgGreen
+WHOOOOOO!!
+I WANNA FLY
+<regionUS>130,000<regionEnd><regionEU>40,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+WHOOOOOO!!
+I WANNA FLY
+TO INTERNET12!
+###--------
+###Mugshot:MrProgGreen
+PHEW...
+WHAT JUST
+CAME OVER ME?
+###--------
+###Mugshot:MrProgGreen
+I GOT REALLY
+EXCITED WITHOUT
+MEANING TO...
+###--------
+###Mugshot:MrProgGreen
+WELL THEN,
+IF YOU PLEASE...
+###--------
+###Script:23
+###Mugshot:MrProgGreen
+NOW THEN!
+LAUNCH ME
+###--------
+###Mugshot:MrProgGreen
+<regionUS>140,000<regionEnd><regionEU>44,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>
+TO INTERNET12,
+PLEASE!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+I'LL MAKE IT
+POSSIBLE TO MAKE
+DIRECT DELIVERIES
+###--------
+###Mugshot:MrProgGreen
+FROM ONE PART
+OF THE NET
+TO ANOTHER
+###--------
+###Mugshot:MrProgGreen
+VIA SUPERSONIC
+PROGRAM!
+###--------
+###Mugshot:MrProgGreen
+YES!! I WILL
+BE REBORN AS...
+###--------
+###Mugshot:MrProgGreen
+THE SUPERSONIC
+MR.PROG!!
+###--------
+###Script:24
+###Mugshot:MrProgGreen
+UNDERNET1,PLEASE!
+###--------
+###Mugshot:MrProgGreen
+I WANT TO SEE THE
+VIEW FROM THE
+UNDERNET'S SKY!
+###--------
+###Mugshot:MrProgGreen
+ACCORDING TO MY
+CALCULATIONS,IT'S
+<regionUS>200,000<regionEnd><regionEU>65,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+TO UNDERNET1.
+THAT'S NOT A
+PROBLEM,RIGHT?
+###--------
+###Script:25
+###Mugshot:MrProgGreen
+I'LL FLY TO
+UNDERNET1!
+###--------
+###Mugshot:MrProgGreen
+I'M AWARE IT'S
+DANGEROUS!
+BUT I MUST FLY!
+###--------
+###Mugshot:MrProgGreen
+MY BODY IS
+BURNING UP!
+OOOOHHHHHHHH!!
+###--------
+###Mugshot:MrProgGreen
+<regionUS>220,000<regionEnd><regionEU>70,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>⋯
+ALL AT ONCE!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Script:26
+###Mugshot:MrProgGreen
+HEH HEH HEH...
+###++++++++
+###Mugshot:MrProgGreen
+AT LAST,THE TIME
+HAS COME FOR
+MY FIRST FLIGHT.
+###--------
+###Mugshot:MrProgGreen
+UNDERNET2,
+IF YOU PLEASE.
+###--------
+###Mugshot:MrProgGreen
+IN DISTANCE,THAT'S
+ABOUT <regionUS>260,000<regionEnd><regionEU>80,000<regionEnd> CYBER-
+<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd> FROM HERE.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+CAN YOU BELIEVE IT!?
+<regionUS>260,000<regionEnd><regionEU>80,000<regionEnd> IS ACTUALLY
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+THE SAME AS MY
+MEMORY CAPACITY!
+###--------
+###Mugshot:MrProgGreen
+YOU DON'T SEEM TO
+CARE,BUT I THINK
+IT'S PRETTY AWESOME!
+###--------
+###Script:27
+###Mugshot:MrProgGreen
+IT'S FINALLY
+TIME...
+###--------
+###Mugshot:MrProgGreen
+UNDERNET2,PLEASE.
+###--------
+###Mugshot:MrProgGreen
+IT'S <regionUS>270,000<regionEnd><regionEU>85,000<regionEnd>
+CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd> AWAY,
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+BUT I HAVE TO GO.
+###--------
+###Mugshot:MrProgGreen
+I THINK I'LL
+BECOME THE
+LIAISON BETWEEN
+###--------
+###Mugshot:MrProgGreen
+THE SURFACE AND
+THE UNDERNET.
+###--------
+###Mugshot:MrProgGreen
+PLEASE LOOK
+FORWARD TO IT.
+###--------
+###Script:28
+###Mugshot:MrProgGreen
+I'VE HAD ENOUGH!
+EVERY DAY IS JUST
+WORK WORK WORK!
+###--------
+###Mugshot:MrProgGreen
+I NEED SOME
+EXCITEMENT!
+###--------
+###Mugshot:MrProgGreen
+THAT'S IT!
+I'VE DECIDED
+TO BECOME
+###++++++++
+###Mugshot:MrProgGreen
+A DELINQUENT
+PROGRAM IN
+THE UNDERNET!
+###--------
+###Mugshot:MrProgGreen
+PLEASE LAUNCH ME
+<regionUS>290,000<regionEnd><regionEU>95,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>
+TO UNDERNET3!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+WELL... UM...
+GIMME A SEC...
+###--------
+###Script:29
+###Mugshot:MrProgGreen
+THAT IS... I WANT TO
+FLY REALLY FAR AWAY
+TO A DISTANT PLACE...
+###--------
+###Mugshot:MrProgGreen
+......
+###--------
+###Mugshot:MrProgGreen
+MY MIND'S MADE UP.
+THIS IS FOR THE
+SAKE OF MY DREAM.
+###--------
+###Mugshot:MrProgGreen
+L-LAUNCH ME TO
+UNDERNET3,PLEASE.
+###--------
+###Mugshot:MrProgGreen
+<regionUS>300,000<regionEnd><regionEU>100,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>⋯
+......
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+IT'LL BE A NEW
+WORLD FOR ME,
+###--------
+###Mugshot:MrProgGreen
+BUT NOBODY CAN
+STOP MY DREAM
+ANYMORE!
+###--------
+###Mugshot:MrProgGreen
+ONWARD,TO A NEW
+WORLD! PLEASE!
+###--------
+###Script:30
+###Mugshot:MrProgGreen
+OOOOHHH!!
+###--------
+###Mugshot:MrProgGreen
+I DID IT!
+I FLEW <printBuffer>,<printBuffer>
+CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!
+## note: in order to convert this back to cybermeters,
+## disable the meters -> feet conversion hack.
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=true
+###Command:printBuffer buffer=2 minLength=3 padZeros=true padLeft=true
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+THIS IS LIKE
+A DREAM!
+###--------
+###Script:31
+###Mugshot:WindMan
+That was a rather
+pleasant wind...
+###--------
+###Script:32
+###Mugshot:MrProgGreen
+...HMMMM... WHERE IS
+THIS...? W-WHAT'S
+GOING ON HERE?
+###--------
+###Mugshot:MrProgGreen
+I CAN'T SEE IN
+FRONT OF ME!
+WHERE AM I!?
+###--------
+###Script:33
+###Mugshot:MrProgGreen
+*COUGH* O-OUCH...
+BUT,THIS IS...
+###--------
+###Mugshot:MrProgGreen
+WHOOOOAAAA,
+HAVE I REALLY FLOWN
+<regionUS>10,000<regionEnd><regionEU>3,150<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!?
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+JUST A LITTLE
+MORE,AND MY DREAM
+WILL COME TRUE!
+###--------
+###Script:34
+###Mugshot:MrProgGreen
+...HMMMM... WHERE IS
+THIS...? W-WHAT'S
+GOING ON HERE?
+###--------
+###Mugshot:MrProgGreen
+I CAN'T SEE IN
+FRONT OF ME!
+WHERE AM I!?
+###--------
+###Script:35
+###Mugshot:MrProgGreen
+*COUGH* O-OUCH...
+BUT,THIS IS...
+###--------
+###Mugshot:MrProgGreen
+WHOOOOAAAA,
+HAVE I REALLY FLOWN
+<regionUS>10,000<regionEnd><regionEU>3,150<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!?
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+BUT...I WANT TO
+FLY FURTHER!
+###--------
+###Script:36
+###Mugshot:MrProgGreen
+...HMMMM...
+SO I FLEW... <regionUS>26,000<regionEnd><regionEU>7,800<regionEnd>
+CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>,HUH...
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+REALLY!?
+###--------
+###Mugshot:MrProgGreen
+<regionUS>26,000<regionEnd><regionEU>7,800<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!?
+A LITTLE MORE AND
+I WOULD'VE MADE IT!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Script:37
+###Mugshot:MrProgGreen
+......
+......
+###++++++++
+###Mugshot:MrProgGreen
+WHERE IS THIS...?
+W-WHAT'S GOING
+ON HERE?
+###--------
+###Mugshot:MrProgGreen
+I CAN'T SEE IN
+FRONT OF ME!
+WHERE AM I!?
+###--------
+###Script:38
+###Mugshot:MrProgGreen
+I'M OK,I'M OK!
+BUT,ONLY <regionUS>10,000<regionEnd><regionEU>3,150<regionEnd>
+CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>⋯
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+THAT DIDN'T GO
+SO WELL,HUH...
+......
+###--------
+###Script:39
+###Mugshot:MrProgGreen
+...HMMMM...
+<regionUS>26,000<regionEnd><regionEU>7,800<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>⋯
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+MY GOAL WAS
+A BIT FURTHER
+THAN THIS...
+###--------
+###Script:40
+###Mugshot:MrProgGreen
+HMMMM...
+<regionUS>52,000<regionEnd><regionEU>16,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>⋯
+J-JUST A BIT MORE...
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Script:41
+###Mugshot:MrProgGreen
+...HMMMM... WHERE IS
+THIS...? W-WHAT'S
+GOING ON HERE?
+###--------
+###Mugshot:MrProgGreen
+I CAN'T SEE IN
+FRONT OF ME!
+WHERE AM I!?
+###--------
+###Script:42
+###Mugshot:MrProgGreen
+......
+<regionUS>10,000<regionEnd><regionEU>3,150<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>⋯
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+*SIGH*
+COULD YOU TRY A
+LITTLE HARDER?
+###--------
+###Script:43
+###Mugshot:MrProgGreen
+...HMMMM...
+<regionUS>26,000<regionEnd><regionEU>7,800<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>⋯
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+THAT DIDN'T GO
+SO WELL,HUH...
+###--------
+###Script:44
+###Mugshot:MrProgGreen
+IS THIS THE <regionUS>52,000<regionEnd><regionEU>16,000<regionEnd>
+CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd> MARK?
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+THAT'S PRETTY FAR!
+JUST A LITTLE MORE!
+###--------
+###Mugshot:MrProgGreen
+BUT I CAN'T GET
+MY HEAD OUT.
+###--------
+###Script:45
+###Mugshot:MrProgGreen
+...PHEW.
+THIS IS...
+<regionUS>140,000<regionEnd><regionEU>44,000<regionEnd> CYBER<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:MrProgGreen
+WHOOOOOO!!
+JUST A BIT MORE!
+WE CAN DO THIS!
+###--------
+###Script:46
+###Mugshot:WindMan
+I will have you
+call the wind and
+rouse a storm.
+###--------
+###Mugshot:WindMan
+We shall use the
+"Wind God's Dance"
+###--------
+###Mugshot:WindMan
+in order to launch
+this fellow over here
+###--------
+###Mugshot:WindMan
+<regionUS>36,000<regionEnd><regionEU>11,000<regionEnd> cyber<regionUS>feet<regionEnd><regionEU>meters<regionEnd>,
+all the way to
+Internet6.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+<positionOptionVertical><option><space> Sure
+<positionOptionVertical><option><space> How?
+###Command:positionOptionVertical width=2
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=2
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:47
+###Mugshot:MrProgGreen
+JINGLE-JANGLE!
+###--------
+###Mugshot:MrProgGreen
+I AM WHAT
+IS CALLED
+###--------
+###Mugshot:MrProgGreen
+A SPECIALLY-MADE
+MR.PROG TEST DUMMY.
+###--------
+###Mugshot:MrProgGreen
+IT IS NICE
+TO MEET YOU.
+###--------
+###Script:48
+###Mugshot:MrProgGreen
+BEEP BEEP BEEP!
+###--------
+###Mugshot:MrProgGreen
+MEASUREMENTS
+ARE COMPLETE.
+###--------
+###Mugshot:MrProgGreen
+THE FLIGHT DISTANCE...
+<wait>IS <regionUS>1,600<regionEnd><regionEU>500<regionEnd> CYBER-
+<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:wait frames=50
+###--------
+###Mugshot:MrProgGreen
+BY THE WAY,
+WHERE IS THIS?
+###--------
+###Script:49
+###Mugshot:MrProgGreen
+BEEP BEEP BEEP!
+###--------
+###Mugshot:MrProgGreen
+MEASUREMENTS
+ARE COMPLETE.
+###--------
+###Mugshot:MrProgGreen
+THE FLIGHT DISTANCE...
+<wait>IS <regionUS>10,000<regionEnd><regionEU>3,150<regionEnd> CYBER-
+<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:wait frames=50
+###--------
+###Mugshot:MrProgGreen
+OBSERVE THE WIND!
+###--------
+###Mugshot:MrProgGreen
+FEEL THE HEART
+OF THE WIND!
+###--------
+###Mugshot:MrProgGreen
+YOU CAN DO IT!
+<wait>I THINK!
+###Command:wait frames=40
+###--------
+###Script:50
+###Mugshot:MrProgGreen
+BEEP BEEP BEEP!
+###--------
+###Mugshot:MrProgGreen
+MEASUREMENTS
+ARE COMPLETE.
+###--------
+###Mugshot:MrProgGreen
+THE FLIGHT DISTANCE...
+<wait>IS <regionUS>26,000<regionEnd><regionEU>7,800<regionEnd> CYBER-
+<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:wait frames=50
+###--------
+###Mugshot:MrProgGreen
+YOU'VE GOT A DECENT
+GRASP OF THE HEART
+OF THE WIND,HUH?
+###--------
+###Mugshot:MrProgGreen
+JUST A LITTLE
+BIT MORE EFFORT!
+FIGHT ON!
+###--------
+###Script:51
+###Mugshot:WindMan
+I will have you
+call the wind and
+rouse a storm.
+###--------
+###Mugshot:WindMan
+We shall use the
+"Wind God's Dance"
+###--------
+###Mugshot:WindMan
+in order to launch
+this fellow over here
+###--------
+###Mugshot:WindMan
+<regionUS>220,000<regionEnd><regionEU>70,000<regionEnd> cyber<regionUS>feet<regionEnd><regionEU>meters<regionEnd>,
+all the way to
+Undernet1.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+<positionOptionVertical><option><space> Sure
+<positionOptionVertical><option><space> How?
+###Command:positionOptionVertical width=2
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=2
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:52
+###Mugshot:MrProgGreen
+JINGLE-JANGLE!
+###--------
+###Mugshot:MrProgGreen
+I AM WHAT
+IS CALLED
+###--------
+###Mugshot:MrProgGreen
+A SPECIALLY-MADE
+MR.PROG TEST DUMMY.
+###--------
+###Mugshot:MrProgGreen
+IT IS NICE
+TO MEET YOU.
+###--------
+###Script:53
+###Mugshot:MrProgGreen
+BEEP BEEP BEEP!
+###--------
+###Mugshot:MrProgGreen
+MEASUREMENTS
+ARE COMPLETE.
+###--------
+###Mugshot:MrProgGreen
+THE FLIGHT DISTANCE...
+<wait>IS <regionUS>1,600<regionEnd><regionEU>500<regionEnd> CYBER-
+<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:wait frames=50
+###--------
+###Mugshot:MrProgGreen
+BY THE WAY,
+WHERE IS THIS?
+###--------
+###Script:54
+###Mugshot:MrProgGreen
+BEEP BEEP BEEP!
+###--------
+###Mugshot:MrProgGreen
+MEASUREMENTS
+ARE COMPLETE.
+###--------
+###Mugshot:MrProgGreen
+THE FLIGHT DISTANCE...
+<wait>IS <regionUS>10,000<regionEnd><regionEU>3,150<regionEnd> CYBER-
+<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:wait frames=50
+###--------
+###Mugshot:MrProgGreen
+OBSERVE THE WIND!
+###--------
+###Mugshot:MrProgGreen
+FEEL THE HEART
+OF THE WIND!
+###--------
+###Mugshot:MrProgGreen
+YOU CAN DO IT!
+<wait>I THINK!
+###Command:wait frames=40
+###--------
+###Script:55
+###Mugshot:MrProgGreen
+BEEP BEEP BEEP!
+###--------
+###Mugshot:MrProgGreen
+MEASUREMENTS
+ARE COMPLETE.
+###--------
+###Mugshot:MrProgGreen
+THE FLIGHT DISTANCE...
+<wait>IS <regionUS>26,000<regionEnd><regionEU>7,800<regionEnd> CYBER-
+<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:wait frames=50
+###--------
+###Mugshot:MrProgGreen
+YOU'RE JUST NOT
+FEELING WELL!
+###--------
+###Mugshot:MrProgGreen
+YOU'LL DO BETTER
+NEXT TIME!
+###--------
+###Script:56
+###Mugshot:MrProgGreen
+BEEP BEEP BEEP!
+###--------
+###Mugshot:MrProgGreen
+MEASUREMENTS
+ARE COMPLETE.
+###--------
+###Mugshot:MrProgGreen
+THE FLIGHT DISTANCE...
+<wait>IS <regionUS>52,000<regionEnd><regionEU>16,000<regionEnd> CYBER-
+<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:wait frames=50
+###--------
+###Mugshot:MrProgGreen
+YOU'VE GOT A DECENT
+GRASP OF THE HEART
+OF THE WIND,HUH?
+###--------
+###Mugshot:MrProgGreen
+JUST A LITTLE
+BIT MORE EFFORT!
+FIGHT ON!
+###--------
+###Script:57
+###Mugshot:MrProgGreen
+BEEP BEEP BEEP!
+###--------
+###Mugshot:MrProgGreen
+MEASUREMENTS
+ARE COMPLETE.
+###--------
+###Mugshot:MrProgGreen
+THE FLIGHT DISTANCE...
+<wait>IS <regionUS>140,000<regionEnd><regionEU>44,000<regionEnd> CYBER-
+<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:wait frames=50
+###--------
+###Mugshot:MrProgGreen
+YOU HAVE THE
+HEART OF THE WIND
+IN YOUR GRASP!
+###--------
+###Script:58
+###Mugshot:MrProgGreen
+BEEP BEEP BEEP!
+###--------
+###Mugshot:MrProgGreen
+MEASUREMENTS
+ARE COMPLETE.
+###--------
+###Mugshot:MrProgGreen
+THE FLIGHT DISTANCE
+IS <printBuffer>,<printBuffer> CYBER-
+<regionUS>FEET<regionEnd><regionEU>METERS<regionEnd>!
+## note: in order to convert this back to cybermeters,
+## disable the meters -> feet conversion hack.
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=true
+###Command:printBuffer buffer=2 minLength=3 padZeros=true padLeft=true
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Script:59
+###Mugshot:MrProgGreen
+I'M IMPRESSED!
+YOU'VE WORKED HARD
+TO MAKE IT THIS FAR!
+###--------
+###Mugshot:MrProgGreen
+I MAY JUST BE A
+MR.PROG TEST DUMMY,
+###--------
+###Mugshot:MrProgGreen
+BUT THANKS TO
+YOUR EFFORTS,
+###--------
+###Mugshot:MrProgGreen
+MY HEART WENT
+<wait>BA-BUMP,<wait>BA-BUMP!
+###Command:wait frames=60
+###Command:wait frames=60
+###--------
+###Mugshot:MrProgGreen
+<wait>
+###Command:wait frames=20
+###--------
+###Script:60
+###Mugshot:WindMan
+What is this!?
+###--------
+###Mugshot:WindMan
+The test dummy
+has broken!
+###--------
+###Mugshot:WindMan
+This is because you
+failed to grasp the
+heart of the wind!
+###--------
+###Script:61
+###Mugshot:MrProgGreen
+......
+###--------
+###Mugshot:MrProgGreen
+*BEEP...*
+*WHIIIIIRRRR...*
+###--------

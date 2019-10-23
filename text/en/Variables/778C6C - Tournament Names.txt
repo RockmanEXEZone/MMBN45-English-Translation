@@ -1,0 +1,25 @@
+﻿###TextArchive:778C6C
+###Script:0
+Silver Tournament
+###--------
+###Script:1
+Gold Tournament
+###--------
+###Script:2
+Official Tournament
+###--------
+###Script:3
+Under Tournament
+###--------
+###Script:4
+SilvTour
+###--------
+###Script:5
+GoldTour
+###--------
+###Script:6
+OfclTour
+###--------
+###Script:7
+UndrTour
+###--------

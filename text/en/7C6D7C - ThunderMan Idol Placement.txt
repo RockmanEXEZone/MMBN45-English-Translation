@@ -1,0 +1,31 @@
+﻿###TextArchive:7C6D7C
+###Script:0
+###Mugshot:ThunderMan
+I sense a faint
+current in this area...
+###--------
+###Mugshot:ThunderMan
+This seems like a
+suitable spot for
+a "<printItem>"...
+###Command:printItem buffer=0 item=7
+###--------
+###Script:1
+ThunderMan
+enshrined the
+<printItem>!
+###Command:printItem buffer=0 item=7
+###--------
+###Script:2
+ThunderMan absorbed
+the current emitted
+by the <printItem>!
+###Command:printItem buffer=0 item=7
+###--------
+###Mugshot:ThunderMan
+Fwooooh...
+###--------
+Upon absorbing the
+current,ThunderMan's
+max HP increased!
+###--------

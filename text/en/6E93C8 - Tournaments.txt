@@ -1,0 +1,1432 @@
+﻿###TextArchive:6E93C8
+###Script:0
+###Mugshot:Ribitta
+It's finally time for
+the Silver Tournament!
+###--------
+###Mugshot:Ribitta
+Who will come out
+on top!?
+###--------
+###Mugshot:Ribitta
+I'm your host,Ribitta!
+Reporting to you live!
+###--------
+###Mugshot:Ribitta
+We're all raring
+to see some
+exciting battles!
+###--------
+###Script:1
+###Mugshot:Ribitta
+It's finally time for
+the Gold Tournament!
+###--------
+###Mugshot:Ribitta
+Who will overcome the
+harsh battles and be
+crowned the victor!?
+###--------
+###Mugshot:Ribitta
+I'm your host,Ribitta!
+Reporting to you live!
+###--------
+###Mugshot:Ribitta
+We're all raring
+to see some
+electrifying battles!
+###--------
+###Script:2
+###Mugshot:Ribitta
+Here it is... The stage
+every NetBattler
+dreams to fight in...
+###--------
+###Mugshot:Ribitta
+The Official Tournament!
+###--------
+###Mugshot:Ribitta
+Which of these Navis
+will be taking home this
+prestigious trophy?
+###--------
+###Mugshot:Ribitta
+I'm your host,Ribitta!
+Reporting to you live!
+###--------
+###Mugshot:Ribitta
+We're all raring
+to see some
+spectacular battles!
+###--------
+###Script:3
+###Mugshot:HeelNaviBlack
+You've made it,you
+fearless battlemongers!
+###--------
+###Mugshot:HeelNaviBlack
+This tournament won't
+just decide the
+Undernet's top dog.
+###--------
+###Mugshot:HeelNaviBlack
+It'll determine who's
+the strongest in the
+whole Cyberworld!
+###--------
+###Mugshot:HeelNaviBlack
+Now! Let the Under
+Tournament begin!
+###--------
+###Script:5
+###Mugshot:Ribitta
+Without further ado!
+Let's take a look
+at the contestants...
+###--------
+###Mugshot:Ribitta
+...Here they are!
+###--------
+###Script:6
+###Mugshot:Ribitta
+Let's get started!
+Round 1 Match <printBuffer>,
+
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###--------
+###Mugshot:Ribitta
+<printEnemy> VS <printEnemy>!
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Mugshot:Ribitta
+<wait>
+###Command:wait frames=180
+###--------
+###Script:7
+###Mugshot:Ribitta
+Moving right along!
+###--------
+###Mugshot:Ribitta
+Semifinals Match <printBuffer>,
+
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###--------
+###Mugshot:Ribitta
+<printEnemy> VS <printEnemy>!
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Mugshot:Ribitta
+<wait>
+###Command:wait frames=180
+###--------
+###Script:8
+###Mugshot:Ribitta
+It's all been leading
+up to this! The moment
+we've all waited for!
+###--------
+###Mugshot:Ribitta
+Which Navi is going
+to win it all!?
+###--------
+###Mugshot:Ribitta
+The Championship Match,
+
+###--------
+###Mugshot:Ribitta
+<printEnemy> VS <printEnemy>!
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Mugshot:Ribitta
+<wait>
+###Command:wait frames=180
+###--------
+###Script:10
+###Mugshot:MegaMan
+Let's both give it
+our all! I won't lose!
+###--------
+###Script:11
+###Mugshot:Roll
+I'll definitely win
+this tournament!
+I won't lose!
+###--------
+###Script:12
+###Mugshot:GutsMan
+Yee-haaaw!
+Maximum Guts Power!
+###--------
+###Script:13
+###Mugshot:WindMan
+I'll show you
+the ferocity of
+a hurricane...
+###--------
+###Script:14
+###Mugshot:SearchMan
+Target...locked-on!
+###--------
+###Script:15
+###Mugshot:FireMan
+Better be ready...
+I'll burn ya to
+a crisp!
+###--------
+###Script:16
+###Mugshot:ThunderMan
+Have a taste of
+my lightning bolt...
+###--------
+###Script:17
+###Mugshot:ProtoMan
+...I'll slice you up!
+###--------
+###Script:18
+###Mugshot:NumberMan
+I have already
+calculated your
+actions...
+###--------
+###Script:19
+###Mugshot:MetalMan
+Can you withstand
+my MetalFists?
+###--------
+###Script:20
+###Mugshot:JunkMan
+I-I won't lose!
+I'll turn you into junk!
+###--------
+###Script:21
+###Mugshot:AquaMan
+I'm not losing!
+Driiiiip!
+###--------
+###Script:22
+###Mugshot:WoodMan
+I will show you...
+the power of
+Mother Earth.
+###--------
+###Script:23
+###Mugshot:NormNaviYellow
+Let me show you my
+moves! Eat this!
+###--------
+###Script:24
+###Mugshot:HeelNaviPurple
+Heh! A Navi operated
+by a rookie? This'll
+be a piece of cake!
+###--------
+###Script:25
+###Mugshot:StarMan
+It's written in the
+stars! Your battle luck
+is at an all-time low!
+###--------
+###Script:26
+###Mugshot:ShadowMan
+I won't hold back!
+...Here I come!
+###--------
+###Script:27
+###Mugshot:KnightMan
+No matter the
+opponent... I shall
+fight with all I have!
+###--------
+###Script:28
+###Mugshot:NapalmMan
+I'll blow ya to bits!
+###--------
+###Script:29
+###Mugshot:IceMan
+I'll freeze you!
+###--------
+###Script:30
+###Mugshot:ElecMan
+Can you handle my
+1 million volts?
+###--------
+###Script:31
+###Mugshot:PlantMan
+You'll be pushing
+up daisies soon...
+###--------
+###Script:32
+###Mugshot:Bass
+Hmph...
+Weakling...
+###--------
+###Script:33
+###Mugshot:TopMan
+I'll spin twice as
+much as usual today!
+###--------
+###Script:34
+###Mugshot:SparkMan
+You've got a
+shock coming!
+###--------
+###Script:35
+###Mugshot:VideoMan
+Your defeat will be
+directed by me...
+###--------
+###Script:36
+###Mugshot:BurnerMan
+Underestimate me
+and you get BURNED!
+###--------
+###Script:37
+###Mugshot:KendoMan
+Come at me from
+any direction!
+###--------
+###Script:38
+###Mugshot:ColdMan
+I'll chill you
+to the bone!
+###--------
+###Script:39
+###Mugshot:HeelNaviBlack
+Your deletion will be
+quick and painless!
+###--------
+###Script:40
+###Mugshot:MegaMan
+I won't lose!
+###--------
+###Script:41
+###Mugshot:Roll
+Lemme show you
+some girl power!
+###--------
+###Script:42
+###Mugshot:GutsMan
+Guts,guts! Gonna
+give it my all!
+###--------
+###Script:43
+###Mugshot:WindMan
+A tailwind is blowing...
+Here I go!
+###--------
+###Script:44
+###Mugshot:SearchMan
+Target...locked-on.
+Mission start!
+###--------
+###Script:45
+###Mugshot:FireMan
+I'm gettin' fired up...!
+Let's BURN!!
+###--------
+###Script:46
+###Mugshot:ThunderMan
+Let my bolts strike!
+I'll show you the might
+of my electricity!
+###--------
+###Script:47
+###Mugshot:ProtoMan
+...I'll cut you down!
+###--------
+###Script:48
+###Mugshot:NumberMan
+Calculating opponent's
+movements...
+...Complete!
+###--------
+###Script:49
+###Mugshot:MetalMan
+Roar,my fists...!!
+###--------
+###Script:50
+###Mugshot:JunkMan
+I-I'll try my best!
+I won't lose!!
+###--------
+###Script:51
+###Mugshot:AquaMan
+Drip,drip!
+I'll drown you!
+###--------
+###Script:52
+###Mugshot:WoodMan
+O Mother Earth...
+Give me strength!
+###--------
+###Script:53
+###Mugshot:MegaMan
+Let's go!
+###--------
+###Script:54
+###Mugshot:MegaMan
+Let's go!
+###--------
+###Script:55
+###Mugshot:StarMan
+Fall now!
+Shooting stars!
+###--------
+###Script:56
+###Mugshot:ShadowMan
+Ultimate ninja
+technique!
+...Haaaa!!
+###--------
+###Script:57
+###Mugshot:KnightMan
+My mace thirsts
+for battle!
+En garde!
+###--------
+###Script:58
+###Mugshot:NapalmMan
+Fire in the hole!
+###--------
+###Script:59
+###Mugshot:IceMan
+*fwoooooo!*
+Absolute zero!
+###--------
+###Script:60
+###Mugshot:ElecMan
+Maximum voltage...
+1 million volts!
+###--------
+###Script:61
+###Mugshot:PlantMan
+Behold,PlantMan
+in full bloom!
+###--------
+###Script:62
+###Mugshot:Bass
+...You're as good
+as deleted.
+###--------
+###Script:63
+###Mugshot:TopMan
+Never underestimate
+the power...of a
+spinning top!
+###--------
+###Script:64
+###Mugshot:SparkMan
+I'm gonna fry all
+of your circuits!
+###--------
+###Script:65
+###Mugshot:VideoMan
+Light,camera!
+And...action!
+###--------
+###Script:66
+###Mugshot:BurnerMan
+I'll burn you to ashes!
+###--------
+###Script:67
+###Mugshot:KendoMan
+"Chest"!!
+###--------
+###Script:68
+###Mugshot:ColdMan
+Taste the Sharo
+blizzard!
+###--------
+###Script:70
+###Mugshot:MegaMan
+Let's give it our all!
+###--------
+###Script:71
+###Mugshot:Roll
+My RollArrow always
+hits the bullseye!
+###--------
+###Script:72
+###Mugshot:GutsMan
+Yee-haaaw!
+Gonna give it my all!
+###--------
+###Script:73
+###Mugshot:WindMan
+Witness...
+The Wind God's Dance!
+###--------
+###Script:74
+###Mugshot:SearchMan
+Our chance of victory
+is 99.9%⋯
+###--------
+###Script:75
+###Mugshot:FireMan
+Time to flare it up!
+HOT!! HOT!!
+###--------
+###Script:76
+###Mugshot:ThunderMan
+Strike,my
+thunderclouds!
+###--------
+###Script:77
+###Mugshot:ProtoMan
+A suitable opponent!
+...You're mine!
+###--------
+###Script:78
+###Mugshot:NumberMan
+According to my
+calculations,this fight
+seems winnable!
+###--------
+###Script:79
+###Mugshot:MetalMan
+Shatter to pieces
+before my fists!
+###--------
+###Script:80
+###Mugshot:JunkMan
+If I win this fight,
+I-I'll be famous!
+###--------
+###Script:81
+###Mugshot:AquaMan
+The power of water
+can wash away
+anything,drip!
+###--------
+###Script:82
+###Mugshot:WoodMan
+I'll turn you into
+compost for
+Mother Earth...
+###--------
+###Script:83
+###Mugshot:NormNaviYellow
+Okay,let's go!
+###--------
+###Script:84
+###Mugshot:HeelNaviPurple
+Don't be hatin'
+once I smash you!
+###--------
+###Script:85
+###Mugshot:StarMan
+I'll turn you
+into stardust!
+###--------
+###Script:86
+###Mugshot:ShadowMan
+Behold...
+Secret ninja arts!
+###--------
+###Script:87
+###Mugshot:KnightMan
+I am itching
+for a fight!
+Show me thy power!
+###--------
+###Script:88
+###Mugshot:NapalmMan
+I'll blast ya to
+the far reaches
+of the Net!
+###--------
+###Script:89
+###Mugshot:IceMan
+I'll crush you like
+blocks of ice!
+###--------
+###Script:90
+###Mugshot:ElecMan
+Hehehe...
+How many volts can
+you handle,I wonder...?
+###--------
+###Script:91
+###Mugshot:PlantMan
+Aren't you lucky...
+I'll make your deletion
+a sight to behold!
+###--------
+###Script:92
+###Mugshot:Bass
+...Worthless pest!
+###--------
+###Script:93
+###Mugshot:TopMan
+Can you dodge
+my attacks,
+whippersnapper!?
+###--------
+###Script:94
+###Mugshot:SparkMan
+Running low?
+Let me give
+you a jolt!
+###--------
+###Script:95
+###Mugshot:VideoMan
+Roll the cameras!
+Time to record
+my victory scene!
+###--------
+###Script:96
+###Mugshot:BurnerMan
+These ain't your run
+of the mill flames!
+My firepower's serious!
+###--------
+###Script:97
+###Mugshot:KendoMan
+Come at me!
+"Training"!!
+###--------
+###Script:98
+###Mugshot:ColdMan
+After I beat you,
+I'll keep you in
+cold storage!
+###--------
+###Script:100
+###Mugshot:MegaMan
+We've reached
+the finals!
+We can't lose now!
+###--------
+###Script:101
+###Mugshot:Roll
+We're finally here!
+We have to win!
+###--------
+###Script:102
+###Mugshot:GutsMan
+Victory belongs
+to GutsMan!
+###--------
+###Script:103
+###Mugshot:WindMan
+Arise,great storm!
+Bring me victory!
+###--------
+###Script:104
+###Mugshot:SearchMan
+Target: victory.
+...Lock-on!
+###--------
+###Script:105
+###Mugshot:FireMan
+The finals,huh?
+Let's set the
+stage ablaze!
+###--------
+###Script:106
+###Mugshot:ThunderMan
+Rain down,my lightning!
+Victory shall be mine!
+###--------
+###Script:107
+###Mugshot:ProtoMan
+It's time to switch
+into top gear!
+###--------
+###Script:108
+###Mugshot:NumberMan
+Our chance of winning
+is now at least 50%!
+###--------
+###Script:109
+###Mugshot:MetalMan
+I'll pluck victory
+with my bare fists...
+###--------
+###Script:110
+###Mugshot:JunkMan
+V-Victory is mine!
+I-It's finally my
+time to shine!
+###--------
+###Script:111
+###Mugshot:AquaMan
+I'm gonna win
+for sure,drip!
+###--------
+###Script:112
+###Mugshot:WoodMan
+O Mother Earth...
+Lead me to victory!
+###--------
+###Script:113
+###Mugshot:NormNaviYellow
+I'll be the winner!
+###--------
+###Script:114
+###Mugshot:HeelNaviPurple
+Sorry,but I'm
+winning this!
+###--------
+###Script:115
+###Mugshot:StarMan
+Shooting star,
+grant me victory!
+###--------
+###Script:116
+###Mugshot:ShadowMan
+Nothing personal...
+But I'll be taking
+the win...
+###--------
+###Script:117
+###Mugshot:KnightMan
+I shall be victorious!
+I swear it on my
+honor as a knight!
+###--------
+###Script:118
+###Mugshot:NapalmMan
+Let's blast 'em quick
+and take first place!
+###--------
+###Script:119
+###Mugshot:IceMan
+No way I'm gonna lose!
+###--------
+###Script:120
+###Mugshot:ElecMan
+I'll win with my
+1 million volts!
+###--------
+###Script:121
+###Mugshot:PlantMan
+Let's blow them away
+with our charm and
+claim the crown...!
+###--------
+###Script:122
+###Mugshot:Bass
+Begone...
+###--------
+###Script:123
+###Mugshot:TopMan
+I've come this far!
+Victory is mine!
+###--------
+###Script:124
+###Mugshot:SparkMan
+I'll keep zapping
+ya 'til you get it!
+I'm...gonna...win!
+###--------
+###Script:125
+###Mugshot:VideoMan
+The final shoot...
+The ultimate victory
+on the ultimate stage!
+###--------
+###Script:126
+###Mugshot:BurnerMan
+I'll burn and burn
+'til I'm victorious!
+###--------
+###Script:127
+###Mugshot:KendoMan
+Kyaaaaaaah!
+"Concentration"!
+###--------
+###Script:128
+###Mugshot:ColdMan
+I'll decorate a world
+of ice with my victory!
+###--------
+###Script:130
+###Mugshot:MegaMan
+I'm not gonna lose!
+###--------
+###Script:131
+###Mugshot:Roll
+This fight's mine!
+###--------
+###Script:132
+###Mugshot:GutsMan
+Yeee-haaaww!
+GutsMan's gonna win!
+###--------
+###Script:133
+###Mugshot:WindMan
+I'll blow you away
+and claim victory!
+###--------
+###Script:134
+###Mugshot:SearchMan
+I've gathered all
+of your data...
+This one's in the bag.
+###--------
+###Script:135
+###Mugshot:FireMan
+I'll be the winner!
+We'll end with a bang!
+###--------
+###Script:136
+###Mugshot:ThunderMan
+With my pride
+on the line...
+I must win.
+###--------
+###Script:137
+###Mugshot:ProtoMan
+...Prepare yourself!
+###--------
+###Script:138
+###Mugshot:NumberMan
+This victory belongs
+to NumberMan!
+###--------
+###Script:139
+###Mugshot:MetalMan
+Victory is...
+within grasp.
+###--------
+###Script:140
+###Mugshot:JunkMan
+I-I'll win and
+become famous!
+You'll be trashed!
+###--------
+###Script:141
+###Mugshot:AquaMan
+Drip,drip,drip!
+I'll be the winner!
+###--------
+###Script:142
+###Mugshot:WoodMan
+Oooooohh!
+Mother Earth!
+Bring me victory!
+###--------
+###Script:143
+###Mugshot:NormNaviYellow
+No holding back!
+###--------
+###Script:144
+###Mugshot:HeelNaviPurple
+No holding back!
+###--------
+###Script:145
+###Mugshot:StarMan
+This victory is mine!
+I swear it on all
+the stars in the sky!
+###--------
+###Script:146
+###Mugshot:ShadowMan
+My victory is assured...
+Prepare yourself!
+###--------
+###Script:147
+###Mugshot:KnightMan
+I shall crush thee
+with full force!
+###--------
+###Script:148
+###Mugshot:NapalmMan
+I'll blast ya to
+pieces and win this!
+###--------
+###Script:149
+###Mugshot:IceMan
+No matter what,
+I won't lose!
+###--------
+###Script:150
+###Mugshot:ElecMan
+This victory will
+be mine!
+###--------
+###Script:151
+###Mugshot:PlantMan
+Only the beautiful
+are cut out to be
+champions!
+###--------
+###Script:152
+###Mugshot:Bass
+...Come.
+###--------
+###Script:153
+###Mugshot:TopMan
+Come at me any way
+ya want! I'll send
+ya back flying!
+###--------
+###Script:154
+###Mugshot:SparkMan
+Victory is mine!
+Get zapped!
+###--------
+###Script:155
+###Mugshot:VideoMan
+Let me record my
+moment of victory!
+###--------
+###Script:156
+###Mugshot:BurnerMan
+Victory's in sight!
+Straight ahead!
+###--------
+###Script:157
+###Mugshot:KendoMan
+I'll defeat you with
+my flurry of attacks!
+###--------
+###Script:158
+###Mugshot:ColdMan
+I'll freeze you solid!
+###--------
+###Script:159
+###Mugshot:Bass
+...Begone!
+###--------
+###Script:160
+###Mugshot:Ribitta
+All right!
+Let's begin!
+###--------
+###Mugshot:Ribitta
+Round 1 Match <printBuffer>,
+<printEnemy> VS <printEnemy>!
+Battle routine,set!
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Script:161
+###Mugshot:Ribitta
+Now, which of these
+Navis will be going
+to the finals!?
+###--------
+###Mugshot:Ribitta
+Semifinals Match <printBuffer>,
+<printEnemy> VS <printEnemy>!
+Battle routine,set!
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Script:162
+###Mugshot:Ribitta
+We've finally reached
+the climax!
+###--------
+###Mugshot:Ribitta
+The Championship Match,
+<printEnemy> VS <printEnemy>!
+Battle routine,set!
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Script:163
+###Mugshot:Ribitta
+Battle routine,set!
+## Execute!!
+## (omitted for consistency)
+###--------
+###Script:164
+###Mugshot:HeelNaviBlack
+No holding back!
+###--------
+###Script:165
+###Mugshot:Ribitta
+A heated match between
+<printEnemy> VS <printEnemy>!
+Who'll come out on top!?
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Script:170
+###Mugshot:Ribitta
+It's decided!
+Round 1 Match <printBuffer>
+goes to <printEnemy>!
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Script:171
+###Mugshot:Ribitta
+It's decided!
+Semifinals Match <printBuffer>
+goes to <printEnemy>!
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Script:172
+###Mugshot:Ribitta
+It's decided!
+Victory goes to
+<printPlayerName> & <printEnemy>!
+###Command:printPlayerName
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Script:175
+###Mugshot:Ribitta
+Wow! That sure was
+a fight to behold!
+On to the next match!
+###--------
+###Script:176
+###Mugshot:Ribitta
+What an intense battle!
+Next up is the highly
+anticipated final match!
+###--------
+###Script:180
+###Mugshot:MegaMan
+We did it,<printPlayerNickname>!
+Let's keep it up!
+###Command:printPlayerNickname
+###--------
+###Script:181
+###Mugshot:Roll
+Yay,we did it!
+Let's win the
+next one,too!
+###--------
+###Script:182
+###Mugshot:GutsMan
+Yee-haw!
+We did it!
+GutsMan won!
+###--------
+###Script:183
+###Mugshot:WindMan
+*whoooosh...*
+Let's win the
+next one as well...
+###--------
+###Script:184
+###Mugshot:SearchMan
+Mission complete.
+...All according to plan.
+###--------
+###Script:185
+###Mugshot:FireMan
+Whoaaaah!!
+Turn it up higher!
+###--------
+###Script:186
+###Mugshot:ThunderMan
+That was a tough one...
+Keep your guard up
+next time,too...
+###--------
+###Script:187
+###Mugshot:ProtoMan
+Well operated,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:188
+###Mugshot:NumberMan
+Just as calculated.
+Let's keep this going!
+###--------
+###Script:189
+###Mugshot:MetalMan
+Looks like my knuckles
+were in top shape today...
+###--------
+###Script:190
+###Mugshot:JunkMan
+I won! I won!
+At this rate,w-we'll
+become the champs!
+###--------
+###Script:191
+###Mugshot:AquaMan
+Hooray! We won!
+I'm so happy!
+Keep it up,drip!!
+###--------
+###Script:192
+###Mugshot:WoodMan
+We managed to win,but
+don't get carried away.
+Prepare for next time...
+###--------
+###Script:193
+###Mugshot:MegaMan
+I'll win,
+no matter what!
+###--------
+###Script:194
+###Mugshot:MegaMan
+This victory
+belongs to me!
+###--------
+###Script:195
+###Mugshot:StarMan
+We did it!
+Let's keep reaching
+for the stars!
+###--------
+###Script:196
+###Mugshot:ShadowMan
+Hmph,someone like
+them was no match
+for my ninjutsu!
+###--------
+###Script:197
+###Mugshot:KnightMan
+Splendid operating!
+Let us carry this
+momentum forth!
+###--------
+###Script:198
+###Mugshot:NapalmMan
+Heh heh heh...
+Yeah! That felt good!
+###--------
+###Script:199
+###Mugshot:IceMan
+Aw yeah!
+Let's keep this up!
+###--------
+###Script:200
+###Mugshot:ElecMan
+Did you see it?
+My 1 million volts...?
+###--------
+###Script:201
+###Mugshot:PlantMan
+Beauty always wins.
+That is the natural
+order of things!
+###--------
+###Script:202
+###Mugshot:Bass
+...How unsatisfying.
+###--------
+###Script:210
+###Mugshot:MegaMan
+Argh... We lost.
+We'll get 'em
+next time!
+###--------
+###Script:211
+###Mugshot:Roll
+That. Was. Awful!
+...Next time,I'll
+definitely win!
+###--------
+###Script:212
+###Mugshot:GutsMan
+Guts,guts... We lost...
+I can't believe it...
+###--------
+###Script:213
+###Mugshot:WindMan
+Impossible...
+When did the wind
+turn against us?
+###--------
+###Script:214
+###Mugshot:SearchMan
+<printPlayerNickname>⋯
+My apologies...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:215
+###Mugshot:FireMan
+Shoot! I couldn't
+burn everything!
+Next time,I'll...!!
+###--------
+###Script:216
+###Mugshot:ThunderMan
+I cannot believe
+my lightning failed
+to strike...
+###--------
+###Script:217
+###Mugshot:ProtoMan
+My apologies,<printPlayerNickname>.
+This was all my fault...
+###Command:printPlayerNickname
+###--------
+###Script:218
+###Mugshot:NumberMan
+It seems my calculations
+were slightly off...
+###--------
+###Script:219
+###Mugshot:MetalMan
+Hmph...
+We need to train more.
+......
+###--------
+###Script:220
+###Mugshot:JunkMan
+W-We lost...
+...It can't be...
+###--------
+###Script:221
+###Mugshot:AquaMan
+Drip,drip...
+We lost...drip!
+###--------
+###Script:222
+###Mugshot:WoodMan
+Hm...
+To think it would
+lead to this...
+###--------
+###Script:223
+###Mugshot:MegaMan
+I'm sorry.
+###--------
+###Script:224
+###Mugshot:MegaMan
+I'm sorry.
+###--------
+###Script:225
+###Mugshot:StarMan
+We lost...
+Did we have bad luck?
+###--------
+###Script:226
+###Mugshot:ShadowMan
+How humiliating...!
+For my ninjutsu to
+be bested...
+###--------
+###Script:227
+###Mugshot:KnightMan
+We lost in a fair fight.
+Nothing for us to
+be ashamed of!
+###--------
+###Script:228
+###Mugshot:NapalmMan
+Blast it...
+I haven't blown up
+enough things yet...
+###--------
+###Script:229
+###Mugshot:IceMan
+We lost,huh...
+###--------
+###Script:230
+###Mugshot:ElecMan
+Did I...lack voltage!?
+###--------
+###Script:231
+###Mugshot:PlantMan
+For me to have lost...
+...Unbelievable.
+###--------
+###Script:232
+###Mugshot:Bass
+.........
+###--------
+###Script:233
+###Mugshot:TopMan
+I'm sorry.
+###--------
+###Script:234
+###Mugshot:SparkMan
+I'm sorry.
+###--------
+###Script:235
+###Mugshot:VideoMan
+I'm sorry.
+###--------
+###Script:236
+###Mugshot:BurnerMan
+I'm sorry.
+###--------
+###Script:237
+###Mugshot:KendoMan
+I'm sorry.
+###--------
+###Script:238
+###Mugshot:ColdMan
+I'm sorry.
+###--------
+###Script:240
+###Mugshot:HeelNaviBlack
+Enough waiting!
+Let's take a look
+at the contestants...
+###--------
+###Mugshot:HeelNaviBlack
+...Here they are!
+###--------
+###Script:241
+###Mugshot:HeelNaviBlack
+Let the battle begin!
+###--------
+###Mugshot:HeelNaviBlack
+Round 1 Match <printBuffer>,
+
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###--------
+###Mugshot:HeelNaviBlack
+<printEnemy> VS <printEnemy>!
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Mugshot:HeelNaviBlack
+<wait>
+###Command:wait frames=180
+###--------
+###Script:242
+###Mugshot:HeelNaviBlack
+No time to waste!
+###--------
+###Mugshot:HeelNaviBlack
+Semifinals Match <printBuffer>,
+
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###--------
+###Mugshot:HeelNaviBlack
+<printEnemy> VS <printEnemy>!
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Mugshot:HeelNaviBlack
+<wait>
+###Command:wait frames=180
+###--------
+###Script:243
+###Mugshot:HeelNaviBlack
+It's finally here!
+The moment of truth!
+###--------
+###Mugshot:HeelNaviBlack
+Which Navi will
+emerge victorious!?
+###--------
+###Mugshot:HeelNaviBlack
+The Championship Match,
+
+###--------
+###Mugshot:HeelNaviBlack
+<printEnemy> VS <printEnemy>!
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Mugshot:HeelNaviBlack
+<wait>
+###Command:wait frames=180
+###--------
+###Script:244
+###Mugshot:HeelNaviBlack
+Let's begin!
+###--------
+###Mugshot:HeelNaviBlack
+Round 1 Match <printBuffer>,
+<printEnemy> VS <printEnemy>!
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!!
+###--------
+###Script:245
+###Mugshot:HeelNaviBlack
+Which of these
+Navis will be going
+to the finals!?
+###--------
+###Mugshot:HeelNaviBlack
+Semifinals Match <printBuffer>,
+<printEnemy> VS <printEnemy>!
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!!
+###--------
+###Script:246
+###Mugshot:HeelNaviBlack
+We've finally reached
+the climax!
+###--------
+###Mugshot:HeelNaviBlack
+The Championship Match,
+<printEnemy> VS <printEnemy>!
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!!
+###--------
+###Script:247
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!!
+###--------
+###Script:248
+###Mugshot:HeelNaviBlack
+A blazing match between
+<printEnemy> VS <printEnemy>!
+Who will be victorious!?
+###Command:printEnemy buffer=2 enemy=0
+###Command:printEnemy buffer=3 enemy=0
+###--------
+###Script:249
+###Mugshot:HeelNaviBlack
+It's over!
+###--------
+###Mugshot:HeelNaviBlack
+Round 1 Match <printBuffer>
+goes to <printEnemy>!
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Script:250
+###Mugshot:HeelNaviBlack
+It's over!
+###--------
+###Mugshot:HeelNaviBlack
+Semifinals Match <printBuffer>
+goes to <printEnemy>!
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Script:251
+###Mugshot:HeelNaviBlack
+It's over!
+###--------
+###Mugshot:HeelNaviBlack
+Victory belongs to
+<printPlayerName> & <printEnemy>!
+###Command:printPlayerName
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Script:252
+###Mugshot:HeelNaviBlack
+That was a fight
+for the ages!
+###--------
+###Mugshot:HeelNaviBlack
+On to the next match!
+###--------
+###Script:253
+###Mugshot:HeelNaviBlack
+Whoa! Couldn't take my
+eyes off that match!
+Next,the finals at last!
+###--------

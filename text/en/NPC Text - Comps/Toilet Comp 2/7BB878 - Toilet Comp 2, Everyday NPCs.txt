@@ -1,0 +1,96 @@
+﻿###TextArchive:7BB878
+###Script:0
+###Mugshot:MrProgGreen
+BWOOOSH!
+###--------
+###Mugshot:MrProgGreen
+MY DEODORIZING
+SKILLS ARE
+WORLD-CLASS!
+###--------
+###Mugshot:MrProgGreen
+NO MATTER HOW
+INTENSE THE SMELL,
+###++++++++
+###Mugshot:MrProgGreen
+I CAN MAKE IT
+DISAPPEAR IN
+AN INSTANT!
+###--------
+###Script:10
+###Mugshot:MrProgGold
+WALLPAPER DESIGN!
+WALLPAPER DESIGN!
+LET'S SWAP YOURS!
+###--------
+###Mugshot:MrProgGold
+I'M A HOMEPAGE
+REMODELING PROGRAM!
+###--------
+###Mugshot:MrProgGold
+WANT ME TO CHANGE
+THE DESIGN OF YOUR
+HP'S WALLPAPER?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:MrProgGold
+OH... I SEE...
+###--------
+###Script:11
+###Mugshot:MrProgGold
+THEN, WHAT DESIGN
+SHALL WE SWAP TO?
+###--------
+<option><space> MegaMan<spacePx><option><space> Cherry
+<option><space> Cyber<spacePx><option><space> Quit
+###Command:option brackets=false left=1 right=1 up=2 down=2
+###Command:space count=1
+###Command:spacePx count=14
+###Command:option brackets=false left=0 right=0 up=3 down=3
+###Command:space count=1
+###Command:option brackets=false left=3 right=3 up=0 down=0
+###Command:space count=1
+###Command:spacePx count=31
+###Command:option brackets=false left=2 right=2 up=1 down=1
+###Command:space count=1
+###--------
+###Script:12
+###Mugshot:MrProgGold
+OK,WITH PLEASURE!
+###--------
+###Mugshot:MrProgGold
+...TADAA!!!
+###--------
+###Mugshot:MrProgGold
+OK! IT'S DONE!
+###--------
+###Script:13
+###Mugshot:MrProgGold
+OK,WITH PLEASURE!
+###--------
+###Mugshot:MrProgGold
+...TADAA!!!
+###--------
+###Mugshot:MrProgGold
+OK! IT'S DONE!
+###--------
+###Script:14
+###Mugshot:MrProgGold
+OK,WITH PLEASURE!
+###--------
+###Mugshot:MrProgGold
+...TADAA!!!
+###--------
+###Mugshot:MrProgGold
+OK! IT'S DONE!
+###--------
+###Script:15
+###Mugshot:MrProgGold
+O-OH... I SEE...
+###--------

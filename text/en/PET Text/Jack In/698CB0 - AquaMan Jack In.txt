@@ -1,0 +1,7 @@
+﻿###TextArchive:698CB0
+###Script:1
+Jack in!
+AquaMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

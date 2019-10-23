@@ -1,0 +1,491 @@
+﻿###TextArchive:6D32EC
+###Script:1
+Your operating...
+You couldn't have
+improved it alone.
+###--------
+...Tell me.
+Do you have an
+older brother?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Hmph...
+What's his name?
+###--------
+###Script:2
+...Hmph.
+###--------
+###Script:3
+Your operating...
+You couldn't have
+improved it alone.
+###--------
+...Tell me.
+Do you have a
+little brother?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Hmph...
+What's his name?
+###--------
+###Script:4
+...Hmph.
+###--------
+###Script:5
+Your operating...
+You couldn't have
+improved it alone.
+###--------
+...Tell me.
+Do you have an
+older sister?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Hmph...
+What's her name?
+###--------
+###Script:6
+...Hmph.
+###--------
+###Script:7
+Your operating...
+You couldn't have
+improved it alone.
+###--------
+...Tell me.
+Do you have a
+little sister?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Hmph...
+What's her name?
+###--------
+###Script:8
+...Hmph.
+###--------
+###Script:9
+Tell me about one
+of your friends...
+###--------
+I'll make them
+taste utter defeat...
+###--------
+###Script:11
+......
+###--------
+What's your
+favorite food?
+###--------
+...I should ask these
+sorts of questions
+sometimes,right...?
+###--------
+###Script:13
+I'm just asking
+you to kill time...
+###--------
+What's your hobby?
+###--------
+###Script:15
+Let me fight an
+even stronger
+opponent...
+###--------
+All I seek is to do
+battle with those
+who are strong...
+###--------
+...What are you
+looking to become?
+###--------
+###Script:17
+...Hmph. Stop wasting
+time on things like
+checking your mail,
+###--------
+and tell me the
+name of the
+person you like.
+###--------
+I must have an
+understanding of
+your weaknesses...
+###--------
+###Script:19
+...Hmph. Stop wasting
+time on things like
+checking your mail,
+###--------
+and tell me the
+name of the
+person you like.
+###--------
+I must have an
+understanding of
+your weaknesses...
+###--------
+###Script:21
+It seems those
+who fill up the
+entire library
+###--------
+garner a lot
+of respect
+from society...
+###--------
+If you ask me,such
+people deserve
+no respect at all.
+###--------
+Who do you
+respect?
+###--------
+And don't you dare
+utter the name
+of some nobody...
+###--------
+###Script:23
+Reading all those
+mails won't make
+me any stronger...
+###--------
+Tell me the name
+of the person
+you can't stand...
+###--------
+Let me fight them.
+That'll help me
+get stronger.
+###--------
+###Script:25
+This is boring...
+Tell me something
+interesting...
+###--------
+How about a TV
+show you like
+or something...
+###--------
+###Script:27
+Hey. Seeing as
+you're able to
+operate me,
+###--------
+I suppose you have
+some capacity
+for learning...
+###--------
+Let's see... Tell
+me what subject
+you're good at.
+###--------
+It might come in
+handy somehow.
+###--------
+###Script:29
+Hey. Seeing as
+you're able to
+operate me,
+###--------
+I suppose you have
+some capacity
+for learning...
+###--------
+Let's see... Tell
+me what subject
+you're bad at.
+###--------
+It might become a
+weakness for you...
+###--------
+###Script:31
+That was a
+menial battle...
+###--------
+Hey. What do you
+desire to have
+right now?
+###--------
+Those who don't
+desire anything will
+never be strong!
+###--------
+###Script:32
+Staring at your
+library won't make
+you any stronger...
+###--------
+Tell me the name
+of your preschool...
+###--------
+There must be
+someone strong
+there...
+###--------
+###Script:33
+Staring at your
+library won't make
+you any stronger...
+###--------
+Tell me the name
+of your preschool...
+###--------
+There must be
+someone strong
+there...
+###--------
+###Script:34
+Staring at your
+library won't make
+you any stronger...
+###--------
+Tell me the name
+of the company
+you work for...
+###--------
+There must be
+someone strong
+there...
+###--------
+###Script:40
+Aside from...
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:41
+Do you have more
+older brothers...?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:42
+...Hmph.
+###--------
+###Script:43
+Aside from...
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:44
+Do you have more
+little brothers...?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:45
+...Hmph.
+###--------
+###Script:46
+Aside from...
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:47
+Do you have more
+older sisters...?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:48
+...Hmph.
+###--------
+###Script:49
+Aside from...
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:50
+Do you have more
+little sisters...?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:51
+...Hmph.
+###--------
+###Script:52
+Aside from...
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+<printStringBuffer3>
+###Command:printStringBuffer3
+###--------
+###Script:53
+Do you have any
+other friends...?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:54
+...Hmph.
+###--------
+###Script:55
+Aside from...
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:56
+Do you have any
+other hobbies...?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:57
+...Hmph.
+###--------
+###Script:58
+Aside from...
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:59
+Do you like any
+other TV shows...?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:60
+...Hmph.
+###--------
+###Script:61
+Aside from...
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:62
+Do you desire
+any other things?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+...Hmph.
+###--------
+###Script:80
+I see...
+###--------
+###Script:81
+I see...
+###--------
+###Script:82
+I see...
+###--------
+###Script:83
+I see...
+###--------
+###Script:84
+With a name like
+that,perhaps they
+can entertain me.
+###--------
+###Script:85
+...Hmph. That
+name does sound
+somewhat tasty...
+###--------
+###Script:86
+...I see.
+###--------
+###Script:87
+Mwahaha...
+It seems you
+have aspirations...
+###--------
+###Script:88
+...Mwahaha. I'll
+remember that...
+###--------
+###Script:89
+...I see.
+###--------
+###Script:90
+You know,we
+could go fight
+them right now...
+###--------
+###Script:91
+...I see.
+###--------
+###Script:92
+That might
+come in handy...
+###--------
+###Script:93
+Study it. The fewer
+weaknesses you
+have,the better.
+###--------
+###Script:94
+...Hmph. I see.
+###--------
+###Script:95
+...Hmph. I see.
+###--------

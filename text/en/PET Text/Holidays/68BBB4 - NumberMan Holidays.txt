@@ -1,0 +1,184 @@
+﻿###TextArchive:68BBB4
+###Script:1
+Happy New Year!
+###--------
+Let's make it
+another good one.
+###--------
+You can count on
+me! ...After all,
+I'm NumberMan!
+###--------
+###Script:2
+Today is April 1st!
+Also known as
+April Fools' Day!
+###--------
+Hey,<printPlayerNickname>!
+Your shoelaces
+are untied!
+###Command:printPlayerNickname
+###--------
+Huh? How am I
+able to tell from
+inside the PET...?
+###--------
+###--------
+###--------
+###--------
+Hehehe. I'll get
+you next time!
+###--------
+###Script:3
+Today is
+Valentine's Day,
+huh?
+###--------
+I wonder how
+many letters you
+will receive?
+###--------
+Make sure
+to keep count!
+###--------
+###Script:4
+Today is
+Valentine's Day,
+huh?
+###--------
+I wonder how
+many letters you
+will receive?
+###--------
+Make sure
+to keep count!
+###--------
+###Script:5
+Tonight is
+Halloween...
+###--------
+M-Maybe it's
+better if we stay
+inside today...
+###--------
+W-What!?
+I-I'm not scared!
+It's just...
+###--------
+###--------
+###--------
+###--------
+###--------
+You wouldn't
+want to get a
+stomachache,right?
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+That reminds me...
+Tonight is
+Christmas Eve.
+###--------
+I actually prepared
+a big stocking
+for tonight.
+###--------
+Santa Claus is
+going to give me
+tons of rare chips!
+###--------
+I can't wait to
+check my stocking
+tomorrow morning...
+###--------
+Mwa-ha-ha-ha!!
+###--------
+###Script:9
+Merry Christmas!
+###--------
+...I have some
+unfortunate news...
+###--------
+Santa did not
+visit my place
+last night...
+###--------
+As I feared...
+It seems Santa
+Claus could not
+###--------
+come to the
+Cyberworld.
+How disappointing...
+###--------
+###Script:10
+Today is
+New Year's Eve,
+huh?
+###--------
+Of course,my
+favorite part of
+today has to be
+###--------
+###--------
+the countdown to
+the new year!
+###--------
+###Script:11
+Happy Birthday!
+###--------
+###--------
+Today your age
+increases by 1,huh?
+###--------
+Now,if you multiple
+your age by 365,
+###--------
+you get the number
+of days since
+you were born.
+###--------
+What do you think?
+When you see that
+number,doesn't it
+###--------
+feel like not that
+much time has
+passed at all?
+###--------
+However...leap years
+make for a bit of
+a calculation error.
+###--------
+###Script:12
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:18
+In addition,it's
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------

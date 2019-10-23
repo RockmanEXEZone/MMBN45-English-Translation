@@ -1,0 +1,519 @@
+﻿###TextArchive:7AE0A0
+###Script:0
+###Mugshot:NormNaviBrown
+I'm the examiner
+for the Official
+Tournament...
+###--------
+###Mugshot:NormNaviBrown
+I'm accepting entries
+for the Official
+Tournament prelims.
+###--------
+###Mugshot:NormNaviBrown
+Will you be participating
+in the prelims?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviBrown
+Let's see...
+You're <printCurrentNavi>⋯
+###Command:printCurrentNavi
+###--------
+###Mugshot:NormNaviBrown
+Sorry. You're not
+qualified to enter the
+###++++++++
+###Mugshot:NormNaviBrown
+Official Tournament
+prelims just yet.
+###--------
+###Mugshot:NormNaviBrown
+We're conducting a
+nationwide aptitude
+test for all NetBattlers
+###--------
+###Mugshot:NormNaviBrown
+beforehand,and you
+haven't reached the
+proper level yet.
+###--------
+###Mugshot:NormNaviBrown
+If you want to enter the
+tournament,do your best
+on the aptitude test.
+###--------
+###Mugshot:NormNaviBrown
+You may not realize it,
+but the aptitude test
+was already underway
+###--------
+###Mugshot:NormNaviBrown
+since the day after
+you became an
+Apprentice NetBattler...
+###--------
+###Mugshot:NormNaviBrown
+Give it your all.
+###--------
+###Script:1
+###Mugshot:NormNaviBrown
+Let's see...
+You're <printCurrentNavi>⋯
+###Command:printCurrentNavi
+###--------
+###Mugshot:NormNaviBrown
+Splendid. You deleted
+the 6 Navis that were
+part of the test.
+###--------
+###Mugshot:NormNaviBrown
+That's plenty to
+prove your aptitude.
+###--------
+###Mugshot:NormNaviBrown
+I'll explain
+further,then.
+###--------
+###Mugshot:NormNaviBrown
+As part of the
+Official Tournament
+preliminaries,
+###--------
+###Mugshot:NormNaviBrown
+you will be resolving
+a certain incident.
+###--------
+###Mugshot:NormNaviBrown
+You may face some
+danger. Are you up
+to the challenge?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviBrown
+Come back anytime
+once you're mentally
+prepared.
+###--------
+###Script:2
+###Mugshot:NormNaviBrown
+<printCurrentNavi>⋯
+So you've come
+after all...
+###Command:printCurrentNavi
+###--------
+###Mugshot:NormNaviBrown
+Will you participate in
+the Official Tournament
+preliminaries?
+###--------
+###Mugshot:NormNaviBrown
+You will be resolving
+a certain incident.
+###--------
+###Mugshot:NormNaviBrown
+You may face some
+danger. Are you up
+to the challenge?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviBrown
+Come back anytime
+once you're mentally
+prepared.
+###--------
+###Script:3
+###Mugshot:NormNaviBrown
+Then,I'll brief you
+on the specifics of
+the preliminaries.
+###--------
+###Mugshot:NormNaviBrown
+Up ahead in Internet12,
+there is a twin lock
+security system.
+###--------
+###Mugshot:NormNaviBrown
+The twin locks are in
+front of the entrance
+to the Undernet.
+###--------
+###Mugshot:NormNaviBrown
+The two keys,"<printItem>"
+and "<printItem>", are
+set up such that
+###Command:printItem buffer=0 item=10
+###Command:printItem buffer=0 item=11
+###--------
+###Mugshot:NormNaviBrown
+you can only release
+the locks if you have
+both keys. This security
+###--------
+###Mugshot:NormNaviBrown
+method ensures fiendish
+Navis and viruses
+stay in the Undernet.
+###--------
+###Mugshot:NormNaviBrown
+The entry desk for the
+Official Tournament is
+just behind the locks.
+###--------
+###Mugshot:NormNaviBrown
+In other words,only
+chosen Navis are
+able to enter.
+###--------
+###Mugshot:NormNaviBrown
+Unfortunately,one of
+the keys to release the
+twin locks,"<printItem>"
+###Command:printItem buffer=0 item=11
+###--------
+###Mugshot:NormNaviBrown
+has been snatched away
+by a group calling them-
+selves the BlackWorks.
+###--------
+###Mugshot:NormNaviBrown
+You probably get it
+from what I've
+explained so far,
+###--------
+###Mugshot:NormNaviBrown
+but I want you to stamp
+out the BlackWorks and
+recover the "<printItem>".
+###Command:printItem buffer=0 item=11
+###--------
+###Mugshot:NormNaviBrown
+Those are the
+instructions for the
+tournament prelims.
+###--------
+###Mugshot:NormNaviBrown
+The BlackWorks members
+will be in two groups
+in Internet10 and 11.
+###--------
+###Mugshot:NormNaviBrown
+To get to their
+hideout,you have to
+go through Internet12.
+###--------
+###Mugshot:NormNaviBrown
+Once you return the
+"<printItem>" to me,
+###Command:printItem buffer=0 item=11
+###--------
+###Mugshot:NormNaviBrown
+I will give you both
+the "<printItem>" as well
+as the "<printItem>".
+###Command:printItem buffer=0 item=10
+###Command:printItem buffer=0 item=11
+###--------
+###Mugshot:NormNaviBrown
+Then,you'll be
+able to access
+the entry desk.
+###--------
+###Mugshot:NormNaviBrown
+Well,go for it!
+###--------
+###Script:4
+###Mugshot:NormNaviBrown
+The BlackWorks members
+will be in two groups
+in Internet10 and 11.
+###--------
+###Mugshot:NormNaviBrown
+To get to their
+hideout,you have to
+go through Internet12.
+###--------
+###Mugshot:NormNaviBrown
+Best of luck...
+###--------
+###Script:5
+###Mugshot:NormNaviBrown
+Oh,that's...
+###--------
+###Mugshot:NormNaviBrown
+So,you've retrieved
+the "<printItem>" from
+the BlackWorks...
+###Command:printItem buffer=0 item=11
+###--------
+###Mugshot:NormNaviBrown
+...Okay,you pass!
+###--------
+###Mugshot:NormNaviBrown
+You can keep the
+"<printItem>" with you,
+###Command:printItem buffer=0 item=11
+###--------
+###Mugshot:NormNaviBrown
+and I'll give
+you this.
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=10
+###--------
+###Mugshot:NormNaviBrown
+With these,you can
+release the twin
+locks in Internet12.
+###--------
+###Mugshot:NormNaviBrown
+I can't say exactly
+what is waiting
+for you ahead,
+###++++++++
+###Mugshot:NormNaviBrown
+but do your best.
+###--------
+###Script:6
+###Mugshot:NormNaviBrown
+The security of Net
+society just keeps
+getting worse...
+###--------
+###Mugshot:NormNaviBrown
+We need to create
+a safer Net society
+###--------
+###Mugshot:NormNaviBrown
+by raising more
+excellent NetBattlers.
+###--------
+###Script:7
+###Mugshot:NormNaviBrown
+I see...
+###--------
+###Script:10
+###Mugshot:OfficialNavi
+Zzzzzz...
+###--------
+###Mugshot:OfficialNavi
+...Uh-oh,not good!
+As Officials,
+it is our duty
+###--------
+###Mugshot:OfficialNavi
+to protect the peace
+of the Internet!
+###--------
+###Mugshot:OfficialNavi
+I can't let a little
+bit of drowsiness
+get to me!
+###--------
+###Script:11
+###Mugshot:OfficialNavi
+Ahh...I have to write
+up my report by
+the afternoon!
+###--------
+###Mugshot:OfficialNavi
+Ahh...I hope I can
+make it in time...
+###--------
+###Script:12
+###Mugshot:NormNaviYellow
+Why does this area
+have so many loops!?
+###--------
+###Script:13
+###Mugshot:MrProgGreen
+WELCOME!
+THIS IS INTERNET9!
+###--------
+###Mugshot:MrProgGreen
+THE AREAS FROM HERE
+ON OUT ARE UNDER
+OFFICIAL CONTROL!
+###--------
+###Script:20
+###Mugshot:OfficialNavi
+What is it?
+Did you lose something?
+###--------
+###Mugshot:OfficialNavi
+...Huh? That's not it?
+###--------
+###Mugshot:OfficialNavi
+If there's no problem,
+please don't bother
+me while I'm at work.
+###--------
+###Script:21
+###Mugshot:OfficialNavi
+Mmm-hm! Nothing
+beats a peaceful
+day like this!
+###--------
+###Script:22
+###Mugshot:PurpleNavi
+I came here to
+exchange BugFrags.
+###--------
+###Mugshot:PurpleNavi
+What should I get...
+###--------
+###Script:30
+###Mugshot:OfficialNavi
+I will protect the
+peace of this area!
+###++++++++
+###Mugshot:OfficialNavi
+I swear it on my
+red police light!
+###--------
+###Script:31
+###Mugshot:OfficialNavi
+When night falls,danger
+rears its ugly head.
+I must patrol diligently!
+###--------
+###Mugshot:OfficialNavi
+The crime rate drops
+just by having the
+Officials present!
+###--------
+###Script:32
+###Mugshot:NormNaviYellow
+There's a NetSchool
+in the area ahead,but...
+###--------
+###Mugshot:NormNaviYellow
+...do Navis really
+need to study?
+###--------
+###Script:40
+###Mugshot:OfficialNavi
+It's our duty to
+keep watch as the
+citizens are asleep!
+###--------
+###Script:41
+###Mugshot:OfficialNavi
+Zzzzzzz...
+###--------
+###Script:50
+###Mugshot:ThunderMan
+...Hm?
+###--------
+###Mugshot:ThunderMan
+...You appear to be
+quite the skilled
+individual...
+###--------
+###Mugshot:ThunderMan
+Would you like to have
+a battle with me?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:ThunderMan
+I wish to see
+your true skills...
+###--------
+###Script:51
+###Mugshot:ThunderMan
+You were able
+to repel me...
+###--------
+###Mugshot:ThunderMan
+That power...
+I can see you're
+using it properly.
+###--------
+###Script:52
+###Mugshot:ThunderMan
+I thought you'd be
+a bit more capable,but
+it seems I was wrong...
+###--------
+###Script:53
+###Mugshot:ThunderMan
+Mighty thunder,
+lend me your power!
+###--------
+###Mugshot:ThunderMan
+Battle routine,set!
+Execute!
+###--------
+###Script:54
+###Mugshot:ThunderMan
+...Hm?
+###--------
+###Mugshot:ThunderMan
+How peculiar...
+Am I dreaming,or
+is this an illusion...?
+###--------
+###Mugshot:ThunderMan
+If we fight,perhaps
+I will understand...
+###--------
+<positionOptionHorizontal><option><space> Bring it  <option><space> No way!
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:ThunderMan
+Perhaps there is
+no need to fight...
+###--------
+###Script:220
+###Mugshot:NormNaviPink
+I'm a BugFrag
+trader...
+###--------
+###Mugshot:NormNaviPink
+Wanna trade?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:221
+###Mugshot:NormNaviPink
+Come again soon!
+###--------
+###Script:222
+###Mugshot:NormNaviPink
+Sorry,
+I'm all sold out.
+###--------

@@ -1,0 +1,32 @@
+﻿###TextArchive:7A89E4
+###Script:0
+###Mugshot:NormNaviPink
+I just don't know
+what to buy!
+###--------
+###Mugshot:NormNaviPink
+This stuff's not always
+on sale,so I should
+scoop it up,right!?
+###--------
+###Script:1
+###Mugshot:NaviGirlOrange
+Can't you make it
+just a bit cheaper!?
+###--------
+###Mugshot:PurpleNavi
+G-Gimme a break...
+###--------
+###Script:2
+###Mugshot:NaviGirlPurple
+Whew,I bought a ton!
+###--------
+###Mugshot:NaviGirlPurple
+Today was a success!
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+If only I could turn
+into a woman,just
+on Wednesdays...
+###--------

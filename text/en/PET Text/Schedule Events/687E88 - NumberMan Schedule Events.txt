@@ -1,0 +1,115 @@
+﻿###TextArchive:687E88
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+It's almost time
+for <printScheduleBuffer>
+to be on!
+###Command:printScheduleBuffer
+###--------
+Actually,I'm rather
+interested in that
+show as well!
+###--------
+###Script:2
+It's time to meet
+with <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+Are you going to
+pick up a rare
+chip or something?
+###--------
+###Script:3
+<printPlayerNickname>,it's time
+to eat! Finish
+your plate,okay?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:4
+<printPlayerNickname>,it's
+time for school.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Do your best!
+###--------
+If it's about
+math,feel free
+to consult me!
+###--------
+###Script:5
+<printPlayerNickname>,
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+it's time for
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:6
+In addition...
+###--------
+###Script:21
+###Mugshot:NumberMan
+It's almost time for
+<printScheduleBuffer> to be on!
+###Command:printScheduleBuffer
+###--------
+###Mugshot:NumberMan
+Actually,I'm rather
+interested in that
+show as well!
+###--------
+###Script:22
+###Mugshot:NumberMan
+It's time to meet
+with <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:NumberMan
+Are you going to
+pick up a rare
+chip or something?
+###--------
+###Script:23
+###Mugshot:NumberMan
+<printPlayerNickname>,it's time
+to eat! Finish
+your plate,okay?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:24
+###Mugshot:NumberMan
+<printPlayerNickname>,it's
+time for school.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:NumberMan
+Do your best!
+###--------
+###Mugshot:NumberMan
+If it's about
+math,feel free
+to consult me!
+###--------
+###Script:25
+###Mugshot:NumberMan
+<printPlayerNickname>,it's time
+for 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:NumberMan
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:NumberMan
+In addition...
+###--------

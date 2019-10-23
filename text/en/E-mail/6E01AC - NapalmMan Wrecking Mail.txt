@@ -1,0 +1,495 @@
+﻿###TextArchive:6E01AC
+###Script:32
+Good news. I've got
+a new job for ya.
+###--------
+Word is there's a
+virus outbreak goin'
+on in Internet1.
+###--------
+Our client screwed
+up and accidentally
+released them.
+###--------
+Destroy 'em all
+before the Officials
+show up.
+###--------
+It's a real pain
+in the neck...but
+a job's a job.
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+But if you fail...
+You know what'll
+happen,yeah?
+###--------
+Try not to blow it,
+will ya?
+###--------
+###Script:33
+Good news. I've got
+a new job for ya.
+###--------
+Even you must've
+heard about the new
+virus species,right?
+###--------
+SciLab's runnin'
+some experiments on
+them in Internet2.
+###--------
+Your job this time
+is to destroy all
+their test subjects.
+###--------
+Our client doesn't
+like these new virus-
+es runnin' around.
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+But if you fail...
+You know what'll
+happen,yeah?
+###--------
+Try not to blow it,
+will ya?
+###--------
+###Script:34
+Good news. I've got
+a new job for ya.
+###--------
+This one's from
+the Black Market
+dealer.
+###--------
+There's a virus
+infestation going
+on in Internet3
+###--------
+and the dealer is
+unable to conduct
+his business.
+###--------
+I need you to
+destroy all of the
+infesting viruses.
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+But if you fail...
+You know what'll
+happen,yeah?
+###--------
+Try not to blow it,
+will ya?
+###--------
+###Script:35
+Good news. I've got
+a new job for ya.
+###--------
+I need you to
+destroy all viruses
+in Internet4.
+###--------
+Our client this
+time's a student
+###--------
+who's lookin' to
+blow off some steam.
+###--------
+Are you kiddin' me...?
+Well,it's easy money...
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+But if you fail...
+You know what'll
+happen,yeah?
+###--------
+Try not to blow it,
+will ya?
+###--------
+###Script:36
+Good news. I've got
+a new job for ya.
+###--------
+This one's from
+the Undernet virus
+research lab.
+###--------
+Apparently a bunch
+of viruses have
+escaped the lab.
+###--------
+If the Officials
+get their hands
+on those viruses,
+###--------
+they could trace
+'em back to the
+lab's location.
+###--------
+Your targets are
+the escaped viruses.
+###--------
+They're in Internet5
+right now. Get rid
+of 'em,pronto.
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+But if you fail...
+You know what'll
+happen,yeah?
+###--------
+###Script:37
+This job's from the
+DarkGuild itself.
+###--------
+Destroy all of the
+viruses running
+amok in Internet6.
+###--------
+It sounds like they
+deleted the Boss's
+favorite Mr.Prog.
+###--------
+He's really livid!
+You'd better get
+to it right away.
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+We're really countin'
+on you here!
+###--------
+###Script:38
+Good news. I've got
+a new job for ya.
+###--------
+A bunch of viruses
+containing top secret
+Underworld data
+###--------
+just waltzed right
+into Internet7.
+###--------
+We can't let the
+Officials get their
+hands on that data!
+###--------
+So you gotta wipe
+out all the viruses
+in Internet7.
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+The future of the
+Undernet's on the
+line here! Good luck.
+###--------
+###Script:39
+Good news. I've got
+a new job for ya.
+###--------
+I need you to
+destroy all viruses
+in Internet8.
+###--------
+###--------
+Seems our client
+wants to post some-
+thing on the BBS,
+###--------
+but the viruses
+keep gettin' in
+their way.
+###--------
+What could they
+possible want to
+post that badly?
+###--------
+Sure makes ya
+wonder,huh!
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+Try not to blow it,
+will ya?
+###--------
+###Script:40
+Good news. I've got
+a new job for ya.
+###--------
+I need you to
+destroy all viruses
+in Internet9.
+###--------
+Our client this time
+is the mad scientist
+known as Dr.Dig.
+###--------
+###--------
+He's planning to
+develop a new
+species of viruses
+###--------
+using the leftover
+data of current
+ones.
+###--------
+I hear development
+is expected to
+take 10 years.
+###--------
+......
+Is he really going
+to finish it?
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+Try not to blow it,
+will ya?
+###--------
+###Script:41
+Here's a personal
+request from me.
+###--------
+The other day when
+I was in Internet10
+###--------
+I ran into
+the legendary
+UnderMafia boss!
+###--------
+I can't believe
+he's still alive
+and kickin'!
+###--------
+Look,I really wanna
+meet him,but there's
+viruses in the way
+###--------
+everywhere,so I
+can't get a good
+look around for him.
+###--------
+Here's where
+you come in.
+###--------
+I need you to
+destroy all viruses
+in Internet10.
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+It's always been
+my dream to
+meet the guy!
+###--------
+I'm countin' on ya!
+###--------
+###Script:42
+Good news. I've got
+a new job for ya.
+###--------
+I need you to
+destroy all viruses
+in Internet11.
+###--------
+Our client's an
+Undernet virus
+fanatic.
+###--------
+He's got some beef
+with another
+virus fanatic
+###--------
+from the surface.
+###--------
+Seems like this guy
+from the surface is
+workin' on some
+###--------
+viruses in secret,
+which our client
+ain't happy with.
+###--------
+Somethin' about
+"True fanatics do
+it loud and proud!"...
+###--------
+This job's supposed
+to set the right
+example.
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+Try not to blow it,
+will ya?
+###--------
+###Script:43
+Good news. I've got
+a new job for ya.
+###--------
+I need you to
+destroy all viruses
+in Internet12.
+###--------
+Our client this time
+is an Undernet
+smuggler.
+###--------
+He's currently
+carrying some real
+important package,
+###--------
+but viruses are
+constantly gettin'
+in the way
+###--------
+and preventing him
+from making the
+delivery.
+###--------
+I'm sure ya wanna
+find out what's
+in that package,
+###--------
+but I expect you to
+be a professional
+here,understand?
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+Try not to blow it,
+will ya?
+###--------
+###Script:44
+This job's from the
+DarkGuild itself.
+###--------
+Seems those Officials
+got their eye on
+the DarkGuild.
+###--------
+They've released
+a bunch of tracking
+programs disguised
+###--------
+as viruses in
+Undernet1,hoping
+to expose us.
+###--------
+No way us locals
+are gonna fall for
+that,of course,
+###--------
+but they're still
+an eyesore.
+###--------
+I want you to destroy
+all tracking programs
+in Undernet1.
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+Show 'em what hap-
+pens when you mess
+with the Undernet!
+###--------
+###Script:45
+This job's from the
+DarkGuild itself.
+###--------
+There's a contest
+goin' on in Undernet2
+###--------
+that tests a Navi's
+strength by havin'
+'em delete viruses.
+###--------
+The one who deletes
+the most viruses
+is the winner.
+###--------
+Now,if you were to
+win this contest,
+###--------
+the whole Undernet's
+gonna know our
+guild's name.
+###--------
+So I want you to
+enter it and win!
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+I'm countin' on ya!
+###++++++++
+The DarkGuild's
+reputation is on
+your shoulders!
+###--------
+###Script:46
+This job's from the
+DarkGuild itself.
+###--------
+Some joker released
+a bunch of viruses
+###--------
+near the Guild's
+entrance in
+Undernet3.
+###--------
+Probably just some
+schmuck from
+another guild...
+###--------
+But now customers
+are scared and our
+business is down.
+###--------
+I need you to
+destroy the viruses
+in Undernet3.
+###--------
+'Course,there's a
+nice reward waitin'
+if you succeed.
+###--------
+Our jobs are at
+stake here!
+Good luck.
+###--------

@@ -1,0 +1,358 @@
+﻿###TextArchive:659CB8
+###Script:0
+###Mugshot:MegaMan
+Today is 
+###--------
+###Mugshot:MegaMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------
+###Mugshot:MegaMan
+<printBuffer>!
+So,what do you
+want to do?
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------
+###Script:1
+###Mugshot:MegaMan
+Schedule something
+for which day?
+###--------
+###Script:2
+###Mugshot:MegaMan
+What to register?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:3
+###Mugshot:MegaMan
+That day already
+passed,you know?
+###--------
+###Script:4
+###Mugshot:MegaMan
+You can't register
+any more.
+###--------
+###Mugshot:MegaMan
+To add more,delete
+some existing plans
+first.
+###--------
+###Script:5
+###Mugshot:MegaMan
+What to delete?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=11
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=11
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:6
+###Mugshot:MegaMan
+Check plans for
+which day?
+###--------
+###Script:7
+###Mugshot:MegaMan
+What to register?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:8
+###Mugshot:MegaMan
+What to delete?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:10
+###Mugshot:MegaMan
+These are your
+things,<printPlayerNickname>.
+<spacePx><option><space> Check Key Items
+###Command:printPlayerNickname
+###Command:spacePx count=8
+###Command:option brackets=false left=0 right=0 up=0 down=0
+###Command:space count=1
+###--------
+###Script:20
+###Mugshot:MegaMan
+From what time?
+###--------
+###Script:21
+###Mugshot:MegaMan
+How frequent?
+###--------
+###Script:22
+###Mugshot:MegaMan
+What are the details?
+###--------
+###Script:23
+###Mugshot:MegaMan
+Meet with whom?
+###--------
+###Script:24
+###Mugshot:MegaMan
+Is this OK?
+
+
+###--------
+###Mugshot:MegaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:25
+###Mugshot:MegaMan
+<printPlayerNickname>,
+you have plans at
+that time already!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:30
+###Mugshot:MegaMan
+I'll overwrite them,
+is that okay?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:31
+###Mugshot:MegaMan
+What kind of holiday?
+###--------
+###Script:32
+###Mugshot:MegaMan
+Register where?
+###--------
+###Script:33
+###Mugshot:MegaMan
+Is this OK?
+
+
+###--------
+###Mugshot:MegaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:40
+###Mugshot:MegaMan
+Transfer SubChips
+to me here!
+###--------
+###Script:41
+###Mugshot:MegaMan
+Change my
+equipment here!
+###--------
+###Script:42
+###Mugshot:MegaMan
+Check the
+Data Library here!
+###--------
+###Script:43
+###Mugshot:MegaMan
+Check your
+mail here!
+###--------
+###Script:44
+###Mugshot:MegaMan
+Check your
+Key Items here!
+###--------
+###Script:45
+###Mugshot:MegaMan
+Save your
+progress here!
+###--------
+###Script:50
+###Mugshot:MegaMan
+<printBuffer>:
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:MegaMan
+<printBuffer>
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Mugshot:MegaMan
+<printScheduleBuffer> 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:MegaMan
+<printScheduleBuffer>
+ 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:MegaMan
+"<printScheduleBuffer>"
+will be deleted.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:MegaMan
+Is that OK?
+
+
+###--------
+###Mugshot:MegaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:MegaMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:51
+###Mugshot:MegaMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Mugshot:MegaMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:MegaMan
+<printBuffer> 
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:MegaMan
+(<printScheduleBuffer>)
+ 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:MegaMan
+"<printScheduleBuffer>"
+will be deleted.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:MegaMan
+Is that OK?
+
+
+###--------
+###Mugshot:MegaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:MegaMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:52
+###Mugshot:MegaMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:MegaMan
+<printBuffer>
+ 
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:MegaMan
+"<printScheduleBuffer>"
+will be deleted.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:MegaMan
+Is that OK?
+
+
+###--------
+###Mugshot:MegaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:MegaMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:60
+###Mugshot:MegaMan
+Challenge the MathDril?
+
+
+###--------
+###Mugshot:MegaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:61
+###Mugshot:MegaMan
+Read the FrznLetr?
+
+
+###--------
+###Mugshot:MegaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:62
+###Mugshot:MegaMan
+Attempt the SniprTrn?
+
+
+###--------
+###Mugshot:MegaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+###Mugshot:MegaMan
+･･････
+Looks like we can't
+do that right now.
+###--------

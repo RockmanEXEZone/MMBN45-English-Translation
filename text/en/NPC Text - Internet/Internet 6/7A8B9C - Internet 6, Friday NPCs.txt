@@ -1,0 +1,115 @@
+﻿###TextArchive:7A8B9C
+###Script:0
+###Mugshot:NormNaviYellow
+Hey,you!
+The Navi over there!
+###--------
+###Mugshot:NormNaviYellow
+Have a NetBattle
+with me!
+###--------
+<positionOptionHorizontal><option><space> Yeah!  <option><space> Forget it
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Hmph! Scared,are ya?
+Coward!
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Heh!
+Don't cry if you lose!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+###--------
+###Mugshot:NormNaviYellow
+Execute!!
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+N-Not bad...
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+You're ten thousand
+light-years from
+beating me!
+###--------
+###Script:4
+###Mugshot:NormNaviYellow
+M-My ribs still hurt
+after that last battle!
+###--------
+###Mugshot:NormNaviYellow
+I-I can't battle like
+this! Argh,if only
+my ribs didn't hurt...
+###--------
+###Script:5
+###Mugshot:NormNaviYellow
+Salut!
+You over there!
+###--------
+###Mugshot:NormNaviYellow
+Voulez-vous me battre?
+###--------
+###Mugshot:NormNaviYellow
+...Would you care
+to battle moi!?
+###--------
+<positionOptionHorizontal><option><space> Oui  <option><space> Non
+###Command:positionOptionHorizontal width=6
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Uwaaagh!
+Tres disappointing!
+###--------
+###Script:6
+###Mugshot:NormNaviYellow
+Magnifique!
+###--------
+###Mugshot:NormNaviYellow
+Alors,let us battle!
+###--------
+###Mugshot:NormNaviYellow
+Bataille routine,set!
+Execute!
+###--------
+###Script:7
+###Mugshot:NormNaviYellow
+I lost...
+You got moi...
+###--------
+###Mugshot:NormNaviYellow
+You are tres strong.
+I am going to lose
+mon confidence...
+###--------
+###Script:8
+###Mugshot:NormNaviYellow
+Yahoo! Ouais!
+###--------
+###Mugshot:NormNaviYellow
+Victoire!
+Hon hon hon!
+###--------
+###Script:9
+###Mugshot:NormNaviYellow
+It seems le current
+moi cannot win
+against you...
+###--------
+###Mugshot:NormNaviYellow
+Battle moi again when
+I am not feeling down,
+s'il vous plait.
+###--------

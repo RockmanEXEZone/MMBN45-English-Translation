@@ -1,0 +1,145 @@
+﻿###TextArchive:70272C
+###Script:0
+ Inari    Take it easy!
+###--------
+###Script:1
+ VOLK     RE:Take it ea
+###--------
+###Script:2
+ Nabeyan  RE:Take it ea
+###--------
+###Script:3
+ Ruta     RE:Take it ea
+###--------
+###Script:4
+ Yuu      In my case⋯
+###--------
+###Script:5
+ Aya      Worries
+###--------
+###Script:6
+ Jolie    RE:Worries
+###--------
+###Script:7
+ ShinShin Once more
+###--------
+###Script:8
+ MusaC    Seeking powr!
+###--------
+###Script:9
+ Nabeyan  RE:Seekng pwr
+###--------
+###Script:10
+ Hana     Darkloids
+###--------
+###Script:11
+ ShinShin RE:Darkloids
+###--------
+###Script:12
+ Beltz    RE:Darkloids
+###--------
+###Script:13
+ BBS2  0C XXXXXXXXXXXXX
+###--------
+###Script:14
+ BBS2  0D XXXXXXXXXXXXX
+###--------
+###Script:15
+ BBS2  0E XXXXXXXXXXXXX
+###--------
+###Script:16
+ BBS2  0F XXXXXXXXXXXXX
+###--------
+###Script:17
+ BBS2  10 XXXXXXXXXXXXX
+###--------
+###Script:18
+ BBS2  11 XXXXXXXXXXXXX
+###--------
+###Script:19
+ BBS2  12 XXXXXXXXXXXXX
+###--------
+###Script:20
+ BBS2  13 XXXXXXXXXXXXX
+###--------
+###Script:21
+ BBS2  14 XXXXXXXXXXXXX
+###--------
+###Script:22
+ BBS2  15 XXXXXXXXXXXXX
+###--------
+###Script:23
+ BBS2  16 XXXXXXXXXXXXX
+###--------
+###Script:24
+ BBS2  17 XXXXXXXXXXXXX
+###--------
+###Script:25
+ BBS2  18 XXXXXXXXXXXXX
+###--------
+###Script:26
+ BBS2  19 XXXXXXXXXXXXX
+###--------
+###Script:27
+ BBS2  1A XXXXXXXXXXXXX
+###--------
+###Script:28
+ BBS2  1B XXXXXXXXXXXXX
+###--------
+###Script:29
+ BBS2  1C XXXXXXXXXXXXX
+###--------
+###Script:30
+ BBS2  1D XXXXXXXXXXXXX
+###--------
+###Script:31
+ BBS2  1E XXXXXXXXXXXXX
+###--------
+###Script:32
+ BBS2  1F XXXXXXXXXXXXX
+###--------
+###Script:33
+ BBS2  20 XXXXXXXXXXXXX
+###--------
+###Script:34
+ BBS2  21 XXXXXXXXXXXXX
+###--------
+###Script:35
+ BBS2  22 XXXXXXXXXXXXX
+###--------
+###Script:36
+ BBS2  23 XXXXXXXXXXXXX
+###--------
+###Script:37
+ BBS2  24 XXXXXXXXXXXXX
+###--------
+###Script:38
+ BBS2  25 XXXXXXXXXXXXX
+###--------
+###Script:39
+ BBS2  26 XXXXXXXXXXXXX
+###--------
+###Script:40
+ BBS2  27 XXXXXXXXXXXXX
+###--------
+###Script:41
+ BBS2  28 XXXXXXXXXXXXX
+###--------
+###Script:42
+ BBS2  29 XXXXXXXXXXXXX
+###--------
+###Script:43
+ BBS2  2A XXXXXXXXXXXXX
+###--------
+###Script:44
+ BBS2  2B XXXXXXXXXXXXX
+###--------
+###Script:45
+ BBS2  2C XXXXXXXXXXXXX
+###--------
+###Script:46
+ BBS2  2D XXXXXXXXXXXXX
+###--------
+###Script:47
+ BBS2  2E XXXXXXXXXXXXX
+###--------

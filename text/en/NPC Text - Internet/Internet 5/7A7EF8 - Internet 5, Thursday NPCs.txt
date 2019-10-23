@@ -1,0 +1,21 @@
+﻿###TextArchive:7A7EF8
+###Script:0
+###Mugshot:NormNaviYellow
+I'm on the lookout for
+Wood-based viruses.
+###--------
+###Mugshot:NormNaviYellow
+Chips are expensive,
+so I rather just delete
+a bunch of viruses.
+###--------
+###Script:1
+###Mugshot:NormNaviPink
+I'm great at using
+Fire-based chips!
+###--------
+###Mugshot:NormNaviPink
+So today's the day for
+me to rack up a fat
+virus deleting streak!
+###--------

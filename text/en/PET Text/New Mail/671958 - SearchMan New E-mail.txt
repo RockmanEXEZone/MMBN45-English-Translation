@@ -1,0 +1,189 @@
+﻿###TextArchive:671958
+###Script:1
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<printPlayerNickname>,
+new mail
+has arrived.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:2
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<printPlayerNickname>,
+new mail
+has arrived.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:3
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<printPlayerNickname>,
+new mail
+has arrived.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:4
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+New mail
+has arrived.
+###--------
+###Script:5
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+New mail
+has arrived.
+###--------
+###Script:6
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+New mail
+has arrived.
+###--------
+###Script:7
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+New mail
+has arrived.
+###--------
+###Script:10
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<printPlayerNickname>,
+we've received
+a new mission.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+New mail
+has arrived.
+###--------
+###Script:21
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+New mail
+has arrived.
+###--------
+###Script:22
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+New mail
+has arrived.
+###--------
+###Script:23
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+New mail
+has arrived.
+###--------
+###Script:24
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+New mail
+has arrived.
+###--------
+###Script:25
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+New mail
+has arrived.
+###--------
+###Script:26
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+New mail
+has arrived.
+###--------

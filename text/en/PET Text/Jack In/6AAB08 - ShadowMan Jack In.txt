@@ -1,0 +1,7 @@
+﻿###TextArchive:6AAB08
+###Script:1
+Jack in!
+ShadowMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

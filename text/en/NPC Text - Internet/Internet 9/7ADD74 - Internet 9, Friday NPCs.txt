@@ -1,0 +1,127 @@
+﻿###TextArchive:7ADD74
+###Script:0
+###Mugshot:NormNaviYellow
+Hey,you wanna battle?
+###--------
+###Mugshot:NormNaviYellow
+No Officials ever
+show their face
+around this area,
+###++++++++
+###Mugshot:NormNaviYellow
+so we can battle
+as hard as we want.
+###--------
+###Mugshot:NormNaviYellow
+How about it?
+###--------
+<positionOptionHorizontal><option><space> Okay!  <option><space> No way
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+I see... I guess it'd
+be bad if an Official
+spotted us, huh?
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Raaaaaarrr!!
+Energy at 100%!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+###--------
+###Mugshot:NormNaviYellow
+Execute!
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+Ow ow ow...
+You really got me...
+###--------
+###Mugshot:NormNaviYellow
+You're crazy skilled...
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+Raaaaaarrr!!
+The winner is meeee!
+###--------
+###Mugshot:NormNaviYellow
+Heh heh! You want
+a rematch,I'm
+ready anytime!
+###--------
+###Script:4
+###Mugshot:NormNaviYellow
+A b-battle...!?
+###--------
+###Mugshot:NormNaviYellow
+No way! Fat chance!
+Not happening!!
+###--------
+###Script:5
+###Mugshot:NormNaviYellow
+Hey,kid!
+###--------
+###Mugshot:NormNaviYellow
+How about a little
+1-on-1 with an
+older guy?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way
+###Command:positionOptionHorizontal width=11
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+No,no,no!
+Don't say that!
+###--------
+###Mugshot:NormNaviYellow
+Hey! Hey!
+###--------
+###Script:6
+###Mugshot:NormNaviYellow
+I'll show you how
+slippery my well-oiled
+techniques can be!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+Execute!
+###--------
+###Script:7
+###Mugshot:NormNaviYellow
+Ow,geez!
+You like to play
+it rough,huh...?
+###--------
+###Mugshot:NormNaviYellow
+You really slam-dunked
+this old-timer!
+###--------
+###Script:8
+###Mugshot:NormNaviYellow
+Don't make fun of
+us older folks!
+###--------
+###Mugshot:NormNaviYellow
+When the going gets
+tough,we get going!
+###--------
+###Script:9
+###Mugshot:NormNaviYellow
+A b-battle?
+No thanks...
+###--------
+###Mugshot:NormNaviYellow
+This old-timer's
+all out of breath...
+###--------

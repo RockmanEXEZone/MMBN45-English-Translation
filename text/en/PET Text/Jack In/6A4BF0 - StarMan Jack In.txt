@@ -1,0 +1,23 @@
+﻿###TextArchive:6A4BF0
+###Script:1
+Jack in!
+StarMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------
+###Script:2
+I really don't
+feel so good
+about today...
+###--------
+Maybe we shouldn't
+jack in after all?
+###--------
+Well,you'll do it
+anyway,won't you...
+###--------
+###Script:3
+I feel like
+today's gonna
+be a good day!
+###--------

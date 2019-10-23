@@ -1,0 +1,388 @@
+﻿###TextArchive:7A4DD4
+###Script:0
+###Mugshot:PurpleNavi
+As you can see,the
+plaza gets quite the
+turnout on weekends.
+###--------
+###Mugshot:PurpleNavi
+Why? Must be all the
+shops. You can never
+get tired of them.
+###--------
+###Mugshot:PurpleNavi
+I come here every
+week with my friends
+to hang out.
+###--------
+###Script:1
+###Mugshot:PurpleNavi
+For me,this place is
+like an oasis! I could
+spend all day here!
+###--------
+###Mugshot:PurpleNavi
+Wonder what chips
+I'll buy today? I look
+forward to finding out!
+###--------
+###Script:2
+###Mugshot:PurpleNavi
+I have to admit,
+today was a pretty
+fulfilling day.
+###--------
+###Mugshot:PurpleNavi
+Maybe I'll come
+here tomorrow too!
+###--------
+###Script:10
+###Mugshot:OfficialNavi
+I participate in the
+tournament every
+now and then,
+###--------
+###Mugshot:OfficialNavi
+but I always lose
+straight away
+in round 1...
+###--------
+###Mugshot:OfficialNavi
+I'll buy a bunch of
+stuff from the shops to
+help me win next time!
+###--------
+###Script:11
+###Mugshot:OfficialNavi
+It's another day
+of shopping for me!
+###--------
+###Mugshot:OfficialNavi
+I'll buy and prepare
+some useful items,then
+sweep the tournament!
+###--------
+###Script:12
+###Mugshot:OfficialNavi
+The selection of
+goods today was
+a bit lacking...
+###--------
+###Mugshot:OfficialNavi
+No matter!
+I'll just come
+again tomorrow!
+###--------
+###Script:20
+###Mugshot:HeelNaviBlack
+What the heck!?
+You've got a lotta guts,
+tryin' to talk to me!!
+###--------
+###Mugshot:HeelNaviBlack
+Ya wanna try me!?
+Blame yourself if you
+end up getting hurt!
+###--------
+###Mugshot:HeelNaviBlack
+･<wait>･<wait>･<wait>Huh? Uh,you really
+want to fight? Sorry...
+I was just kidding...
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:HeelNaviBlack
+I'm actually crazy
+weak at battling...
+Please forgive me...
+###--------
+###Script:21
+###Mugshot:HeelNaviBlack
+Typical Saturday...
+This place got
+pretty crowded.
+###--------
+###Mugshot:HeelNaviBlack
+...Even though I look
+like this,I actually
+get lonely easily.
+###--------
+###Mugshot:HeelNaviBlack
+When things are lively
+like this,it kinda
+makes me happy.
+###--------
+###Script:22
+###Mugshot:HeelNaviBlack
+Everyone's jacked out,
+so things have calmed
+down quite a bit.
+###--------
+###Mugshot:HeelNaviBlack
+I think it's about
+time for me to
+jack out too.
+###--------
+###Script:30
+###Mugshot:NormNaviYellow
+Hooooooh!!
+###++++++++
+###Mugshot:NormNaviYellow
+I've carefully sculpted
+this body in preparation
+for the tournament!!
+###--------
+###Mugshot:NormNaviYellow
+There's no chance
+I'm losing this one!!
+###--------
+###Script:31
+###Mugshot:NormNaviYellow
+I'm bursting
+with energy!!
+###--------
+###Mugshot:NormNaviYellow
+First place at the
+tournament belongs
+to me for sure!!
+###--------
+###Script:32
+###Mugshot:NormNaviYellow
+No matter the foe,
+I'm winning this
+tournament!
+###--------
+###Mugshot:NormNaviYellow
+Feast your eyes on
+this well-sculpted body!!
+###--------
+###Mugshot:NormNaviYellow
+Viva Macho!!
+Superb muscles!
+###--------
+###Script:40
+###Mugshot:NaviGirlOrange
+Ooh! Today is
+really bustlin' too.
+It's just amazin'!
+###--------
+###Mugshot:NaviGirlOrange
+Unlike the rural
+area I'm from,
+###++++++++
+###Mugshot:NaviGirlOrange
+this place really
+feels "cutting-edge"!
+###--------
+###Script:41
+###Mugshot:NaviGirlOrange
+I've lived in the
+country 'til just
+recently,
+###++++++++
+###Mugshot:NaviGirlOrange
+so to me,everythin'
+here's so fancy!
+###--------
+###Mugshot:NaviGirlOrange
+Hey,what'd you come
+here for,anyway?
+###--------
+###Script:42
+###Mugshot:NaviGirlOrange
+I just moved here
+from the country,
+###--------
+###Mugshot:NaviGirlOrange
+but I think I could
+get used to this
+hustle and bustle!
+###--------
+###Mugshot:NaviGirlOrange
+In this area ya can
+take some kinda
+NetBattler test,
+###--------
+###Mugshot:NaviGirlOrange
+and there's tourneys
+too,right? Amazing!
+###--------
+###Script:50
+###Mugshot:MrProgGreen
+NO MATTER WHAT
+KIND OF LOVE IT IS,
+###++++++++
+###Mugshot:MrProgGreen
+WE'RE STILL
+PROGRAMS...
+###--------
+###Mugshot:MrProgGreen
+AHHHHH...
+WILL OUR LOVE NOT
+BE PERMITTED!?
+###--------
+###Script:51
+###Mugshot:MrProgGreen
+AH,FOR US PROGRAMS
+TO FEEL THIS KIND OF
+LOVE FOR EACH OTHER...
+###--------
+###Mugshot:MrProgGreen
+IT MUST BE FATE
+PLAYING TRICKS!!
+###--------
+###Mugshot:MrProgGreen
+HOWEVER,I HAVE
+NO REGRETS!
+###--------
+###Mugshot:MrProgGreen
+OOOHHH,LOVE!
+I TRULY LOVE YOU!!
+###--------
+###Script:60
+###Mugshot:MrProgGreen
+EVEN IF LOVE
+BETWEEN PROGRAMS
+IS FORBIDDEN,
+###--------
+###Mugshot:MrProgGreen
+IF IT'S FOR YOU,
+I'D DO ANYTHING!
+LALALA,I LOVE YOU!
+###--------
+###Script:61
+###Mugshot:MrProgGreen
+AND I LOVE YOU,TOO!
+WE MUST BE
+"ROMEO AND JULIET"!
+###--------
+###Script:70
+###Mugshot:NormNaviBrown
+All those Navis entering
+in the tournament
+are pretty ecstatic!
+###--------
+###Mugshot:NormNaviBrown
+It reminds me of my
+youth... Makes me get
+a little excited too!
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Ah!!
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"The tournament lights
+ a fire in the souls of
+ all youthful battlers."
+###--------
+###Script:71
+###Mugshot:NormNaviBrown
+That green Navi
+up ahead is making
+a ruckus again...
+###--------
+###Mugshot:NormNaviBrown
+But it seems like he
+gets kicked out in
+round 1 every time.
+###--------
+###Mugshot:NormNaviBrown
+Well,I hope he
+can give it his
+best this week.
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Huh...
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"Young Navi,your time
+ will come eventually!
+ Give it your all,fight!"
+###--------
+###Script:90
+###Mugshot:NormNaviPink
+Greetings.
+Good day to you.
+###--------
+###Mugshot:NormNaviPink
+As is usual of
+Saturdays,
+###++++++++
+###Mugshot:NormNaviPink
+it certainly is
+quite lively,
+is it not?
+###--------
+###Mugshot:NormNaviPink
+The plaza is simply
+bursting with energy.
+###++++++++
+###Mugshot:NormNaviPink
+I certainly
+don't dislike it.
+###--------
+###Script:91
+###Mugshot:NormNaviPink
+Good day to you!
+###--------
+###Mugshot:NormNaviPink
+I'm getting dolled
+up for the shopping
+this weekend.
+###--------
+###Mugshot:NormNaviPink
+There are plenty of
+shops here,so I can
+stay here all day.
+###--------
+###Mugshot:NormNaviPink
+I could never get
+bored! Wouldn't
+you agree?
+###--------
+###Script:110
+###Mugshot:HeelNaviPurple
+I was the victor in
+a tournament recently.
+###--------
+###Mugshot:HeelNaviPurple
+And afterwards,they
+gave me an "SLicense".
+###--------
+###Mugshot:HeelNaviPurple
+If you have that,you
+can participate in even
+higher tournaments.
+###--------
+###Mugshot:HeelNaviPurple
+But...I plan on doing
+more training before
+I participate.
+###--------
+###Mugshot:HeelNaviPurple
+If I went in at my
+current level,I'd most
+likely be beaten badly...
+###--------
+###Script:111
+###Mugshot:HeelNaviPurple
+You probably already
+know this,but there
+are other tournaments.
+###--------
+###Mugshot:HeelNaviPurple
+The stronger you
+become,the more
+tournaments await you.
+###--------

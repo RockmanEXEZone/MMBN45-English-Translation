@@ -1,0 +1,226 @@
+﻿###TextArchive:7AAF94
+###Script:0
+###Mugshot:NormNaviYellow
+Yo! The fact that you
+came here means you
+wanna battle,right?
+###--------
+###Mugshot:NormNaviYellow
+I'll be your opponent,
+if that's okay!
+###--------
+<positionOptionHorizontal><option><space> Okay!  <option><space> No way!
+###Command:positionOptionHorizontal width=13
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+B-But...
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Here we go,then!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+###--------
+###Mugshot:NormNaviYellow
+Execute!
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+Yowza!
+Y-You're strong!
+###--------
+###Mugshot:NormNaviYellow
+I was sure I'd win,
+but I guess there's
+always someone better!
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+Well,that was a
+fun battle! Let's
+go again sometime!
+###--------
+###Script:4
+###Mugshot:NormNaviYellow
+Huh? Another battle?
+###--------
+###Mugshot:NormNaviYellow
+We just battled earlier...
+I'll pass for today.
+###--------
+###Script:5
+###Mugshot:HeelNaviPurple
+Friday's the perfect
+day for a battle,right?
+###--------
+###Mugshot:HeelNaviPurple
+In fact,let's
+battle right now!
+###--------
+<positionOptionHorizontal><option><space> Alright!  <option><space> Refuse
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Can't blame ya for
+not wanting to face
+someone like me!
+###--------
+###Script:6
+###Mugshot:HeelNaviPurple
+Sure you're ready?
+Let's do this then...
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+###--------
+###Mugshot:HeelNaviPurple
+Execuuuute!!
+###--------
+###Script:7
+###Mugshot:HeelNaviPurple
+N-Not bad...
+...Victory's all yours!
+###--------
+###Script:8
+###Mugshot:HeelNaviPurple
+Awriiiight!
+I win!
+###--------
+###Mugshot:HeelNaviPurple
+Hit me up for a
+rematch anytime,
+you hear?
+###--------
+###Mugshot:HeelNaviPurple
+Heheheheh...
+###--------
+###Script:9
+###Mugshot:HeelNaviPurple
+You wanna battle?
+###--------
+###Mugshot:HeelNaviPurple
+I've had enough today.
+I don't stand a chance
+against you right now.
+###--------
+###Script:10
+###Mugshot:NormNaviYellow
+Everyone gathered
+here is pretty tough,
+###--------
+###Mugshot:NormNaviYellow
+but the toughest of
+the bunch is me,I think.
+###--------
+###Mugshot:NormNaviYellow
+How about it?
+Wanna battle?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Not interested?
+Oh well...but let's
+battle another time!
+###--------
+###Script:11
+###Mugshot:NormNaviYellow
+Ready!?
+###--------
+###Mugshot:NormNaviYellow
+Let's do it!
+Battle routine,set!
+###--------
+###Mugshot:NormNaviYellow
+Execute!
+###--------
+###Script:12
+###Mugshot:NormNaviYellow
+Wooooow!!
+You're amazing!
+###--------
+###Mugshot:NormNaviYellow
+I got annihilated!
+But I don't mind losing
+to someone like you!
+###--------
+###Script:13
+###Mugshot:NormNaviYellow
+See? Told you
+I'm pretty tough!
+###--------
+###Mugshot:NormNaviYellow
+I'll take your next
+challenge anytime!
+###--------
+###Script:14
+###Mugshot:NormNaviYellow
+A battle? Sorry,but
+now's not a good time.
+###--------
+###Mugshot:NormNaviYellow
+I'm thinking up a new
+special move right now...
+###--------
+###Script:15
+###Mugshot:HeelNaviPurple
+Uh... Um...
+###--------
+###Mugshot:HeelNaviPurple
+W-W-Would you care
+to b-battle me!?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+O-Oh...okay...
+###--------
+###Script:16
+###Mugshot:HeelNaviPurple
+Um... P-Please...
+G-Go easy on me...
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set.
+...Execute!
+###--------
+###Script:17
+###Mugshot:HeelNaviPurple
+Y-You win...
+###--------
+###Script:18
+###Mugshot:HeelNaviPurple
+Huh? You're weaker
+than me! I was
+worried over nothing!
+###--------
+###Script:19
+###Mugshot:HeelNaviPurple
+If it's a battle you
+want,that's gonna
+be a "no" from me.
+###++++++++
+###Mugshot:HeelNaviPurple
+They don't call me
+the "Lose 'n Run
+King" for nothing!
+###--------

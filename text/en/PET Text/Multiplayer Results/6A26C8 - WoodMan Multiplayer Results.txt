@@ -1,0 +1,22 @@
+﻿###TextArchive:6A26C8
+###Script:1
+That was
+unfortunate...
+###--------
+Perhaps you
+were TOO gentle...
+###--------
+###Script:2
+We did it...
+<printPlayerNickname>!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Let's dedicate
+this victory
+to the Earth!
+###--------
+###Script:3
+Be a little bolder...
+It's not over until
+it's checkmate.
+###--------

@@ -1,0 +1,344 @@
+﻿###TextArchive:7028FC
+###Script:0
+Welcome to the
+Underworld!!
+###--------
+How's life in the
+Undernet treatin' ya?
+###--------
+You newbies are
+probably shaking in
+your boots,huh?
+###--------
+Better pry your eyes
+wide open and take a
+good look at this board,
+###--------
+and you might just find
+some rare info you can
+only get down here!
+###--------
+###Script:1
+Sure are a lotta
+Officials scoping the
+place out lately.
+###--------
+Alright,fess up.
+Which one of you
+did something bad?
+###--------
+Though,I guess
+there's no one here
+who ISN'T suspect...
+###--------
+###Script:2
+Well it ain't my fault!
+###--------
+I haven't been up to
+any mischief lately...
+###--------
+At the worst,I mess
+with the sleeping
+Mr.Progs and stuff.
+###--------
+Wait...that's not going
+to make the Officials
+come knocking,is it?
+###--------
+Right? I'm not
+wrong,am I?
+###--------
+###Script:3
+I found out the reason
+why the Officials
+are all up in arms.
+###--------
+Seems like they're
+trying to crack down
+on the Darkloids.
+###--------
+Those Darkloids are
+feared even here
+in the Undernet...
+###--------
+No way those Officials
+stand a chance,even
+if they all teamed up.
+###--------
+###Script:4
+About that Darkloid
+the Officials are
+looking for...
+###--------
+Apparently it's
+always seen
+near a coffin...
+###--------
+A coffin,huh...?
+###--------
+Heh heh heh...
+That's pretty scary!
+Even I'm shaking!
+###--------
+###Script:5
+Hey,listen up!
+C'mon,hear me out!
+###--------
+You ever think "Wow,
+these viruses are
+really powerful?"
+###--------
+They look like viruses
+from the surface,
+###++++++++
+but don't under-
+estimate 'em!
+###--------
+Each and every one
+of them is a cut
+above the rest.
+###--------
+The future of the
+Underworld's looking
+pretty grim if we
+###--------
+can't handle those
+viruses,though...
+...Hey,you listening!?
+###--------
+###Script:6
+So like,I checked
+out some mystery
+data nearby,
+###--------
+and,omigosh,I got
+this BattleChip
+called "GunDelSol"!
+###--------
+I'm like,super sure
+I've seen this weapon
+somewhere before,
+###++++++++
+but I'm like totally
+drawing a blank
+right now!
+###--------
+Like,do any of
+you guys know?
+###--------
+###Script:7
+GunDelSol? Isn't that
+the weapon from that
+massively popular
+###--------
+series from the
+surface,"Solar Boy"?
+If so,that's huge!
+###--------
+If someone from the
+surface got wind of
+that,they'd be so
+###++++++++
+shocked they'd be
+blown to the other
+end of the Net!
+###--------
+###Script:8
+Look,I despise the
+surface world,
+###--------
+but I'm a big fan of
+Solar Boy. I've got
+all the merch too.
+###--------
+I'll get straight to
+the point. You wanna
+give me that chip?
+###--------
+Not for free,of course.
+We'll work out a deal,
+per Undernet law...
+###--------
+Heh heh heh heh...
+###--------
+###Script:9
+I figured my standing
+in the Underworld would
+go way up if I could
+###--------
+delete that notorious
+villain ShadeMan
+with my own hands...
+###--------
+So I came all the
+way here,to the
+ends of the Net,but...
+###--------
+He's already
+been defeated!!
+###--------
+Have I wasted all this
+effort for nothing!?
+###--------
+Who was it!? Who
+got in the way of
+my rise to fame!
+###--------
+###Script:10
+The battler who
+destroyed ShadeMan
+is apparently someone
+###--------
+who only became an
+Official recently. A
+newbie,you could say.
+###--------
+We gotta look into
+this. They could be
+a real pain later on.
+###--------
+###Script:11
+ShadeMan got deleted,
+but he was just one
+of many Darkloids.
+###--------
+Those Officials are
+still trembling at the
+remaining Darkloids.
+###--------
+Such as...
+###--------
+Whoops! If I talk
+too much,I'll have
+trouble on my hands.
+###--------
+###Script:12
+This board is located
+in Undernet Area 4.
+###--------
+As someone who's been
+lurking the Underworld
+for a long time now,
+###--------
+I was sure that this
+was the furthest
+reaches of the Net.
+###--------
+But...I was mistaken.
+###--------
+It seems that,beyond
+here,there's a
+mysterious space
+###--------
+that stretches out
+endlessly,obscured
+by the darkness.
+###--------
+Just how far does
+the Net reach...?
+###--------
+###Script:13
+BBS03 ID0D
+###--------
+###Script:14
+BBS03 ID0E
+###--------
+###Script:15
+BBS03 ID0F
+###--------
+###Script:16
+BBS03 ID10
+###--------
+###Script:17
+BBS03 ID11
+###--------
+###Script:18
+BBS03 ID12
+###--------
+###Script:19
+BBS03 ID13
+###--------
+###Script:20
+BBS03 ID14
+###--------
+###Script:21
+BBS03 ID15
+###--------
+###Script:22
+BBS03 ID16
+###--------
+###Script:23
+BBS03 ID17
+###--------
+###Script:24
+BBS03 ID18
+###--------
+###Script:25
+BBS03 ID19
+###--------
+###Script:26
+BBS03 ID1A
+###--------
+###Script:27
+BBS03 ID1B
+###--------
+###Script:28
+BBS03 ID1C
+###--------
+###Script:29
+BBS03 ID1D
+###--------
+###Script:30
+BBS03 ID1E
+###--------
+###Script:31
+BBS03 ID1F
+###--------
+###Script:32
+BBS03 ID20
+###--------
+###Script:33
+BBS03 ID21
+###--------
+###Script:34
+BBS03 ID22
+###--------
+###Script:35
+BBS03 ID23
+###--------
+###Script:36
+BBS03 ID24
+###--------
+###Script:37
+BBS03 ID25
+###--------
+###Script:38
+BBS03 ID26
+###--------
+###Script:39
+BBS03 ID27
+###--------
+###Script:40
+BBS03 ID28
+###--------
+###Script:41
+BBS03 ID29
+###--------
+###Script:42
+BBS03 ID2A
+###--------
+###Script:43
+BBS03 ID2B
+###--------
+###Script:44
+BBS03 ID2C
+###--------
+###Script:45
+BBS03 ID2D
+###--------
+###Script:46
+BBS03 ID2E
+###--------
+###Script:47
+BBS03 ID2F
+###--------

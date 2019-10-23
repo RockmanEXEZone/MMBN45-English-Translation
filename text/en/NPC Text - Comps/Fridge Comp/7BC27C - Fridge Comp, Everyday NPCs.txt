@@ -1,0 +1,83 @@
+﻿###TextArchive:7BC27C
+###Script:0
+###Mugshot:MrProgGreen
+I-IT'S SO C-C-COLD...
+###--------
+###Script:10
+###Mugshot:NaviGirlOrange
+This is a venue
+for the Everyday
+Tournament!
+###--------
+###Mugshot:NaviGirlOrange
+Check the tournament
+board for the details!
+###--------
+###Script:11
+###Mugshot:NaviGirlOrange
+Whoa! Battles are
+so much fun!
+###--------
+###Mugshot:NaviGirlOrange
+Even just watching is
+getting me pumped!
+###--------
+###Script:12
+###Mugshot:NormNaviYellow
+Oooohh...
+Me too, me too!
+###--------
+###Script:13
+###Mugshot:PurpleNavi
+I'm so excited,
+I feel like I'll
+get a nosebleed!
+###--------
+###Mugshot:PurpleNavi
+Yahoo!!
+###--------
+###Script:14
+###Mugshot:NormNaviBrown
+The lineup of battles
+today is amazing!
+###--------
+###Mugshot:NormNaviBrown
+Wh-Wh-Whooo!
+###--------
+###Script:15
+###Mugshot:NaviGirlPurple
+Kyaah! Kyaah!
+It's time to battle!
+###--------
+###Script:16
+###Mugshot:HeelNaviPurple
+This tournament's
+battles will make
+for great reference!
+###--------
+###Mugshot:HeelNaviPurple
+Show me the
+good stuff,baby!
+###--------
+###Script:17
+###Mugshot:NaviGirlOrange
+You're super strong!
+I'm pretty impressed!
+###--------
+###Script:20
+###Mugshot:NaviGirlOrange
+Yay!!
+Congrats!
+###--------
+###Mugshot:NaviGirlOrange
+Please come
+challenge it again
+next time,<printCurrentNavi>!
+###Command:printCurrentNavi
+###--------
+###Script:21
+###Mugshot:NaviGirlOrange
+What a shame!
+Come challenge it
+again next time!
+###--------

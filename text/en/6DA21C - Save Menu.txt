@@ -1,0 +1,1280 @@
+﻿###TextArchive:6DA21C
+###Script:0
+## MegaMan
+Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:1
+OK to erase
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:2
+Now saving...
+Don't turn off
+the power.
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:3
+OK! Your save
+is complete!
+###--------
+###Script:4
+The data is corrupt
+and couldn't be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:10
+Time
+###--------
+###Script:11
+Lib
+###--------
+###Script:12
+Trophy
+###--------
+###Script:13
+Credts
+###--------
+###Script:14
+  <printBuffer>:<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padZeros=true padLeft=true
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Script:15
+[S]/[M]/[G]
+###--------
+###Script:16
+ [Trophy2A][Trophy2B]<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padZeros=false padLeft=true
+###--------
+###Script:17
+<printBuffer>[z]
+###Command:printBuffer buffer=0 minLength=6 padZeros=false padLeft=true
+###--------
+###Script:18
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padZeros=false padLeft=false
+###--------
+###Script:20
+## Roll
+Wanna save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:21
+OK to erase
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:22
+Now saving...
+Don't turn off
+the power.
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:23
+OK! Your save
+is complete!
+###--------
+###Script:24
+The data is corrupt
+and couldn't be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:25
+## GutsMan
+Wanna save your
+progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:26
+###--------
+It's OK to erase
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:27
+Now saving...
+Don't turn off
+the power!
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:28
+Yee-haw!
+Your save's
+complete!
+###--------
+###Script:29
+The data is corrupt
+and couldn't be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:30
+## WindMan
+Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:31
+OK to erase
+old save data...?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:32
+Now saving...
+Do not turn off
+the power.
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:33
+Your save
+is complete...
+###--------
+###Script:34
+The data is corrupt
+and could not be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:35
+## SearchMan
+Want to record
+your activities?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:36
+###--------
+Confirm erasing
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:37
+Now saving...
+Don't turn off
+the power...
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:38
+･･････
+Success!
+Save complete.
+###--------
+###Script:39
+The data is corrupt
+and couldn't be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:40
+## FireMan
+Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:41
+OK to erase
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:42
+Now saving...
+Don't you turn
+off the power!
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:43
+Your save
+is complete!
+###--------
+###Script:44
+The data is corrupt
+and couldn't be
+saved!
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:45
+## ThunderMan
+Want to save
+your progress...?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:46
+Is it OK to erase
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:47
+Now saving...
+Do not turn off
+the power...
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:48
+･･････
+Save complete.
+###--------
+###Script:49
+The data is corrupt
+and could not be
+saved...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:50
+## ProtoMan
+Want to record
+your activities?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:51
+###--------
+Confirm erasing
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:52
+Now saving...
+Don't turn off
+the power...
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:53
+Your save
+is complete.
+###--------
+###Script:54
+The data is corrupt
+and couldn't be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:55
+## NumberMan
+Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:56
+###--------
+Is it OK to erase
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:57
+Now saving...
+Please don't turn
+off the power.
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:58
+Save complete!
+###--------
+###Script:59
+The data is corrupt
+and couldn't be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:60
+## MetalMan
+Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:61
+OK to erase
+old save data...?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:62
+Now saving...
+Don't turn off
+the power.
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+Save complete...
+###--------
+###Script:64
+The data is corrupt
+and couldn't be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:65
+## JunkMan
+W-Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:66
+###--------
+C-Can I erase
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:67
+Now saving...
+Don't turn off
+the p-power.
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+f-failed...
+###--------
+T-Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:68
+...Phew...
+The s-save
+is complete.
+###--------
+###Script:69
+The data is corrupt
+and couldn't b-be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:70
+## AquaMan
+Want to save your
+progress,drip?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:71
+###--------
+Is it OK to erase
+old save data,drip?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:72
+Now saving!
+Don't turn off
+the power,drip!
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed,drip.
+###--------
+Try again,drip?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:73
+Your save is
+complete,drip!
+###--------
+###Script:74
+The data is corrupt
+and couldn't be
+saved,drip.
+###--------
+Try again,drip?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:75
+## WoodMan
+Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:76
+OK to erase
+old save data...?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:77
+Now saving...
+Don't turn off
+the power...
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:78
+Your save
+is complete...
+###--------
+###Script:79
+The data is corrupt
+and couldn't be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:80
+## StarMan
+Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:81
+OK to erase
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:82
+Now saving...
+Don't turn off
+the power,OK?
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:83
+Your save
+is complete!
+###--------
+###Script:84
+The data is corrupt
+and couldn't be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:85
+## ShadowMan
+Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:86
+I'll erase
+old save data...
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:87
+Now saving...
+Don't turn off
+the power...
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:88
+Your save
+is complete...
+###--------
+###Script:89
+The data is corrupt
+and couldn't be
+saved...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:90
+## KnightMan
+Shall I save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:91
+###--------
+May I erase
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:92
+Now saving...
+Please do not turn
+off the power.
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+Hm! The save
+failed.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:93
+The save
+is complete!
+###--------
+###Script:94
+The data is corrupt
+and could not be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:95
+## NapalmMan
+Wanna save
+your progress!?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:96
+OK to erase
+old save data!?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:97
+Now saving...
+Don't you turn
+off the power!
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again!?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:98
+Your save's
+complete!
+###--------
+###Script:99
+The data is corrupt
+and couldn't be
+saved!
+###--------
+Try again!?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:100
+## IceMan
+Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:101
+###--------
+Is it OK to erase
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:102
+Now saving!
+Please don't turn
+off the power!
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Let's try again!
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:103
+Your save
+is complete!
+###--------
+###Script:104
+The data is corrupt
+and couldn't be
+saved!
+###--------
+Let's try again!
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:105
+## ElecMan
+Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:106
+OK to erase
+old save data...?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:107
+Now saving...
+Don't turn off
+the power...
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:108
+Your save
+is complete...
+###--------
+###Script:109
+The data is corrupt
+and couldn't be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:110
+## PlantMan
+Want to save
+your progress?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:111
+OK to erase
+old save data?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:112
+Now saving...
+You'd better not
+turn off the power.
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:113
+Your save
+is complete.
+###--------
+###Script:114
+The data is corrupt
+and couldn't be
+saved.
+###--------
+Try again?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:115
+## Bass
+...Hmph,
+you're saving...?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:116
+I'll erase
+old save data...
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:117
+Now saving...
+Don't turn off
+the power...
+###--------
+<wait>
+###Command:wait frames=2
+###--------
+The save
+failed...
+###++++++++
+Try again...?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:118
+Save complete...
+###--------
+###Script:119
+The data is corrupt
+and couldn't be
+saved...
+###--------
+Try again...?
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------

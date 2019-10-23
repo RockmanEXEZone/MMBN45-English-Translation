@@ -1,0 +1,23 @@
+﻿###TextArchive:7B1C78
+###Script:0
+###Mugshot:OfficialNavi
+How do you become
+an Official...?
+###--------
+###Mugshot:OfficialNavi
+L-Let's see...
+Um,for now,you should
+study really hard.
+###--------
+###Mugshot:NormNaviYellow
+Got it!!
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+How do I become
+an Official!?
+###--------
+###Mugshot:OfficialNavi
+T-That's,uh...
+Oh boy...
+###--------

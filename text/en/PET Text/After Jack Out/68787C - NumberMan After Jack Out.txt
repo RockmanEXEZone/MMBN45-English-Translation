@@ -1,0 +1,17 @@
+﻿###TextArchive:68787C
+###Script:1
+<printPlayerNickname>,
+good job today.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+So? Were you able
+to calculate all
+of my movements?
+###--------
+###Script:2
+Yowch...
+###--------
+Odd... According to
+my calculations,we
+should have won.
+###--------

@@ -1,0 +1,118 @@
+﻿###TextArchive:6C2368
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+<printPlayerNickname>,
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>
+will be on soon!
+###Command:printScheduleBuffer
+###--------
+I've been looking
+forward to it!!
+###--------
+###Script:2
+<printPlayerNickname>,it's
+time to meet
+with 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+Have lots of fun!!
+###--------
+###Script:3
+It's time to eat!
+###--------
+My tummy's
+rumbling,too!
+###--------
+###Script:4
+###--------
+<printPlayerNickname>,it's
+time for school,
+so do your best!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:5
+<printPlayerNickname>,
+it's time for
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:6
+After that...
+###--------
+###Script:21
+###Mugshot:IceMan
+<printPlayerNickname>,
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:IceMan
+<printScheduleBuffer>
+will be on soon!
+###Command:printScheduleBuffer
+###--------
+###Mugshot:IceMan
+I've been looking
+forward to it!!
+###--------
+###Script:22
+###Mugshot:IceMan
+<printPlayerNickname>,it's
+time to meet
+with 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:IceMan
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Mugshot:IceMan
+Have lots of fun!!
+###--------
+###Script:23
+###Mugshot:IceMan
+It's time to eat!
+###--------
+###Mugshot:IceMan
+My tummy's
+rumbling,too!
+###--------
+###Script:24
+###Mugshot:IceMan
+###--------
+###Mugshot:IceMan
+<printPlayerNickname>,it's
+time for school,
+so do your best!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:25
+###Mugshot:IceMan
+<printPlayerNickname>,it's time
+for 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:IceMan
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:IceMan
+After that...
+###--------

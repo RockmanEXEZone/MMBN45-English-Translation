@@ -1,0 +1,197 @@
+﻿###TextArchive:7A4348
+###Script:0
+###Mugshot:NormNaviPink
+Today is Ladies Day,
+so there's a
+discount on chips!
+###--------
+###Mugshot:NormNaviPink
+I wonder what I
+should buy?!
+###--------
+###Script:20
+###Mugshot:HeelNaviBlack
+Hey,what're ya
+starin' at, huh?!
+###--------
+###Mugshot:HeelNaviBlack
+Ya got a problem
+with a guy like me
+###++++++++
+###Mugshot:HeelNaviBlack
+walkin' around this
+plaza? Do ya!?
+###--------
+###Mugshot:HeelNaviBlack
+･<wait>･<wait>･<wait>Huh?
+You don't really care?
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:HeelNaviBlack
+Ah,that's fine then...
+Sorry for yelling.
+###--------
+###Script:21
+###Mugshot:HeelNaviBlack
+What the heck!?
+###--------
+###Mugshot:HeelNaviBlack
+Ya got a problem with
+me bein' here on a
+weekday morning!?
+###--------
+###Mugshot:HeelNaviBlack
+Look,I...
+###--------
+###Mugshot:HeelNaviBlack
+I got nothin' but free
+time every day,so I
+can't help it,okay!?
+###--------
+###Script:22
+###Mugshot:HeelNaviBlack
+My operator... Uh...
+I mean,my boss says
+to jack out soon...
+###--------
+###Mugshot:HeelNaviBlack
+Alright! Time for
+me to jack out!
+###--------
+###Script:30
+###Mugshot:NormNaviYellow
+Hrraaaaaahh!!
+###++++++++
+###Mugshot:NormNaviYellow
+I've fully committed
+myself to doing
+nothing but train!
+###--------
+###Mugshot:NormNaviYellow
+Next tournament,I'm
+taking the champion-
+ship for sure!
+###--------
+###Mugshot:NormNaviYellow
+Hiya! Haya!
+Heya! Hoya!
+Huya! Haiyaaa!!
+###--------
+###Script:31
+###Mugshot:NormNaviYellow
+In order to win
+the tournament,I'm
+focusing on training!
+###--------
+###Mugshot:NormNaviYellow
+First,I'm gonna
+practice throwing
+bombs! Lift,and...
+###--------
+###Mugshot:NormNaviYellow
+Throw!!
+###--------
+###Script:32
+###Mugshot:NormNaviYellow
+It may be
+lunch time,
+###++++++++
+###Mugshot:NormNaviYellow
+but I don't care!
+I've got special
+training to do!
+###--------
+###Mugshot:NormNaviYellow
+Those who put in work
+while others relax
+will come out on top!
+###--------
+###Script:33
+###Mugshot:NormNaviYellow
+Whew,I'm beat...
+I got even
+stronger today...
+###--------
+###Mugshot:NormNaviYellow
+Now,I should have an
+overwhelming advantage
+at the tournament...
+###--------
+###Script:70
+###Mugshot:NormNaviBrown
+I was crazy about
+NetBattles too,
+a long time ago...
+###--------
+###Mugshot:NormNaviBrown
+Of course,I was
+pretty popular with
+the ladies, too!
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Hey!!
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"The days of my youth...
+ I am nostalgic for
+ when,I was popular."
+###--------
+###Script:71
+###Mugshot:NormNaviBrown
+In my youth,I was a
+reckless fighter,always
+getting up real close.
+###--------
+###Mugshot:NormNaviBrown
+But now,I prefer
+fighting from a
+distance,
+###++++++++
+###Mugshot:NormNaviBrown
+using things like
+Cannon and my Buster.
+###--------
+###Mugshot:NormNaviBrown
+I'm not the youngest
+anymore,so safety
+has to come first.
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Oh!!
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"I'm getting older. If
+ I swing a sword today,
+ my lower back aches."
+###--------
+###Script:90
+###Mugshot:NormNaviPink
+Greetings!
+A good day to you.
+###--------
+###Mugshot:NormNaviPink
+My,my...am I imagining
+things,or do you look
+a little fatigued?
+###--------
+###Mugshot:NormNaviPink
+When you've got your
+sights set on something,
+nothing can slow you!
+###++++++++
+###Mugshot:NormNaviPink
+...At least,that's the
+feeling I get.
+###--------

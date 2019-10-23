@@ -1,0 +1,221 @@
+﻿###TextArchive:79DC10
+###Script:0
+###Mugshot:MrProgGreen
+I'M NOT GOING
+TO DO ANYTHING
+AT ALL TODAY.
+###--------
+###Mugshot:MrProgGreen
+I'M JOBLESS ANYWAY,
+SO IT'S NOT LIKE I
+HAVE WORK TO DO...
+###--------
+###Mugshot:MrProgGreen
+*YAWN*
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+I'M GOING TO TAKE
+IT EASY TODAY!!
+###--------
+###Mugshot:MrProgGreen
+I'LL JUST LOUNGE
+AROUND ALL DAY.
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+IT'S NOON,HUH...?
+###--------
+###Mugshot:MrProgGreen
+WELL,WHATEVER...
+###--------
+###Mugshot:MrProgGreen
+*YAWN*
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+I DIDN'T DO ANYTHING
+AT ALL TODAY.
+###--------
+###Mugshot:MrProgGreen
+MAYBE I'LL DO MY
+BEST TOMORROW...
+###--------
+###Script:20
+###Mugshot:PurpleNavi
+It's Wednesday,right?
+###--------
+###Mugshot:PurpleNavi
+As the protector
+of this area,
+###--------
+###Mugshot:PurpleNavi
+I just hope that
+today will be peaceful.
+###--------
+###Script:21
+###Mugshot:PurpleNavi
+Good morning!
+###--------
+###Mugshot:PurpleNavi
+I'm protecting this
+area's peace once
+again today!
+###--------
+###Script:22
+###Mugshot:PurpleNavi
+It's calm at lunchtime...
+But you never know
+how long it'll last!
+###--------
+###Mugshot:PurpleNavi
+To keep order in this
+area,I can't let my
+guard down at all!
+###--------
+###Script:23
+###Mugshot:PurpleNavi
+Looks like today
+will end without
+incident,too...
+###--------
+###Mugshot:PurpleNavi
+As protector of the
+peace,it's the best
+feeling there is.
+###--------
+###Script:24
+###Mugshot:PurpleNavi
+Ah,it's Wednesday,
+right?
+###--------
+###Mugshot:PurpleNavi
+Tonight that part-time
+security guard will be
+patrolling here again.
+###--------
+###Mugshot:PurpleNavi
+He can look a bit
+scary,but he's a
+diligent young man.
+###--------
+###Mugshot:PurpleNavi
+He patrols here every
+Monday,Wednesday,
+Thursday & Saturday.
+###--------
+###Mugshot:PurpleNavi
+If you see him,
+why not say hi?
+###--------
+###Script:30
+###Mugshot:NormNaviPink
+My operator is a
+cute lovey-dovey
+young wife!!
+###--------
+###Mugshot:NormNaviPink
+Right now she's hard
+at work making the
+world's happiest family!
+###--------
+###Script:31
+###Mugshot:NormNaviPink
+I'm a little worried
+my operator has been
+putting on weight...
+###--------
+###Mugshot:NormNaviPink
+Maybe she should
+exercise every day,
+like that old Navi?
+###--------
+###Script:32
+###Mugshot:NormNaviPink
+Oh! It's time for
+my operator's
+beloved angel
+###--------
+###Mugshot:NormNaviPink
+to return home
+from preschool!
+###--------
+###Mugshot:NormNaviPink
+Come along,operator!
+Time to go!
+###--------
+###Script:40
+###Mugshot:HeelNaviPurple
+Patrolling this area
+at night is my
+part-time job!
+###--------
+###Mugshot:HeelNaviPurple
+I'm still new at this,
+so I'm still lacking
+in some areas,
+###--------
+###Mugshot:HeelNaviPurple
+but I'm willing to
+stake my life on
+this job!
+###--------
+###Script:41
+###Mugshot:HeelNaviPurple
+Hey! It's dangerous
+to be out alone
+this late at night!
+###--------
+###Mugshot:HeelNaviPurple
+If anything happens,
+call for me!
+###--------
+###Mugshot:HeelNaviPurple
+I'll come to your
+aid in a flash!
+###--------
+###Script:50
+###Mugshot:NormNaviBrown
+Hey! Hey! Hey!
+It's virus busting
+time!
+###--------
+###Mugshot:NormNaviBrown
+Don't look at me
+like I'm too old,
+whippersnapper!
+###--------
+###Mugshot:NormNaviBrown
+I'm still fit as a
+fiddle,even at my
+age! This is nothing!
+###--------
+###Script:80
+###Mugshot:NaviGirlOrange
+Time for lunch!
+It's Wednesday,right?
+###--------
+###Mugshot:NaviGirlOrange
+Isn't there a store
+that gives discounts
+to girls on Ladies Day?
+###--------
+###Mugshot:NaviGirlOrange
+Maybe I should
+go check it out.
+###--------
+###Script:90
+###Mugshot:HeelNaviPurple
+My operator's job
+is to build houses.
+###--------
+###Mugshot:HeelNaviPurple
+It's a job that's
+taxing on both
+your body and mind.
+###--------
+###Mugshot:HeelNaviPurple
+That means lunch
+break is a really
+important time,y'know.
+###--------

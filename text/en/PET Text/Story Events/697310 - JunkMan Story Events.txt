@@ -1,0 +1,147 @@
+﻿###TextArchive:697310
+###Script:10
+<printPlayerNickname>,let's
+walk around the
+Net some m-more.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:11
+I-I want to try
+the Apprentice
+License exam...
+###--------
+###Script:12
+I-I'll do my best
+on the Apprentice
+License exam!
+###--------
+###Script:13
+L-Let's go get
+a "<printChip>"!
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+L-Let's go get
+our Apprentice
+License...
+###--------
+###Script:15
+T-That Apprentice
+License exam
+was stimulating!
+###--------
+Want to take
+a little break?
+###--------
+###Script:16
+I-I'm curious about
+what's happening
+in Internet3...
+###--------
+###Script:17
+I-I think the Navi
+we beat was behind
+the incident...
+###--------
+Y-You're tired,
+right...? Want to
+jack out for now?
+###--------
+###Script:18
+I-I'm curious about
+what's happening
+in Internet5...
+###--------
+###Script:19
+I-I'm curious about
+what's happening
+in Internet7...
+###--------
+###Script:20
+I-I'm curious about
+what's happening
+in Internet9...
+###--------
+###Script:21
+I-I'm curious about
+what's happening
+in Internet10...
+###--------
+###Script:22
+I-I'm curious about
+what's happening
+in Internet12...
+###--------
+###Script:23
+L-Let's get the
+"MinusKey" back
+from BlackWorks!
+###--------
+###Script:24
+L-Looks like the
+other Navi has
+the "MinusKey".
+###--------
+###Script:25
+L-Let's bring back
+the "MinusKey"
+###--------
+to the Navi
+in Internet9.
+###--------
+###Script:26
+###--------
+L-Let's go to the
+Official Tournament
+entry desk...
+###--------
+###Script:27
+L-Let's go to
+the Undernet...
+###--------
+T-The Navi we're
+after should be
+near a coffin.
+###--------
+###Script:28
+L-Let's go enter
+the Official
+Tournament!
+###--------
+###Script:29
+The Official
+Tournament is
+t-this weekend!
+###--------
+I-I'll do my best!
+###--------
+###Script:30
+I-If we win the
+Official Tournament,
+###++++++++
+everyone will
+know my name...
+###--------
+###Script:31
+I-I wanna walk
+around the Net
+some more...
+###--------
+###Script:32
+###--------
+L-Let's do the
+Official Tournament
+prelims!
+###--------
+###Script:33
+L-Let's read that
+mail we just got!
+###--------
+###Script:34
+Once the
+weekend is over,
+###--------
+l-let's go enter
+the Official
+Tournament...
+###--------

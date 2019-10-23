@@ -1,0 +1,152 @@
+﻿###TextArchive:7A1170
+###Script:0
+###Mugshot:NaviGirlOrange
+Phew!!
+###--------
+###Mugshot:NaviGirlOrange
+I-I stick out like
+a sore thumb here!
+###--------
+###Mugshot:NaviGirlOrange
+The old ladies who
+are usually here
+aren't around.
+###++++++++
+###Mugshot:NaviGirlOrange
+I wonder if they
+forgot to jack in...?
+###--------
+###Mugshot:NaviGirlOrange
+Ahh... I'm so shy and
+I stand out so much.
+I feel so out of place!
+###--------
+###Script:1
+###Mugshot:NaviGirlOrange
+I've only recently
+started coming
+to the Net, so...
+###--------
+###Mugshot:NaviGirlOrange
+I'm still really
+nervous about
+###++++++++
+###Mugshot:NaviGirlOrange
+talking to other
+Navis and busting
+viruses...
+###--------
+###Script:2
+###Mugshot:NaviGirlOrange
+I'm still a beginner
+on the Net...
+###++++++++
+###Mugshot:NaviGirlOrange
+I haven't done anything
+yet,but my heart is
+already going crazy...
+###--------
+###Mugshot:NaviGirlOrange
+I need to build up
+some mental toughness...
+###--------
+###Script:30
+###Mugshot:OfficialNavi
+I'm always thinking
+about new comedy
+routines...
+###--------
+###Mugshot:OfficialNavi
+Then it hit me!
+A comedy duo with a
+Navi and operator!
+###--------
+###Mugshot:OfficialNavi
+I'm the funny man,
+and my operator
+is the straight man!
+###--------
+###Mugshot:OfficialNavi
+He'd be firing off
+jabs at a PET,though...
+###--------
+###Mugshot:OfficialNavi
+Whaddaya think!?
+Fresh and
+exciting,right!?
+###--------
+###Script:31
+###Mugshot:OfficialNavi
+Oh,hey!!
+###--------
+###Mugshot:OfficialNavi
+You know that really
+pumped-up Mr.Prog
+in this area!?
+###--------
+###Mugshot:OfficialNavi
+That guy is great!
+He knows just how
+to make me laugh!
+###--------
+###Mugshot:OfficialNavi
+If he came to my
+hometown,we'd make a
+killing off our jokes!
+###--------
+###Script:32
+###Mugshot:OfficialNavi
+Don't say a word!
+I can tell!
+###--------
+###Mugshot:OfficialNavi
+You've got a passion
+for this kind of
+thing,don'tcha?
+###--------
+###Mugshot:OfficialNavi
+Wanna come back with
+me to my hometown,
+###++++++++
+###Mugshot:OfficialNavi
+and reach for the
+top with our comedy?
+Whaddaya say!?
+###--------
+###Script:50
+###Mugshot:NormNaviBrown
+It's Saturday,but
+that guy is here
+again,same as always.
+###--------
+###Mugshot:NormNaviBrown
+Pretty impressive he
+doesn't get sick of
+doing that every day.
+###--------
+###Script:60
+###Mugshot:PurpleNavi
+Due to work,my
+day and night
+are flipped around.
+###--------
+###Mugshot:PurpleNavi
+I spend my waking
+hours during the night
+on weekend days,too.
+###--------
+###Script:61
+###Mugshot:PurpleNavi
+Today's Saturday,
+huh...
+###--------
+###Mugshot:PurpleNavi
+Wait,but if it's
+past 12,then it's
+already Sunday.
+###--------
+###Mugshot:PurpleNavi
+It's kinda confusing
+what day it is in the
+middle of the night.
+###--------

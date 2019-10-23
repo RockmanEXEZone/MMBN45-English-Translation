@@ -1,0 +1,43 @@
+﻿###TextArchive:79B45C
+###Script:0
+This gate blocks
+the way to the
+Undernet...
+###--------
+It's shut tight.
+･･････
+###--------
+###Script:13
+<printCurrentNavi> used:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=10
+###--------
+...PLUS LOCK HAS
+BEEN RELEASED...
+###--------
+###Script:14
+PLUS LOCK HAS
+BEEN RELEASED...
+###--------
+###Script:15
+<printCurrentNavi> used:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=11
+###--------
+...MINUS LOCK HAS
+BEEN RELEASED...
+###--------
+###Script:16
+MINUS LOCK HAS
+BEEN RELEASED...
+###--------
+###Script:17
+PLUS LOCK
+CURRENTLY ACTIVE...
+###--------
+###Script:18
+MINUS LOCK
+CURRENTLY ACTIVE...
+###--------

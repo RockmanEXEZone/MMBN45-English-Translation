@@ -1,0 +1,303 @@
+﻿###TextArchive:71BE98
+###Script:0
+This is a program
+that I created!
+###--------
+It's designed to
+repel viruses.
+###--------
+It's fun to use
+and makes short
+work of viruses!
+###--------
+<option><space> Begin deletion
+<option><space> Hear explanation
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:1
+I'll explain how to
+use the program!
+###--------
+You can see the
+virus counter
+above me.
+###--------
+That's how many
+viruses are
+being detected.
+###--------
+When you defeat a
+virus,the counter
+drops by one.
+###--------
+When the counter
+hits 0,the stage
+is cleared!
+###--------
+First,I'll teach
+you how to defeat
+the viruses!
+###--------
+Use the +Control
+Pad to select a
+chip on the left.
+###--------
+Depending on the
+chip,the attack
+range will be
+###--------
+different,so think
+carefully before
+choosing a chip!
+###--------
+Once you've chosen
+a chip,press the
+A Button to use it.
+###--------
+It'll defeat the
+viruses within the
+attack range!
+###--------
+In the upper
+right,your score
+is shown.
+###--------
+If you defeat a
+bunch of viruses
+all at once,
+###--------
+you gain more
+points! Once the
+program is cleared,
+###--------
+you'll get Zennys
+depending on
+your score.
+###--------
+Next,I'll explain
+the viruses!
+###--------
+The viruses are
+trapped in ice.
+###--------
+If an IceCube
+becomes cracked,
+###--------
+it'll break on
+the next turn.
+###--------
+Then the turn
+after that,the
+virus attacks you!
+###--------
+If you take
+damage 3 times,
+###--------
+the program
+will forcefully
+shutdown!
+###--------
+The IceCubes
+above the line
+###--------
+will fall down after
+you've attacked.
+###--------
+Look at what's
+above the line
+###--------
+and think hard
+about where you
+choose to attack!
+###--------
+Be careful!
+You can't undo
+it later!
+###--------
+If you line up 3
+of the same chip,
+###--------
+a Program Advance
+will occur!
+###--------
+Everything below
+the line will be
+deleted!
+###--------
+Also,if you delete
+3 or more viruses
+at once,
+###--------
+a TimeBomb will
+appear.
+###--------
+Each turn,its
+timer will
+decrease by one.
+###--------
+When the timer
+reaches 0,
+###--------
+everything near
+the TimeBomb
+will explode!
+###--------
+Lastly,I'll talk
+about bonuses.
+###--------
+If the 3 bottom
+rows all become
+IceCubes,
+###--------
+those 9 IceCubes
+will all break
+at once,
+###--------
+and you'll get
+bonus points!
+###--------
+Try to aim
+for that!
+###--------
+That's it for
+the program's
+explanation.
+###--------
+That took a while...
+Ready to start
+the program now?
+###--------
+<option><space> Sure
+<option><space> One more time
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:2
+CannonWideSwrdHeat-VEnergBomHILongSwrdNeoVari
+## Indexes need to be aligned for this.
+## Done in minigame.asm.
+###--------
+###Script:3
+Here's a reward
+for clearing!
+###--------
+If we convert your
+score into Zennys...
+###--------
+we end up with
+<printBuffer> Zennys.
+###Command:printBuffer buffer=3 minLength=1 padZeros=false padLeft=true
+###--------
+<wait>
+###Command:wait frames=20
+###--------
+You got:
+"<printBuffer> Zennys"!!!
+###Command:printBuffer buffer=3 minLength=1 padZeros=false padLeft=true
+###--------
+###Script:4
+0123456789
+###--------
+###Script:5
+This is a program
+I specially created
+###--------
+in order to
+neutralize viruses.
+###--------
+Operator,
+###--------
+please use this
+and delete the
+viruses!
+###--------
+Let's go!
+###--------
+<option><space> Begin deletion
+<option><space> Hear explanation
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:6
+......
+###--------
+Upon investigating
+the inside of
+this PET,
+###--------
+it seems that it's
+infected with the
+"FreezeVirus".
+###--------
+At this rate, the
+PET will end up
+freezing...
+###--------
+But don't worry!
+###--------
+This program is
+made to deal with
+the FreezeVirus.
+###--------
+Operate me,
+and delete the
+FreezeVirus!
+###--------
+Shall we start?
+###--------
+<option><space> Begin operation
+<option><space> Hear explanation
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:7
+There's some virus
+scanning software
+in this letter...
+###--------
+Recently,people
+have been talking
+about the
+###--------
+"FreezeVirus",
+which freezes
+PETs.
+###--------
+Just in case,
+I'm starting
+a virus scan!
+###--------
+......
+.........
+###--------
+!!!!!!
+###--------
+It seems the
+FreezeVirus
+lurks in this PET!
+###--------
+But,it's okay!
+###--------
+I have a program
+to repel viruses!
+###--------
+Let's do our best
+and exterminate
+the viruses!
+###--------
+<option><space> Begin deletion
+<option><space> Hear explanation
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------

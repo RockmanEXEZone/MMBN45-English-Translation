@@ -1,0 +1,177 @@
+﻿###TextArchive:7892C8
+###Script:10
+###Mugshot:AquaMan
+Let's walk around
+and look at stuff
+on the Net,drip!
+###--------
+###Script:11
+###Mugshot:AquaMan
+Let's go take the
+Apprentice License
+exam,drip!
+###--------
+###Script:12
+###Mugshot:AquaMan
+Let's do our best
+on the Apprentice
+License exam,drip!
+###--------
+###Script:13
+###Mugshot:AquaMan
+<printPlayerNickname>,let's get
+a "<printChip>",drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:AquaMan
+Drip,drip!
+Let's go get our
+Apprentice License!
+###--------
+###Script:15
+###Mugshot:AquaMan
+You did a great job
+on the Apprentice
+License exam,drip!
+###++++++++
+###Mugshot:AquaMan
+Want to take a
+little break?
+###--------
+###Script:16
+###Mugshot:AquaMan
+I wonder what's
+going on in
+Internet3,drip...
+###--------
+###Script:17
+###Mugshot:AquaMan
+Looks like the Navi
+we beat was behind
+the incident,drip...
+###--------
+###Mugshot:AquaMan
+Are you tired,drip?
+Want to jack out
+for now?
+###--------
+###Script:18
+###Mugshot:AquaMan
+I wonder what's
+going on in
+Internet5,drip...
+###--------
+###Script:19
+###Mugshot:AquaMan
+I wonder what's
+going on in
+Internet7,drip...
+###--------
+###Script:20
+###Mugshot:AquaMan
+I wonder what's
+going on in
+Internet9,drip...
+###--------
+###Script:21
+###Mugshot:AquaMan
+I wonder what's
+going on in
+Internet10,drip...
+###--------
+###Script:22
+###Mugshot:AquaMan
+I wonder what's
+going on in
+Internet12,drip...
+###--------
+###Script:23
+###Mugshot:AquaMan
+Let's get back the
+"MinusKey" from
+BlackWorks,drip!
+###--------
+###Script:24
+###Mugshot:AquaMan
+Looks like the
+other Navi has the
+"MinusKey",drip!
+###--------
+###Script:25
+###Mugshot:AquaMan
+Let's bring back the
+"MinusKey" to the Navi
+in Internet9,drip!
+###--------
+###Script:26
+###Mugshot:AquaMan
+Let's go to the
+Official Tournament
+entry desk,drip!
+###--------
+###Script:27
+###Mugshot:AquaMan
+I'm a little scared...
+but let's go to the
+Undernet...drip.
+###--------
+###Mugshot:AquaMan
+The Navi we're
+after is near a
+coffin,drip...
+###--------
+###Script:28
+###Mugshot:AquaMan
+Let's go enter
+the Official
+Tournament,drip!
+###--------
+###Script:29
+###Mugshot:AquaMan
+The Official Tournament
+is this weekend,drip!
+###++++++++
+###Mugshot:AquaMan
+Let's blow it out
+of the water!
+###--------
+###Script:30
+###Mugshot:AquaMan
+The Official Tournament...
+Now that's a contest
+you gotta try hard in!
+###--------
+###Script:31
+###Mugshot:AquaMan
+Drip,drip!
+I wanna play on the
+Net even more!
+###--------
+###Script:32
+###Mugshot:AquaMan
+<printPlayerNickname>,let's go do
+the Official Tournament
+prelims,drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:33
+###Mugshot:AquaMan
+<printPlayerNickname>,let's
+read the mail we
+just got,drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:34
+###Mugshot:AquaMan
+Once the weekend is
+over,let's go enter the
+Official Tournament,drip!
+###--------
+###Script:35
+###Mugshot:AquaMan
+The Navi we're
+after is near a
+coffin,drip...
+###--------

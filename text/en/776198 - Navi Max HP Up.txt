@@ -1,0 +1,201 @@
+﻿###TextArchive:776198
+###Script:1
+###Mugshot:FireMan
+...Runnin' low on heat...
+Hey,mind if I absorb
+that "<printChip>"?
+###Command:printChip buffer=1 chip=0
+###--------
+###Mugshot:FireMan
+Yeah,that'd really get
+me fired up again.
+###--------
+###Mugshot:FireMan
+It's fine,right?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:2
+###Mugshot:FireMan
+Whoa! ...The chip
+data's burnin' up
+inside of me...
+###--------
+###Mugshot:FireMan
+Whoaaa...
+BUUUUUURN!!
+###--------
+###Script:3
+FireMan's max HP
+increased by 50!
+###--------
+###Script:4
+###Mugshot:FireMan
+...Oh yeah? Well,
+if you get any more
+Fire-based chips
+###++++++++
+###Mugshot:FireMan
+you don't need,
+go ahead and let
+me absorb 'em!
+###--------
+###Script:5
+###Mugshot:AquaMan
+I'd like to absorb
+this "<printChip>",drip!
+###Command:printChip buffer=1 chip=0
+###--------
+###Mugshot:AquaMan
+It'll replenish my
+water and power
+me up,drip!
+###--------
+###Mugshot:AquaMan
+Is it OK?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:6
+###Mugshot:AquaMan
+Thanks,drip!
+###--------
+###Mugshot:AquaMan
+Water's pouring out
+from the chip data!
+###--------
+###Mugshot:AquaMan
+This water's nice,
+drip... Splash,splash!
+###--------
+###Script:7
+AquaMan's max HP
+increased by 50!
+###--------
+###Script:8
+###Mugshot:AquaMan
+I see...
+That's too bad,drip.
+###--------
+###Mugshot:AquaMan
+If you find any more
+Aqua-based chips
+###++++++++
+###Mugshot:AquaMan
+you don't need,
+please let me
+absorb them,drip!
+###--------
+###Script:9
+###Mugshot:ElecMan
+Hey,can I try
+absorbing this
+"<printChip>"?
+###Command:printChip buffer=1 chip=0
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:10
+###Mugshot:ElecMan
+Whoa! ...The chip
+data's going wild
+inside of me!
+###--------
+###Mugshot:ElecMan
+S-S-S...
+SPAAAAAARK!!
+###--------
+###Script:11
+ElecMan's max HP
+increased by 50!
+###--------
+###Script:12
+###Mugshot:ElecMan
+...Fine.
+If you find any
+Elec-based chips
+###++++++++
+###Mugshot:ElecMan
+you don't need,
+let me absorb them...
+###--------
+###Script:13
+###Mugshot:PlantMan
+This "<printChip>" is
+rather beautiful.
+###Command:printChip buffer=1 chip=0
+###--------
+###Mugshot:PlantMan
+You don't mind
+if I absorb this
+"<printChip>",right?
+###Command:printChip buffer=1 chip=0
+###--------
+###Mugshot:PlantMan
+All beautiful things
+belong to me...
+###--------
+###Mugshot:PlantMan
+Well?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:14
+###Mugshot:PlantMan
+...The chip data is
+melting inside of me...
+###--------
+###Mugshot:PlantMan
+Haaaah...
+Leeeeaaaaf...
+###--------
+###Script:15
+PlantMan's max HP
+increased by 50!
+###--------
+###Script:16
+###Mugshot:PlantMan
+...I see.
+Well,if you find any
+Wood-based chips
+###++++++++
+###Mugshot:PlantMan
+you don't need,do
+let me absorb them.
+###--------
+###Script:17
+###Mugshot:KnightMan
+That was a splendid
+battle! My max HP
+increased by 50!
+###--------
+###Script:18
+###Mugshot:Bass
+...My max HP
+increased by 50.
+###--------
+###Script:19
+###Mugshot:GutsMan
+Whoa! My max HP
+increased by 10!
+###--------

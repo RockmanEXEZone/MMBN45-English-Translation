@@ -1,0 +1,117 @@
+﻿###TextArchive:6D27EC
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+Hmph...
+
+###--------
+<printScheduleBuffer>
+will begin soon...
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+###Script:2
+Isn't it time
+to meet with
+<printScheduleBuffer>?
+###Command:printScheduleBuffer
+###--------
+Are you going
+to battle them?
+###--------
+###Script:3
+It's time to eat.
+###--------
+Why do I have to
+remind you about
+these things...?
+###--------
+How obnoxious...
+###--------
+###Script:4
+It's time
+for school.
+###--------
+Why do you humans
+desire to learn
+so much?
+###--------
+Isn't power all
+that matters...?
+###--------
+###Script:5
+It's time for
+<printScheduleBuffer>⋯
+###Command:printScheduleBuffer
+###--------
+...Hmph.
+###--------
+###Script:6
+Also...
+###--------
+###Script:21
+###Mugshot:Bass
+Hmph...
+
+###--------
+###Mugshot:Bass
+<printScheduleBuffer>
+will begin soon...
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+###Script:22
+###Mugshot:Bass
+Isn't it time
+to meet with
+<printScheduleBuffer>?
+###Command:printScheduleBuffer
+###--------
+###Mugshot:Bass
+Are you going
+to battle them?
+###--------
+###Script:23
+###Mugshot:Bass
+It's time to eat.
+###--------
+###Mugshot:Bass
+Why do I have to
+remind you about
+these things...?
+###--------
+###Mugshot:Bass
+How obnoxious...
+###--------
+###Script:24
+###Mugshot:Bass
+It's time
+for school.
+###--------
+###Mugshot:Bass
+Why do you humans
+desire to learn
+so much?
+###--------
+###Mugshot:Bass
+Isn't power all
+that matters...?
+###--------
+###Script:25
+###Mugshot:Bass
+It's time for
+<printScheduleBuffer>⋯
+###Command:printScheduleBuffer
+###--------
+###Mugshot:Bass
+...Hmph.
+###--------
+###Script:26
+###Mugshot:Bass
+Also...
+###--------

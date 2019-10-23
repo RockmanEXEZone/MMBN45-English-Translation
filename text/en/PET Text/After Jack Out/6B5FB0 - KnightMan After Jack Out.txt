@@ -1,0 +1,19 @@
+﻿###TextArchive:6B5FB0
+###Script:1
+Your loyal
+KnightMan
+has returned.
+###--------
+That was most
+skillful operating,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:2
+Gah! I have been
+shamed for life!
+###--------
+I vow to redeem
+myself in the
+next encounter.
+###--------

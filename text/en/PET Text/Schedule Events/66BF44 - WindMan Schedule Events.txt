@@ -1,0 +1,95 @@
+﻿###TextArchive:66BF44
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+<printScheduleBuffer> will
+be airing soon...
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+Make sure to stay
+a good distance
+away from the TV...
+###--------
+###Script:2
+It is time to
+meet <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+You cannot afford
+to be late...
+###--------
+###Script:3
+<printPlayerNickname>,it
+is time to eat.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Be sure to finish
+your plate...
+###--------
+###Script:4
+It is time for
+school. Study well...
+###--------
+###Script:5
+It is time for
+<printScheduleBuffer>.
+Do not be late...
+###Command:printScheduleBuffer
+###--------
+###Script:6
+Following that...
+###--------
+###Script:21
+###Mugshot:WindMan
+<printScheduleBuffer> will
+be airing soon...
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+###Mugshot:WindMan
+Make sure to stay a
+good distance away
+from the TV...
+###--------
+###Script:22
+###Mugshot:WindMan
+It is time to
+meet <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:WindMan
+You cannot afford
+to be late...
+###--------
+###Script:23
+###Mugshot:WindMan
+<printPlayerNickname>,it
+is time to eat.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:WindMan
+Be sure to finish
+your plate...
+###--------
+###Script:24
+###Mugshot:WindMan
+It is time for school.
+Study well...
+###--------
+###Script:25
+###Mugshot:WindMan
+It is time for
+<printScheduleBuffer>.
+Do not be late...
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:WindMan
+Following that...
+###--------

@@ -1,0 +1,99 @@
+﻿###TextArchive:79C8F8
+###Script:2
+###Mugshot:NaviGirlOrange
+Welcome,to the
+Everyday Tournament!
+###--------
+###Mugshot:NaviGirlOrange
+Hey,hey! You know
+what it is that's
+valued by everyone?
+###--------
+###Mugshot:NaviGirlOrange
+It's not gold,or
+even platinum!
+###--------
+###Mugshot:NaviGirlOrange
+What's valued
+by everyone...
+is strength!
+###--------
+###Mugshot:NaviGirlOrange
+Navis who seek even
+stronger opponents
+all gather here!
+###--------
+###Mugshot:NaviGirlOrange
+So how about it?
+Will you enter the
+Everyday Tournament?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NaviGirlOrange
+Hehehe,
+just as I thought!
+###--------
+###Mugshot:NaviGirlOrange
+Your face is shouting
+"Let's fight already!"
+###--------
+###Mugshot:NaviGirlOrange
+Well,aren't you
+Mr.Impatient?
+###--------
+###Mugshot:NaviGirlOrange
+Alright then,let's get
+started immediately!
+###--------
+###Mugshot:NaviGirlOrange
+Everyday Tournament,
+here we goooo!
+###--------
+###Script:3
+###Mugshot:NaviGirlOrange
+Oh my,is that right?
+That's too bad...
+###--------
+###Script:4
+###Mugshot:NaviGirlOrange
+That's it for this
+Everyday Tournament!
+###--------
+###Mugshot:NaviGirlOrange
+Congratulations,champ!
+Come enter again!
+###--------
+###Mugshot:NaviGirlOrange
+It's held the same
+times every day:
+###--------
+###Mugshot:NaviGirlOrange
+<regionUS>9:00 AM to 10:00 AM<regionEnd><regionEU>[1px] 9:00 to 10:00<regionEnd>,
+<regionUS>1:00 PM to [1px] 2:00 PM<regionEnd><regionEU>13:00 to 14:00<regionEnd>,
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:NaviGirlOrange
+<regionUS>4:00 PM to [1px] 5:00 PM<regionEnd><regionEU>16:00 to 17:00<regionEnd>,
+<regionUS>8:00 PM to [1px] 9:00 PM<regionEnd><regionEU>20:00 to 21:00<regionEnd>.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------

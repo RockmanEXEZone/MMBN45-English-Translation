@@ -1,0 +1,167 @@
+﻿###TextArchive:7A4A8C
+###Script:20
+###Mugshot:HeelNaviBlack
+What're you
+staring at!?
+###--------
+###Mugshot:HeelNaviBlack
+Don't go lookin'
+at me like that!!
+###--------
+###Mugshot:HeelNaviBlack
+Bein' stared at like
+that... I-It's scary!!
+###--------
+###Script:21
+###Mugshot:HeelNaviBlack
+Today's Friday,huh...
+###--------
+###Mugshot:HeelNaviBlack
+It should be pretty
+busy here tomorrow.
+###--------
+###Script:22
+###Mugshot:HeelNaviBlack
+Well,it's gotten
+dark out,so I'm
+gonna jack out soon.
+###--------
+###Script:30
+###Mugshot:NormNaviYellow
+At last,the tournament
+is almost here!!
+###--------
+###Mugshot:NormNaviYellow
+I'll charge up my fighting
+spirit with one last
+training session!!
+###--------
+###Mugshot:NormNaviYellow
+Ooooooohhhh･<wait>･<wait>･
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviYellow
+Macho!!
+###--------
+###Script:31
+###Mugshot:NormNaviYellow
+There's no time left
+until the tournament!
+###++++++++
+###Mugshot:NormNaviYellow
+Gotta do nothing
+but train!
+###--------
+###Mugshot:NormNaviYellow
+*huff huff huff*
+*huff huff huff*
+*huff huff huff*
+###--------
+###Script:32
+###Mugshot:NormNaviYellow
+Okay! Only a little
+longer until the
+tournament!
+###--------
+###Mugshot:NormNaviYellow
+One last training
+session! Let's go!!
+###--------
+###Mugshot:NormNaviYellow
+Haaa...
+###--------
+###Mugshot:NormNaviYellow
+Haaaaaah...!
+###--------
+###Mugshot:NormNaviYellow
+HAAAAAAAAAHH!!!
+###--------
+###Script:33
+###Mugshot:NormNaviYellow
+Hehehe...
+Excellent...
+###--------
+###Mugshot:NormNaviYellow
+I've done nothing
+but train...
+###++++++++
+###Mugshot:NormNaviYellow
+I'm all but guaranteed
+to win the tournament
+like this!
+###--------
+###Mugshot:NormNaviYellow
+If I were to put this
+confident feeling into
+words,it would be...
+###--------
+###Mugshot:NormNaviYellow
+Macho!!
+###--------
+###Script:70
+###Mugshot:NormNaviBrown
+You... I can see
+it in your eyes...
+###--------
+###Mugshot:NormNaviBrown
+You have the potential
+to become strong!
+###--------
+###Mugshot:NormNaviBrown
+I have plenty of Net-
+Battling experience,
+so I have no doubt!
+###--------
+###Mugshot:NormNaviBrown
+When I look at you...
+･<wait>･<wait>･<wait>That's it!!
+A haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"O youthful Navi...
+ You'll become a warrior.
+ Go and do your best."
+###--------
+###Script:71
+###Mugshot:NormNaviBrown
+Are you getting
+along well with
+your operator?
+###--------
+###Mugshot:NormNaviBrown
+I've been together
+with mine for a
+very long time.
+###--------
+###Mugshot:NormNaviBrown
+Lots of things have
+happened,and I have
+countless fond memories...
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Hang on!!
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"I remember it:
+ my operator and I;
+ the day we both met."
+###--------
+###Script:90
+###Mugshot:NormNaviPink
+Oh,hello.
+How are you doing?
+###--------
+###Mugshot:NormNaviPink
+Tomorrow is Saturday...
+It's going to be
+busy around here.
+###--------

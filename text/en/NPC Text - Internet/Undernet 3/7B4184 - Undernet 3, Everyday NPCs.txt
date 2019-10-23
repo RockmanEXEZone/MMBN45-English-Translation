@@ -1,0 +1,63 @@
+﻿###TextArchive:7B4184
+###Script:0
+###Mugshot:ShadowMan
+Who are you...
+Did you come to
+get deleted?
+###--------
+<positionOptionHorizontal><option><space> Try me!  <option><space> No!!!
+###Command:positionOptionHorizontal width=13
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:ShadowMan
+Leave before I
+lose my temper...
+###--------
+###Script:1
+###Mugshot:ShadowMan
+W-Why you...
+I'll pay you back for
+this,mark my words...
+###--------
+###Script:2
+###Mugshot:ShadowMan
+Someone like you
+cannot hope to put
+an end to me... Leave!
+###--------
+###Script:3
+###Mugshot:ShadowMan
+Are you prepared to
+cross the river Styx?
+###--------
+###Mugshot:ShadowMan
+Then,let us
+fight with honor!
+###--------
+###Script:4
+###Mugshot:ShadowMan
+What is the
+meaning of this...?
+###--------
+###Mugshot:ShadowMan
+Using such ninja arts
+in front of me...is
+asking to be deleted.
+###--------
+###Mugshot:ShadowMan
+I hope you're ready...
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Sorry!
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:ShadowMan
+Leave this
+place at once!
+###--------

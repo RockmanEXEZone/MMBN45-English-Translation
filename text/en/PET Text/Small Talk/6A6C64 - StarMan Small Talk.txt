@@ -1,0 +1,1029 @@
+﻿###TextArchive:6A6C64
+###Script:1
+There sure are
+tons of kinds
+of chips!
+###--------
+Wonder if there's
+more chips than
+there are stars?
+###--------
+Ask about it
+at <printSchool>!
+###Command:printSchool capitalizeFirst=false
+###--------
+###Script:2
+The structure of
+chips & the stars...
+###--------
+They're both just
+as mysterious,
+aren't they!?
+###--------
+They teach you
+about both at
+<printSchool>,right?
+###Command:printSchool capitalizeFirst=false
+###--------
+Sounds nice...
+###--------
+###Script:3
+What kinda chips
+do your pals at
+<printSchool> have?
+###Command:printSchool capitalizeFirst=false
+###--------
+Do they have
+any chips that
+go "twinkle"?
+###--------
+Ooh,I wanna know!
+###--------
+###Script:5
+The Net is a
+pretty vast place!
+###--------
+Wonder which is
+larger? The Net,
+or outer space?
+###--------
+Let's try asking
+<printOlderBro>!
+###Command:printOlderBro capitalizeFirst=false
+###--------
+###Script:6
+The stars should
+be really visible
+today.
+###--------
+<printYoungerBro> likes
+stars,so let's go
+see them together!
+###Command:printYoungerBro capitalizeFirst=true
+###--------
+###Script:7
+Didya know?
+###--------
+Nowadays,you can
+view the current
+time on the PET...
+###--------
+But in the past,
+people figured
+out the time
+###++++++++
+by looking at the
+positions of the
+constellations!
+###--------
+Did <printOlderSis> ever
+tell you that?
+###Command:printOlderSis capitalizeFirst=false
+###--------
+###Script:8
+The word "cyber-
+space" gets me
+all excited...
+###--------
+Isn't it romantic?
+It's got the word
+"space" in it!
+###--------
+Wonder what
+<printYoungerSis> thinks?
+###Command:printYoungerSis capitalizeFirst=false
+###--------
+###Script:9
+Have you heard
+of the "Friend"
+constellation?
+###++++++++
+You know about
+it,right!?
+###--------
+Hah! Just kidding!
+It doesn't exist!
+###++++++++
+But it'd be nice
+if it did,huh?
+###--------
+Betcha <printFriend>
+thinks so,too!
+###Command:printFriend capitalizeFirst=false
+###--------
+###Script:10
+<printPlayerNickname>,you and
+<printFriend> were
+both born under
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printFriend capitalizeFirst=false
+###--------
+a star that
+destines people
+to become friends!
+###--------
+So make sure you
+take good care
+of each other!
+###--------
+###Script:11
+Let's challenge
+<printFriend> to a
+Network Duel!
+###Command:printFriend capitalizeFirst=false
+###--------
+We're sure to win!
+That's what the
+stars told me!
+###--------
+###Script:13
+Ever heard of
+the fruit called
+"starfruit?"
+###--------
+Yeah,it actually
+exists! It's got a
+refreshing flavor
+###++++++++
+and it's healthy
+for you to boot!
+###--------
+How does
+<printFavFood> stack
+up against that?
+###Command:printFavFood capitalizeFirst=false
+###--------
+###Script:14
+Getting carried
+away on the Net
+###--------
+sure makes you
+work up an
+appetite!
+###--------
+At times like
+those,just wish
+upon a star...
+###--------
+"I want to
+eat <printFavFood>!"
+If you're lucky,
+###Command:printFavFood capitalizeFirst=false
+###--------
+it might just rain
+down on you...
+Just kidding!
+###--------
+###Script:15
+Doesn't the
+full moon look
+###--------
+just as tasty
+as <printFavFood>?
+###Command:printFavFood capitalizeFirst=false
+###--------
+Huh? It's just me?
+C'mon,no way!
+###--------
+###Script:17
+Nothing beats
+<printHobby> and
+chip collecting!
+###Command:printHobby capitalizeFirst=false
+###--------
+Those really
+put a twinkle
+in my eyes!
+###--------
+###Script:18
+You tend to forget
+about the time when
+collecting chips!
+###--------
+Or to put it into
+astronomical terms...
+###--------
+You forget about
+the rotation
+of the Earth!
+###--------
+It tends to happen
+when you're doing
+<printHobby>,too!
+###Command:printHobby capitalizeFirst=false
+###--------
+###Script:19
+The Data Library's
+like a guide for
+all the chips,right?
+###--------
+Well,guides for all
+the constellations
+are pretty fun,too!
+###--------
+What about guides
+for <printHobby>?
+That should be fun!
+###Command:printHobby capitalizeFirst=false
+###--------
+###Script:21
+What would you
+wish for upon a
+shooting star?
+###--------
+Be #1 in the
+tournament? Or...
+be a<printDream> <printDream>?
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+Heh heh. I get it!
+Can't pick one or
+the other,huh?
+###--------
+###Script:22
+The destiny of
+the stars is
+###++++++++
+really important
+in the tournament!
+###--------
+Same goes for
+becoming a<printDream>
+<printDream>! So...
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+Make sure to
+wish on the stars
+every day!
+###--------
+###Script:23
+You can't predict
+the outcome of
+the tournament!
+###--------
+Basically,only the
+stars will know!
+###--------
+You can't foresee
+where you'll be
+in the future.
+###--------
+But if you wish
+upon the stars...
+###++++++++
+Your dream to
+be a<printDream> <printDream>
+will come true!
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:25
+Twinkle twinkle!
+###--------
+Sparkle sparkle!
+###--------
+May destiny have
+good things in store
+###--------
+for <printPlayerNickname>
+and <printCrush>⋯
+###Command:printPlayerNickname capitalizeFirst=false
+###Command:printCrush capitalizeFirst=false
+###--------
+###Script:26
+What happened,
+<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+What's so exciting?
+Did you see a
+shooting star?
+###--------
+Oh! I got it!
+You were thinking
+about <printCrush>!
+###Command:printCrush capitalizeFirst=false
+###--------
+###Script:27
+Hey,is that a
+shooting star!?
+###--------
+...Or is it
+just <printCrush>
+###Command:printCrush capitalizeFirst=false
+###++++++++
+descending from
+the heavens?
+###--------
+Hehe,what'd
+you think?
+Smooth,huh?
+###--------
+###Script:29
+You can be honest
+with your feelings
+in a mail,huh?
+###--------
+You may be able to
+come to terms with
+<printPlayerEnemy>,too.
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+After all,the fate
+of the stars can
+change any time!
+###--------
+###Script:30
+<printPlayerNickname> and
+<printPlayerEnemy>⋯
+It's too bad,but
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+your friendship
+fortune isn't
+looking great...
+###--------
+But fate can
+be fickle!
+Stay positive!
+###--------
+###Script:31
+You can't hide it
+from me! I know
+you wish on the
+###--------
+stars every day
+not to get any mail
+from <printPlayerEnemy>!
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+Hehehe. Kidding,
+I'm kidding! Was
+that too mean?
+###--------
+###Script:33
+A friendly match
+with other Navis
+is a good way
+###++++++++
+to brush up
+for your more
+serious battles!
+###--------
+Didya know you can
+learn about battling
+from <printFavShow>?
+###Command:printFavShow capitalizeFirst=false
+###--------
+It's true! I swear
+it on the stars!
+###--------
+###Script:34
+In the middle of
+a battle,you end
+up thinking about
+###--------
+what'll happen
+next time in
+<printFavShow>,right?
+###Command:printFavShow capitalizeFirst=false
+###--------
+Personally,I think
+about tomorrow's
+starry sky...Anyway!
+###--------
+You gotta keep your
+head in the game
+while battling!
+###--------
+###Script:35
+In <printFavShow>,
+there's a fortune-
+telling segment...
+###Command:printFavShow capitalizeFirst=false
+###--------
+It's actually
+quite accurate,
+you know!
+###--------
+The results are the
+same as my star
+fortune telling!
+###--------
+###Script:37
+You think luck
+matters when it
+comes to getting
+###--------
+chips? I mean,fate
+decides everything,
+after all!
+###--------
+I bet <printIdol>
+has got some
+great luck!
+###Command:printIdol capitalizeFirst=false
+###--------
+That's quite rare!
+Always count your
+lucky stars!
+###--------
+###Script:38
+You've probably
+thought to yourself
+sometimes:
+###++++++++
+"Huh? What's
+ this chip?"
+###--------
+Occasionally,I find
+constellations I've
+never heard of,too.
+###--------
+At those times,
+you should ask
+<printIdol>!
+###Command:printIdol capitalizeFirst=false
+###--------
+After all,I'm
+pretty sure they
+know everything!
+###--------
+###Script:39
+Looking at the
+Data Library gets
+me so excited!
+###--------
+It's kinda like
+the night sky!
+Full of stars!
+###--------
+Also,talking with
+<printIdol> gets
+me excited,too!
+###Command:printIdol capitalizeFirst=false
+###--------
+I always wonder
+what they'll talk
+about next!
+###--------
+###Script:41
+Humans all shine
+like stars...
+###--------
+Everyone has their
+own special skill.
+###--------
+<printPlayerNickname>,yours
+is definitely
+<printBestSubject>!
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printBestSubject capitalizeFirst=false
+###--------
+###Script:42
+There are as
+many strong
+people on the Net
+###++++++++
+as there are
+stars in the sky.
+###--------
+But when it comes
+to <printBestSubject>⋯
+There aren't many
+###Command:printBestSubject capitalizeFirst=false
+###--------
+that can beat
+you,<printPlayerNickname>!
+Be confident!
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:43
+<printPlayerNickname>,you
+really shine
+###Command:printPlayerNickname capitalizeFirst=true
+###++++++++
+when you're
+doing <printBestSubject>!
+###Command:printBestSubject capitalizeFirst=false
+###--------
+Just like starlight
+shining down from
+the heavens!
+###--------
+###Script:45
+I hate rainy days.
+###--------
+You can't see
+the stars... Plus,
+having to do
+###--------
+<printWorstSubject> on
+those days just
+makes it worse.
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+###Script:46
+If you see a
+shooting star
+when you jack out,
+###--------
+you should wish
+to become good
+at <printWorstSubject>!
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+Although,that might
+be just a star I
+dropped myself!
+###--------
+###Script:47
+Diving even further
+into the Net...
+###--------
+Takes a bit of
+effort,huh?
+###--------
+Doesn't the same
+go for studying
+<printWorstSubject>?
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+All that effort
+will pay off sooner
+or later,though.
+###--------
+After all,the
+stars are always
+watching over you!
+###--------
+###Script:49
+I made a wish on
+a star some time
+ago... It was:
+###--------
+"I wanna win
+the tournament!"
+###--------
+But no matter how
+much you want
+a<printWish> <printWish>⋯
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+Don't go and
+wish for it a
+bunch of times!
+###--------
+All the stars'
+divine favors
+will be wasted!
+###--------
+###Script:50
+There's something
+you want badly,
+right? Like...
+###--------
+winning the tour-
+nament,or getting
+a<printWish> <printWish>.
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+What I want is
+the stars of
+the night sky!
+###++++++++
+Don't they shine
+so beautifully
+###--------
+that you just want
+to hold them in
+your hands?
+###--------
+###Script:51
+<printPlayerNickname>,your
+life right now is
+revolving around...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+the tournament,
+and getting a<printWish>
+<printWish>,right?
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+Just like the
+North Star...
+###--------
+Hm? You don't
+know about the
+North Star?
+###--------
+Then I'll teach
+you about it
+sometime!
+###--------
+###Script:53
+If you don't
+see <printMostFrequentOpponent>
+for a while,
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###++++++++
+you start to
+miss them,right?
+###--------
+Rivals are one
+of the mysteries
+of space...
+###--------
+###Script:54
+<printMostFrequentOpponent> is
+your rival,huh...
+###Command:printMostFrequentOpponent capitalizeFirst=true
+###--------
+I bet it's fated
+to stay like
+that forever...
+###--------
+I sense a star
+that hints at
+that very fate!
+###--------
+###Script:55
+Twinkle twinkle!
+###--------
+A meteor shower
+is gonna be
+visible soon!
+###--------
+Let's go tell
+<printMostFrequentOpponent>!
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+Then,you two can
+battle underneath
+the shooting stars!
+###--------
+Great idea,right?
+Yeah,totally!
+###--------
+###Script:57
+Equipment is very
+important,huh?
+###--------
+What you equip
+decides your fate
+in battle,after all.
+###--------
+<printLostToOpponent> must
+have equipped
+some lucky items.
+###Command:printLostToOpponent capitalizeFirst=true
+###--------
+Let's pick up
+a few tricks
+from them!
+###--------
+###Script:58
+It angers me,
+but <printLostToOpponent>
+is pretty strong!
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+Feels like they
+hung the moon
+and stars...
+###--------
+In that case,
+they probably do
+fortune telling,too...
+###--------
+###Script:59
+The weapons
+you always pick
+are so plain!
+###++++++++
+Let's use some-
+thing with a little
+more shine!
+###--------
+Like what
+<printLostToOpponent> has!
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+###Script:61
+Isn't it tough
+pairing together
+chips & equipment?
+###--------
+Even my fortune
+telling is no help.
+So...
+###--------
+For reference,let's
+use <printMostLostToOpponent>'s
+<printMostLostToOpponentsChip>!
+###Command:printMostLostToOpponent capitalizeFirst=false
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+###Script:62
+Using <printMostLostToOpponentsChip>
+correctly is
+really tough!
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+Pulling it off is
+like reaching for
+the stars,right!?
+###--------
+And to think
+<printMostLostToOpponent>
+mastered it...
+###Command:printMostLostToOpponent capitalizeFirst=false
+###--------
+###Script:63
+With <printMostLostToOpponentsChip>,
+timing is crucial!
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+You have to wait
+patiently,like for
+a shooting star.
+###--------
+<printMostLostToOpponent> is
+exceptional at it!
+###Command:printMostLostToOpponent capitalizeFirst=false
+###--------
+That means they'd
+be good at star-
+gazing too,huh?
+###--------
+###Script:65
+<printDefeatedOpponent>'s got
+no lucky star!
+They're no match
+###Command:printDefeatedOpponent capitalizeFirst=true
+###--------
+for someone like
+us,who wish on the
+stars every night!
+###--------
+###Script:66
+Can Network Duels
+reach to the other
+side of the stars?
+##(The word here used in "tsuushin", the word used for communications between GBAs)
+###--------
+If so,we can
+battle all sorts
+of people,right?
+###--------
+Let's invite
+<printDefeatedOpponent> and
+try it out!
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:67
+Things really get
+heated in Network
+Duels,don't they?
+###--------
+But when you fight
+<printDefeatedOpponent>,the heat
+I feel from them...
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+It's like...could you
+be any farther from
+the sun? You know?
+###--------
+###Script:69
+I could tell from
+our Network Duel!
+###--------
+If you want to
+master <printMostDefeatedOpponentsChip>,
+you need luck too.
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+But I guess it's
+still impossible
+for <printMostDefeatedOpponent>⋯
+###Command:printMostDefeatedOpponent capitalizeFirst=false
+###--------
+After all,they've
+never even seen
+a shooting star!
+###--------
+###Script:70
+<printMostDefeatedOpponentsChip> chooses
+its master,huh?
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+Like how stars
+attract each
+other...
+###--------
+Maybe chips and
+Navis attract
+each other,too?
+###--------
+###Script:71
+Speed is important
+in battle! Try
+to move quickly,
+###--------
+like a shooting
+star that vanishes
+in a blink!
+###--------
+You need to be
+quick especially
+with <printMostDefeatedOpponentsChip>!
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+###Script:73
+If I had to
+pick my #1
+favorite chip...
+###--------
+I'd be at a loss...
+Maybe <printFavStandardChip1>?
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+Don't even ask me
+to pick a favorite
+constellation!
+###--------
+###Script:74
+Even among other
+chips in the
+Data Library,
+###--------
+<printFavStandardChip1> really
+sparkles and
+shines! So much,
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+that its stars in
+the library look
+like the real deal!
+###--------
+###Script:75
+I can't get enough
+of that rush you
+get from <printFavStandardChip1>!
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+It's like riding
+a shooting star!
+###--------
+###Script:77
+I'd be kinda
+upset if <printFavStandardChip2>
+suddenly vanished...
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+Like,imagine if
+Saturn's rings just
+up and disappeared!
+###--------
+###Script:78
+<printFavStandardChip2> feels
+good to use
+and all,but...
+###Command:printFavStandardChip2 capitalizeFirst=true
+###--------
+I prefer chips
+that shine a
+little brighter...
+###--------
+This chip...
+It's like a faint
+star at noon.
+###--------
+###Script:79
+<printFavStandardChip2> is nice
+but its name is
+real forgettable.
+###Command:printFavStandardChip2 capitalizeFirst=true
+###--------
+Maybe it gets
+sucked into a black
+hole of memories?
+###--------
+###Script:81
+I think <printFavStandardChip3>
+is kind of
+underwhelming.
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+It's pretty hazy,
+like the night sky
+on a cloudy day...
+###--------
+###Script:82
+Is there a star
+that always seems
+to catch your eye?
+###--------
+<printFavStandardChip3> is the
+chip equivalent
+of that,isn't it?
+###Command:printFavStandardChip3 capitalizeFirst=true
+###--------
+I was thinking that
+while looking at
+the Data Library.
+###--------
+###Script:83
+I think remembering
+the name of every
+chip is as difficult
+###--------
+as remembering
+the name of every
+constellation.
+###--------
+I always forget
+<printFavStandardChip3>'s name
+rather quickly!
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+###Script:85
+If you wanna make
+sure you win,isn't
+<printFavMegaChip> the best?
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+And if you
+want to see a
+constellation...
+###--------
+Probably a
+planetarium would
+be the best...
+###--------
+###Script:86
+Everyone makes
+this shocked face
+###++++++++
+when you use
+<printFavMegaChip>,right?
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+It's just like
+discovering
+a new star!
+###--------
+###Script:87
+Suppose <printFavMegaChip>
+turned to stardust
+and disappeared...
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+That would make
+you cry,wouldn't
+it,<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+I'm just joking...
+Don't actually
+cry,okay?
+###--------
+###Script:89
+<printFavGigaChip>'s power
+is outstanding!
+###Command:printFavGigaChip capitalizeFirst=true
+###--------
+It's like the
+moment when a
+star explodes!
+###--------
+###Script:90
+<printFavGigaChip> makes
+a real spectacle
+when you use it...
+###Command:printFavGigaChip capitalizeFirst=true
+###--------
+It's so grand,it
+makes you think of
+a meteor shower!
+###--------
+###Script:91
+It's no good to
+overuse <printFavGigaChip>,
+you know?
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+Even a star
+like me gets a
+lot of strain
+###--------
+from using it...
+I think.
+###--------

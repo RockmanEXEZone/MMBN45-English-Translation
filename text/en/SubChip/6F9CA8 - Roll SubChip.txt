@@ -1,0 +1,36 @@
+﻿###TextArchive:6F9CA8
+###Script:6
+###Mugshot:Roll
+Let's not
+use it yet!
+###--------
+###Script:7
+###Mugshot:Roll
+Wanna use
+"<printItem>"?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printItem buffer=1 item=0
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:11
+###Mugshot:Roll
+You're already
+using "<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:12
+###Mugshot:Roll
+There isn't
+any locked
+data!
+###--------
+###Script:13
+###Mugshot:Roll
+No viruses
+around
+here yet!
+###--------

@@ -1,0 +1,184 @@
+﻿###TextArchive:7A3C0C
+###Script:20
+###Mugshot:HeelNaviBlack
+It's a weekday,
+so this plaza's
+pretty quiet.
+###--------
+###Mugshot:HeelNaviBlack
+Anyone who's here
+on a Monday afternoon
+is probably a layabout!
+###--------
+###Mugshot:HeelNaviBlack
+...Don't look at
+me like that.
+###--------
+###Mugshot:HeelNaviBlack
+Fine! I get it.
+I'm one of those
+layabouts too.
+###++++++++
+###Mugshot:HeelNaviBlack
+But it's not like
+you're one to judge!
+###--------
+###Script:21
+###Mugshot:HeelNaviBlack
+Looks like the
+layabouts aren't
+here yet...
+###++++++++
+###Mugshot:HeelNaviBlack
+Well,no surprise.
+It's still early on
+a Monday morning...
+###--------
+###Mugshot:HeelNaviBlack
+...Wait,there was
+that one guy!
+That green Navi!
+###--------
+###Mugshot:HeelNaviBlack
+That guy's always
+here... What in the
+devil is he up to?
+###--------
+###Script:22
+###Mugshot:HeelNaviBlack
+Well,I should probably
+jack out soon,huh?
+###--------
+###Mugshot:HeelNaviBlack
+If I loiter 'round
+too much,the boss
+gets mad,you know...
+###--------
+###Script:30
+###Mugshot:NormNaviYellow
+Forget about work!
+All I do is train hard
+for the tournament!
+###--------
+###Mugshot:NormNaviYellow
+That's me in
+a nutshell!!
+###--------
+###Mugshot:NormNaviYellow
+Alright,you viruses!
+Come out of hiding
+and face me!!
+###--------
+###Script:31
+###Mugshot:NormNaviYellow
+Aw yeah! It's the
+start of a new day!
+###--------
+###Mugshot:NormNaviYellow
+Let's train hard and
+shoot for victory
+in the tournament!
+###--------
+###Script:32
+###Mugshot:NormNaviYellow
+Lunch break,huh?
+What do I care!
+###--------
+###Mugshot:NormNaviYellow
+I've got my sights on
+winning the tournament
+this weekend,
+###--------
+###Mugshot:NormNaviYellow
+so all there is to
+do is work hard and
+train!! Hiyaaaah!!
+###--------
+###Script:33
+###Mugshot:NormNaviYellow
+*huff,puff*
+I put everything I had
+into training today...
+###--------
+###Mugshot:NormNaviYellow
+Winning the tournament
+will be a walk in
+the park! Hahahaha!!
+###--------
+###Script:70
+###Mugshot:NormNaviBrown
+Today's Monday,huh...
+###--------
+###Mugshot:NormNaviBrown
+My head's been feeling
+kinda heavy lately.
+I feel so sluggish...
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Hm!
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"A tired Monday,I am
+ very drained today.
+ Feeling exhausted."
+###--------
+###Script:71
+###Mugshot:NormNaviBrown
+I like "haiku"
+poetry... Do you
+know about haiku?
+###--------
+###Mugshot:NormNaviBrown
+Haiku are an
+age-old part of
+Electopian culture.
+###++++++++
+###Mugshot:NormNaviBrown
+It's like singing
+along with the rhythm
+of your thoughts.
+###--------
+###Mugshot:NormNaviBrown
+.<wait>.<wait>.<wait>Wait!!
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"In this area,
+ folks from Electopia
+ are reading haiku."
+###--------
+###Script:80
+###Mugshot:NormNaviPink
+Hah...
+Taking out the trash
+isn't easy,you know.
+###--------
+###Mugshot:NormNaviPink
+I should try to get
+my husband to do
+it occasionally...
+###--------
+###Script:90
+###Mugshot:NormNaviPink
+Good day!
+How do you do?
+###--------
+###Mugshot:NormNaviPink
+I like to spend my
+afternoon meal in
+peace here every day.
+###--------
+###Mugshot:NormNaviPink
+May I suggest
+you relax for a
+while as well?
+###--------

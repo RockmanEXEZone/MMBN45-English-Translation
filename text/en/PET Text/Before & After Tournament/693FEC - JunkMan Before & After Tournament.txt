@@ -1,0 +1,44 @@
+﻿###TextArchive:693FEC
+###Script:1
+Wh-Wh-Whaaa...
+###--------
+<printPlayerNickname>...even
+though you did your
+best operating me...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I-I blew it...I
+can't believe it...
+###--------
+###Script:2
+W-We won!
+We're the best!!
+###--------
+Yahoo!!!
+I-I'm so happy!
+###--------
+###Script:10
+We're not entered,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:20
+I-I'll fight with
+all I've got...
+Operate away!
+###--------
+###Script:21
+I-I'll fight with
+all I've got...
+Operate away!
+###--------
+###Script:22
+I-I'll fight with
+all I've got...
+Operate away!
+###--------
+###Script:23
+I-I'll fight with
+all I've got...
+Operate away!
+###--------

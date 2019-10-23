@@ -1,0 +1,388 @@
+﻿###TextArchive:65FF3C
+###Script:0
+Did you know?
+I'm pretty good
+at fortune-telling!
+###--------
+So each day,
+I'll give you...
+###--------
+"Roll's
+Lovely Heart
+Fortune-Telling"!
+###--------
+Your fortune
+for today is<waitSkip>･<waitSkip>･<waitSkip>･<waitSkip>
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+Yes,I see it!
+###--------
+###Script:1
+Time for "Roll's
+Lovely Heart
+Fortune-Telling"!
+###--------
+I'll put my all
+into it today,too!
+###--------
+Your fortune
+for today is<waitSkip>･<waitSkip>･<waitSkip>･<waitSkip>
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+Yes,I see it!
+###--------
+###Script:3
+Platinum Heart!
+##(This is obv. the shop fortune)
+###--------
+Alright! Today's
+fortune is really
+something special!
+###--------
+This should be a
+great day to do
+some shopping!
+###--------
+Today's
+lucky item...
+###--------
+###Script:4
+Blue Heart...
+###--------
+You'll have some
+trouble with water...
+###--------
+Let's try not
+to feel blue too
+much today!
+###--------
+Today's
+lucky item...
+###--------
+###Script:5
+Yellow Heart!
+###--------
+There will be
+turmoil,but good
+things can still
+###--------
+come out of it
+if you keep
+your chin up!
+###--------
+Today's
+lucky item...
+###--------
+###Script:6
+Beige Heart!
+###--------
+Today will be
+filled with very
+kind feelings!
+###--------
+Should be a good
+day for talking to
+people that you
+###++++++++
+normally don't get
+along well with!
+###--------
+Today's
+lucky item...
+###--------
+###Script:7
+Gold Heart!
+###--------
+I have a feeling
+you'll get lucky
+with money!
+###--------
+And the Net's
+our happy place
+for that!
+###--------
+So let's get out
+there and rack
+up some cash!
+###--------
+Today's
+lucky item...
+###--------
+###Script:8
+White Heart!
+###--------
+People around you
+may give you
+a cold stare.
+###--------
+Read the mood
+carefully and
+act accordingly!
+###--------
+Today's
+lucky item...
+###--------
+###Script:9
+Pink Heart!
+###--------
+Your love fortune's
+improving and your
+heart's racing!
+###--------
+The one you've
+been anxious about
+is approaching!
+###++++++++
+And...oh my,
+what's this...!?
+###--------
+Today's
+lucky item...
+###--------
+###Script:10
+Red Heart!
+###--------
+Let the flames
+in in your heart
+flare up,and the
+###--------
+things you tackle
+today will lead
+to good results!
+###--------
+Just do everything
+with a burning
+passion!
+###--------
+Today's
+lucky item...
+###--------
+###Script:11
+Purple Heart!
+###--------
+I feel that you'll
+get better results
+than you expect!
+###--------
+It's a lucky sign
+for busting viruses
+with technique!
+###--------
+Today's
+lucky item...
+###--------
+###Script:12
+Brown Heart!
+###--------
+Acting calmly will
+lead you to luck!
+###--------
+What'll happen if
+you try to play
+it cool today?
+###--------
+Today's
+lucky item...
+###--------
+###Script:13
+Viridian Heart!
+###--------
+I feel you'll
+find some peace
+of mind today!
+###--------
+The perfect day
+to refresh a
+weary heart!
+###--------
+Today's
+lucky item...
+###--------
+###Script:14
+Green Heart!
+###--------
+I get the feeling
+if you look at some
+greenery today,
+###++++++++
+it'll really soothe
+your heart!
+###--------
+Look! The plants
+don't have a
+care in the world!
+###--------
+Today's
+lucky item...
+###--------
+###Script:15
+Black Heart!
+###--------
+YIKES!!
+###--------
+Today's fortune
+is really,really
+awful...
+###--------
+You probably
+shouldn't go
+out today.
+###--------
+Maybe it'd be
+best to lay
+low for a bit...
+###--------
+Today's
+lucky item...
+###--------
+###Script:16
+Gray Heart!
+###--------
+Today's fortune
+is a bit cloudy...
+###--------
+Let's push through
+with a bright and
+cheery mindset!
+###--------
+Today's
+lucky item...
+###--------
+###Script:17
+Orange Heart!
+###--------
+You're likely to
+spend the day
+in a bright mood!
+###--------
+If you stay positive
+today,good things
+will happen!
+###--------
+Today's
+lucky item...
+###--------
+###Script:18
+Lemon Heart!
+###--------
+I'm sensing
+dreary,bittersweet
+feelings well up.
+###--------
+I feel your love
+fortune may
+fluctuate wildly...
+###--------
+Today's
+lucky item...
+###--------
+###Script:20
+Seems like it's in
+an area related to
+the numbers 1-4!
+###--------
+###Script:21
+Seems like it's in
+an area related to
+the numbers 5-8!
+###--------
+###Script:22
+Seems like it's in
+an area related to
+the numbers 9-12!
+###--------
+###Script:23
+I sense it's in
+an area with a
+scary ambience!
+###--------
+###Script:50
+We couldn't clear
+it... Let's do our
+best next time!
+###--------
+###Script:51
+Yay!
+We cleared it!
+###--------
+Improving my math
+made me feel
+a bit stronger!
+###--------
+###Script:52
+Yay!
+We cleared it!
+###--------
+Ah!
+Something came
+out of the drill!
+###--------
+Wow,lucky!
+<printBuffer> Zennys
+fell out!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:53
+Yay!
+We cleared it!
+###--------
+Ah!
+Something came
+out of the drill!
+###--------
+Wow,lucky!
+<printBuffer> BugFrags
+fell out!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=true
+###--------
+###Script:60
+Aww! We couldn't
+clear it!
+###--------
+It was just
+some ice,so
+I got careless...
+###--------
+We'll get it
+next time!
+###--------
+###Script:61
+Yay!
+We cleared it!
+###--------
+That was tough...
+I think I feel
+a bit stronger!
+###--------
+###Script:62
+Yay!
+We cleared it!
+###--------
+Huh?
+There's something
+inside the letter!
+###--------
+<printBuffer> Zennys
+were inside!
+Yahoo!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:63
+Yay!
+We cleared it!
+###--------
+Huh?
+There's something
+inside the letter!
+###--------
+<printBuffer> BugFrags
+were inside!
+Yahoo!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=true
+###--------

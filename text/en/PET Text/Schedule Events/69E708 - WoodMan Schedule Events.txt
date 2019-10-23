@@ -1,0 +1,104 @@
+﻿###TextArchive:69E708
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+...Say,isn't
+
+###--------
+<printScheduleBuffer>
+starting soon?
+###Command:printScheduleBuffer
+###--------
+###Script:2
+###--------
+<printPlayerNickname>,it seems
+to be time to meet
+with <printScheduleBuffer>.
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printScheduleBuffer
+###--------
+###Script:3
+It's time to eat.
+I may have grown
+a bit hungry myself.
+###--------
+###Script:4
+It's about time
+to go to school.
+###--------
+Knowledge is an
+important nutrient...
+###--------
+You should absorb
+as much of it
+as you can.
+###--------
+###Script:5
+...It's about time
+for 
+###--------
+<printScheduleBuffer>⋯
+###Command:printScheduleBuffer
+###--------
+###Script:6
+Also...
+###--------
+###Script:21
+###Mugshot:WoodMan
+...Say,isn't
+
+###--------
+###Mugshot:WoodMan
+<printScheduleBuffer>
+starting soon?
+###Command:printScheduleBuffer
+###--------
+###Script:22
+###Mugshot:WoodMan
+###--------
+###Mugshot:WoodMan
+<printPlayerNickname>,it seems
+to be time to meet
+with <printScheduleBuffer>.
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printScheduleBuffer
+###--------
+###Script:23
+###Mugshot:WoodMan
+It's time to eat.
+I may have grown
+a bit hungry myself.
+###--------
+###Script:24
+###Mugshot:WoodMan
+It's about time
+to go to school.
+###--------
+###Mugshot:WoodMan
+Knowledge is an
+important nutrient...
+###--------
+###Mugshot:WoodMan
+You should absorb as
+much of it as you can.
+###--------
+###Script:25
+###Mugshot:WoodMan
+...It's about time
+for 
+###--------
+###Mugshot:WoodMan
+<printScheduleBuffer>⋯
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:WoodMan
+Also...
+###--------

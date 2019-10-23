@@ -1,0 +1,26 @@
+﻿###TextArchive:66A160
+###Script:1
+Guts,guts!
+Let's get in some
+special training
+###--------
+to prep for
+this weekend's
+tournament!
+###--------
+###Script:2
+Tournament day!
+Let's do our best
+to become #1!
+###--------
+Yee-haaaaww!!
+###--------
+###Script:3
+<printPlayerNickname>,we
+got an item
+that looks fun!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Try checkin'
+our Key Items!
+###--------

@@ -1,0 +1,899 @@
+﻿###TextArchive:776650
+###Script:0
+###Mugshot:MegaMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:1
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:2
+I'll end the battle.
+Make sure to save!
+###--------
+###Script:3
+###Mugshot:MegaMan
+Communication error!
+###--------
+###Script:4
+###Mugshot:Roll
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:5
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:6
+I'll end the battle.
+Make sure to save!
+###--------
+###Script:7
+###Mugshot:Roll
+Communication error!
+###--------
+###Script:8
+###Mugshot:GutsMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:9
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:10
+I'll end the battle.
+Make sure to save!
+###--------
+###Script:11
+###Mugshot:GutsMan
+Communication error!
+###--------
+###Script:12
+###Mugshot:WindMan
+Communication error...
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:13
+You can't use the
+Chip Gate here...
+Battle routine,Set!
+###--------
+###Script:14
+I will end the battle.
+Make sure to save.
+###--------
+###Script:15
+###Mugshot:WindMan
+Communication error...
+###--------
+###Script:16
+###Mugshot:SearchMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:17
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:18
+I'll end the battle.
+Make sure to save...
+###--------
+###Script:19
+###Mugshot:SearchMan
+Communication error!
+###--------
+###Script:20
+###Mugshot:FireMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:21
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:22
+I'll end the battle.
+Make sure to save!
+###--------
+###Script:23
+###Mugshot:FireMan
+Communication error!
+###--------
+###Script:24
+###Mugshot:ThunderMan
+Communication error...
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:25
+You can't use the
+Chip Gate here...
+Battle routine,Set!
+###--------
+###Script:26
+I'll end the battle.
+Make sure to save...
+###--------
+###Script:27
+###Mugshot:ThunderMan
+Communication error...
+###--------
+###Script:28
+###Mugshot:ProtoMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:29
+You can't use the
+Chip Gate here.
+Battle routine,Set!
+###--------
+###Script:30
+I'll end the battle.
+Make sure to save!
+###--------
+###Script:31
+###Mugshot:ProtoMan
+Communication error!
+###--------
+###Script:32
+###Mugshot:NumberMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:33
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:34
+I'll end the battle.
+Make sure to save.
+###--------
+###Script:35
+###Mugshot:NumberMan
+Communication error!
+###--------
+###Script:36
+###Mugshot:MetalMan
+Communication error...
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:37
+You can't use the
+Chip Gate here...
+Battle routine,Set!
+###--------
+###Script:38
+I'll end the battle.
+Make sure to save.
+###--------
+###Script:39
+###Mugshot:MetalMan
+Communication error...
+###--------
+###Script:40
+###Mugshot:JunkMan
+C-Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:41
+Y-You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:42
+I'll end the battle...
+M-Make sure to save.
+###--------
+###Script:43
+###Mugshot:JunkMan
+C-Communication error!
+###--------
+###Script:44
+###Mugshot:AquaMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:45
+You can't use the
+Chip Gate here,drip!
+Battle routine,Set!
+###--------
+###Script:46
+I'll end the battle.
+Make sure to save,
+drip!
+###--------
+###Script:47
+###Mugshot:AquaMan
+Communication error!
+###--------
+###Script:48
+###Mugshot:WoodMan
+Communication error.
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:49
+You cannot use the
+Chip Gate here.
+Battle routine,Set!
+###--------
+###Script:50
+I will end the battle.
+Make sure to save.
+###--------
+###Script:51
+###Mugshot:WoodMan
+Communication error.
+###--------
+###Script:52
+###Mugshot:NormNaviYellow
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:53
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:54
+I'll end the battle.
+Make sure to save.
+###--------
+###Script:55
+###Mugshot:NormNaviYellow
+Communication error!
+###--------
+###Script:56
+###Mugshot:PurpleNavi
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:57
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:58
+I'll end the battle.
+Make sure to save.
+###--------
+###Script:59
+###Mugshot:PurpleNavi
+Communication error!
+###--------
+###Script:60
+###Mugshot:StarMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:61
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:62
+I'll end the battle.
+Make sure to save.
+###--------
+###Script:63
+###Mugshot:StarMan
+Communication error!
+###--------
+###Script:64
+###Mugshot:ShadowMan
+Communication error...
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:65
+You can't use the
+Chip Gate here...
+Battle routine,Set!
+###--------
+###Script:66
+I'll end the battle.
+Make sure to save...
+###--------
+###Script:67
+###Mugshot:ShadowMan
+Communication error...
+###--------
+###Script:68
+###Mugshot:KnightMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:69
+You cannot use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:70
+I shall end the battle.
+Be sure to save!
+###--------
+###Script:71
+###Mugshot:KnightMan
+Communication error!
+###--------
+###Script:72
+###Mugshot:NapalmMan
+Tsk,communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:73
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:74
+I'll end the battle!
+Make sure to save!
+###--------
+###Script:75
+###Mugshot:NapalmMan
+Tsk,communication error!
+###--------
+###Script:76
+###Mugshot:IceMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:77
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:78
+I'll end the battle!
+Make sure to save!
+###--------
+###Script:79
+###Mugshot:IceMan
+Communication error!
+###--------
+###Script:80
+###Mugshot:ElecMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:81
+You can't use the
+Chip Gate here.
+Battle routine,Set!
+###--------
+###Script:82
+I'll end the battle.
+Make sure to save.
+###--------
+###Script:83
+###Mugshot:ElecMan
+Communication error!
+###--------
+###Script:84
+###Mugshot:PlantMan
+Communication error!
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:85
+You can't use the
+Chip Gate here.
+Battle routine,Set!
+###--------
+###Script:86
+I'll end the battle.
+Make sure to save...
+###--------
+###Script:87
+###Mugshot:PlantMan
+Communication error!
+###--------
+###Script:88
+###Mugshot:Bass
+Communication error...
+ <option><space> Try again
+ <option><space> End the battle
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:89
+You can't use the
+Chip Gate here...
+Battle routine,Set!
+###--------
+###Script:90
+I'll end the battle...
+Make sure to save...
+###--------
+###Script:91
+###Mugshot:Bass
+Communication error...
+###--------
+###Script:92
+###Mugshot:MegaMan
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:MegaMan
+
+###--------
+###Script:93
+###Mugshot:Roll
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:Roll
+
+###--------
+###Script:94
+###Mugshot:GutsMan
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:GutsMan
+
+###--------
+###Script:95
+###Mugshot:WindMan
+Communication error...
+Battle canceled.
+###--------
+###Mugshot:WindMan
+
+###--------
+###Script:96
+###Mugshot:SearchMan
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:SearchMan
+
+###--------
+###Script:97
+###Mugshot:FireMan
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:FireMan
+
+###--------
+###Script:98
+###Mugshot:ThunderMan
+Communication error...
+Battle canceled.
+###--------
+###Mugshot:ThunderMan
+
+###--------
+###Script:99
+###Mugshot:ProtoMan
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:ProtoMan
+
+###--------
+###Script:100
+###Mugshot:NumberMan
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:NumberMan
+
+###--------
+###Script:101
+###Mugshot:MetalMan
+Communication error...
+Battle canceled.
+###--------
+###Mugshot:MetalMan
+
+###--------
+###Script:102
+###Mugshot:JunkMan
+C-Communication error!
+Battle canceled.
+###--------
+###Mugshot:JunkMan
+
+###--------
+###Script:103
+###Mugshot:AquaMan
+Communication error!
+Battle canceled,drip.
+###--------
+###Mugshot:AquaMan
+
+###--------
+###Script:104
+###Mugshot:WoodMan
+Communication error.
+Battle canceled.
+###--------
+###Mugshot:WoodMan
+
+###--------
+###Script:105
+###Mugshot:NormNaviYellow
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:NormNaviYellow
+
+###--------
+###Script:106
+###Mugshot:PurpleNavi
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:PurpleNavi
+
+###--------
+###Script:107
+###Mugshot:StarMan
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:StarMan
+
+###--------
+###Script:108
+###Mugshot:ShadowMan
+Communication error...
+Battle canceled.
+###--------
+###Mugshot:ShadowMan
+
+###--------
+###Script:109
+###Mugshot:KnightMan
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:KnightMan
+
+###--------
+###Script:110
+###Mugshot:NapalmMan
+Tsk,communication error!
+Battle canceled.
+###--------
+###Mugshot:NapalmMan
+
+###--------
+###Script:111
+###Mugshot:IceMan
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:IceMan
+
+###--------
+###Script:112
+###Mugshot:ElecMan
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:ElecMan
+
+###--------
+###Script:113
+###Mugshot:PlantMan
+Communication error!
+Battle canceled.
+###--------
+###Mugshot:PlantMan
+
+###--------
+###Script:114
+###Mugshot:Bass
+Communication error...
+Battle canceled.
+###--------
+###Mugshot:Bass
+
+###--------
+###Script:115
+###Mugshot:MegaMan
+The Chip Gate
+didn't work.
+###--------
+###Mugshot:MegaMan
+
+###--------
+###Script:116
+###Mugshot:Roll
+The Chip Gate
+didn't work.
+###--------
+###Mugshot:Roll
+
+###--------
+###Script:117
+###Mugshot:GutsMan
+The Chip Gate
+didn't work.
+###--------
+###Mugshot:GutsMan
+
+###--------
+###Script:118
+###Mugshot:WindMan
+The Chip Gate
+did not work...
+###--------
+###Mugshot:WindMan
+
+###--------
+###Script:119
+###Mugshot:SearchMan
+The Chip Gate
+didn't work...
+###--------
+###Mugshot:SearchMan
+
+###--------
+###Script:120
+###Mugshot:FireMan
+The Chip Gate
+didn't work...
+###--------
+###Mugshot:FireMan
+
+###--------
+###Script:121
+###Mugshot:ThunderMan
+The Chip Gate
+didn't work...
+###--------
+###Mugshot:ThunderMan
+
+###--------
+###Script:122
+###Mugshot:ProtoMan
+The Chip Gate
+didn't work...
+###--------
+###Mugshot:ProtoMan
+
+###--------
+###Script:123
+###Mugshot:NumberMan
+The Chip Gate
+didn't work.
+###--------
+###Mugshot:NumberMan
+
+###--------
+###Script:124
+###Mugshot:MetalMan
+The Chip Gate
+didn't work.
+###--------
+###Mugshot:MetalMan
+
+###--------
+###Script:125
+###Mugshot:JunkMan
+T-The Chip Gate
+didn't work...
+###--------
+###Mugshot:JunkMan
+
+###--------
+###Script:126
+###Mugshot:AquaMan
+The Chip Gate
+didn't work,drip.
+###--------
+###Mugshot:AquaMan
+
+###--------
+###Script:127
+###Mugshot:WoodMan
+The Chip Gate
+did not work.
+###--------
+###Mugshot:WoodMan
+
+###--------
+###Script:128
+###Mugshot:NormNaviYellow
+The Chip Gate
+didn't work.
+###--------
+###Mugshot:NormNaviYellow
+
+###--------
+###Script:129
+###Mugshot:PurpleNavi
+The Chip Gate
+didn't work.
+###--------
+###Mugshot:PurpleNavi
+
+###--------
+###Script:130
+###Mugshot:StarMan
+The Chip Gate
+didn't work.
+###--------
+###Mugshot:StarMan
+
+###--------
+###Script:131
+###Mugshot:ShadowMan
+The Chip Gate
+didn't work...
+###--------
+###Mugshot:ShadowMan
+
+###--------
+###Script:132
+###Mugshot:KnightMan
+The Chip Gate
+did not work!
+###--------
+###Mugshot:KnightMan
+
+###--------
+###Script:133
+###Mugshot:NapalmMan
+The Chip Gate
+didn't work.
+###--------
+###Mugshot:NapalmMan
+
+###--------
+###Script:134
+###Mugshot:IceMan
+The Chip Gate
+didn't work!
+###--------
+###Mugshot:IceMan
+
+###--------
+###Script:135
+###Mugshot:ElecMan
+The Chip Gate
+didn't work.
+###--------
+###Mugshot:ElecMan
+
+###--------
+###Script:136
+###Mugshot:PlantMan
+The Chip Gate
+didn't work.
+###--------
+###Mugshot:PlantMan
+
+###--------
+###Script:137
+###Mugshot:Bass
+The Chip Gate
+didn't work...
+###--------
+###Mugshot:Bass
+
+###--------

@@ -1,0 +1,175 @@
+﻿###TextArchive:6AAEB0
+###Script:1
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:2
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:3
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:4
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived⋯
+###--------
+###Script:5
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived⋯
+###--------
+###Script:6
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived⋯
+###--------
+###Script:7
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived⋯
+###--------
+###Script:10
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+An assassination
+request has
+arrived,<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:20
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived⋯
+###--------
+###Script:21
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived⋯
+###--------
+###Script:22
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived⋯
+###--------
+###Script:23
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived⋯
+###--------
+###Script:24
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived⋯
+###--------
+###Script:25
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived⋯
+###--------
+###Script:26
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail has arrived⋯
+###--------

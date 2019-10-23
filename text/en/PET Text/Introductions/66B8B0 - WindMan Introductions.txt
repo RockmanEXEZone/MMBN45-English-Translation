@@ -1,0 +1,18 @@
+﻿###TextArchive:66B8B0
+###Script:1
+*whoosh...*
+I am WindMan,Navi
+who rules the wind.
+###--------
+Will you rouse
+the winds
+together with me?
+###--------
+###Script:2
+*whoosh⋯*
+It has been
+a while.
+###--------
+Shall we rouse a
+new wind together?
+###--------

@@ -1,0 +1,52 @@
+﻿###TextArchive:6CD9E4
+###Script:1
+We fell like
+cherry blossoms...
+###--------
+Despite the loss...
+Please keep your
+eyes on me.
+###--------
+Next time,I'll
+bloom even more
+beautifully!!
+###--------
+###Script:2
+Splendid.
+###--------
+We've successfully
+bloomed the
+flower of victory.
+###--------
+This glory will
+never wither...
+###--------
+###Script:10
+<printPlayerNickname>,we're
+not entered.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+Showtime...
+<printPlayerNickname>,let us
+win...elegantly!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:21
+Showtime...
+<printPlayerNickname>,let us
+win...elegantly!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:22
+Showtime...
+<printPlayerNickname>,let us
+win...elegantly!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:23
+Showtime...
+<printPlayerNickname>,let us
+win...elegantly!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------

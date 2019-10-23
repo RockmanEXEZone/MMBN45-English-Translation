@@ -1,0 +1,177 @@
+﻿###TextArchive:7884E8
+###Script:10
+###Mugshot:ProtoMan
+Let's patrol the
+Net,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:11
+###Mugshot:ProtoMan
+How about we try out
+that Apprentice
+License exam?
+###--------
+###Script:12
+###Mugshot:ProtoMan
+Let's give this
+Apprentice License
+exam all we have!
+###--------
+###Script:13
+###Mugshot:ProtoMan
+Let's track down
+a "<printChip>".
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:ProtoMan
+Let's go pick up our
+Apprentice License,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:15
+###Mugshot:ProtoMan
+Great work on the
+Apprentice License
+exam.
+###--------
+###Mugshot:ProtoMan
+Want to take a
+short break?
+###--------
+###Script:16
+###Mugshot:ProtoMan
+I'm concerned about
+the situation in
+Internet3...
+###--------
+###Script:17
+###Mugshot:ProtoMan
+Looks like the Navi
+we beat was the
+perpetrator...
+###--------
+###Mugshot:ProtoMan
+<printPlayerNickname>,do you
+want to jack out
+for now?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:18
+###Mugshot:ProtoMan
+I'm concerned about
+the situation in
+Internet5...
+###--------
+###Script:19
+###Mugshot:ProtoMan
+I'm concerned about
+the situation in
+Internet7...
+###--------
+###Script:20
+###Mugshot:ProtoMan
+I'm concerned about
+the situation in
+Internet9...
+###--------
+###Script:21
+###Mugshot:ProtoMan
+I'm concerned about
+the situation in
+Internet10...
+###--------
+###Script:22
+###Mugshot:ProtoMan
+I'm concerned about
+the situation in
+Internet12...
+###--------
+###Script:23
+###Mugshot:ProtoMan
+We need to recover
+the "MinusKey"
+from BlackWorks.
+###--------
+###Script:24
+###Mugshot:ProtoMan
+Looks like the other
+Navi is holding
+the "MinusKey".
+###--------
+###Script:25
+###Mugshot:ProtoMan
+Let's hand over the
+"MinusKey" to the
+Navi in Internet9.
+###--------
+###Script:26
+###Mugshot:ProtoMan
+Let's go to the
+Official Tournament
+entry desk.
+###--------
+###Script:27
+###Mugshot:ProtoMan
+Let's head into
+the Undernet.
+###++++++++
+###Mugshot:ProtoMan
+Our target Navi
+was last seen
+near a coffin...
+###--------
+###Script:28
+###Mugshot:ProtoMan
+Let's go enter the
+Official Tournament!
+###--------
+###Script:29
+###Mugshot:ProtoMan
+The Official Tournament
+takes place this
+weekend.
+###++++++++
+###Mugshot:ProtoMan
+There's no way
+we can lose.
+###--------
+###Script:30
+###Mugshot:ProtoMan
+There's no way we
+can lose the Official
+Tournament,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:31
+###Mugshot:ProtoMan
+Let's continue to
+scope out the Net.
+###--------
+###Script:32
+###Mugshot:ProtoMan
+Let's go take the
+Official Tournament
+prelims,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:33
+###Mugshot:ProtoMan
+<printPlayerNickname>,let's read
+the mail that
+just came in...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:34
+###Mugshot:ProtoMan
+Once the weekend is
+over,let's go enter
+the Official Tournament.
+###--------
+###Script:35
+###Mugshot:ProtoMan
+Our target Navi
+was last seen
+near a coffin...
+###--------

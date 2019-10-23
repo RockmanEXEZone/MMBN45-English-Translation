@@ -1,0 +1,154 @@
+﻿###TextArchive:687910
+###Script:0
+Temp message
+###--------
+###Script:10
+You know,arithmetic
+is a crucial aspect
+of NetBattling!
+###--------
+You'll be a zero
+forever if you
+can't do math!
+###--------
+So,let's do some
+special training
+to avoid that!
+###--------
+What do you say?
+###--------
+<spacePx><option><space> Sure  <option><space> No way!
+###Command:spacePx count=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:11
+Very well...
+###--------
+But I can't say
+what's going to
+happen latter...
+###--------
+###Script:12
+Error!
+###--------
+###Script:13
+<printPlayerNickname>,if you
+can't even manage
+simple calculations
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+like these,we're
+going to have
+a hard time...
+###--------
+###Script:14
+Okay!
+Nice calculating!
+###--------
+My gray matter has
+expanded a bit!
+###--------
+For some reason,
+I feel overflowing
+with vitality!
+###--------
+###Script:15
+Well done!
+As for your
+reward,
+###--------
+here's a little
+present from me...
+###--------
+###Script:16
+You got
+<printBuffer> Zennys!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:17
+Not bad at all!
+As for your
+reward,
+###--------
+here's a little
+present from me...
+###--------
+###Script:18
+You got
+<printBuffer> BugFrags!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:20
+U-Um...
+Just a
+suggestion,but...
+###--------
+Before we go
+ahead and jack in,
+###--------
+shouldn't we do
+a little more
+training?
+###--------
+The way things
+are now,I'm a
+bit worried...
+###--------
+Let's do
+some special
+training...OK?
+###--------
+<spacePx><option><space> Sure  <option><space> Nah
+###Command:spacePx count=16
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:21
+You may come
+to regret it...
+###--------
+###Script:50
+Aaaaaahh! This
+has to be some
+kind of mistake!
+###--------
+###Script:51
+Okay!
+Nice calculating!
+###--------
+My gray matter has
+expanded a bit!
+###--------
+For some reason,
+I feel overflowing
+with vitality!
+###--------
+###Script:52
+Well done!
+As for your
+reward,
+###--------
+Here's a little
+present from me...
+###--------
+You got
+<printBuffer> Zennys!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:53
+Not bad at all!
+As for your
+reward,
+###--------
+Here's a little
+present from me...
+###--------
+You got
+<printBuffer> BugFrags!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------

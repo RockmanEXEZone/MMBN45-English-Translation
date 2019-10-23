@@ -1,0 +1,170 @@
+﻿###TextArchive:709408
+###Script:0
+A ticket that lets you
+take the Apprentice
+License exam.
+###--------
+###Script:1
+A license that proves
+you're an Apprentice
+NetBattler.
+###--------
+###Script:2
+License given to Navis
+who have conquered
+the Silver Tournament.
+###--------
+###Script:3
+License given to Navis
+who have conquered
+the Gold Tournament.
+###--------
+###Script:4
+A trophy awarded
+to champions of the
+Official Tournament.
+###--------
+###Script:5
+A key for the door
+that connects
+Internet2 and 3.
+###--------
+###Script:6
+A cyberplant seed.
+(×
+###--------
+<printBuffer>)
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:7
+Statue shaped after
+the Cyberworld's god
+of electricity. (×
+###--------
+<printBuffer>)
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:8
+PassTokn
+###--------
+###Script:9
+CutKey2
+###--------
+###Script:10
+Key data that opens
+one of the twin
+locks in Internet12.
+###--------
+###Script:11
+Key data that opens
+one of the twin
+locks in Internet12.
+###--------
+###Script:12
+Proof you've
+cleared the test
+of speed.
+###--------
+###Script:13
+Proof you've
+cleared the test
+of technique.
+###--------
+###Script:14
+Proof you've
+cleared the test
+of chip getting.
+###--------
+###Script:15
+Transltr
+###--------
+###Script:16
+A learning program
+packed with math
+problems. (×
+###--------
+<printBuffer>)
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:17
+Scanning software
+that searches for
+frozen viruses. (×
+###--------
+<printBuffer>)
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:18
+An invite to go
+sniper training with
+the Sharo Army. (×
+###--------
+<printBuffer>)
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:19
+A ticket given to
+winners of the
+Everyday Tournament.
+###--------
+###Script:20
+A ticket given to
+winners of the
+Everyday Tournament.
+###--------
+###Script:32
+You don't have a
+single Key Item...
+###--------
+###Script:33
+###Mugshot:MegaMan
+HP Memry
+###--------
+###Script:34
+###Mugshot:MegaMan
+ExpMemry
+###--------
+###Script:35
+###Mugshot:MegaMan
+RegUP1
+###--------
+###Script:36
+###Mugshot:MegaMan
+RegUP2
+###--------
+###Script:37
+###Mugshot:MegaMan
+RegUP3
+###--------
+###Script:38
+###Mugshot:MegaMan
+SubMem
+###--------
+###Script:39
+Recovers
+50HP!
+###--------
+###Script:40
+Recovers
+max HP!
+###--------
+###Script:41
+No weak
+viruses for
+a while.
+###--------
+###Script:42
+Remove trap
+on mystery
+data.
+###--------
+###Script:43
+More likely
+to meet
+last enemy.
+###--------
+###Script:44
+Unlocks
+mystery
+data.
+###--------

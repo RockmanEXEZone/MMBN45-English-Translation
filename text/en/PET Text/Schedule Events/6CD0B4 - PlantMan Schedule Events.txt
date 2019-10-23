@@ -1,0 +1,148 @@
+﻿###TextArchive:6CD0B4
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+<printPlayerNickname>,
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>
+will be on soon.
+###Command:printScheduleBuffer
+###--------
+While you're busy
+watching TV,
+###--------
+I suppose I'll
+just do some
+flower arranging...
+###--------
+###Script:2
+<printPlayerNickname>,it's
+time to meet
+with 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+I presume they
+understand the
+beauty of flowers?
+###--------
+###Script:3
+<printPlayerNickname>,it's
+time to eat.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Plants use water
+and sunlight
+as their food.
+###--------
+How ecological!
+###--------
+###Script:4
+Well,it's almost
+time for school.
+###--------
+Make sure you
+absorb a lot
+of knowledge,
+###--------
+like a plant
+absorbing water
+from the ground.
+###--------
+###Script:5
+Well,it's just
+about time for
+
+###--------
+<printScheduleBuffer>⋯
+###Command:printScheduleBuffer
+###--------
+###Script:6
+After that...
+###--------
+###Script:21
+###Mugshot:PlantMan
+<printPlayerNickname>,
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:PlantMan
+<printScheduleBuffer>
+will be on soon.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:PlantMan
+While you're busy
+watching TV,
+###--------
+###Mugshot:PlantMan
+I suppose I'll just do
+some flower arranging...
+###--------
+###Script:22
+###Mugshot:PlantMan
+<printPlayerNickname>,it's
+time to meet
+with 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:PlantMan
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:PlantMan
+I presume they
+understand the
+beauty of flowers?
+###--------
+###Script:23
+###Mugshot:PlantMan
+<printPlayerNickname>,it's
+time to eat.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:PlantMan
+Plants use water
+and sunlight
+as their food.
+###--------
+###Mugshot:PlantMan
+How ecological!
+###--------
+###Script:24
+###Mugshot:PlantMan
+Well,it's almost
+time for school.
+###--------
+###Mugshot:PlantMan
+Make sure you absorb
+a lot of knowledge,
+###--------
+###Mugshot:PlantMan
+like a plant absorbing
+water from the ground.
+###--------
+###Script:25
+###Mugshot:PlantMan
+Well,it's just about
+time for 
+###--------
+###Mugshot:PlantMan
+<printScheduleBuffer>⋯
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:PlantMan
+After that...
+###--------

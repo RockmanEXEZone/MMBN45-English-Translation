@@ -1,0 +1,131 @@
+﻿###TextArchive:775E90
+###Script:1
+###Mugshot:Lan
+MegaMan!
+I'll send new chips!
+It'll take one turn.
+###--------
+###Script:2
+###Mugshot:MegaMan
+Lan,should we run?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:3
+###Mugshot:MegaMan
+<wait>･<wait>･<wait>･<wait>OK!
+We got away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:4
+###Mugshot:MegaMan
+<wait>･<wait>･<wait>･<wait>It's no good!
+We can't run away...!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:5
+<printBuffer>[z]
+###Command:printBuffer buffer=0 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:6
+HP+<printBuffer>
+###Command:printBuffer buffer=0 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:7
+      HP+
+###--------
+###Script:8
+     HP+
+###--------
+###Script:9
+    HP+
+###--------
+###Script:10
+HP MAX
+###--------
+###Script:11
+###Mugshot:MegaMan
+Communication error!
+Canceling battle...
+###--------
+###Mugshot:MegaMan
+
+###--------
+###Script:12
+VS
+###--------
+###Script:14
+###Mugshot:MegaMan
+Communication error!
+<positionOptionHorizontal><option><space> Try again
+<positionOptionHorizontal><option><space> End the battle
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:15
+You can't use the
+Chip Gate here!
+Battle routine,Set!
+###--------
+###Script:16
+I'll end the battle.
+Make sure to save!
+###--------
+###Script:17
+###Mugshot:MegaMan
+Communication error!
+###--------
+###Script:45
+DOUBLE DELETE!
+###--------
+###Script:46
+TRIPLE DELETE!
+###--------
+###Script:47
+ BugFrag <printBuffer>
+###Command:printBuffer buffer=0 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:48
+###Mugshot:MegaMan
+Communication error!
+Canceling battle...
+Error code <printBuffer>
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=false
+###--------
+###Mugshot:MegaMan
+
+###--------
+###Script:49
+###Mugshot:MegaMan
+I wish Lan were
+here! What'll I do?
+<positionOptionHorizontal><option><space> Run  <option><space>Fight!
+###Command:positionOptionHorizontal width=11
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:50
+###Mugshot:MegaMan
+<wait>･<wait>･<wait>･<wait>OK!
+I got away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------

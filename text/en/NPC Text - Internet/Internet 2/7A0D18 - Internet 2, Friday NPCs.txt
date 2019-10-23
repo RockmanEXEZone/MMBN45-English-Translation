@@ -1,0 +1,215 @@
+﻿###TextArchive:7A0D18
+###Script:0
+###Mugshot:NaviGirlOrange
+Ugh... I've only
+just started out
+on the Net...
+###--------
+###Mugshot:NaviGirlOrange
+but I'm so nervous,
+I can't communicate
+with anyone at all!
+###--------
+###Mugshot:NaviGirlOrange
+I know it's because
+I'm shy,but...
+###--------
+###Script:1
+###Mugshot:NaviGirlOrange
+Well,I'm spent...
+I think it's about
+time I jack out.
+###--------
+###Script:10
+###Mugshot:NormNaviPink
+It's Friday,huh...?
+###--------
+###Mugshot:NormNaviPink
+Ah,that's right.
+On Fridays,we have
+fried shrimp･<wait>･<wait>･
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviPink
+Blah,blah...<wait>
+Blah,blah...
+###Command:wait frames=20
+###--------
+###Script:11
+###Mugshot:NormNaviPink
+Goodness!
+It's already noon.
+###--------
+###Mugshot:NormNaviPink
+Ah,that's right.
+Around noon･<wait>･<wait>･
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviPink
+Blah,blah...<wait>
+Blah,blah...
+###Command:wait frames=20
+###--------
+###Script:12
+###Mugshot:NormNaviPink
+Well then. I think
+it's about time
+to jack out.
+###--------
+###Mugshot:NormNaviPink
+Tomorrow is Saturday,
+which is a day off,
+###--------
+###Mugshot:NormNaviPink
+so I think my operator
+will be in good spirits.
+###--------
+###Script:20
+###Mugshot:NormNaviPink
+Oh no!
+Is that true!?
+###--------
+###Mugshot:NormNaviPink
+There are still so
+many mysteries in the
+world,aren't there...?
+###--------
+###Mugshot:NormNaviPink
+Now that you mention
+it,my operator said the
+same thing recently･<wait>･<wait>･
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviPink
+Blah,blah...<wait>
+Blah,blah...
+###Command:wait frames=20
+###--------
+###Script:21
+###Mugshot:NormNaviPink
+Oh my,it's noon!
+We were talking so
+much,I didn't realize!
+###--------
+###Script:22
+###Mugshot:NormNaviPink
+Ah,that's right.
+Tomorrow is
+Saturday,isn't it?
+###--------
+###Mugshot:NormNaviPink
+According to
+my schedule,
+###++++++++
+###Mugshot:NormNaviPink
+we'll be going
+shopping with my
+operator's family.
+###--------
+###Script:40
+###Mugshot:NormNaviYellow
+Pump!
+###++++++++
+###Mugshot:NormNaviYellow
+It!
+###--------
+###Mugshot:NormNaviYellow
+Up!
+###--------
+###Mugshot:NormNaviYellow
+PUMP IT UP!!
+###--------
+###Mugshot:NormNaviYellow
+Ah!!
+Not good...
+###--------
+###Mugshot:NormNaviYellow
+That pumped-up
+Mr.Prog is rubbing
+off on me...
+###--------
+###Script:50
+###Mugshot:NormNaviBrown
+That Black Navi over
+there seems to have
+a sharply trained mind.
+###--------
+###Mugshot:NormNaviBrown
+Oh...oh! I can feel it!
+I can feel his
+powerful aura!
+###--------
+###Script:60
+###Mugshot:PurpleNavi
+Good evening.
+It's a rather quiet
+night,isn't it?
+###--------
+###Mugshot:PurpleNavi
+My operator has to
+begin work soon,
+###--------
+###Mugshot:PurpleNavi
+which means this
+is the beginning
+of our day.
+###--------
+###Script:61
+###Mugshot:PurpleNavi
+It's rather late
+right now,
+###--------
+###Mugshot:PurpleNavi
+but my operator
+is currently hard
+at work.
+###--------
+###Script:70
+###Mugshot:HeelNaviBlack
+I wish to know how
+far my current
+abilities go...
+###--------
+###Mugshot:HeelNaviBlack
+Shall we have
+a battle?
+###--------
+<positionOptionHorizontal><option><space> Bring it!  <option><space> No way
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviBlack
+Is that so...?
+###--------
+###Script:71
+###Mugshot:HeelNaviBlack
+Let's have a
+fair fight!
+###--------
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!
+###--------
+###Script:72
+###Mugshot:HeelNaviBlack
+I've lost!
+###--------
+###Mugshot:HeelNaviBlack
+...It would seem I still
+have much to learn.
+###--------
+###Script:73
+###Mugshot:HeelNaviBlack
+Though I've won,it
+seems I'm far from
+being "the strongest".
+###--------
+###Mugshot:HeelNaviBlack
+But,surely,one day...
+###--------

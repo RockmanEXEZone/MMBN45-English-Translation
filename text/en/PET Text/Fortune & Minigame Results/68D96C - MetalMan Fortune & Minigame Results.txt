@@ -1,0 +1,121 @@
+﻿###TextArchive:68D96C
+###Script:0
+Temp message
+###--------
+###Script:10
+My fists are
+really itching
+today...
+###--------
+...No good.
+I can't sit still.
+###--------
+At times like this,
+there's nothing
+to do but train!!
+###--------
+Let me give
+my fists some
+exercise!
+###--------
+<spacePx><option><space> Sure  <option><space> Nah
+###Command:spacePx count=16
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:11
+...Mmmph!
+###--------
+H-How am I
+supposed to deal
+with this itching...?
+###--------
+###Script:12
+Error!
+###--------
+###Script:13
+You're not giving
+it your all!!
+###--------
+Show me operating
+that can calm
+my itching fists!
+###--------
+###Script:14
+Phew...
+###--------
+My itching fists...
+have calmed!
+###--------
+Ohh,I feel power
+swelling inside
+my body!
+###--------
+###Script:15
+Phew...
+###--------
+My itching fists...
+have calmed...
+###--------
+Thanks,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+It's not much,
+but take it...
+###--------
+###Script:16
+You got
+<printBuffer> Zennys!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:17
+Phew...
+###--------
+My itching fists...
+have they calmed?
+###--------
+No,there's still a
+little... Well,let's
+leave it for now.
+###--------
+Thanks,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+It's not much,
+but take it...
+###--------
+###Script:18
+You got
+<printBuffer> BugFrags!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:20
+One moment.
+###--------
+<printPlayerNickname>,
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I feel like
+my fists are
+sluggish today...
+###--------
+Before we jack
+in,could you let
+me train a little?
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:21
+I see...
+I'll just have
+to deal with it...
+###--------

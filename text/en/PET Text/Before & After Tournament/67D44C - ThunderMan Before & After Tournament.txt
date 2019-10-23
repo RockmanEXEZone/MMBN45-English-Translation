@@ -1,0 +1,43 @@
+﻿###TextArchive:67D44C
+###Script:1
+W-What...?
+To think that
+we would lose...
+###--------
+This is truly a
+bolt from the blue...
+###--------
+###Script:2
+Well done,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+Your operating
+skills were
+like lightning.
+###--------
+###Script:10
+<printPlayerNickname>,we
+are not entered.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+It's time...
+Let's give it
+all we've got.
+###--------
+###Script:21
+It's time...
+Let's give it
+all we've got.
+###--------
+###Script:22
+It's time...
+Let's give it
+all we've got.
+###--------
+###Script:23
+It's time...
+Let's give it
+all we've got.
+###--------

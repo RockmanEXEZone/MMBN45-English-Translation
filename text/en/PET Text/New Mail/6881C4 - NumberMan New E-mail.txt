@@ -1,0 +1,161 @@
+﻿###TextArchive:6881C4
+###Script:1
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<printPlayerNickname>,
+you have E-Mail!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:2
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<printPlayerNickname>,
+you have E-Mail!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:3
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<printPlayerNickname>,
+you have E-Mail!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:4
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+You have E-Mail!
+###--------
+###Script:5
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+You have E-Mail!
+###--------
+###Script:6
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+You have E-Mail!
+###--------
+###Script:7
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+You have E-Mail!
+###--------
+###Script:20
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+You have E-Mail!
+###--------
+###Script:21
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+You have E-Mail!
+###--------
+###Script:22
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+You have E-Mail!
+###--------
+###Script:23
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+You have E-Mail!
+###--------
+###Script:24
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+You have E-Mail!
+###--------
+###Script:25
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+You have E-Mail!
+###--------
+###Script:26
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+You have E-Mail!
+###--------

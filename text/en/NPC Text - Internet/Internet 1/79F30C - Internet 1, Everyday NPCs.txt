@@ -1,0 +1,324 @@
+﻿###TextArchive:79F30C
+###Script:0
+###Mugshot:MrProgGreen
+WELCOME!
+THIS IS INTERNET1!
+###--------
+###Mugshot:MrProgGreen
+EVERY DAY HERE
+PASSES BY PEACEFULLY
+WITHOUT INCIDENTS!
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+GOOD MORNING!
+THIS IS INTERNET1!
+###--------
+###Mugshot:MrProgGreen
+LET'S DO OUR BEST
+AGAIN TODAY!
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+NOON!
+NOON!
+IT'S NOOOON!
+###--------
+###Mugshot:MrProgGreen
+LET'S TAKE IT
+NICE AND EASY!
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+WELCOME!
+THIS IS INTERNET1!
+###--------
+###Mugshot:MrProgGreen
+OH! IT'S ALREADY
+THIS LATE... MY
+JOB IS OVER SOON.
+###--------
+###Mugshot:MrProgGreen
+I WORKED HARD TODAY.
+###--------
+###Script:4
+###Mugshot:OfficialNavi
+Hello,this is
+Internet1.
+###--------
+###Mugshot:OfficialNavi
+At this time of night,
+it's my job to guide
+and assist folks.
+###--------
+###Script:5
+###Mugshot:OfficialNavi
+This is Internet1.
+It's always pretty
+quiet at night here.
+###--------
+###Script:6
+###Mugshot:OfficialNavi
+Zzz... Zzz...
+###--------
+###Mugshot:OfficialNavi
+...
+###--------
+###Mugshot:OfficialNavi
+...Ah!
+###--------
+###Mugshot:OfficialNavi
+No! I wasn't sleeping!
+I'd never sleep
+on the job!!!
+###--------
+###Mugshot:OfficialNavi
+Welcome!
+This is Internet1!
+###--------
+###Mugshot:OfficialNavi
+You must be doing
+something important to
+be here at this hour.
+###--------
+###Script:10
+###Mugshot:MrProgGreen
+HEY HEY!
+###--------
+###Mugshot:MrProgGreen
+THE APPRENTICE
+NETBATTLER EXAM
+CENTER IS UP AHEAD!
+###--------
+###Mugshot:MrProgGreen
+PLEASE CLIMB THE
+STAIRS AND PROCEED
+TOWARDS THE BACK!
+###--------
+###Script:11
+###Mugshot:MrProgGreen
+GOOD MORNING!
+AREN'T YOU UP
+NICE AND EARLY?
+###--------
+###Mugshot:MrProgGreen
+THE APPRENTICE
+NETBATTLER EXAM
+CENTER IS UP AHEAD!
+###--------
+###Mugshot:MrProgGreen
+PLEASE CLIMB THE
+STAIRS AND PROCEED
+TOWARDS THE BACK!
+###--------
+###Script:12
+###Mugshot:MrProgGreen
+PHEW...
+###--------
+###Mugshot:MrProgGreen
+I'M IN THE
+MIDDLE OF MY
+BREAK RIGHT NOW.
+###--------
+###Script:13
+###Mugshot:MrProgGreen
+*MUMBLE,MUMBLE...*
+###--------
+###Mugshot:MrProgGreen
+THIS PROGRAM IS
+IN SLEEP MODE.
+###--------
+###Mugshot:MrProgGreen
+*MUMBLE,MUMBLE...*
+###--------
+###Script:20
+###Mugshot:NormNaviBrown
+*huff!* *huff!*
+###--------
+###Mugshot:NormNaviBrown
+I can't skimp on
+my walking,even if
+it's an off day!
+###--------
+###Mugshot:NormNaviBrown
+Hey! C'mon!
+Keep that body
+moving!
+###--------
+###Script:21
+###Mugshot:NormNaviBrown
+*huff!* *huff!*
+###++++++++
+###Mugshot:NormNaviBrown
+No way am I going
+to slack off!
+###--------
+###Mugshot:NormNaviBrown
+You think I'd be
+tired just because
+it's a weekday?
+###--------
+###Mugshot:NormNaviBrown
+You've gotta stay
+flexible like me!
+Watch!
+###--------
+###Script:22
+###Mugshot:NormNaviBrown
+*huff!* *huff!*
+###--------
+###Mugshot:NormNaviBrown
+Oh,good morning!
+Early riser,aren't ya?
+###--------
+###Mugshot:NormNaviBrown
+Are you walking
+for exercise too?
+###++++++++
+###Mugshot:NormNaviBrown
+It's good for
+your health,y'know!
+###--------
+###Script:23
+###Mugshot:NormNaviBrown
+*huff!* *huff!*
+###--------
+###Mugshot:NormNaviBrown
+I walk every morning!
+I've never missed it,
+not even once!
+###--------
+###Mugshot:NormNaviBrown
+Hey! Hey!
+It's Wednesday,so I'm
+walking as usual,see!
+###--------
+###Script:24
+###Mugshot:NormNaviBrown
+*huff!* *huff!*
+###--------
+###Mugshot:NormNaviBrown
+Early to bed,
+early to rise,and
+morning exercise.
+###++++++++
+###Mugshot:NormNaviBrown
+That's the secret
+to a long life!
+###--------
+###Script:26
+###Mugshot:NormNaviBrown
+*huff!* *huff!*
+###--------
+###Mugshot:NormNaviBrown
+Maybe you think I'm
+just a manly guy
+###++++++++
+###Mugshot:NormNaviBrown
+working out here
+every morning,but...
+###--------
+###Mugshot:NormNaviBrown
+I'm a kid on the
+inside,too! Saturdays
+get me all excited.
+###--------
+###Mugshot:NormNaviBrown
+Why's that, you ask?
+My favorite cartoon
+airs on Saturday!
+###--------
+###Mugshot:NormNaviBrown
+I've set a timer to
+record it,so I can
+relax and watch later.
+###--------
+###Script:30
+###Mugshot:NumberMan
+NetBattles are decided
+by brainpower!
+###--------
+###Mugshot:NumberMan
+Your brainpower
+VS. my brainpower...
+###--------
+###Mugshot:NumberMan
+Care to see
+which is better?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NumberMan
+Looks like you're
+pretty good at
+calculating risks.
+## We both know what
+## the result would
+## have been anyway.
+###--------
+###Script:31
+###Mugshot:NumberMan
+T-T-This doesn't
+add up!!
+###--------
+###Mugshot:NumberMan
+Did I make a
+miscalculation!?
+###--------
+###Script:32
+###Mugshot:NumberMan
+These are the
+results of my
+formula for victory!
+###--------
+###Mugshot:NumberMan
+Everything went
+just as calculated!
+###--------
+###Script:33
+###Mugshot:NumberMan
+Let me show you how
+to solve this equation,
+NumberMan style!
+###--------
+###Script:34
+###Mugshot:NumberMan
+I heard there was
+an intelligent Navi
+in the area,
+###--------
+###Mugshot:NumberMan
+but...it's another me!?
+###--------
+###Mugshot:NumberMan
+This should be a
+fun exercise.
+###--------
+###Mugshot:NumberMan
+Your brainpower
+VS. my brainpower...
+###--------
+###Mugshot:NumberMan
+Care to see
+which is better?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NumberMan
+Looks like you're
+pretty good at
+calculating risks.
+## We both know what
+## the result would
+## have been anyway.
+###--------

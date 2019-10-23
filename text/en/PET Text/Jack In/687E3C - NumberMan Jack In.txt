@@ -1,0 +1,7 @@
+﻿###TextArchive:687E3C
+###Script:1
+Jack in!
+NumberMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

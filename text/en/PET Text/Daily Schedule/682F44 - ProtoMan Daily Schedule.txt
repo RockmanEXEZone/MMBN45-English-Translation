@@ -1,0 +1,37 @@
+﻿###TextArchive:682F44
+###Script:1
+<printPlayerNickname>,it's
+almost time for...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:2
+"<printScheduleBuffer>"
+###Command:printScheduleBuffer
+###--------
+###Script:3
+That's all for now.
+###--------
+###Script:10
+Today's
+schedule is...
+###--------
+Unfortunately,
+it's empty.
+###--------
+###Script:11
+At <printBuffer>:
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+<printBuffer>
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+<printScheduleBuffer>,
+
+###Command:printScheduleBuffer
+###--------
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:12
+That is all.
+###--------

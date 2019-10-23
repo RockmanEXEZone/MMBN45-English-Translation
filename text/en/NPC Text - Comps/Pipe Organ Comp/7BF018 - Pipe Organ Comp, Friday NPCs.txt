@@ -1,0 +1,80 @@
+﻿###TextArchive:7BF018
+###Script:0
+###Mugshot:NaviGirlPurple
+Today is the weekly
+virus battle rally!
+###--------
+###Mugshot:NaviGirlPurple
+Hey,could you
+help test out my
+viruses' skills?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NaviGirlPurple
+A coward,huh...?
+###--------
+###Script:1
+###Mugshot:NaviGirlPurple
+Let's go!
+###--------
+###Mugshot:NaviGirlPurple
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:NaviGirlPurple
+Kyah!
+What the heck!!
+###--------
+###Script:3
+###Mugshot:NaviGirlPurple
+Well, that was to
+be expected...
+###--------
+###Script:4
+###Mugshot:NormNaviPink
+My viruses are the
+strongest on the Net!
+###--------
+###Mugshot:NormNaviPink
+You there! Would you
+kindly become fodder
+for my lovely viruses?
+###--------
+<positionOptionHorizontal><option><space> Try me!  <option><space> Forget it!
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviPink
+Oh ho ho! Well,I
+suppose no one would
+want to become fodder!
+###--------
+###Script:5
+###Mugshot:NormNaviPink
+My sweet little viruses!
+It's dinner time!
+###--------
+###Mugshot:NormNaviPink
+Battle routine,set!
+Execute!
+###--------
+###Script:6
+###Mugshot:NormNaviPink
+Ooohhhhhh...
+###--------
+###Script:7
+###Mugshot:NormNaviPink
+Since you were brave
+enough to challenge my
+viruses, I'll spare you.
+###--------

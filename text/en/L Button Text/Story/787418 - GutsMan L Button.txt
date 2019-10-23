@@ -1,0 +1,166 @@
+﻿###TextArchive:787418
+###Script:10
+###Mugshot:GutsMan
+Yee-haw! Let's go
+explore the Net!
+###--------
+###Script:11
+###Mugshot:GutsMan
+That Apprentice License
+got my name on it!
+###--------
+###Script:12
+###Mugshot:GutsMan
+Let's do our best
+on the Apprentice
+License exam!
+###--------
+###Script:13
+###Mugshot:GutsMan
+Guts,guts!
+We gotta go get
+a "<printChip>"!
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:GutsMan
+Let's go pick up our
+Apprentice License!
+###--------
+###Script:15
+###Mugshot:GutsMan
+Good job on the
+Apprentice License
+exam!
+###++++++++
+###Mugshot:GutsMan
+Wanna jack out?
+###--------
+###Script:16
+###Mugshot:GutsMan
+I wanna check
+out what's goin'
+on in Internet3.
+###--------
+###Script:17
+###Mugshot:GutsMan
+Looks like the Navi
+we beat was behind
+the incident...
+###--------
+###Mugshot:GutsMan
+You tired?
+Wanna jack out
+for now?
+###--------
+###Script:18
+###Mugshot:GutsMan
+I wanna check
+out what's goin'
+on in Internet5.
+###--------
+###Script:19
+###Mugshot:GutsMan
+I wanna check
+out what's goin'
+on in Internet7.
+###--------
+###Script:20
+###Mugshot:GutsMan
+I wanna check
+out what's goin'
+on in Internet9.
+###--------
+###Script:21
+###Mugshot:GutsMan
+I wanna check
+out what's goin'
+on in Internet10.
+###--------
+###Script:22
+###Mugshot:GutsMan
+I wanna check
+out what's goin'
+on in Internet12.
+###--------
+###Script:23
+###Mugshot:GutsMan
+Let's get back the
+"MinusKey" from
+BlackWorks!
+###--------
+###Script:24
+###Mugshot:GutsMan
+Looks like the
+other Navi has
+the "MinusKey"!
+###--------
+###Script:25
+###Mugshot:GutsMan
+Let's bring back the
+"MinusKey" to the
+Navi in Internet9!
+###--------
+###Script:26
+###Mugshot:GutsMan
+Let's go to the
+Official Tournament
+entry desk!
+###--------
+###Script:27
+###Mugshot:GutsMan
+Let's go to
+the Undernet!
+###++++++++
+###Mugshot:GutsMan
+That Navi we're
+after should be
+near a coffin!
+###--------
+###Script:28
+###Mugshot:GutsMan
+Yee-haaaww! Let's
+go enter the Official
+Tournament!
+###--------
+###Script:29
+###Mugshot:GutsMan
+The Official Tournament's
+this weekend! Let's
+show 'em our guts!!
+###--------
+###Script:30
+###Mugshot:GutsMan
+They've sure got
+guts in the Official
+Tournament!
+###--------
+###Script:31
+###Mugshot:GutsMan
+Hey <printPlayerNickname>,
+let's go exploring
+on the Net!
+###Command:printPlayerNickname
+###--------
+###Script:32
+###Mugshot:GutsMan
+Let's do the Official
+Tournament prelims!
+###--------
+###Script:33
+###Mugshot:GutsMan
+Let's read that
+mail we just got!
+###--------
+###Script:34
+###Mugshot:GutsMan
+Once the weekend's over,
+let's go enter the
+Official Tournament!
+###--------
+###Script:35
+###Mugshot:GutsMan
+That Navi we're
+after should be
+near a coffin!
+###--------

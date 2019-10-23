@@ -1,0 +1,62 @@
+﻿###TextArchive:7B9748
+###Script:0
+###Mugshot:MrProgGreen
+I'M THE PROGRAM
+WHO DESIGNS THE
+GOLF COURSES.
+###--------
+###Mugshot:MrProgGreen
+THEY CAN'T BE TOO
+EASY,BUT THEY CAN'T
+BE TOO HARD,EITHER.
+###--------
+###Mugshot:MrProgGreen
+IT'S A DELICATE JOB.
+###--------
+###Script:221
+###Mugshot:PurpleNavi
+Please come again!
+###--------
+###Script:222
+###Mugshot:PurpleNavi
+I'm a SubChipDealer,
+###--------
+###Mugshot:PurpleNavi
+but I'm all sold
+out! Sorry!
+###--------
+###Script:223
+###Mugshot:PurpleNavi
+I'm a SubChipDealer!
+###--------
+###Mugshot:PurpleNavi
+Wanna see my stuff?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:224
+###Mugshot:PurpleNavi
+I'm a SubChipDealer!
+###--------
+###Mugshot:PurpleNavi
+Today's the weekly
+Ladies Day!
+###--------
+###Mugshot:PurpleNavi
+I've got some sweet
+deals just for girls
+throughout the day!
+###--------
+###Mugshot:PurpleNavi
+Wanna see my stuff!?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------

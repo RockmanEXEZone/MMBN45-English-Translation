@@ -1,0 +1,144 @@
+﻿###TextArchive:79FFF4
+###Script:0
+###Mugshot:NaviGirlOrange
+Ah,h-hello...
+###--------
+###Mugshot:NaviGirlOrange
+I just started using
+the Internet recently...
+###--------
+###Mugshot:NaviGirlOrange
+Umm...
+I'm so nervous...
+###--------
+###Script:1
+###Mugshot:NaviGirlOrange
+Ah,it's already
+past 7...
+###--------
+###Mugshot:NaviGirlOrange
+Maybe I should
+jack out soon?
+###--------
+###Script:10
+###Mugshot:NormNaviPink
+Oh yes.
+Did you hear?
+###--------
+###Mugshot:NormNaviPink
+Rumor has it,
+their operator･<wait>･<wait>･
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviPink
+Blah,blah...<wait>
+Blah,blah...
+###Command:wait frames=20
+###--------
+###Script:11
+###Mugshot:NormNaviPink
+Oh dear!
+It's already noon!
+###--------
+###Mugshot:NormNaviPink
+Time certainly
+does fly by when
+you're chatting!
+###--------
+###Script:12
+###Mugshot:NormNaviPink
+Oh dear,it's
+already this late?
+###--------
+###Mugshot:NormNaviPink
+I have to prepare
+dinner with my
+operator soon...
+###--------
+###Script:20
+###Mugshot:NormNaviPink
+Oh dear,is that
+what happened?
+How frightening...
+###--------
+###Mugshot:NormNaviPink
+Well,they always say
+you can't judge
+people by their looks.
+###--------
+###Mugshot:NormNaviPink
+Blah,blah...<wait>
+Blah,blah...
+###Command:wait frames=20
+###--------
+###Script:21
+###Mugshot:NormNaviPink
+My operator is always
+watching TV shows...
+###--------
+###Mugshot:NormNaviPink
+Really,day in and out...
+They just never
+get tired of it...
+###--------
+###Script:22
+###Mugshot:NormNaviPink
+Oh,dear me!
+###--------
+###Mugshot:NormNaviPink
+Look at the time!
+We just kept
+talking on and on...
+###--------
+###Script:40
+###Mugshot:NormNaviYellow
+This Mr.Prog sure
+is pumped up and
+excited,isn't he?
+###--------
+###Mugshot:NormNaviYellow
+I always come here
+around lunch to
+lift my spirits.
+###--------
+###Script:50
+###Mugshot:NormNaviBrown
+That black Navi
+over there...
+###--------
+###Mugshot:NormNaviBrown
+I can feel his
+overflowing
+fighting spirit...
+###--------
+###Script:60
+###Mugshot:PurpleNavi
+My operator works
+during the night,
+###--------
+###Mugshot:PurpleNavi
+so to a normal person,
+it looks like his day &
+night are reversed.
+###--------
+###Mugshot:PurpleNavi
+As his Navi,it means
+my life also revolves
+around nighttime.
+###--------
+###Script:61
+###Mugshot:PurpleNavi
+Evening.
+The quiet nightly
+Cyberworld is nice
+###++++++++
+###Mugshot:PurpleNavi
+every once in a
+while,isn't it?
+###--------
+###Mugshot:PurpleNavi
+But be careful to
+not stay up too
+late and oversleep.
+###--------

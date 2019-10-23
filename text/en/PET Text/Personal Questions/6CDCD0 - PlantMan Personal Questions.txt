@@ -1,0 +1,600 @@
+﻿###TextArchive:6CDCD0
+###Script:1
+Virus busting,
+NetBattling,
+and so on...
+###--------
+You'll improve at
+these things faster
+with siblings.
+###--------
+Do you have a
+big brother?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Oh?
+What's his name?
+###--------
+###Script:2
+Really...
+###--------
+###Script:3
+Virus busting,
+NetBattling,
+and so on...
+###--------
+You'll improve at
+these things faster
+with siblings.
+###--------
+Do you have a
+little brother?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Oh?
+What's his name?
+###--------
+###Script:4
+Really...
+###--------
+###Script:5
+Virus busting,
+NetBattling,
+and so on...
+###--------
+You'll improve at
+these things faster
+with siblings.
+###--------
+Do you have a
+big sister?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Oh?
+What's her name?
+###--------
+###Script:6
+Really...
+###--------
+###Script:7
+Virus busting,
+NetBattling,
+and so on...
+###--------
+You'll improve at
+these things faster
+with siblings.
+###--------
+Do you have a
+little sister?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Oh?
+What's her name?
+###--------
+###Script:8
+Really...
+###--------
+###Script:9
+If you fight
+your friends
+over and over,
+###++++++++
+you'll grow
+stronger in battle.
+###--------
+Could you tell me
+about a close
+friend of yours?
+###--------
+###Script:11
+Even on the
+Net,there are
+delicacies...
+###--------
+For instance,the
+water and air.
+###++++++++
+They're much
+cleaner than in
+the real world.
+###--------
+I savor the pure
+water and air in
+the Cyberworld...
+###--------
+By the way,what's
+your favorite food?
+###--------
+The sweet,sweet
+nectar of flowers,
+perhaps?
+###--------
+###Script:13
+Seeing the Data
+Library fill up
+is bliss.
+###--------
+It's almost like
+watching a
+flower bloom.
+###--------
+Guess you could say
+viewing the library
+is my hobby...
+###--------
+Hobbies are like
+moisture for
+humanity...
+###--------
+Both flowers and
+humans require
+moisture to live.
+###--------
+Could you tell me
+what your hobby is?
+###--------
+###Script:15
+Winning the
+tournament is one
+kind of dream...
+###--------
+But I'd like to
+ask you about your
+grander plans;
+###++++++++
+what you dream
+to become in
+the future.
+###--------
+###Script:17
+Could you tell me
+who you'd like to
+send love mail to?
+###--------
+The hearts of those
+in love are always
+in full bloom.
+###--------
+Why don't you
+show me that
+flower of love?
+###--------
+###Script:19
+Could you tell me
+who you'd like to
+send love mail to?
+###--------
+The hearts of those
+in love are always
+in full bloom.
+###--------
+Why don't you
+show me that
+flower of love?
+###--------
+###Script:21
+Those who can
+fill the entire
+Data Library
+###++++++++
+are absolutely
+worthy of respect.
+###--------
+Anyway,what kind
+of person do
+you respect?
+###--------
+Tell me who
+that person is.
+###--------
+###Script:23
+Who is someone you
+dislike so much
+###++++++++
+that you wouldn't
+even consider
+sending them mail?
+###--------
+It's no big deal.
+Everyone's got
+a few enemies...
+###--------
+###Script:25
+After you're
+done NetBattling,
+###--------
+you like to talk
+about TV with
+your friends,no?
+###--------
+I'd like to join
+in a little.
+###--------
+Could you tell
+me what TV
+show you like?
+###--------
+###Script:27
+The Net is nice
+and all,but studying
+is important,too.
+###--------
+What subject are
+you good at?
+###--------
+###Script:29
+The Net is nice
+and all,but studying
+is important,too.
+###--------
+What subject are
+you bad at?
+###--------
+###Script:31
+Suppose you'd
+receive a prize
+for winning the
+###--------
+tournament.
+What would you
+want it to be?
+###--------
+###Script:32
+Just like there
+are many names
+for the chips
+###--------
+decorating the
+library,there
+are many names
+###--------
+for the preschools
+around the country.
+###--------
+What's the name
+of the preschool
+you attend?
+###--------
+###Script:33
+Just like there
+are many names
+for the chips
+###--------
+decorating the
+library,there
+are many names
+###--------
+for the schools
+around the country.
+###--------
+What's the name
+of the school
+you attend?
+###--------
+###Script:34
+Just like there
+are many names
+for the chips
+###--------
+decorating the
+library,there
+are many names
+###--------
+for the companies
+around the country.
+###--------
+What's the name
+of the company
+you work for?
+###--------
+###Script:40
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:41
+Do you have more
+big brothers?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:42
+Really...
+###--------
+###Script:43
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:44
+Do you have more
+little brothers?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:45
+Really...
+###--------
+###Script:46
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:47
+Do you have more
+big sisters?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:48
+Really...
+###--------
+###Script:49
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:50
+Do you have more
+little sisters?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:51
+Really...
+###--------
+###Script:52
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+<printStringBuffer3>
+###Command:printStringBuffer3
+###--------
+###Script:53
+Do you have
+other friends?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:54
+Really...
+###--------
+###Script:55
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:56
+Do you have any
+other hobbies?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:57
+Really...
+###--------
+###Script:58
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:59
+Do you like any
+other TV shows?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:60
+Really...
+###--------
+###Script:61
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:62
+Do you want any
+other things?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+Really...
+###--------
+###Script:80
+That's a
+nice name...
+###--------
+Your big brother
+must be stalwart
+like a tree,
+###--------
+its roots firmly
+planted in the
+ground.
+###--------
+###Script:81
+That's a
+nice name...
+###--------
+Your little brother
+must be energetic,
+###++++++++
+like a sunflower
+blooming in summer.
+###--------
+###Script:82
+That's a
+nice name...
+###--------
+Your big sister
+must be beautiful,
+like a rose.
+###--------
+###Script:83
+That's a
+nice name...
+###--------
+Your little sister
+must be dainty,
+###++++++++
+like a lily of
+the valley...
+###--------
+###Script:84
+Flowers are
+beautiful even
+by themselves,
+###--------
+but they become
+yet more beautiful
+###++++++++
+if you gather many
+of them. Humans
+are the same...
+###--------
+###Script:85
+I see. That food
+sounds delightful.
+###--------
+###Script:86
+That's a rather
+nice hobby...
+###--------
+###Script:87
+The seed of
+your dream has
+been planted...
+###--------
+I'm sure it will
+come into bloom
+soon enough.
+###--------
+###Script:88
+I see. Your flower
+of love is also
+in full bloom.
+###--------
+###Script:89
+So they are that
+amazing a person...?
+###--------
+Interesting...
+###--------
+###Script:90
+Every world
+has its charms
+and its stains...
+###--------
+###Script:91
+That show sounds
+interesting...
+###--------
+###Script:92
+Never mind that...
+What would really
+enrich your mind
+###--------
+is a bouquet of
+a hundred roses...
+###--------
+###Script:93
+You should work
+hard to overcome
+that... Understand?
+###--------
+###Script:94
+You want that
+sort of thing...?
+I see how it is...
+###--------
+###Script:95
+The name is similar
+to a flower from a
+southern country...
+###--------

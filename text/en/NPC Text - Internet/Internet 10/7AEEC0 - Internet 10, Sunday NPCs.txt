@@ -1,0 +1,12 @@
+﻿###TextArchive:7AEEC0
+###Script:0
+###Mugshot:MrProgGreen
+PATROL,PATROL!
+OH,SO MUCH FUN!
+###--------
+###Script:1
+###Mugshot:PurpleNavi
+A quiet environment
+really is the best
+for studying.
+###--------

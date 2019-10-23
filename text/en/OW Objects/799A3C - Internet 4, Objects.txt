@@ -1,0 +1,74 @@
+﻿###TextArchive:799A3C
+###Script:0
+So you've qualified
+for the Official
+Tournament,eh?
+###--------
+Let's just check
+your entry name...
+###--------
+...Ah!
+###--------
+<printCurrentNavi>,please,
+go on ahead!
+###Command:printCurrentNavi
+###--------
+###Script:1
+A fierce whirlwind is
+blocking the path!
+###--------
+###Script:2
+"<printItem>" confirmed...
+Take care and
+have a nice day.
+###Command:printItem buffer=0 item=2
+###--------
+###Script:6
+Only Navis qualified for
+the Official Tournament
+may go past this point.
+###--------
+If you aren't,kindly
+refrain from entering.
+###--------
+###Script:8
+###Mugshot:WindMan
+*whoosh...*
+Raging winds...
+Calm down...
+###--------
+###Mugshot:WindMan
+*whoosh...*
+###--------
+###Script:9
+###Mugshot:Bass
+...Hmph,begone!
+###--------
+###Script:10
+The whirlwind quietly
+faded away...
+###--------
+###Script:11
+The whirlwind was
+blown away by the
+overwhelming power!
+###--------
+###Script:13
+Only Navis who have
+an "<printItem>" may
+enter past this point.
+###Command:printItem buffer=0 item=2
+###--------
+This door also opens,
+one time only,for
+those with a "<printItem>".
+###Command:printItem buffer=0 item=19
+###--------
+...That's what it says.
+###--------
+###Script:14
+"<printItem>" confirmed...
+Take care and
+have a nice day.
+###Command:printItem buffer=0 item=19
+###--------

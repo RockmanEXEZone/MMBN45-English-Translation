@@ -1,0 +1,46 @@
+﻿###TextArchive:6C2B8C
+###Script:1
+We lost...
+###--------
+...Aw,phooey.
+###--------
+###Script:2
+Hooray!
+We won!!
+###--------
+I wanna hold
+onto this feeling
+forever...
+###--------
+Maybe I should put
+it in cold storage!
+###--------
+###Script:10
+<printPlayerNickname>,we're
+not entered!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+<printPlayerNickname>! Let's
+aim for the top
+and do our best!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:21
+<printPlayerNickname>! Let's
+aim for the top
+and do our best!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:22
+<printPlayerNickname>! Let's
+aim for the top
+and do our best!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:23
+<printPlayerNickname>! Let's
+aim for the top
+and do our best!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------

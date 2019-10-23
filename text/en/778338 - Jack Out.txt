@@ -1,0 +1,356 @@
+﻿###TextArchive:778338
+###Script:0
+###Mugshot:MegaMan
+Want to jack out,
+<printPlayerNickname>?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:1
+###Mugshot:MegaMan
+Roger!
+I'm jacking out!
+###--------
+###Script:5
+The magnetic field
+is too strong!
+I can't jack out!
+###--------
+###Script:6
+###Mugshot:Roll
+Wanna jack out,
+<printPlayerNickname>?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:7
+###Mugshot:GutsMan
+<printPlayerNickname>,are we
+jackin' out?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:8
+###Mugshot:WindMan
+<printPlayerNickname>,do you
+want to jack out?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:9
+###Mugshot:SearchMan
+<printPlayerNickname>,are we
+jacking out?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:10
+###Mugshot:FireMan
+Huh? We're jackin' out
+already,<printPlayerNickname>?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:11
+###Mugshot:ThunderMan
+Should we jack out,
+<printPlayerNickname>?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:12
+###Mugshot:ProtoMan
+<printPlayerNickname>,should I
+jack out?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:13
+###Mugshot:NumberMan
+Hm? Jacking out,
+<printPlayerNickname>?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:14
+###Mugshot:MetalMan
+<printPlayerNickname>,want to
+jack out...?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:15
+###Mugshot:JunkMan
+You want to j-jack
+out,<printPlayerNickname>?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:16
+###Mugshot:AquaMan
+<printPlayerNickname>,want to
+jack out,drip?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:17
+###Mugshot:WoodMan
+Shall we jack out,
+<printPlayerNickname>?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:18
+###Mugshot:StarMan
+Are we jacking out,
+<printPlayerNickname>?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:19
+###Mugshot:ShadowMan
+...Should we jack out?
+
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:20
+###Mugshot:KnightMan
+Shall I jack out,
+<printPlayerNickname>?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:21
+###Mugshot:NapalmMan
+Hey,<printPlayerNickname>,you
+really wanna jack out!?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:22
+###Mugshot:IceMan
+Do you want to jack
+out,<printPlayerNickname>?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:23
+###Mugshot:ElecMan
+Want to jack out,
+<printPlayerNickname>?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:24
+###Mugshot:PlantMan
+<printPlayerNickname>,do you
+want to jack out?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:25
+###Mugshot:Bass
+...You're jacking out?
+
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:26
+###Mugshot:Roll
+OK!
+I'm coming back now!
+###--------
+###Script:27
+###Mugshot:GutsMan
+You got it!
+Guts,guts!
+###--------
+###Script:28
+###Mugshot:WindMan
+...Very well.
+###--------
+###Script:29
+###Mugshot:SearchMan
+Copy that.
+Returning to PET!
+###--------
+###Script:30
+###Mugshot:FireMan
+Tsk,if you say so!
+###--------
+###Script:31
+###Mugshot:ThunderMan
+Understood...
+###--------
+###Script:32
+###Mugshot:ProtoMan
+OK,as you command!
+###--------
+###Script:33
+###Mugshot:NumberMan
+All right.
+I'll jack out now.
+###--------
+###Script:34
+###Mugshot:MetalMan
+...Hm!
+###--------
+###Script:35
+###Mugshot:JunkMan
+G-Got it...
+I'm g-going back
+to the PET now...
+###--------
+###Script:36
+###Mugshot:AquaMan
+Okey-dokey!
+I'm jacking out,drip!
+###--------
+###Script:37
+###Mugshot:WoodMan
+All right. I'll go
+ahead and jack out.
+###--------
+###Script:38
+###Mugshot:StarMan
+Got it!
+I'm going back
+to the PET!
+###--------
+###Script:39
+###Mugshot:ShadowMan
+...Understood.
+###--------
+###Script:40
+###Mugshot:KnightMan
+Then I shall
+return to the
+PET immediately!
+###--------
+###Script:41
+###Mugshot:NapalmMan
+S-Seriously!?
+Fine...
+###--------
+###Script:42
+###Mugshot:IceMan
+I got it!
+I'm jacking out!
+###--------
+###Script:43
+###Mugshot:ElecMan
+Gotcha...
+###--------
+###Script:44
+###Mugshot:PlantMan
+Very well...
+I'll return.
+###--------
+###Script:45
+###Mugshot:Bass
+...Hmph!
+###--------

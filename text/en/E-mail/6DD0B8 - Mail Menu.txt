@@ -1,0 +1,348 @@
+﻿###TextArchive:6DD0B8
+###Script:0
+ReglrMail
+###--------
+###Script:1
+TourEntry
+###--------
+###Script:2
+OfficlCmd
+###--------
+###Script:3
+AssasnReq
+###--------
+###Script:4
+MissionMl
+###--------
+###Script:5
+WreckJob
+###--------
+###Script:9
+Which mailbox do
+you want to check?
+###--------
+###Script:10
+###Mugshot:MegaMan
+There's no mail
+in this box.
+###--------
+###Script:11
+###Mugshot:MegaMan
+You've got mail!
+###--------
+###Script:13
+###Mugshot:Roll
+You don't have
+mail in this box!
+###--------
+###Script:14
+###Mugshot:Roll
+You have mail!
+###--------
+###Script:16
+###Mugshot:GutsMan
+Ain't no mail
+in this box.
+###--------
+###Script:17
+###Mugshot:GutsMan
+Yeehaw!
+You got mail!
+###--------
+###Script:19
+###Mugshot:WindMan
+You've yet to receive
+mail in this box.
+###--------
+###Script:20
+###Mugshot:WindMan
+Looks like there's
+new mail...
+###--------
+###Script:22
+###Mugshot:SearchMan
+You haven't received
+any mail in this box.
+###--------
+###Script:23
+###Mugshot:SearchMan
+You've received
+new mail.
+###--------
+###Script:24
+###Mugshot:SearchMan
+<printPlayerNickname>,please
+read the mission mail.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:25
+###Mugshot:FireMan
+Ya don't have any
+mail in this box.
+###--------
+###Script:26
+###Mugshot:FireMan
+Looks like ya got
+new mail!
+###--------
+###Script:28
+###Mugshot:ThunderMan
+You don't have
+mail in this box.
+###--------
+###Script:29
+###Mugshot:ThunderMan
+You've got mail.
+###--------
+###Script:31
+###Mugshot:ProtoMan
+You haven't received
+any mail in this box.
+###--------
+###Script:32
+###Mugshot:ProtoMan
+You have new mail.
+###--------
+###Script:33
+###Mugshot:ProtoMan
+<printPlayerNickname>,let's check
+the mail's contents.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:34
+###Mugshot:NumberMan
+Seems like there is
+no mail in this box.
+###--------
+###Script:35
+###Mugshot:NumberMan
+New mail incoming!
+###--------
+###Script:37
+###Mugshot:MetalMan
+No mail in this
+box just yet...
+###--------
+###Script:38
+###Mugshot:MetalMan
+Looks like there's
+new mail...
+###--------
+###Script:40
+###Mugshot:JunkMan
+T-There's no mail
+in this box...
+###--------
+###Script:41
+###Mugshot:JunkMan
+L-Looks like there's
+new mail...
+###--------
+###Script:43
+###Mugshot:AquaMan
+There's no mail
+in this box,drip!
+###--------
+###Script:44
+###Mugshot:AquaMan
+New mail arrived,
+drip!
+###--------
+###Script:46
+###Mugshot:WoodMan
+You've not received
+any mail.
+###--------
+###Script:47
+###Mugshot:WoodMan
+There's new mail
+for you.
+###--------
+###Script:55
+###Mugshot:StarMan
+There's no mail in
+this box yet.
+###--------
+###Script:56
+###Mugshot:StarMan
+New mail for you!
+###--------
+###Script:58
+###Mugshot:ShadowMan
+You've yet to
+receive any mail.
+###--------
+###Script:59
+###Mugshot:ShadowMan
+Looks like new
+mail arrived...
+###--------
+###Script:60
+###Mugshot:ShadowMan
+Take a look at the
+request details.
+###--------
+###Script:61
+###Mugshot:KnightMan
+You have no mail
+in this box.
+###--------
+###Script:62
+###Mugshot:KnightMan
+You have received
+new mail.
+###--------
+###Script:64
+###Mugshot:NapalmMan
+There's no mail
+in this box yet!
+###--------
+###Script:65
+###Mugshot:NapalmMan
+Looks like ya
+got new mail!
+###--------
+###Script:66
+###Mugshot:NapalmMan
+Let's check the job!
+Hehe,I'm all fired up
+to do some wreckin'!
+###--------
+###Script:67
+###Mugshot:IceMan
+No mail in
+this box yet.
+###--------
+###Script:68
+###Mugshot:IceMan
+You got mail!
+###--------
+###Script:70
+###Mugshot:ElecMan
+You've yet to
+receive any mail...
+###--------
+###Script:71
+###Mugshot:ElecMan
+Looks like there's
+new mail...
+###--------
+###Script:73
+###Mugshot:PlantMan
+There's no mail
+in this box...
+###--------
+###Script:74
+###Mugshot:PlantMan
+You seem to have
+received new mail.
+###--------
+###Script:76
+###Mugshot:Bass
+You haven't
+received any mail
+in this box...
+###--------
+###Script:77
+###Mugshot:Bass
+You got new mail...
+###--------
+###Script:90
+<printPlayerNickname>,there's
+new mail from
+the Officials.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:91
+We've received
+an assassination
+request...
+###--------
+###Script:92
+There's a new
+mission mail.
+###--------
+###Script:93
+Heh heh...
+New wrecking
+job for ya.
+###--------
+###Script:101
+Which mailbox do
+you wanna read?
+###--------
+###Script:102
+Read which mailbox?
+###--------
+###Script:103
+Which mailbox will
+you read?
+###--------
+###Script:104
+Which mailbox will
+you be reading?
+###--------
+###Script:105
+Which mailbox are
+you going to read?
+###--------
+###Script:106
+Which mailbox are
+you going to read...?
+###--------
+###Script:107
+Which mailbox would
+you like to view?
+###--------
+###Script:108
+Which mailbox will
+you be reading?
+###--------
+###Script:109
+Which mailbox are
+you going to read?
+###--------
+###Script:110
+W-Which mailbox
+will you read...?
+###--------
+###Script:111
+Which mailbox will
+you read,drip?
+###--------
+###Script:112
+Which mailbox are
+you going to read?
+###--------
+###Script:113
+Which mailbox will
+you be reading?
+###--------
+###Script:114
+Which mailbox are
+you going to read?
+###--------
+###Script:115
+Which mailbox will
+you be reading?
+###--------
+###Script:116
+Which mailbox ya
+gonna read!?
+###--------
+###Script:117
+Which mailbox are
+you going to read?
+###--------
+###Script:118
+Which mailbox will
+you read?
+###--------
+###Script:119
+Which mailbox will
+you be reading?
+###--------
+###Script:120
+Which mailbox do
+you want to read...?
+###--------

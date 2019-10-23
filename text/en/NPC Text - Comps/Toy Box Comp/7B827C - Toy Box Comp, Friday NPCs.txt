@@ -1,0 +1,98 @@
+﻿###TextArchive:7B827C
+###Script:0
+###Mugshot:NormNaviYellow
+Hey,pal!
+###--------
+###Mugshot:NormNaviYellow
+I wanna get stronger,
+so I'm training,pal!
+###--------
+###Mugshot:NormNaviYellow
+Real battles are
+the best way to
+grow strength,pal!
+###--------
+###Mugshot:NormNaviYellow
+Battle with me,
+will ya?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> Nah,pal
+###Command:positionOptionHorizontal width=11
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+I wanna battle,pal!
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Let's start the
+battle then,pal!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+###--------
+###Mugshot:NormNaviYellow
+Execute!
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+I-I lost!
+I'll have to
+train harder,pal!
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+My biceps are in
+great shape today,pal!
+###--------
+###Script:4
+###Mugshot:PurpleNavi
+Want to fight my
+first-rate viruses?
+###--------
+###Mugshot:PurpleNavi
+These guys are my
+pride and joy! They
+got a special award
+###++++++++
+###Mugshot:PurpleNavi
+from the Undernet
+Judging Panel!
+###--------
+###Mugshot:PurpleNavi
+Want to try
+battling them?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> Nah
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:PurpleNavi
+I'll let you off
+the hook this time...
+###--------
+###Script:5
+###Mugshot:PurpleNavi
+Go, my viruses!
+###--------
+###Mugshot:PurpleNavi
+Battle routine,set!
+Execute!
+###--------
+###Script:6
+###Mugshot:PurpleNavi
+Aaah!
+My viruses!
+###--------
+###Script:7
+###Mugshot:PurpleNavi
+The best nutrition
+for viruses is a
+Navi's energy!
+###--------

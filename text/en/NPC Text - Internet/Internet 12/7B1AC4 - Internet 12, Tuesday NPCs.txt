@@ -1,0 +1,33 @@
+﻿###TextArchive:7B1AC4
+###Script:0
+###Mugshot:OfficialNavi
+I'm on patrol duty.
+###--------
+###Mugshot:OfficialNavi
+Are you choosing your
+chips properly,based on
+the day of the week?
+###--------
+###Mugshot:OfficialNavi
+All sorts of viruses
+can pop up on the
+Net,you know.
+###--------
+###Script:1
+###Mugshot:OfficialNavi
+No irregularities
+at Site A!
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+Wooooow!
+###--------
+###Mugshot:NormNaviYellow
+Man,the Officials
+are just so cool!
+###--------
+###Mugshot:NormNaviYellow
+Someday,I wanna
+become an Official
+NetBattler too!
+###--------

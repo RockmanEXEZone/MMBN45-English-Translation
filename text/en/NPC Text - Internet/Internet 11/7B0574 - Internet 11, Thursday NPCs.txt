@@ -1,0 +1,26 @@
+﻿###TextArchive:7B0574
+###Script:0
+###Mugshot:MrProgGreen
+TODAY, THERE ARE
+MANY WOOD-BASED
+VIRUSES AROUND!
+###--------
+###Mugshot:MrProgGreen
+WOOD VIRUSES
+BURN EASILY,SO
+BE CAREFUL!
+###++++++++
+###Mugshot:MrProgGreen
+ONLY YOU CAN
+PREVENT WILDFIRES!
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+I wonder if I
+could use Wood-
+based viruses
+###--------
+###Mugshot:NormNaviYellow
+to make a system that
+purifies the air?
+###--------

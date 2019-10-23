@@ -1,0 +1,15 @@
+﻿###TextArchive:79C240
+###Script:0
+You have found
+the 100+90 SFrags...
+###--------
+You may pass...
+###--------
+###Script:1
+BugFrag Trader (temp)
+###--------
+###Script:2
+You have not found
+the 100+90 SFrags...
+Leave this place.
+###--------

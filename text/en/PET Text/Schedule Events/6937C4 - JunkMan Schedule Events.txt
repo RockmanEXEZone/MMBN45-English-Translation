@@ -1,0 +1,92 @@
+﻿###TextArchive:6937C4
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+It's time for
+<printScheduleBuffer>
+to be on.
+###Command:printScheduleBuffer
+###--------
+I-I want to
+watch it too...
+......
+###--------
+###Script:2
+It's time to meet
+with <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+I-I'm kind
+of nervous...
+###--------
+###Script:3
+I-It's time for
+food. You're
+hungry...right?
+###--------
+###Script:4
+I-It's time
+for school.
+###--------
+I-I'll wait for you,
+so...do your best.
+###--------
+###Script:5
+I-It's time
+for <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Script:6
+A-Also...
+###--------
+###Script:21
+###Mugshot:JunkMan
+It's time for
+<printScheduleBuffer> to be on.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:JunkMan
+I-I want to
+watch it too...
+......
+###--------
+###Script:22
+###Mugshot:JunkMan
+It's time to meet
+with <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:JunkMan
+I-I'm kind
+of nervous...
+###--------
+###Script:23
+###Mugshot:JunkMan
+I-It's time for food.
+You're hungry...right?
+###--------
+###Script:24
+###Mugshot:JunkMan
+I-It's time for school.
+###--------
+###Mugshot:JunkMan
+I-I'll wait for you,
+so...do your best.
+###--------
+###Script:25
+###Mugshot:JunkMan
+I-It's time
+for <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:JunkMan
+A-Also...
+###--------

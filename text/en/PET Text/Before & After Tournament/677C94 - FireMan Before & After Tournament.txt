@@ -1,0 +1,47 @@
+﻿###TextArchive:677C94
+###Script:1
+Gaaaah!!
+I couldn't burn
+it all down!
+###--------
+Next time for sure!
+I'm gonna do some
+intense training!
+###--------
+###Script:2
+I-I'm burned out...
+I've burned
+all I had!
+###--------
+But these new
+coals within me
+are tellin' me
+###--------
+to get fired up
+again ASAP!
+###--------
+###Script:10
+<printPlayerNickname>,we're
+not entered!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+Let's flare it
+up,<printPlayerNickname>!!
+###Command:printPlayerNickname
+###--------
+###Script:21
+Let's flare it
+up,<printPlayerNickname>!!
+###Command:printPlayerNickname
+###--------
+###Script:22
+Let's flare it
+up,<printPlayerNickname>!!
+###Command:printPlayerNickname
+###--------
+###Script:23
+Let's flare it
+up,<printPlayerNickname>!!
+###Command:printPlayerNickname
+###--------

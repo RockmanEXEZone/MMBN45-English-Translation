@@ -1,0 +1,97 @@
+﻿###TextArchive:7BF258
+###Script:0
+###Mugshot:MrProgGreen
+I'VE PLAYED THIS
+PIPE ORGAN FOR
+MANY YEARS...
+###--------
+###Mugshot:MrProgGreen
+I'VE TOUCHED MANY
+PEOPLE'S HEARTS
+WITH IT.
+###--------
+###Mugshot:MrProgGreen
+HOWEVER, NOW IT
+PRODUCES NOTHING
+BUT HOARSE NOISES...
+###--------
+###Mugshot:MrProgGreen
+AN INSTRUMENT THAT
+CAN'T PRODUCE SOUND
+IS JUST A JOKE.
+###--------
+###Mugshot:MrProgGreen
+I'M JUST WAITING
+HERE UNTIL I
+QUIETLY BREAK...
+###--------
+###Script:10
+###Mugshot:HeelNaviPurple
+This is a venue
+for the Everyday
+Tournament!
+###--------
+###Mugshot:HeelNaviPurple
+Check the tournament
+board for the details!
+###--------
+###Script:11
+###Mugshot:HeelNaviPurple
+Mweheheh! The
+Everyday Tournament
+is heating up!
+###--------
+###Script:12
+###Mugshot:HeelNaviPurple
+Biff! Pow!
+C'mon,get 'im!
+###--------
+###Script:13
+###Mugshot:HeelNaviBlack
+Heh heh heh!
+Fight, fight!
+###--------
+###Mugshot:HeelNaviBlack
+Goooooo!
+###--------
+###Script:14
+###Mugshot:NaviGirlPurple
+I love watching
+Navis get deleted!
+###--------
+###Mugshot:NaviGirlPurple
+Kwo ho ho ho!
+###--------
+###Script:15
+###Mugshot:NormNaviYellow
+The surface Everyday
+Tournaments ain't
+thrilling enough!
+###--------
+###Mugshot:NormNaviYellow
+C'mon, I want some
+more excitement!
+###--------
+###Script:16
+###Mugshot:NormNaviBrown
+My fighting spirit
+is overflowing!
+Hrah! Hrah!
+###--------
+###Script:17
+###Mugshot:HeelNaviPurple
+Splendid...
+You're not half bad.
+###--------
+###Script:20
+###Mugshot:HeelNaviPurple
+Excellent technique!
+Come challenge it
+again next time!
+###--------
+###Script:21
+###Mugshot:HeelNaviPurple
+What a shame!
+Come challenge it
+again next time!
+###--------

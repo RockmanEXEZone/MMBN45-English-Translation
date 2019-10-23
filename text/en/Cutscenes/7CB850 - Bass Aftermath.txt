@@ -1,0 +1,579 @@
+﻿###TextArchive:7CB850
+###Script:0
+###Mugshot:Bass
+Nnnngh...
+This can't...be...
+###--------
+###Mugshot:Bass
+There's no way...
+I could lose...
+###--------
+###Mugshot:Bass
+Gwh... GWAAAAAAH!!
+###--------
+###Script:1
+###Mugshot:Bass
+I will not...
+be destroyed...!
+###--------
+###Mugshot:Bass
+GWAAAAAAAAAH!!
+###--------
+###Script:2
+###Mugshot:MegaMan
+*huff...huff...*
+###--------
+###Mugshot:MegaMan
+We did it...
+It's all thanks to
+your operating...
+###--------
+###Mugshot:MegaMan
+I don't think I
+would've stood a
+chance all by myself...
+###--------
+###Mugshot:MegaMan
+...Thank you!
+###--------
+###Mugshot:MegaMan
+...OK,let's head back!
+###--------
+###Script:3
+###Mugshot:Roll
+I-I...won?
+###--------
+###Mugshot:Roll
+Thank goodness...
+###--------
+###Mugshot:Roll
+H-Huh...?
+Now that I've
+calmed down...
+###--------
+###Mugshot:Roll
+Wha...Tears...?
+###--------
+###Mugshot:Roll
+*sniffle,sniffle...*
+###--------
+###Mugshot:Roll
+You operated me
+with all you had,
+didn't you...?
+###--------
+###Mugshot:Roll
+Your feelings really
+got through to me...
+*sniffle,sniffle...*
+###--------
+###Mugshot:Roll
+Thanks... *sniffle...*
+###--------
+###Mugshot:Roll
+I wanna go back...
+Back to you...
+to the PET...
+###--------
+###Script:4
+###Mugshot:GutsMan
+Y-YEEEEHAAAAWW!!
+###--------
+###Mugshot:GutsMan
+We did it! We won!
+Nice operating!
+###--------
+###Mugshot:GutsMan
+...B-But,
+###--------
+###Mugshot:GutsMan
+I-I was scared
+half to death...
+###--------
+###Mugshot:GutsMan
+That was the strongest
+Navi I've ever faced
+in my Navi life...
+###--------
+###Script:5
+###Mugshot:WindMan
+What a fearsome Navi...
+###--------
+###Mugshot:WindMan
+The miasma has
+dispelled...for now.
+###--------
+###Mugshot:WindMan
+It could be revived
+at any time...
+But if that occurs,
+###--------
+###Mugshot:WindMan
+I will defeat it
+once again...
+###--------
+###Mugshot:WindMan
+...With you by my
+side,of course!
+###--------
+###Mugshot:WindMan
+Now,let us return!
+###--------
+###Script:6
+###Mugshot:SearchMan
+Target deleted...
+###--------
+###Mugshot:SearchMan
+Mission complete!
+###--------
+###Mugshot:SearchMan
+I've been in a
+lot of battles,
+###--------
+###Mugshot:SearchMan
+but this one was the
+most grueling of all...
+###--------
+###Mugshot:SearchMan
+But even if he were
+to come back,it would
+be no problem.
+###--------
+###Mugshot:SearchMan
+After all,I've recorded
+all of his data.
+###--------
+###Mugshot:SearchMan
+...And above all else,
+I've got you.
+###--------
+###Mugshot:SearchMan
+Now,let's get
+out of here.
+###--------
+###Script:7
+###Mugshot:FireMan
+I-I really burned
+myself out this time...
+###--------
+###Mugshot:FireMan
+Everything's burnt
+to a crisp...
+###--------
+###Mugshot:FireMan
+Honestly,I didn't
+think we'd make it
+out alive.
+###--------
+###Mugshot:FireMan
+But when I was synced
+up with your operating,
+###--------
+###Mugshot:FireMan
+I felt a power flare
+up from deep within
+my body...
+###--------
+###Mugshot:FireMan
+At that moment,
+I began to have hope.
+###--------
+###Mugshot:FireMan
+It's all 'cuz of you
+that I was able to win.
+...Thanks.
+###--------
+###Mugshot:FireMan
+H-Hey,don't give
+me that look!
+It's embarrassing...!
+###--------
+###Mugshot:FireMan
+L-Let's get outta here!
+I don't wanna bump into
+another guy like him!
+###--------
+###Script:8
+###Mugshot:ThunderMan
+By thunderous
+judgment,the evil has
+been vanquished...
+###--------
+###Mugshot:ThunderMan
+But surely,someday,
+another one like
+him will appear...
+###--------
+###Mugshot:ThunderMan
+When that day comes,
+I'd like to face it
+again alongside you.
+###--------
+###Mugshot:ThunderMan
+Now,let's return...
+###--------
+###Script:9
+###Mugshot:ProtoMan
+...Deletion complete.
+###--------
+###Mugshot:ProtoMan
+Your operating...
+was amazing.
+###--------
+###Mugshot:ProtoMan
+This time,the victory
+was all yours...
+###--------
+###Mugshot:ProtoMan
+I'm proud...to fight
+by your side.
+###--------
+###Mugshot:ProtoMan
+Now,let's return.
+We have new duties
+waiting for us!
+###--------
+###Script:10
+###Mugshot:NumberMan
+Hah... Wha,wha,wha...
+###--------
+###Mugshot:NumberMan
+D-Did I just win?
+###--------
+###Mugshot:NumberMan
+There was only a
+0.00001% chance
+to win that battle...
+###--------
+###Mugshot:NumberMan
+It's nothing short
+of a miracle.
+###--------
+###Mugshot:NumberMan
+But how... Ah!
+When I was crunching
+the numbers,
+###--------
+###Mugshot:NumberMan
+I only factored in
+my own data!
+###--------
+###Mugshot:NumberMan
+I forgot to take the
+most important variable
+into account: YOU!
+###--------
+###Mugshot:NumberMan
+Depending on how we
+Navis combine strength
+with our operators,
+###--------
+###Mugshot:NumberMan
+the combination
+can result in
+immeasurable power...
+###--------
+###Mugshot:NumberMan
+In other words,if I
+train with you,I can
+get stronger,too.
+###--------
+###Mugshot:NumberMan
+Let's hurry back and
+practice some math!
+###--------
+###Mugshot:NumberMan
+I'll work you hard
+for my sake as well!
+###--------
+###Script:11
+###Mugshot:MetalMan
+That was an immensely
+powerful Navi...
+###--------
+###Mugshot:MetalMan
+My fists looked so
+small before his
+might...
+###--------
+###Mugshot:MetalMan
+I was able to win
+this time thanks
+to you,but...
+###--------
+###Mugshot:MetalMan
+It seems I still
+lack training...
+###--------
+###Mugshot:MetalMan
+It's back to square
+one with me!
+###++++++++
+###Mugshot:MetalMan
+I'll make sure you'll
+never need to worry
+about me again!
+###--------
+###Script:12
+###Mugshot:JunkMan
+I-I won...
+Thanks to you...
+###--------
+###Mugshot:JunkMan
+I'm glad to be
+your Navi...
+###--------
+###Mugshot:JunkMan
+Let me take a
+closer look...
+At your face...
+###--------
+###Script:13
+###Mugshot:AquaMan
+Drip,drip,drip...
+###--------
+###Mugshot:AquaMan
+I thought that was
+the end for me,drip...
+###--------
+###Mugshot:AquaMan
+That's why I didn't
+want to go!
+That was awful,drip!
+###--------
+###Mugshot:AquaMan
+As payback...
+When I'm back in
+the PET,
+###--------
+###Mugshot:AquaMan
+you better treat me
+really well,drip!
+###--------
+###Mugshot:AquaMan
+Got it,drip!?
+###--------
+###Script:14
+###Mugshot:WoodMan
+We did it...
+His presence is gone...
+###--------
+###Mugshot:WoodMan
+I must give my thanks
+to Mother Earth.
+###--------
+###Mugshot:WoodMan
+And of course...
+to you as well.
+###--------
+###Mugshot:WoodMan
+...Ah,yes. As a sign
+of our gratitude to
+the Earth,
+###--------
+###Mugshot:WoodMan
+what do you say
+we jack out and
+go plant a tree?
+###--------
+###Script:15
+###Mugshot:StarMan
+His power was like
+a solar flare...
+###--------
+###Mugshot:StarMan
+How did I even manage
+to beat a monster
+like that...?
+###--------
+###Mugshot:StarMan
+...I know!!
+###--------
+###Mugshot:StarMan
+It's you!
+You're my lucky star!
+###--------
+###Mugshot:StarMan
+And a super big
+one at that!
+###--------
+###Mugshot:StarMan
+If I'm with you,good
+things will happen!
+Here's to us!
+###--------
+###Mugshot:StarMan
+...Aww,don't make
+that face!
+###--------
+###Mugshot:StarMan
+Soon as I'm back in
+the PET,I'm gonna tell
+your fortune every day!
+###--------
+###Mugshot:StarMan
+Yep yep!
+###--------
+###Script:16
+###Mugshot:ShadowMan
+...So,you've returned
+to the darkness,Bass...
+###--------
+###Mugshot:ShadowMan
+But I know you're
+not one to fade
+away so easily...
+###--------
+###Mugshot:ShadowMan
+Someday,let us
+meet again...
+###--------
+###Mugshot:ShadowMan
+...Let us depart!
+We might have a
+new request waiting...
+###--------
+###Script:17
+###Mugshot:KnightMan
+Never did I guess that
+the Cyberworld held
+such a strong warrior...
+###--------
+###Mugshot:KnightMan
+Had he not been so
+evil,I would have
+made him my squire.
+###--------
+###Mugshot:KnightMan
+How truly regretful...
+###--------
+###Mugshot:KnightMan
+I shall undertake
+even further training,
+###--------
+###Mugshot:KnightMan
+and acquire even
+greater might!
+###--------
+###Mugshot:KnightMan
+Now then,let us return!
+###--------
+###Script:18
+###Mugshot:NapalmMan
+Hah...hah...hah...
+You...saw that...right...?
+I...I woooooon!
+###--------
+###Mugshot:NapalmMan
+Gahahahaha!
+###--------
+###Mugshot:NapalmMan
+*cough!*
+###--------
+###Mugshot:NapalmMan
+Tsk,looks like I
+got a bit dinged
+up back there...
+###--------
+###Mugshot:NapalmMan
+...What? Recovery?
+###--------
+###Mugshot:NapalmMan
+I don't need any
+of that!
+###--------
+###Mugshot:NapalmMan
+Just lemme fight...
+I need more!
+###--------
+###Mugshot:NapalmMan
+...That guy was
+just like me.
+###++++++++
+###Mugshot:NapalmMan
+We only feel at
+ease when we're
+fighting...
+###--------
+###Mugshot:NapalmMan
+Well,enough of that!
+Who's next,huh!?
+###--------
+###Script:19
+###Mugshot:IceMan
+Wah...I thought...
+I was finished...
+###--------
+###Mugshot:IceMan
+W-Who knew I could
+beat a Navi like that...
+###--------
+###Mugshot:IceMan
+That's...
+Soooooo cool!!
+###--------
+###Mugshot:IceMan
+I wanna keep getting
+stronger and stronger!
+###--------
+###Mugshot:IceMan
+Come on! Let's go home
+and practice more!
+###--------
+###Script:20
+###Mugshot:ElecMan
+T-That was some
+good operating...I won,
+thanks to you...
+###--------
+###Mugshot:ElecMan
+...B-But...I-I'm...
+totally drained...
+###--------
+###Mugshot:ElecMan
+I couldn't even power
+a single LED right now...
+###--------
+###Mugshot:ElecMan
+Q-Quick...
+Let's head back...
+###--------
+###Mugshot:ElecMan
+I feel like installing
+a bunch of Elec chips...
+###--------
+###Script:21
+###Mugshot:PlantMan
+Strength...
+Or rather,beauty...
+###--------
+###Mugshot:PlantMan
+No doubt about it.
+He was taken in by
+my unrivaled beauty.
+###--------
+###Mugshot:PlantMan
+...Phew.
+I-It's...awfully
+dim in here.
+###--------
+###Mugshot:PlantMan
+I'd like to return
+to the PET and
+photosynthesize...
+###--------
+###Script:22
+###Mugshot:Bass
+In the end,it was
+just an imposter.
+###--------
+###Mugshot:Bass
+They can talk a lot
+of game,but none can
+surpass the original...
+###--------
+###Mugshot:Bass
+Is there no one in this
+world who can satisfy
+my lust for battle!?
+###--------

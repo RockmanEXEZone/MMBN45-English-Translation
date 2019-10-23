@@ -1,0 +1,867 @@
+﻿###TextArchive:6C982C
+###Script:0
+Error!
+Put info in
+the form!
+###--------
+###Script:1
+People who collect
+lots of chips have
+a unique aura.
+###--------
+###--------
+You always feel a
+little jolt when you
+meet those people...
+###--------
+Wonder if there's
+anyone like that
+at <printSchool>?
+###Command:printSchool capitalizeFirst=false
+###--------
+###Script:2
+Looking at Elec-
+based chips
+calms my heart...
+###--------
+Are there any
+fans of Elec chips
+at <printSchool>?
+###Command:printSchool capitalizeFirst=false
+###--------
+If so,maybe you
+could introduce
+me to them?
+###--------
+###Script:3
+Alright,that's
+enough staring
+at chips.
+###--------
+Let's head to
+<printSchool> and
+find an opponent
+###Command:printSchool capitalizeFirst=false
+###--------
+who can get
+me amped up...
+###--------
+###Script:5
+Still not feeling
+amped up enough...
+###--------
+I think <printOlderBro>
+might be
+able to help.
+###Command:printOlderBro capitalizeFirst=false
+###--------
+He's your older
+brother,after all.
+###--------
+###Script:6
+If I were to liken
+you to a battery...
+Guess you'd be a
+###--------
+AA battery,
+and <printYoungerBro>
+would be AAA.
+###Command:printYoungerBro capitalizeFirst=false
+###--------
+What? Just a thing
+that popped in my
+head on the Net...
+###--------
+###Script:7
+I wouldn't mind
+walking around
+the Net
+###++++++++
+with <printOlderSis>'s
+Navi...
+###Command:printOlderSis capitalizeFirst=false
+###--------
+###Script:8
+If I were to liken
+you to a battery...
+Guess you'd be a
+###--------
+AA battery,and
+<printYoungerSis> would be
+a cell battery.
+###Command:printYoungerSis capitalizeFirst=false
+###--------
+What? Just a thing
+that popped in my
+head on the Net...
+###--------
+###Script:9
+When we NetBattle,
+my voltage spikes...
+###--------
+<printFriend>
+especially can
+really crank it up.
+###Command:printFriend capitalizeFirst=true
+###--------
+###Script:10
+I almost managed to
+hit 300,000 volts
+in that battle...
+###--------
+'Course,if we
+were battling
+with <printFriend>,
+###Command:printFriend capitalizeFirst=false
+###++++++++
+I could probably
+get it even higher...
+###--------
+###Script:11
+Battles can be
+pretty interesting...
+###--------
+Depending on who
+you're fighting,
+###--------
+your discharged
+power can exceed
+your capacity.
+###--------
+I feel <printFriend>
+could draw even
+more out of me...
+###Command:printFriend capitalizeFirst=false
+###--------
+###Script:13
+There's this
+SubChip called
+"MiniEnrg"...
+###--------
+Its taste is kind
+of similar to
+<printFavFood>.
+###Command:printFavFood capitalizeFirst=false
+###--------
+That's what I
+think,at least...
+###--------
+###Script:14
+I ran out of
+juice on the Net...
+###--------
+Guess I'll charge
+back up a little.
+......
+###--------
+How about you
+recharge with some
+<printFavFood>,too?
+###Command:printFavFood capitalizeFirst=false
+###--------
+###Script:15
+<printFavFood> might
+just be rivaled by
+###Command:printFavFood capitalizeFirst=true
+###--------
+the tastiness of
+Net electricity.
+###--------
+It's so good,I
+wish I could share
+some with you...
+###--------
+###Script:17
+Looking at Elec-
+based chips
+calms my heart...
+###--------
+It seems like
+<printHobby>
+would have
+###Command:printHobby capitalizeFirst=false
+###++++++++
+that kind of
+soothing effect
+as well.
+###--------
+Might be worth
+trying out
+sometime...
+###--------
+###Script:18
+All done checking
+the Data Library?
+###--------
+Want to go on the
+Net after this?
+###--------
+Or maybe do some
+<printHobby>?
+###Command:printHobby capitalizeFirst=false
+###--------
+###Script:19
+Going through the
+Data Library
+puts me at ease...
+###--------
+It must be
+like that for
+<printHobby>,too.
+###Command:printHobby capitalizeFirst=false
+###--------
+###Script:21
+That battle
+exhausted a lot
+of my electricity...
+###--------
+Wish I was
+as tough as
+a<printDream> <printDream>⋯
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:22
+I think I'll
+recharge for
+a bit...
+###--------
+The tournament
+sure uses up a lot
+of my electricity...
+###--------
+If the tournament
+can exhaust my
+electricity this
+###--------
+much...then for you,
+the road to becom-
+ing a<printDream> <printDream>
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+is sure to be full
+of resistance.
+###--------
+But that does
+make it more
+interesting...
+###--------
+###Script:23
+That was a
+rough battle...
+###--------
+But someday,this
+painful experience
+###--------
+###--------
+will power you on
+your way to becom-
+ing a<printDream> <printDream>.
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:25
+Our mail lately
+hasn't been
+that shocking.
+###--------
+Though if we got
+some mail from
+<printCrush>,
+###Command:printCrush capitalizeFirst=false
+###++++++++
+that would be a
+real shocker...
+###--------
+Like,"zap!"
+###--------
+###Script:26
+What'll our next
+mail be about?
+###--------
+The Net?
+NetBattling?
+###--------
+Or maybe...
+a date with
+<printCrush>?
+###Command:printCrush capitalizeFirst=false
+###--------
+###Script:27
+Hey <printPlayerNickname>,
+want to do
+something?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+If I don't start
+doing something,
+I'll short out
+###++++++++
+from all this
+static buildup.
+###--------
+Hmm...how about we
+NetBattle with
+<printCrush>?
+###Command:printCrush capitalizeFirst=false
+###--------
+...Not gonna
+happen,huh?
+###--------
+###Script:29
+We get all sorts
+of mail,but
+###--------
+it seems like we
+never get any
+from <printPlayerEnemy>⋯
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+###Script:30
+Whenever my
+voltage goes down
+when we get mail,
+###--------
+that's a sign
+that it's from
+<printPlayerEnemy>⋯
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+###Script:31
+My eyes get tired
+from reading so
+many sentences.
+###--------
+It'd be pretty bad
+if I NetBattled
+in that state...
+###--------
+Especially if
+our opponent
+is <printPlayerEnemy>⋯
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+###Script:33
+No matter how
+low on power I
+get from battling,
+###--------
+there's no way
+I can miss
+<printFavShow>⋯
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:34
+After expending
+my electricity
+in battle,
+###--------
+whenever I watch
+<printFavShow>,
+###Command:printFavShow capitalizeFirst=false
+###++++++++
+I can feel it
+charging back up.
+###--------
+###Script:35
+In battle,you
+need to be fast
+as lightning!
+###--------
+Watch and learn
+from <printFavShow>.
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:37
+If you want to
+gather chips
+effectively,
+###++++++++
+there are all
+sorts of tidbits
+you need to know.
+###--------
+<printIdol> could
+probably teach us
+various things.
+###Command:printIdol capitalizeFirst=true
+###--------
+###Script:38
+Every time we fill
+the library more,
+###--------
+my Elec Power
+goes up.
+###--------
+<printIdol> must
+have a ton of
+power built up...
+###Command:printIdol capitalizeFirst=true
+###--------
+###Script:39
+The number of
+chips you have,
+###++++++++
+and the variety
+of your techniques
+are connected.
+###--------
+I bet <printIdol>
+can use techniques
+###Command:printIdol capitalizeFirst=false
+###++++++++
+that you've never
+even seen before...
+###--------
+###Script:41
+If I remember
+right,
+###++++++++
+you're skilled
+at <printBestSubject>,
+aren't you...?
+###Command:printBestSubject capitalizeFirst=false
+###--------
+No wonder you're
+good at operating...
+###--------
+###Script:42
+I wonder how much
+electricity flows
+through the Net?
+###--------
+With your knowledge
+of <printBestSubject>,
+###Command:printBestSubject capitalizeFirst=false
+###++++++++
+we'd probably be
+able to measure it.
+###--------
+###Script:43
+Chips and battle
+techniques are
+crucial in the
+###--------
+Cyberworld,but
+so is <printBestSubject>
+knowledge...
+###Command:printBestSubject capitalizeFirst=false
+###++++++++
+I can't help but
+get that feeling.
+###--------
+###Script:45
+I'm weak against
+Wood-based attacks.
+But I'll definitely
+###--------
+conquer that
+weakness someday.
+Just watch!
+###--------
+Show me that
+you can conquer
+<printWorstSubject>,too!
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+###Script:46
+Whenever I delete
+viruses I can't
+stand with
+###--------
+flawless execution,
+a surge of joy runs
+through my body.
+###--------
+I bet you feel
+similarly about
+<printWorstSubject>⋯
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+###Script:47
+Maybe <printWorstSubject>
+knowledge could
+increase your
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+rate of getting
+Elec-based chips...?
+###--------
+###Script:49
+In order to get the
+things you want,
+###--------
+you've got to
+give it your all.
+###--------
+That goes for the
+tournament,and for
+a<printWish> <printWish> too.
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+###Script:50
+Somehow,I feel my
+voltage has been
+dropping lately...
+###--------
+Now if only
+we could use
+a<printWish> <printWish>,
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+my Elec Power
+would always
+be maxed out...
+###--------
+###Script:51
+Battles get me
+amped up...
+###--------
+A<printWish> <printWish>
+would probably get
+me amped up too.
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=true
+###--------
+###Script:53
+Reading mail and
+stuff just doesn't
+get me amped up...
+###--------
+Rather,I'm in the
+mood to battle
+<printMostFrequentOpponent>⋯
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+###Script:54
+It'd be pretty
+shocking if we
+###--------
+received mail
+from <printMostFrequentOpponent>.
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###++++++++
+But it doesn't
+seem like we'll
+be getting any...
+###--------
+###Script:55
+Now that we're
+done checking
+our mail...
+###--------
+Let's head over to
+<printMostFrequentOpponent>'s house
+and hang out.
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+...We're not going?
+###--------
+###Script:57
+If you want to
+use my Elec Power
+to the fullest,
+###--------
+you'll need to make
+a folder that's
+based around
+###--------
+a thorough grasp
+of my abilities.
+###--------
+That's one thing
+<printLostToOpponent> under-
+stands well...
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+###Script:58
+Navis have all
+sorts of equipment,
+but the equipment
+###--------
+<printLostToOpponent>'s Navi
+has is truly
+electrifying...
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+###Script:59
+I get the feeling
+our current
+equipment may be
+###--------
+a little lacking
+if we're going to
+battle <printLostToOpponent>⋯
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+###Script:61
+Hey,<printPlayerNickname>. Why
+not put <printMostLostToOpponentsChip>
+into our folder?
+###Command:printPlayerNickname capitalizeFirst=false
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+That chip should be
+able to draw out
+my Elec Power.
+###--------
+###Script:62
+Our current
+equipment is
+pretty charged up.
+###--------
+Though if we were
+to put <printMostLostToOpponentsChip>
+into our folder,
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###++++++++
+we might be able
+to overcharge...
+###--------
+###Script:63
+<printPlayerNickname>,there's
+this chip called
+"<printMostLostToOpponentsChip>"
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+that I feel gives
+off a strong
+voltage...
+###--------
+Seems like it'd
+be worth giving
+a shot.
+###--------
+###Script:65
+My voltage went
+down quite a bit
+in that battle...
+###--------
+So much that I'd
+only be able to
+###++++++++
+handle <printDefeatedOpponent>
+right now...
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:66
+Our opponent just
+now exhausted a lot
+of my electricity...
+###--------
+They were stronger
+than <printDefeatedOpponent>,
+that's for sure...
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:67
+I wasn't able
+to discharge
+my full power...
+###--------
+Hit up <printDefeatedOpponent>
+and let's battle
+some more!
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:69
+In the end,battles
+are all about the
+chips you use.
+###--------
+If I recall
+correctly,
+###--------
+<printMostDefeatedOpponent>'s best
+chip was <printMostDefeatedOpponentsChip>⋯
+###Command:printMostDefeatedOpponent capitalizeFirst=false
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+How about we try
+it out next time?
+###--------
+###Script:70
+Getting cornered
+in battle can lead
+to an opportunity...
+###--------
+When your opponent
+lets their guard
+down...
+###--------
+Strike back
+with <printMostDefeatedOpponentsChip>!
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+Remember that.
+###--------
+###Script:71
+If your battle
+strategy is too
+repetitive,
+###++++++++
+your opponent will
+figure out your
+moves quickly...
+###--------
+Try changing things
+up with something
+like <printMostDefeatedOpponentsChip>.
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+###Script:73
+If we measure it
+in volts,<printFavStandardChip1>
+would be about 60...
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+###Script:74
+<printFavStandardChip1> isn't
+necessarily all
+that strong,
+###Command:printFavStandardChip1 capitalizeFirst=true
+###--------
+but it can put in
+a lot of work if
+you use it wisely.
+###--------
+###Script:75
+<printFavStandardChip1> is a chip
+to be reckoned
+with. You're
+###Command:printFavStandardChip1 capitalizeFirst=true
+###--------
+pretty shrewd to
+have taken notice
+of it,<printPlayerNickname>.
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:77
+If we measure it
+in volts,<printFavStandardChip2>
+would be about 50...
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+###Script:78
+If we zapped
+<printFavStandardChip2> with
+some electricity,
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+I wonder if it
+would become
+stronger?
+###--------
+###Script:79
+When your opponent
+is paralyzed
+and can't move,
+###--------
+<printFavStandardChip2> should
+be a surefire hit.
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+###Script:81
+If we measure it
+in volts,<printFavStandardChip3>
+would be about 40...
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+###Script:82
+It's best to use
+<printFavStandardChip3> after
+###Command:printFavStandardChip3 capitalizeFirst=false
+###++++++++
+paralyzing your
+opponent.
+###--------
+###Script:83
+<printFavStandardChip3> conducts
+electricity quite
+well.
+###Command:printFavStandardChip3 capitalizeFirst=true
+###--------
+###Script:85
+When we obtained
+that <printFavMegaChip>,
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+I felt a current
+run through
+my whole body...
+###--------
+And every time we
+look at the library,
+###++++++++
+I remember
+that feeling...
+###--------
+###Script:86
+How about we use
+<printFavMegaChip> in our
+next battle?
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+I'm counting on
+you,<printPlayerNickname>.
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:87
+MegaChips have a
+strong presence
+among the library.
+###--------
+<printFavMegaChip> stands
+out in particular.
+###Command:printFavMegaChip capitalizeFirst=true
+###--------
+Since it stands
+out so much,
+###++++++++
+it can only mean
+it's brimming
+with power...
+###--------
+###Script:89
+If you're hit
+by <printFavGigaChip>,
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+you won't get
+off with just
+a minor jolt...
+###--------
+I can't help but
+feel sorry for
+###++++++++
+anyone who
+gets hit by it...
+###--------
+###Script:90
+The most shocking
+chip in the library
+###--------
+would be <printFavGigaChip>,
+wouldn't it?
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+Its power is
+truly staggering...
+###--------
+###Script:91
+After I use
+<printFavGigaChip>,
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+there's a tingle
+that lingers
+in my body...
+###--------
+It's a feeling not
+quite the same
+as electricity...
+###--------

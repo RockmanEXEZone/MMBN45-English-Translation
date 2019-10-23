@@ -1,0 +1,117 @@
+﻿###TextArchive:6C5A88
+###Script:1
+Happy New Year!!
+###--------
+Let's make it
+another cool one!
+###--------
+###Script:2
+Today is
+April Fools' Day!
+###--------
+Stay frosty today!
+###--------
+If you slip up,
+you'll get pranked!
+###--------
+###Script:3
+Today is
+Valentine's Day!
+###++++++++
+It's a bit
+embarrassing,
+but also fun!
+###--------
+Are you sending
+any letters
+today,<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:4
+Today is
+Valentine's Day!
+###++++++++
+It's a bit
+embarrassing,
+but also fun!
+###--------
+Are you sending
+any letters
+today,<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:5
+Tonight is
+Halloween!
+###--------
+###--------
+###--------
+G-Ghost stories
+give me the chills...
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+###Script:8
+Today is
+December 24th!
+Christmas Eve!
+###--------
+'Twas the night
+before Christmas...
+###--------
+I really hope it
+snows tonight!
+###--------
+###Script:9
+Today is
+December 25th!
+Christmas!
+###--------
+What did you get
+as a Christmas
+present?
+###--------
+###Script:10
+Today is
+December 31st!
+New Year's Eve!
+###--------
+It's already the
+end of the year.
+Sure went by quick!
+###--------
+###--------
+I hope next year
+is just as good!
+###--------
+###Script:11
+Happy Birthday!
+Happy Birthday!
+###--------
+Happy Birthday
+to you,<printPlayerNickname>!!
+###Command:printPlayerNickname
+###--------
+###Script:12
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------
+###Script:18
+Also,it's
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------

@@ -1,0 +1,612 @@
+﻿###TextArchive:7CC6A0
+###Script:0
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+INFO ON <printPlayerName>'S
+SCHOOL OR WORKPLACE.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING THE
+###--------
+###Mugshot:MrProgGreen
+NAMES OF <printPlayerName>'S
+BIG BROTHERS.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING THE
+###--------
+###Mugshot:MrProgGreen
+NAMES OF <printPlayerName>'S
+LITTLE BROTHERS.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING THE
+###--------
+###Mugshot:MrProgGreen
+NAMES OF <printPlayerName>'S
+BIG SISTERS.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:4
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING THE
+###--------
+###Mugshot:MrProgGreen
+NAMES OF <printPlayerName>'S
+LITTLE SISTERS.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:5
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING THE
+###--------
+###Mugshot:MrProgGreen
+NAMES OF <printPlayerName>'S
+FRIENDS.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:6
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+INFO ON <printPlayerName>'S
+FAVORITE FOOD.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:7
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+INFO ON <printPlayerName>'S
+HOBBIES.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:8
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+INFO ON <printPlayerName>'S
+DREAM JOB.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:9
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+INFO ON <printPlayerName>'S
+CRUSH.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:10
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+INFO ON <printPlayerName>'S
+IDOL.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:11
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+INFO ON <printPlayerName>'S
+ENEMY.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:12
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+INFO ON <printPlayerName>'S
+FAVORITE TV SHOWS.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:13
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+INFO ON <printPlayerName>'S
+BEST SUBJECT.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:14
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+INFO ON <printPlayerName>'S
+WORST SUBJECT.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:15
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+INFO ON <printPlayerName>'S
+WISHLIST.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+RECORDED DATA?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:20
+###Mugshot:MrProgGreen
+CHOOSE THE ENTRY
+YOU WANT TO EDIT.
+###--------
+###Script:21
+###Mugshot:MrProgGreen
+CHOOSE THE ENTRY
+YOU WANT TO EDIT.
+###--------
+###Script:22
+###Mugshot:MrProgGreen
+DO WHAT W/"<printString>"?
+<positionOptionHorizontal><option><space> Edit  <option><space> Delete
+<positionOptionVertical><option><space> Cancel
+###Command:printString index=0 buffer=true
+###Command:positionOptionHorizontal width=11
+###Command:option brackets=false left=1 right=1 up=2 down=2
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=11
+###Command:option brackets=false left=2 right=2 up=0 down=0
+###Command:space count=1
+###--------
+###Script:23
+###Mugshot:MrProgGreen
+EDIT "<printString>"?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printString index=0 buffer=true
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:24
+###Mugshot:MrProgGreen
+DELETE "<printString>"?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printString index=0 buffer=true
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:25
+###Mugshot:MrProgGreen
+"<printString>"
+HAS BEEN DELETED.
+###Command:printString index=0 buffer=true
+###--------
+###Script:30
+<printSchool>
+###Command:printSchool
+###--------
+###Script:31
+<printOlderBro1>
+###Command:printOlderBro1
+###--------
+###Script:32
+<printOlderBro2>
+###Command:printOlderBro2
+###--------
+###Script:33
+<printOlderBro3>
+###Command:printOlderBro3
+###--------
+###Script:34
+<printOlderBro4>
+###Command:printOlderBro4
+###--------
+###Script:35
+<printYoungerBro1>
+###Command:printYoungerBro1
+###--------
+###Script:36
+<printYoungerBro2>
+###Command:printYoungerBro2
+###--------
+###Script:37
+<printYoungerBro3>
+###Command:printYoungerBro3
+###--------
+###Script:38
+<printYoungerBro4>
+###Command:printYoungerBro4
+###--------
+###Script:39
+<printOlderSis1>
+###Command:printOlderSis1
+###--------
+###Script:40
+<printOlderSis2>
+###Command:printOlderSis2
+###--------
+###Script:41
+<printOlderSis3>
+###Command:printOlderSis3
+###--------
+###Script:42
+<printOlderSis4>
+###Command:printOlderSis4
+###--------
+###Script:43
+<printYoungerSis1>
+###Command:printYoungerSis1
+###--------
+###Script:44
+<printYoungerSis2>
+###Command:printYoungerSis2
+###--------
+###Script:45
+<printYoungerSis3>
+###Command:printYoungerSis3
+###--------
+###Script:46
+<printYoungerSis4>
+###Command:printYoungerSis4
+###--------
+###Script:47
+<printFriend1>
+###Command:printFriend1
+###--------
+###Script:48
+<printFriend2>
+###Command:printFriend2
+###--------
+###Script:49
+<printFriend3>
+###Command:printFriend3
+###--------
+###Script:50
+<printFriend4>
+###Command:printFriend4
+###--------
+###Script:51
+<printFriend5>
+###Command:printFriend5
+###--------
+###Script:52
+<printFriend6>
+###Command:printFriend6
+###--------
+###Script:53
+<printFriend7>
+###Command:printFriend7
+###--------
+###Script:54
+<printFriend8>
+###Command:printFriend8
+###--------
+###Script:55
+<printFavFood>
+###Command:printFavFood
+###--------
+###Script:56
+<printHobby1>
+###Command:printHobby1
+###--------
+###Script:57
+<printHobby2>
+###Command:printHobby2
+###--------
+###Script:58
+<printHobby3>
+###Command:printHobby3
+###--------
+###Script:59
+<printDream>
+###Command:printDream
+###--------
+###Script:60
+<printCrush>
+###Command:printCrush
+###--------
+###Script:61
+<printIdol>
+###Command:printIdol
+###--------
+###Script:62
+<printPlayerEnemy>
+###Command:printPlayerEnemy
+###--------
+###Script:63
+<printFavShow1>
+###Command:printFavShow1
+###--------
+###Script:64
+<printFavShow2>
+###Command:printFavShow2
+###--------
+###Script:65
+<printFavShow3>
+###Command:printFavShow3
+###--------
+###Script:66
+<printBestSubject>
+###Command:printBestSubject
+###--------
+###Script:67
+<printWorstSubject>
+###Command:printWorstSubject
+###--------
+###Script:68
+<printWish1>
+###Command:printWish1
+###--------
+###Script:69
+<printWish2>
+###Command:printWish2
+###--------
+###Script:70
+<printWish3>
+###Command:printWish3
+###--------
+###Script:75
+Preschool
+###--------
+###Script:76
+Big brothers
+###--------
+###Script:77
+Lil' brothers
+###--------
+###Script:78
+Big sisters
+###--------
+###Script:79
+Lil' sisters
+###--------
+###Script:80
+Friends
+###--------
+###Script:81
+Fav. food
+###--------
+###Script:82
+Hobbies
+###--------
+###Script:83
+Dream job
+###--------
+###Script:84
+Crush
+###--------
+###Script:85
+Idol
+###--------
+###Script:86
+Enemy
+###--------
+###Script:87
+TV shows
+###--------
+###Script:88
+Best subject
+###--------
+###Script:89
+Worst subject
+###--------
+###Script:90
+Wishlist
+###--------
+###Script:91
+School
+###--------
+###Script:92
+Company
+###--------
+###Script:95
+###Mugshot:MrProgGreen
+OH,OKAY...
+###--------

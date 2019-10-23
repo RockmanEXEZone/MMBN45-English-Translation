@@ -1,0 +1,81 @@
+﻿###TextArchive:7B84C8
+###Script:0
+###Mugshot:MrProgGreen
+HAVE YOU EVER LOST
+SOME TOY PARTS?
+###--------
+###Mugshot:MrProgGreen
+YOU KNOW,LIKE
+A ROCKET PUNCH
+HAND AND SUCH.
+###--------
+###Mugshot:MrProgGreen
+MY JOB IS MAKING SURE
+YOU DON'T LOSE THOSE
+KINDS OF THINGS!
+###--------
+###Script:221
+###Mugshot:NormNaviYellow
+Come again soon!
+###--------
+###Script:222
+###Mugshot:NormNaviYellow
+Sorry,
+I'm all sold out.
+###--------
+###Script:223
+###Mugshot:NormNaviYellow
+I'm a NetDealer.
+Wanna see my stuff?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:224
+###Mugshot:NormNaviYellow
+I'm a NetDealer.
+Today's the weekly
+Ladies Day!
+###--------
+###Mugshot:NormNaviYellow
+I've got some sweet
+deals just for girls
+throughout the day!
+###--------
+###Mugshot:NormNaviYellow
+Wanna see my stuff!?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:225
+###Mugshot:NormNaviYellow
+Hey,welcome!
+I'm a NetDealer!
+###--------
+###Mugshot:NormNaviYellow
+You're in luck!
+I'm in such a
+good mood today,
+###--------
+###Mugshot:NormNaviYellow
+everything has been
+marked down! Buy as
+much as you want!
+###--------
+###Mugshot:NormNaviYellow
+I've got stuff you
+can't normally get!!
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------

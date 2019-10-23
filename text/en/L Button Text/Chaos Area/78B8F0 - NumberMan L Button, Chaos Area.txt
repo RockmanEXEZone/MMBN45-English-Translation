@@ -1,0 +1,8 @@
+﻿###TextArchive:78B8F0
+###Script:0
+###Mugshot:NumberMan
+T-This area is
+dangerous,<printPlayerNickname>⋯
+Let's get out ASAP...
+###Command:printPlayerNickname
+###--------

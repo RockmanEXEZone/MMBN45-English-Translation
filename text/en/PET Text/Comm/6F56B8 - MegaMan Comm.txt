@@ -1,0 +1,175 @@
+﻿###TextArchive:6F56B8
+###Script:0
+What do you
+want to do?
+###--------
+###Script:1
+Rec. <printBuffer>B<printBuffer>W
+###Command:printBuffer buffer=0 minLength=3 padZeros=false padLeft=true
+###Command:printBuffer buffer=1 minLength=3 padZeros=false padLeft=true
+###--------
+###Script:5
+VS Real Oper.
+###--------
+###Script:6
+VS MegaManBN4
+###--------
+###Script:7
+Single Battle
+###--------
+###Script:8
+Triple Battle
+###--------
+###Script:9
+Chip Gate ON 
+###--------
+###Script:10
+Chip Gate OFF
+###--------
+###Script:11
+Menu         
+###--------
+###Script:15
+MegaMan BN4.5
+Real Operation
+battle mode.
+###--------
+###Script:16
+MegaMan BN4
+with Chip Gate
+battle mode.
+###--------
+###Script:17
+1 round decides
+the winner.
+Go for it!
+###--------
+###Script:18
+First to win 2 out
+of 3 rounds will
+be the champ!
+###--------
+###Script:19
+Both players use
+the BattleChip Gate
+in this mode.
+###--------
+###Script:20
+Neither player uses
+the BattleChip Gate
+in this mode.
+###--------
+###Script:30
+Your friend
+isn't ready.
+Hold on...
+###--------
+###Script:31
+Communication
+error... Check the
+Game Link cable.
+###--------
+###Script:33
+Let's battle!
+###--------
+###Script:34
+Both players use
+the BattleChip Gate
+in this mode.
+###--------
+Make sure both
+the Game Link
+cable and the
+###--------
+BattleChip Gate
+are connected.
+###--------
+###Script:35
+Neither player uses
+the BattleChip Gate
+in this mode.
+###--------
+Disconnect the
+BattleChip Gate
+and try again.
+###--------
+###Script:36
+Preparing
+communication.
+Hold on...
+###--------
+###Script:37
+This mode is for
+battling MegaMan
+Battle Network 4.
+###--------
+Make sure your
+friend has
+MegaMan BN4.
+###--------
+###Script:40
+That was a great
+battle! Could have
+gone either way!
+###--------
+###Script:41
+Nice operating!
+We pulled off an
+impressive win!
+###--------
+###Script:45
+Too bad...but it was
+close! Let's do our
+best next time!
+###--------
+###Script:46
+We lost... That was
+one tough opponent.
+Gotta try harder!
+###--------
+###Script:50
+It's a draw!
+Let's settle
+things next time!
+###--------
+###Script:51
+Communication
+error... Check the
+Game Link cable.
+###--------
+###Script:55
+This mode is Single
+Battle with the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode
+as your friend.
+###--------
+###Script:56
+This mode is Single
+Battle without the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode
+as your friend.
+###--------
+###Script:57
+This mode is Triple
+Battle with the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode
+as your friend.
+###--------
+###Script:58
+This mode is Triple
+Battle without the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode
+as your friend.
+###--------

@@ -1,0 +1,172 @@
+﻿###TextArchive:7B4A6C
+###Script:0
+###Mugshot:HeelNaviPurple
+Your operator
+appears to hold
+true strength...
+###--------
+###Mugshot:HeelNaviPurple
+Let me offer
+a suggestion...
+###--------
+###Mugshot:HeelNaviPurple
+The Under Tournament
+is held this weekend...
+Why don't you join?
+###--------
+###Mugshot:HeelNaviPurple
+There's an entry
+fee of 2000 Zennys.
+###--------
+###Mugshot:HeelNaviPurple
+How about it?
+Will you enter?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+The tournament DOES
+decide the strongest
+of the Undernet...
+###--------
+###Mugshot:HeelNaviPurple
+It's not unreasonable
+to get cold feet...
+###--------
+###Mugshot:HeelNaviPurple
+If you're ever
+prepared,come again...
+###--------
+###Script:1
+###Mugshot:HeelNaviPurple
+What do you want?
+###--------
+###Mugshot:HeelNaviPurple
+I have no desire
+to talk to anyone,
+###--------
+###Mugshot:HeelNaviPurple
+except operators who
+hold true strength.
+Go on,scram!
+###--------
+###Script:2
+###Mugshot:HeelNaviPurple
+This is the
+Under Tournament
+entry desk.
+###--------
+###Mugshot:HeelNaviPurple
+Are you going to
+enter into the
+Under Tournament?
+###--------
+###Mugshot:HeelNaviPurple
+If you're entering,
+I'll need the entry
+fee of 2000 Zennys...
+###--------
+###Mugshot:HeelNaviPurple
+How about it?
+Will you enter?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+The tournament DOES
+decide the strongest
+of the Undernet...
+###--------
+###Mugshot:HeelNaviPurple
+It's not unreasonable
+to get cold feet...
+###--------
+###Mugshot:HeelNaviPurple
+If you're ever
+prepared,come again...
+###--------
+###Script:3
+###Mugshot:HeelNaviPurple
+Good,I've received
+your entry fee of
+2000 Zennys...
+###--------
+###Mugshot:HeelNaviPurple
+Just a moment...
+I'm entering you for...
+the Under Tournament...!
+###--------
+###Mugshot:HeelNaviPurple
+...It is done!
+###--------
+###Mugshot:HeelNaviPurple
+The tournament is
+held this weekend.
+###--------
+###Mugshot:HeelNaviPurple
+Do your best,and try
+not to lose your life!
+###--------
+###Script:4
+###Mugshot:HeelNaviPurple
+Sorry,but you ain't
+got enough cash. I'm
+sure you're skilled,
+###--------
+###Mugshot:HeelNaviPurple
+but money makes the
+world go round,y'know...
+###--------
+###Mugshot:HeelNaviPurple
+Save up 2000 Zennys
+and come back again.
+###--------
+###Script:5
+###Mugshot:HeelNaviPurple
+Registration has
+closed for today...
+###--------
+###Script:6
+###Mugshot:HeelNaviPurple
+This is the
+Under Tournament
+entry desk,
+###--------
+###Mugshot:HeelNaviPurple
+but we don't
+accept entries
+on the weekend...
+###--------
+###Mugshot:HeelNaviPurple
+If you want to enter,
+come sometime between
+Monday to Friday.
+###--------
+###Script:110
+###Mugshot:MrProgGreen
+TOURNAMENT ENTRIES
+ARE ACCEPTED ON
+###++++++++
+###Mugshot:MrProgGreen
+WEEKDAYS,FROM
+<regionUS>6 AM<regionEnd><regionEU>6:00<regionEnd> TO MIDNIGHT!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Script:111
+###Mugshot:MrProgGreen
+*SNOOOORE...*
+*WHEEEEZE...*
+###--------

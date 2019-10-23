@@ -1,0 +1,43 @@
+﻿###TextArchive:7ADA60
+###Script:0
+###Mugshot:OfficialNavi
+You've got a real
+mean-looking face...
+###--------
+###Mugshot:OfficialNavi
+You've been up to no
+good,haven't you!?
+###--------
+###Mugshot:HeelNaviPurple
+I-I didn't do nothin'!
+###--------
+###Mugshot:HeelNaviPurple
+I may look like
+this,but if I did
+something bad,
+###--------
+###Mugshot:HeelNaviPurple
+I'd be too embarrassed
+to show my face in
+the light of day!
+###--------
+###Script:1
+###Mugshot:HeelNaviPurple
+Like I said,I'm not
+plotting anything!
+###--------
+###Mugshot:HeelNaviPurple
+You said the same
+thing to me last
+week already,too!
+###--------
+###Mugshot:HeelNaviPurple
+Gimme a break
+and get it through
+your head!
+###--------
+###Mugshot:OfficialNavi
+It's your fault
+for having a
+suspicious face!
+###--------

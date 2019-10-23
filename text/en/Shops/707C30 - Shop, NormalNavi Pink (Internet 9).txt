@@ -1,0 +1,576 @@
+﻿###TextArchive:707C30
+###Script:0
+###Mugshot:NormNaviPink
+Welcome!
+(R Button:Describe)
+(B Button:Don't buy)
+###--------
+###Script:1
+###Mugshot:NormNaviPink
+How can I help you?
+(R Button:Describe)
+(B Button:Don't buy)
+###--------
+###Script:3
+###Mugshot:NormNaviPink
+Come again!
+###--------
+###Script:4
+###Mugshot:NormNaviPink
+"<printItem>"?
+Are you sure?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printItem buffer=1 item=0
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:5
+###Mugshot:NormNaviPink
+"<printChip>"?
+Are you sure?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printChip buffer=1 chip=0
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:6
+###Mugshot:MegaMan
+I traded for
+"<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:7
+###Mugshot:MegaMan
+I traded for
+"<printChip>"!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:8
+###Mugshot:MegaMan
+I don't have
+enough BugFrags...
+###--------
+###Script:10
+###Mugshot:NormNaviPink
+We're all sold out.
+Thank you so much!
+###--------
+###Script:11
+###Mugshot:NormNaviPink
+"<printNaviCustProgram>"?
+Are you sure?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printNaviCustProgram buffer=1 program=0
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:12
+###Mugshot:MegaMan
+I traded for
+"<printNaviCustProgram>"!
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:19
+You traded for
+"<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:20
+You traded for
+"<printChip>"!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:21
+Insufficient BugFrags.
+###--------
+###Script:23
+You traded for
+"<printNaviCustProgram>"!
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:31
+###Mugshot:Roll
+I traded for
+"<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:32
+###Mugshot:Roll
+I traded for
+"<printChip>"!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:33
+###Mugshot:Roll
+Ah... I don't
+have enough
+BugFrags...
+###--------
+###Script:35
+###Mugshot:Roll
+I traded for
+"<printNaviCustProgram>"!
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:41
+###Mugshot:GutsMan
+I traded for
+"<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:42
+###Mugshot:GutsMan
+I traded for
+"<printChip>"!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:43
+###Mugshot:GutsMan
+I don't have
+enough BugFrags...
+###--------
+###Script:45
+###Mugshot:GutsMan
+I traded for
+"<printNaviCustProgram>"!
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:51
+###Mugshot:WindMan
+I traded for
+"<printItem>"...
+###Command:printItem buffer=1 item=0
+###--------
+###Script:52
+###Mugshot:WindMan
+I traded for
+"<printChip>"...
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:53
+###Mugshot:WindMan
+Unfortunately,
+I do not have
+enough BugFrags...
+###--------
+###Script:55
+###Mugshot:WindMan
+I traded for
+"<printNaviCustProgram>"...
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:61
+###Mugshot:SearchMan
+I traded for
+"<printItem>".
+###Command:printItem buffer=1 item=0
+###--------
+###Script:62
+###Mugshot:SearchMan
+I traded for
+"<printChip>".
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:63
+###Mugshot:SearchMan
+<printPlayerNickname>,
+I lack sufficient
+BugFrags...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:65
+###Mugshot:SearchMan
+I traded for
+"<printNaviCustProgram>".
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:71
+###Mugshot:FireMan
+I traded for
+"<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:72
+###Mugshot:FireMan
+I traded for
+"<printChip>"!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:73
+###Mugshot:FireMan
+Tsk... I don't
+have enough
+BugFrags!
+###--------
+###Script:75
+###Mugshot:FireMan
+I traded for
+"<printNaviCustProgram>"!
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:81
+###Mugshot:ThunderMan
+I traded for
+"<printItem>"...
+###Command:printItem buffer=1 item=0
+###--------
+###Script:82
+###Mugshot:ThunderMan
+I traded for
+"<printChip>"...
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:83
+###Mugshot:ThunderMan
+I do not
+have enough
+BugFrags...
+###--------
+###Script:85
+###Mugshot:ThunderMan
+I traded for
+"<printNaviCustProgram>"...
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:91
+###Mugshot:ProtoMan
+I traded for
+"<printItem>".
+###Command:printItem buffer=1 item=0
+###--------
+###Script:92
+###Mugshot:ProtoMan
+I traded for
+"<printChip>".
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:93
+###Mugshot:ProtoMan
+Apologies...
+I don't have
+enough BugFrags.
+###--------
+###Script:95
+###Mugshot:ProtoMan
+I traded for
+"<printNaviCustProgram>".
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:101
+###Mugshot:NumberMan
+I traded for
+"<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:102
+###Mugshot:NumberMan
+I traded for
+"<printChip>"!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:103
+###Mugshot:NumberMan
+It looks like
+I don't have
+enough BugFrags...
+###--------
+###Script:105
+###Mugshot:NumberMan
+I traded for
+"<printNaviCustProgram>"!
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:111
+###Mugshot:MetalMan
+I traded for
+"<printItem>"...
+###Command:printItem buffer=1 item=0
+###--------
+###Script:112
+###Mugshot:MetalMan
+I traded for
+"<printChip>"...
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:113
+###Mugshot:MetalMan
+...I don't have
+enough BugFrags.
+###--------
+###Script:115
+###Mugshot:MetalMan
+I traded for
+"<printNaviCustProgram>"...
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:121
+###Mugshot:JunkMan
+I traded for
+"<printItem>"...
+###Command:printItem buffer=1 item=0
+###--------
+###Script:122
+###Mugshot:JunkMan
+I traded for
+"<printChip>"...
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:123
+###Mugshot:JunkMan
+...H-Huh?
+I don't have
+enough BugFrags...
+###--------
+###Script:125
+###Mugshot:JunkMan
+I traded for
+"<printNaviCustProgram>"...
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:131
+###Mugshot:AquaMan
+I traded for
+"<printItem>",drip!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:132
+###Mugshot:AquaMan
+I traded for
+"<printChip>",drip!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:133
+###Mugshot:AquaMan
+Drip,drip...
+I don't have
+enough BugFrags!
+###--------
+###Script:135
+###Mugshot:AquaMan
+I traded for
+"<printNaviCustProgram>",drip!
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:141
+###Mugshot:WoodMan
+I traded for
+"<printItem>".
+###Command:printItem buffer=1 item=0
+###--------
+###Script:142
+###Mugshot:WoodMan
+I traded for
+"<printChip>".
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:143
+###Mugshot:WoodMan
+Hm...it seems
+I don't have
+enough BugFrags...
+###--------
+###Script:145
+###Mugshot:WoodMan
+I traded for
+"<printNaviCustProgram>".
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:151
+###Mugshot:StarMan
+I traded for
+"<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:152
+###Mugshot:StarMan
+I traded for
+"<printChip>"!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:153
+###Mugshot:StarMan
+Huh...?
+I don't have
+enough BugFrags!
+###--------
+###Script:155
+###Mugshot:StarMan
+I traded for
+"<printNaviCustProgram>"!
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:161
+###Mugshot:ShadowMan
+I traded for
+"<printItem>"...
+###Command:printItem buffer=1 item=0
+###--------
+###Script:162
+###Mugshot:ShadowMan
+I traded for
+"<printChip>"...
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:163
+###Mugshot:ShadowMan
+...It appears
+I don't have
+enough BugFrags.
+###--------
+###Script:165
+###Mugshot:ShadowMan
+I traded for
+"<printNaviCustProgram>"...
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:171
+###Mugshot:KnightMan
+I purchased
+"<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:172
+###Mugshot:KnightMan
+I purchased
+"<printChip>"!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:173
+###Mugshot:KnightMan
+...Oh? It seems
+I lack the
+BugFrags!
+###--------
+###Script:175
+###Mugshot:KnightMan
+I traded for
+"<printNaviCustProgram>"!
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:181
+###Mugshot:NapalmMan
+I traded for
+"<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:182
+###Mugshot:NapalmMan
+I traded for
+"<printChip>"!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:183
+###Mugshot:NapalmMan
+I ain't got
+enough BugFrags!
+###--------
+###Script:185
+###Mugshot:NapalmMan
+I traded for
+"<printNaviCustProgram>"!
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:191
+###Mugshot:IceMan
+I traded for
+"<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:192
+###Mugshot:IceMan
+I traded for
+"<printChip>"!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:193
+###Mugshot:IceMan
+Huh...?
+I don't have
+enough BugFrags...
+###--------
+###Script:195
+###Mugshot:IceMan
+I traded for
+"<printNaviCustProgram>"!
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:201
+###Mugshot:ElecMan
+I traded for
+"<printItem>"...
+###Command:printItem buffer=1 item=0
+###--------
+###Script:202
+###Mugshot:ElecMan
+I traded for
+"<printChip>"...
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:203
+###Mugshot:ElecMan
+Not enough
+BugFrags...
+###--------
+###Script:205
+###Mugshot:ElecMan
+I traded for
+"<printNaviCustProgram>"...
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:211
+###Mugshot:PlantMan
+I traded for
+"<printItem>".
+###Command:printItem buffer=1 item=0
+###--------
+###Script:212
+###Mugshot:PlantMan
+I traded for
+"<printChip>".
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:213
+###Mugshot:PlantMan
+Seems I don't
+have enough
+BugFrags.
+###--------
+###Script:215
+###Mugshot:PlantMan
+I traded for
+"<printNaviCustProgram>".
+###Command:printNaviCustProgram buffer=1 program=0
+###--------
+###Script:221
+###Mugshot:Bass
+I traded for
+"<printItem>"...
+###Command:printItem buffer=1 item=0
+###--------
+###Script:222
+###Mugshot:Bass
+I traded for
+"<printChip>"...
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:223
+###Mugshot:Bass
+...Hmph.
+I don't have
+enough BugFrags...
+###--------
+###Script:225
+###Mugshot:Bass
+I traded for
+"<printNaviCustProgram>"...
+###Command:printNaviCustProgram buffer=1 program=0
+###--------

@@ -1,0 +1,38 @@
+﻿###TextArchive:672124
+###Script:1
+As a reminder,
+it's almost
+time for...
+###--------
+###Script:2
+"<printScheduleBuffer>"
+###Command:printScheduleBuffer
+###--------
+###Script:3
+That's the end
+of my report.
+###--------
+###Script:10
+Today's
+schedule is...
+###--------
+Sad to say,
+it's empty...
+###--------
+###Script:11
+At <printBuffer>:
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+<printBuffer>
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+<printScheduleBuffer>,
+
+###Command:printScheduleBuffer
+###--------
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:12
+That is all.
+###--------

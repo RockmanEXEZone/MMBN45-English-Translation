@@ -1,0 +1,131 @@
+﻿###TextArchive:696DD8
+###Script:1
+U-Um...
+Happy New Year!
+###--------
+P-Phew...
+I was able to
+say it properly...
+###--------
+I-I'll work hard
+this year too...let's
+make it a good one.
+###--------
+###Script:2
+T-Today is
+April Fools' Day...
+###--------
+I-I don't like it...
+For some reason,
+###++++++++
+I always end
+up being the
+butt of a joke...
+###--------
+###Script:3
+Today is
+Valentine's Day...
+###--------
+I-I'd like
+to receive
+a letter,too...
+###--------
+###Script:4
+Today is
+Valentine's Day...
+###--------
+###--------
+I-I'd like
+to receive
+a letter,too...
+###--------
+###Script:5
+T-Tonight is
+Halloween...
+###--------
+I-I want some
+candy,too...
+###++++++++
+B-But I'm a
+Navi,so I can't
+receive candy...
+###++++++++
+It's a little sad...
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve!
+###--------
+I-I'm glad I can
+spend it with you.
+###--------
+That's the best
+Christmas present
+I could wish for.
+###--------
+###Script:9
+M-Merry Christmas!
+###--------
+Santa Claus didn't
+bring me a visit...
+###--------
+B-But,being able
+to be in your PET
+is enough for me...
+###--------
+###Script:10
+T-Tonight is
+New Year's Eve...
+###--------
+I-If there's any
+snow in the way,
+###++++++++
+my JunkPress will
+take care of it.
+###--------
+###Script:11
+Happy Birthday,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+I-I...don't know
+when I was born.
+###--------
+So celebrating your
+birthday with you
+###--------
+makes me feel like
+I'm having my own...
+J-Just for a bit.
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+###Script:17
+T-Today is...
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:18
+A-And...
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------

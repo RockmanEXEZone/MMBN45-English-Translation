@@ -1,0 +1,45 @@
+﻿###TextArchive:68E5E0
+###Script:1
+...Sorry.
+I fought with
+all I had...
+###--------
+But I won't
+give up.
+###--------
+Not till I've
+grasped victory
+with my own fists!!
+###--------
+###Script:2
+We did it,
+<printPlayerNickname>!!
+###Command:printPlayerNickname
+###--------
+Haaaaaahh!!
+###--------
+###Script:10
+We're not entered,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:20
+It's time... Watch!
+Victory is in the
+palm of my hand!
+###--------
+###Script:21
+It's time... Watch!
+Victory is in the
+palm of my hand!
+###--------
+###Script:22
+It's time... Watch!
+Victory is in the
+palm of my hand!
+###--------
+###Script:23
+It's time... Watch!
+Victory is in the
+palm of my hand!
+###--------

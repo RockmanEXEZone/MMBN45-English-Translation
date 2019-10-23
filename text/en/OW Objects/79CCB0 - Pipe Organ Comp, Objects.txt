@@ -1,0 +1,86 @@
+﻿###TextArchive:79CCB0
+###Script:2
+###Mugshot:HeelNaviPurple
+Welcome to the
+Everyday Tournament!
+###--------
+###Mugshot:HeelNaviPurple
+Many Navis await,
+thinking they're the
+strongest NetBattler,
+###--------
+###Mugshot:HeelNaviPurple
+and they're prepared
+to fight for the title!
+###--------
+###Mugshot:HeelNaviPurple
+Will you enter,too?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Excellent!
+Let's get this
+battle started!
+###--------
+###Mugshot:HeelNaviPurple
+Who is the strongest
+NetBattler of them all?
+###--------
+###Mugshot:HeelNaviPurple
+Your skills will show
+us the answer!
+###--------
+###Mugshot:HeelNaviPurple
+Commence the
+Everyday Tournament!
+###--------
+###Script:3
+###Mugshot:HeelNaviPurple
+Come again...if you're
+feeling lucky!
+###--------
+###Script:4
+###Mugshot:HeelNaviPurple
+That's the end
+of this Everyday
+Tournament!
+###--------
+###Mugshot:HeelNaviPurple
+All hail the victor!
+Come challenge the
+tournament again!
+###--------
+###Mugshot:HeelNaviPurple
+It's held the same
+times every day:
+###--------
+###Mugshot:HeelNaviPurple
+<regionUS>9:00 AM to 10:00 AM<regionEnd><regionEU>[1px] 9:00 to 10:00<regionEnd>,
+<regionUS>1:00 PM to [1px] 2:00 PM<regionEnd><regionEU>13:00 to 14:00<regionEnd>,
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:HeelNaviPurple
+<regionUS>4:00 PM to [1px] 5:00 PM<regionEnd><regionEU>16:00 to 17:00<regionEnd>,
+<regionUS>8:00 PM to [1px] 9:00 PM<regionEnd><regionEU>20:00 to 21:00<regionEnd>.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------

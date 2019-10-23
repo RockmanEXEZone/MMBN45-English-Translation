@@ -1,0 +1,161 @@
+﻿###TextArchive:7A6BC8
+###Script:0
+###Mugshot:HeelNaviBlack
+At last,it's Friday!
+I've been waiting
+for this!
+###--------
+###Mugshot:HeelNaviBlack
+Would you be willing
+to take some time
+to battle me!?
+###--------
+<positionOptionHorizontal><option><space> Bring it!  <option><space> Nah
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviBlack
+Ngh...!
+###--------
+###Mugshot:HeelNaviBlack
+So you won't even
+fight a lowly grunt
+like me...!
+###--------
+###Script:1
+###Mugshot:HeelNaviBlack
+Are you prepared!?
+###--------
+###Mugshot:HeelNaviBlack
+...Let us fight!
+###--------
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:HeelNaviBlack
+Ugh...!
+###--------
+###Mugshot:HeelNaviBlack
+It seems I still have
+much to learn...
+###--------
+###Script:3
+###Mugshot:HeelNaviBlack
+This is what we
+call NetNinjutsu!
+Nya ha ha!
+###--------
+###Script:4
+###Mugshot:NormNaviPink
+I'm actually raising
+viruses as a hobby,
+###--------
+###Mugshot:NormNaviPink
+but I want to know
+just how strong
+they've become!
+###--------
+###Mugshot:NormNaviPink
+Won't you battle them?
+###--------
+<positionOptionHorizontal><option><space> Yeah!  <option><space> No,thanks
+###Command:positionOptionHorizontal width=16
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviPink
+You meanie!
+###--------
+###Mugshot:NormNaviPink
+Do you hate my little
+viruses that much!?
+###--------
+###Script:5
+###Mugshot:NormNaviPink
+Okay,here we go!
+###--------
+###Mugshot:NormNaviPink
+Battle routine,set!
+Execute!
+###--------
+###Script:6
+###Mugshot:NormNaviPink
+You meanie!!
+###--------
+###Mugshot:NormNaviPink
+How dare you bully
+my precious little
+viruses!
+###--------
+###Script:7
+###Mugshot:NormNaviPink
+Yep! My viruses
+just can't be beaten!
+###--------
+###Script:8
+###Mugshot:NormNaviYellow
+Hey,you!
+How about a quick
+spar with me?
+###--------
+###Mugshot:NormNaviYellow
+Let's work up
+a good sweat!
+###--------
+<positionOptionHorizontal><option><space> Yeah!  <option><space> No,thanks
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Why not!?
+###--------
+###Mugshot:NormNaviYellow
+Isn't youth meant to
+be all about battling!?
+###--------
+###Script:9
+###Mugshot:NormNaviYellow
+Okay,get ready!
+###--------
+###Mugshot:NormNaviYellow
+Let's battle
+fair and square!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+Execuuute!!
+###--------
+###Script:10
+###Mugshot:NormNaviYellow
+Gwaaaahh!!
+###--------
+###Mugshot:NormNaviYellow
+G-Guess you can't
+make an omelet without
+breaking some eggs...
+###--------
+###Mugshot:NormNaviYellow
+But you could've
+gone a little eas...
+...Owie!
+###--------
+###Script:11
+###Mugshot:NormNaviYellow
+Hahaha! Thank you!
+I worked up a
+good sweat!
+###--------
+###Mugshot:NormNaviYellow
+Now this is what
+youth is all about!
+###--------

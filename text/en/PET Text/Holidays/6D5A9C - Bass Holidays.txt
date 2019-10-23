@@ -1,0 +1,113 @@
+﻿###TextArchive:6D5A9C
+###Script:1
+A new year
+has begun...
+###--------
+For me...that means
+the curtain rises
+on a new battle.
+###--------
+......
+###--------
+###Script:2
+Today is
+April Fools' Day,
+huh...?
+###--------
+What a joke...
+###--------
+You humans make
+fools of yourself
+every day.
+###--------
+###Script:3
+Today is
+Valentine's Day...
+###--------
+What are you
+waiting for?
+###++++++++
+Sneak up on the
+person you like,
+###--------
+and just take the
+chocolate yourself.
+###--------
+###Script:4
+Today is
+Valentine's Day...
+###--------
+What are you
+waiting for?
+###++++++++
+Sneak up on the
+person you like,
+###--------
+and just take the
+chocolate yourself.
+###--------
+###Script:5
+Tonight is
+Halloween...
+###--------
+...I've heard many
+monsters come
+out on Halloween.
+###--------
+I wonder if
+there are any
+strong ones...?
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve...
+###--------
+###Script:9
+Today is
+Christmas...
+###--------
+###Script:10
+Tonight is
+New Year's Eve...
+###--------
+You humans are
+making a big
+fuss over it...
+###--------
+Hmph. I couldn't
+care less about
+the year ending.
+###--------
+###Script:11
+Hmph,today is your
+birthday,isn't it...
+###--------
+###Script:12
+ 
+###--------
+###Script:17
+Today is...
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And...
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------

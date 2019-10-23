@@ -1,0 +1,125 @@
+﻿###TextArchive:6C004C
+###Script:1
+KABOOOOOM!!
+###--------
+Happy New Year!
+###--------
+Can't wait to see
+what stuff we'll
+blow up next!
+###--------
+Let's make this
+new year a blast!
+###--------
+###Script:2
+Today is
+April Fools' Day!
+###--------
+###--------
+###--------
+###--------
+C'mon!
+Let's find some
+suckers to prank!
+###--------
+###Script:3
+Today's
+Valentine's Day!
+###--------
+Watch out! Anyone
+can get targeted!
+###--------
+Whaddaya think!?
+Who do you have
+in your sights?
+###--------
+###Script:4
+Today's
+Valentine's Day!
+###--------
+Watch out! Anyone
+can get targeted!
+###--------
+Whaddaya think!?
+Who do you have
+in your sights?
+###--------
+###Script:5
+Tonight's
+Halloween!
+###--------
+That's when they
+hand out candy
+to kids,right?
+###++++++++
+Leave it to me!
+Get a taste of my
+chocolate bazooka!
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight's
+Christmas Eve!
+###--------
+Don't forget to
+hang your stocking
+by the fireplace!
+###--------
+But not too close,
+or it might
+catch fire!
+###--------
+###Script:9
+Today's Christmas!
+###--------
+Even I gotta
+lay down my
+weapons today.
+###--------
+C'mon,bring on
+New Year's Eve
+already!
+###--------
+###Script:10
+Tonight's
+New Year's Eve!
+###--------
+I've been waiting
+all year for this!!
+###--------
+Watch! I'll give
+you the fireworks
+show of a lifetime!
+###--------
+###Script:11
+Today's your
+birthday,right?
+###--------
+Alright!
+Time to celebrate
+with a NetBattle!
+###--------
+###Script:12
+ 
+###--------
+###Script:17
+Today's
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And...
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------

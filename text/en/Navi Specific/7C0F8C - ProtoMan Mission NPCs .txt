@@ -1,0 +1,453 @@
+﻿###TextArchive:7C0F8C
+###Script:0
+###Mugshot:MrProgGreen
+BattleTest 1
+(Placeholder)
+BattleStart DEATH!
+###--------
+###Script:1
+###Mugshot:ProtoMan
+Target deleted...
+Mission complete.
+###--------
+###Script:2
+###Mugshot:ProtoMan
+Gah...
+Mission failed...
+###--------
+###Mugshot:ProtoMan
+I'm...terribly sorry.
+###--------
+###Script:10
+###Mugshot:ProtoMan
+Target viruses sighted!
+###--------
+###Mugshot:ProtoMan
+Commencing deletion.
+###--------
+###Script:11
+###Mugshot:ProtoMan
+Target viruses sighted!
+###--------
+###Mugshot:ProtoMan
+Commencing deletion.
+###--------
+###Script:12
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:NormNaviYellow
+A-An Official!?
+###--------
+###Mugshot:NormNaviYellow
+You ain't catchin' me!
+###--------
+###Mugshot:NormNaviYellow
+I'll delete you!
+Aiyaaaa!!
+###--------
+###Script:13
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:NaviGirlPurple
+Tsk,really?
+An Official!?
+What a pain...
+###--------
+###Mugshot:NaviGirlPurple
+Go put an end
+to that Official,
+my viruses!
+###--------
+###Script:14
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:NormNaviYellow
+Y-You're an Official!?
+###--------
+###Mugshot:NormNaviYellow
+I-I'm not letting
+you get in the way
+of my fun!
+###--------
+###Mugshot:NormNaviYellow
+Oraaaah!
+###--------
+###Script:15
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:PurpleNavi
+An Official!?
+###--------
+###Mugshot:PurpleNavi
+You're not catchin'
+me! Haaaaaa!!
+###--------
+###Script:16
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:NormNaviYellow
+N-N-Noooo!
+I don't wanna
+be caught!
+###--------
+###Mugshot:NormNaviYellow
+Waaaaaa!
+###--------
+###Script:17
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:HeelNaviPurple
+Don't mess with me!
+###--------
+###Mugshot:HeelNaviPurple
+You ain't gettin' me!
+Kraaaaahh!
+###--------
+###Script:18
+###Mugshot:ProtoMan
+Target viruses sighted!
+###--------
+###Mugshot:ProtoMan
+Commencing deletion.
+###--------
+###Script:19
+###Mugshot:ProtoMan
+Target viruses sighted!
+###--------
+###Mugshot:ProtoMan
+Commencing deletion.
+###--------
+###Script:20
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:NormNaviYellow
+Tsk!
+###--------
+###Mugshot:NormNaviYellow
+Here! Whatever!!
+###--------
+###Script:21
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:PurpleNavi
+An Official!?
+###--------
+###Mugshot:PurpleNavi
+Shut up!
+Take THIS!
+###--------
+###Script:22
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:NormNaviYellow
+Tsk!
+I've been sniffed
+out already!?
+###--------
+###Mugshot:NormNaviYellow
+Gaaaah!
+###--------
+###Script:23
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:NormNaviYellow
+I-I can't afford to
+get caught yet...
+###--------
+###Mugshot:NormNaviYellow
+Not yeeeeet!!
+###--------
+###Script:24
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:NaviGirlOrange
+I-I'm not doing
+anything...
+###--------
+###Mugshot:NaviGirlOrange
+...What...?
+###--------
+###Mugshot:NaviGirlOrange
+You think you can
+catch me? I'd like
+to see you try!
+###--------
+###Mugshot:NaviGirlOrange
+Raaaah!
+###--------
+###Script:25
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:HeelNaviPurple
+...Alright.
+I'll go quietly...
+###--------
+###Mugshot:HeelNaviPurple
+...Yeah,right!
+You're wide open!
+###--------
+###Script:26
+###Mugshot:ProtoMan
+Target viruses sighted!
+###--------
+###Mugshot:ProtoMan
+Commencing deletion.
+###--------
+###Script:27
+###Mugshot:ProtoMan
+Target viruses sighted!
+###--------
+###Mugshot:ProtoMan
+Commencing deletion.
+###--------
+###Script:28
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:NaviGirlPurple
+A-An Official!?
+###--------
+###Mugshot:NaviGirlPurple
+N-No...I don't want
+to go back there!!
+###--------
+###Mugshot:NaviGirlPurple
+I'd rather be deleted
+than go back there!
+###--------
+###Mugshot:NaviGirlPurple
+Kiiiihh!!
+###--------
+###Script:29
+###Mugshot:ProtoMan
+I'm an Official...
+###--------
+###Mugshot:NormNaviYellow
+Hah hah! So you've
+come... You're quite
+the reckless one!
+###--------
+###Mugshot:NormNaviYellow
+I'll delete you and
+show off my strength!
+###--------
+###Mugshot:NormNaviYellow
+Shaaaah!
+###--------
+###Script:30
+###Mugshot:ProtoMan
+I'm an Official...
+###--------
+###Mugshot:NormNaviYellow
+You thought I'd be
+scared of an Official
+like you!?
+###--------
+###Mugshot:NormNaviYellow
+Don't underestimate me!
+Crunchy Boooones!!
+##(See ProtoMan Mission Mail's note on this)
+###--------
+###Script:31
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:HeelNaviBlack
+A-An Official...?
+###--------
+###Mugshot:HeelNaviBlack
+S-S-Sha...
+Sharabarabarabaa!
+###--------
+###Script:32
+###Mugshot:ProtoMan
+I'm an Official...
+###--------
+###Mugshot:HeelNaviBlack
+Heheh...
+So you've come...
+###--------
+###Mugshot:HeelNaviBlack
+I'll wipe the floor
+with you Officials,
+###--------
+###Mugshot:HeelNaviBlack
+and show the world
+just how terrifying
+the Shadow Army is!
+###--------
+###Mugshot:HeelNaviBlack
+Kyaaaaaah!
+###--------
+###Script:33
+###Mugshot:ProtoMan
+I'm an Official...
+Can I speak with
+you for a moment?
+###--------
+###Mugshot:HeelNaviPurple
+An Official,huh...
+###--------
+###Mugshot:HeelNaviPurple
+Sorry,but you ain't
+sendin' me back to
+the Undernet!
+###--------
+###Mugshot:HeelNaviPurple
+Wanna know why?
+Cuz I'm gonna delete
+you right here!
+###--------
+###Script:34
+###Mugshot:ProtoMan
+Target viruses sighted!
+###--------
+###Mugshot:ProtoMan
+Commencing deletion.
+###--------
+###Script:35
+###Mugshot:ProtoMan
+Target viruses sighted!
+###--------
+###Mugshot:ProtoMan
+Commencing deletion.
+###--------
+###Script:36
+###Mugshot:ProtoMan
+I'm an Official...
+###--------
+###Mugshot:ProtoMan
+You won't be taking
+a single step out
+of the Undernet!
+###--------
+###Mugshot:NormNaviPink
+Heh!
+If you think you can
+stop me,just try!
+###--------
+###Mugshot:NormNaviPink
+Kieeeeh!
+###--------
+###Script:37
+###Mugshot:ProtoMan
+I'm an Official...
+###--------
+###Mugshot:ProtoMan
+Your plan ends
+right here!
+###--------
+###Mugshot:NormNaviYellow
+Mwahaha!
+###--------
+###Mugshot:NormNaviYellow
+This is our turf...
+The Officials are
+nothing to fear!
+###--------
+###Mugshot:NormNaviYellow
+Eat this!!
+###--------
+###Script:38
+###Mugshot:ProtoMan
+I'm an Official...
+###--------
+###Mugshot:NaviGirlOrange
+Tsk! Why don'tcha
+meet my little
+viruses,ya Official!
+###--------
+###Script:39
+###Mugshot:HeelNaviBlack
+You're an Official,
+aren't ya!?
+###--------
+###Mugshot:HeelNaviBlack
+To be wanderin'
+around the Undernet
+like this means
+###--------
+###Mugshot:HeelNaviBlack
+you've either got
+guts or you're a
+real fool...
+###--------
+###Mugshot:HeelNaviBlack
+Either way,it's all
+the same to me...
+Begone!
+###--------
+###Script:40
+###Mugshot:ProtoMan
+Stop right there...
+I'm an Official...
+###--------
+###Mugshot:HeelNaviBlack
+...An Official?
+...So what!?
+###--------
+###Mugshot:HeelNaviBlack
+I'll delete ya!
+Graaah!
+###--------
+###Script:41
+###Mugshot:ProtoMan
+I'm an Official...
+I need to speak
+with you.
+###--------
+###Mugshot:ProtoMan
+Could you come
+with me?
+###--------
+###Mugshot:HeelNaviBlack
+...Shut up!
+###--------
+###Mugshot:HeelNaviBlack
+There's no way...
+I'm gonna talk
+with you!
+###--------
+###Mugshot:HeelNaviBlack
+Hraaaah!
+###--------

@@ -1,0 +1,458 @@
+﻿###TextArchive:7011F0
+###Script:0
+Welcome! This BBS is
+for all challengers in
+the Gold Tournament
+###--------
+to exchange useful
+info and opinions.
+###--------
+Whether you're young
+or old,as long as you
+have your sights on
+###--------
+the Gold Tournament,
+please feel free
+to post.
+###--------
+If there's demand for
+it,I'll tell you all about
+my experiences,as well!
+###--------
+###Script:1
+The Gold Tournament
+entry exam is pretty
+tough,isn't it?
+###--------
+I'm having big trouble
+with the second Busting
+Level test myself.
+###--------
+Is there some kind of
+trick to it,perhaps?
+###--------
+I eagerly await your
+responses!
+###--------
+Also,this is off-topic,
+but isn't the third
+judge Navi kinda cute?
+###--------
+###Script:2
+A common suggestion
+is using multi-deletes
+to raise Busting Level.
+###--------
+As the name implies,a
+multi-delete is when you
+delete multiple viruses
+###--------
+at the same time.
+I hear Counters net
+you high points too!
+###--------
+Simply put,you should
+battle with style!
+Always remember that!
+###--------
+###Script:3
+Haven't you forgotten
+something though?
+###++++++++
+Hey honey,take
+over for me!
+###--------
+Right! Ya speed
+factors into yer
+###++++++++
+Busting Level
+as well! Don't ya
+fuggedaboudit!
+###--------
+Take out them viruses
+in the blink of an eye!
+Move fast like the wind!
+###--------
+It's all about yer
+speed in battle! Keep
+workin' on ya skills!
+###--------
+###Script:4
+The best way to raise
+your Busting Level is
+to just keep at it!
+###--------
+It's kind of standard
+advice,I know...
+###--------
+###Script:5
+It's just as Mochi
+says. On that note,
+###--------
+what do you all do
+for battle practice
+during the week?
+###--------
+Me,I hone my skills
+by practicing in
+Everyday Tournaments.
+###--------
+Around these parts,
+they're held in the
+BrokenRadioComp.
+###--------
+Come say hi if you
+see me around!
+###--------
+###Script:6
+Have you guys noticed?
+Every Tuesday,the Net
+smells kind of...singed.
+###--------
+For some reason it
+seems there's an
+abnormally high number
+###--------
+of Fire-based viruses
+prowling the Net on
+Tuesdays.
+###--------
+###--------
+I wonder what attracts
+them. I have a hunch...
+###--------
+###Script:7
+Remember my post from
+yesterday? Well,today
+is Wednesday,and...
+###--------
+...my hunch was right!
+Aqua-based viruses are
+out and about today.
+###--------
+If you want to see
+what kinds of viruses
+will be active today,
+###++++++++
+look closely at the
+date in the corner
+of the screen!
+###--------
+###Script:8
+BBS01 ID15
+###--------
+###Script:9
+BBS01 ID16
+###--------
+###Script:10
+BBS01 ID17
+###--------
+###Script:11
+BBS01 ID18
+###--------
+###Script:12
+BBS01 ID19
+###--------
+###Script:13
+BBS01 ID1A
+###--------
+###Script:14
+BBS01 ID1B
+###--------
+###Script:15
+These berserk Navis
+one after another
+are such a hassle!
+###--------
+Is there something
+causing all this?
+###--------
+###Script:16
+I don't quite
+understand what's
+going on either,but...
+###--------
+Somehow,I don't think
+the reason for their
+aggression is coming
+###--------
+from the Navi itself...
+This seems like the
+work of a higher power.
+###--------
+It has me a
+little worried...
+###--------
+###Script:17
+Forgive me if
+this sounds
+inappropriate,but...
+###--------
+Don't you kind of want
+to see those berserk
+Navis up close?
+###--------
+The danger just
+makes me all the
+more curious...
+###--------
+You can all see
+where I'm coming
+from,right?
+###--------
+###Script:18
+I watched the Official
+Tournament in hopes
+of gleaning some new
+###--------
+battle techniques,
+and all I can say
+is... WOW!!!
+###--------
+Those NetBattlers
+are on a totally
+different level!
+###--------
+Geez...
+###--------
+Someday,I hope I
+can battle up on
+that stage too...
+###--------
+###Script:19
+I hear it's a challenge
+just to sign up for the
+Official Tournament.
+###--------
+Rumor has it that one
+of the requirements...
+###--------
+is going to the dark
+side of the Net and
+coming back safely.
+###--------
+And on top of that,you
+have to battle some
+mysterious program?
+###--------
+It's like a whole
+different world from
+the one we know...
+###--------
+###Script:20
+Howdy! The name's
+Tesshin.
+###--------
+I fought in the Gold
+Tournament,but I got
+whooped in round 1.
+###--------
+That really bummed me
+out. I cried myself
+to sleep that night...
+###--------
+Now,I'm undergoing
+some special training
+to get my revenge!
+###--------
+I can't lose here!
+How could I face
+everyone back home!?
+###--------
+###Script:21
+Tesshin here.
+I just lost another
+tournament.
+###--------
+Ahhh,the cybergods
+are cruel indeed!
+###--------
+I'm trying my
+darnedest here!
+Why can't I win?
+###--------
+Anyway. I hear the day
+after the tournament
+is waste collection day.
+###--------
+Maybe I should give up
+on NetBattles & become
+a waste collector...
+###--------
+###Script:22
+Tesshin,
+don't give up!!
+###--------
+Every NetBattler goes
+through a bad spot
+like that in their life.
+###--------
+If you keep believing,
+with enough effort,you
+can overcome all odds!
+###--------
+###Script:23
+Howdy! Tesshin here.
+Thanks for that
+pep talk,Yuki!
+###--------
+I don't wanna let you
+down,so I've decided
+to keep going after all!
+###--------
+By the way,I figured
+I'd try out my
+BattleChip Gate.
+###--------
+With the Chip Gate,
+I can choose any chip
+based on the situation!
+###--------
+If I can get really
+good at using this,
+maybe the tournament
+###++++++++
+championship will
+no longer be out
+of my reach!
+###--------
+My dreams are finally
+becoming a reality!
+###--------
+###Script:24
+Hey there,Tesshin!
+###--------
+Did you know each chip
+you use with the Gate
+has its own uses limit?
+###--------
+If your remaining uses
+get low,try seeking
+out a gold Mr.Prog.
+###--------
+Some of them can
+refill your uses
+for you!
+###--------
+The Gold Mr.Progs are
+out there somewhere
+on the Net.
+###--------
+They really stand
+out,so you can't
+miss them.
+###--------
+###Script:25
+Don't forget that when
+using the Chip Gate,
+you can combine the
+###--------
+chips you slot in with
+normal chips from
+your ChipFolder!
+###--------
+You can really
+expand your battle
+strategies like this!
+###--------
+###Script:26
+I know this is a
+super basic question,
+so don't laugh...
+###--------
+How do you use
+Program Advances
+with the Chip Gate?
+###--------
+Shoot! Now it's really
+obvious I'm a beginner.
+Ugh,so embarrassing!
+###--------
+###Script:27
+Koetsu here! If it's
+about battles,then
+I'm your man!
+###--------
+Looks like the Chip
+Gate is the talk
+of the town!
+###--------
+It's not that hard to
+use Program Advances
+with the Chip Gate.
+###--------
+Just press the Select
+Button,then while you
+have the time...
+###--------
+slot in 3 BattleChips
+into the Gate in the
+correct order!
+###--------
+Simple,right?
+It's not all that
+different from
+###++++++++
+doing it without
+a Chip Gate.
+###--------
+###Script:28
+BBS01 ID1C
+###--------
+###Script:29
+BBS01 ID1D
+###--------
+###Script:30
+BBS01 ID1E
+###--------
+###Script:31
+BBS01 ID1F
+###--------
+###Script:32
+BBS01 ID20
+###--------
+###Script:33
+BBS01 ID21
+###--------
+###Script:34
+BBS01 ID22
+###--------
+###Script:35
+BBS01 ID23
+###--------
+###Script:36
+BBS01 ID24
+###--------
+###Script:37
+BBS01 ID25
+###--------
+###Script:38
+BBS01 ID26
+###--------
+###Script:39
+BBS01 ID27
+###--------
+###Script:40
+BBS01 ID28
+###--------
+###Script:41
+BBS01 ID29
+###--------
+###Script:42
+BBS01 ID2A
+###--------
+###Script:43
+BBS01 ID2B
+###--------
+###Script:44
+BBS01 ID2C
+###--------
+###Script:45
+BBS01 ID2D
+###--------
+###Script:46
+BBS01 ID2E
+###--------
+###Script:47
+BBS01 ID2F
+###--------

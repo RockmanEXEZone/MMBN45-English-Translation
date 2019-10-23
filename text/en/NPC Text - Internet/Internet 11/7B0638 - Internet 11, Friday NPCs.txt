@@ -1,0 +1,174 @@
+﻿###TextArchive:7B0638
+###Script:0
+###Mugshot:HeelNaviPurple
+Hey,wanna battle
+with me!?
+###--------
+###Mugshot:HeelNaviPurple
+I'm really hot-blooded,
+###++++++++
+###Mugshot:HeelNaviPurple
+so I'm always bursting
+with anticipation for
+this day every week!
+###--------
+###Mugshot:HeelNaviPurple
+C'mon,let's hurry
+up and battle!
+###--------
+<positionOptionHorizontal><option><space> Sure!  <option><space> Nah!
+###Command:positionOptionHorizontal width=10
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Whaaaaat!?
+###--------
+###Mugshot:HeelNaviPurple
+How am I supposed
+to satisfy my
+thirst for battle!?
+###--------
+###Script:1
+###Mugshot:HeelNaviPurple
+Let's begin...
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:HeelNaviPurple
+Heh heh...
+Not bad...
+###--------
+###Script:3
+###Mugshot:HeelNaviPurple
+You're done already!?
+I haven't battled
+nearly enough!
+###--------
+###Script:4
+###Mugshot:HeelNaviPurple
+Hey you.
+We locked eyes just
+now,didn't we?
+###--------
+###Mugshot:HeelNaviPurple
+That means you're
+saying you wanna
+battle,right?
+###--------
+###Mugshot:HeelNaviPurple
+You DO want to
+battle with me,yeah?
+###--------
+###Mugshot:HeelNaviPurple
+C'mon! Bring it!
+###--------
+<positionOptionHorizontal><option><space> Let's go!  <option><space> No,wait!
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Tsk,you got my
+hopes up!
+###--------
+###Script:5
+###Mugshot:HeelNaviPurple
+You're going down
+in a single blow!
+Prepare yourself!
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+Execute!
+###--------
+###Script:6
+###Mugshot:HeelNaviPurple
+Uwaaaaa!!
+You're really
+something else!
+###--------
+###Mugshot:HeelNaviPurple
+I should've known
+when you challenged
+me to a battle...
+###--------
+###Script:7
+###Mugshot:HeelNaviPurple
+What in the...
+You're a pushover!
+###--------
+###Mugshot:HeelNaviPurple
+You're not gonna
+beat me in a million
+tries like that!
+###--------
+###Script:8
+###Mugshot:HeelNaviPurple
+Oh hey!
+Long time no see,
+old pal! It's me!
+###--------
+###Mugshot:HeelNaviPurple
+Aw,this brings me back!
+Hey,let's battle!
+C'mon! Let's battle!
+###--------
+###Mugshot:HeelNaviPurple
+Just like how we'd
+always battle during
+summer vacation!
+###--------
+###Mugshot:HeelNaviPurple
+What's the holdup?
+C'mon,let's do this!
+###--------
+<positionOptionHorizontal><option><space> Yeah!  <option><space> Who're you?
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Darn!
+###--------
+###Mugshot:HeelNaviPurple
+My NetBattle con
+isn't working on you...
+You're good!
+###--------
+###Script:9
+###Mugshot:HeelNaviPurple
+I'll give you a taste
+of my con tricks!
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+Execute!
+###--------
+###Script:10
+###Mugshot:HeelNaviPurple
+You broke through
+my con trick...
+###--------
+###Mugshot:HeelNaviPurple
+Y-You're good...!
+###--------
+###Script:11
+###Mugshot:HeelNaviPurple
+See!?
+Everyone falls
+for my con trick!
+###--------
+###Mugshot:HeelNaviPurple
+A win's a win,
+even if you cheat!
+###--------

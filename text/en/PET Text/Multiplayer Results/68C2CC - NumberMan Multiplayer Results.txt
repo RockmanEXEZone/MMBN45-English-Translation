@@ -1,0 +1,17 @@
+﻿###TextArchive:68C2CC
+###Script:1
+Was there an
+error in my
+calculations...!?
+###--------
+###Script:2
+All according to
+my calculations!
+###--------
+###Script:3
+I did not include
+the possibility
+of a draw
+###--------
+in my calculations...
+###--------

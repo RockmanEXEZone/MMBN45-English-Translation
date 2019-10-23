@@ -1,0 +1,44 @@
+﻿###TextArchive:682D68
+###Script:1
+My apologies,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+My power was
+lacking. But next
+time,for sure...!
+###--------
+###Script:2
+We did it...
+<printPlayerNickname>,
+###Command:printPlayerNickname
+###--------
+that was some
+fantastic operating.
+###--------
+###Script:10
+Sorry,<printPlayerNickname>,
+but we're not
+entered.
+###Command:printPlayerNickname
+###--------
+###Script:20
+It's time to show
+what our daily
+training can do!
+###--------
+###Script:21
+It's time to show
+what our daily
+training can do!
+###--------
+###Script:22
+It's time to show
+what our daily
+training can do!
+###--------
+###Script:23
+It's time to show
+what our daily
+training can do!
+###--------

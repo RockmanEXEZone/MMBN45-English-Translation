@@ -1,0 +1,427 @@
+﻿###TextArchive:7CA474
+###Script:0
+###Mugshot:LaserMan
+Gwaaaah...
+My hatred...
+Is endless...
+###--------
+###Mugshot:LaserMan
+Even if this body
+fades away...
+###++++++++
+###Mugshot:LaserMan
+My hatred...
+Will never disappear!
+###--------
+###Mugshot:LaserMan
+Uwaaaaaaah!
+###--------
+###Script:1
+###Mugshot:LaserMan
+T-The next area...
+There...what awaits
+you is...
+###--------
+###Mugshot:LaserMan
+An overwhelming...
+Terror...
+###--------
+###Mugshot:LaserMan
+Without a doubt...
+Your deletion...
+###--------
+###Mugshot:LaserMan
+Will be...inescapable...!
+###--------
+###Mugshot:LaserMan
+Wahahahahaha!
+###--------
+###Script:2
+###Mugshot:MegaMan
+LaserMan...
+What a terrifying
+Navi...
+###--------
+###Mugshot:MegaMan
+...What could be
+waiting up ahead...?
+###--------
+###Script:3
+###Mugshot:Roll
+･･････
+*shiver...*
+###--------
+###Mugshot:Roll
+We won,but I'm
+still trembling...
+###--------
+###Mugshot:Roll
+Even now,LaserMan's
+hatred is still out
+there somewhere...
+###--------
+###Mugshot:Roll
+I'm worried about what
+he said at the end...
+###--------
+###Mugshot:Roll
+What in the world...
+is waiting up ahead?
+###--------
+###Script:4
+###Mugshot:GutsMan
+W-We won...
+###--------
+###Mugshot:GutsMan
+That LaserMan sure
+was terrifying...
+###--------
+###Mugshot:GutsMan
+But anyway...
+What's waitin' for
+us up ahead?
+###--------
+###Mugshot:GutsMan
+Now that we've come
+this far,I gotta
+check it out!
+###--------
+###Script:5
+###Mugshot:WindMan
+LaserMan...
+I pity him.
+###--------
+###Mugshot:WindMan
+⋯!!
+###--------
+###Mugshot:WindMan
+I sense a
+strong miasma...
+###--------
+###Mugshot:WindMan
+It appears to be
+blowing from the
+area up ahead...
+###--------
+###Mugshot:WindMan
+What in the world
+is waiting for us
+in there...?
+###--------
+###Script:6
+###Mugshot:SearchMan
+Target deleted...
+###--------
+###Mugshot:SearchMan
+Mission complete!
+###--------
+･･･
+###--------
+*beep-beep!*
+###--------
+###Mugshot:SearchMan
+...What's this!?
+###--------
+###Mugshot:SearchMan
+I-I'm picking up
+massive energy levels
+in the area up ahead...
+###--------
+###Mugshot:SearchMan
+W-What on Earth...
+Could it be...?
+###--------
+###Script:7
+###Mugshot:FireMan
+Tsk,all that talk about
+his hate livin' on...
+He's got some nerve.
+###--------
+###Mugshot:FireMan
+⋯*shiver!*
+###--------
+###Mugshot:FireMan
+W-What's this?
+This bloodthirst...
+###--------
+###Mugshot:FireMan
+This isn't
+LaserMan's...
+###--------
+###Mugshot:FireMan
+Feels like my flame
+could be blown out any
+moment. This power...
+###--------
+###Mugshot:FireMan
+What kind of monster
+is waiting for us?
+###--------
+###Script:8
+###Mugshot:ThunderMan
+LaserMan...
+Rest,and forget
+everything...
+###--------
+###Mugshot:ThunderMan
+Now...
+Let's continue...
+###--------
+###Mugshot:ThunderMan
+We've reached this far...
+It's our duty to find
+out what lies ahead.
+###--------
+###Mugshot:ThunderMan
+Don't cower now...
+Let's go.
+###--------
+###Script:9
+###Mugshot:ProtoMan
+LaserMan deletion
+is complete.
+###--------
+###Mugshot:ProtoMan
+But...he was quite
+the formidable Navi.
+###--------
+###Mugshot:ProtoMan
+If LaserMan was
+hiding here,then...
+###--------
+###Mugshot:ProtoMan
+What in the world
+is up ahead...?
+###--------
+###Script:10
+###Mugshot:NumberMan
+Ayi-yi-yi...
+###--------
+###Mugshot:NumberMan
+We won,somehow...
+Having to battle with
+someone like that...
+###--------
+###Mugshot:NumberMan
+Even nine lives
+wouldn't be enough!
+###--------
+###Mugshot:NumberMan
+Jack out already! Hurry!
+I definitely don't want
+to see what's ahead!
+###--------
+###Script:11
+###Mugshot:MetalMan
+Such power,fueled
+by hatred...
+###--------
+###Mugshot:MetalMan
+My fists of justice
+pierce right through
+your evil!
+###--------
+###Mugshot:MetalMan
+I won't falter!
+###--------
+###Mugshot:MetalMan
+Let's go see this
+"overwhelming terror."
+###--------
+###Script:12
+###Mugshot:JunkMan
+I-I'm lucky to
+have such a
+reliable operator...
+###--------
+###Mugshot:JunkMan
+T-That's why we
+can't lose...
+###--------
+###Mugshot:JunkMan
+I-If I'm with you,
+I'm not afraid of
+what's up ahead...
+###--------
+###Script:13
+###Mugshot:AquaMan
+A-Amazing power,drip!
+If my water pressure
+had been a little lower...
+###--------
+###Mugshot:AquaMan
+I probably would've
+been washed away...
+###--------
+###Mugshot:AquaMan
+I wanna hurry and
+get outta here,drip...
+###--------
+###Mugshot:AquaMan
+Going any further is
+asking to be deleted!
+###--------
+###Script:14
+###Mugshot:WoodMan
+Well,well...
+When faced with the
+power of tranquility,
+###--------
+###Mugshot:WoodMan
+the power of hatred
+shrivels up!
+###--------
+###Mugshot:WoodMan
+An evil force looms
+in the air ahead,
+###--------
+###Mugshot:WoodMan
+but the great power
+of Mother Earth will
+surely protect us.
+###--------
+###Script:15
+###Mugshot:StarMan
+Whew! That was a
+close call!
+###--------
+###Mugshot:StarMan
+Looks like my lucky
+star must've been
+shining down on me!
+###--------
+###Mugshot:StarMan
+Well... If we want to
+continue,we'll need
+a lot more of those,
+###--------
+###Mugshot:StarMan
+otherwise things
+are gonna get
+pretty rough...
+###--------
+###Script:16
+###Mugshot:ShadowMan
+LaserMan,I offer you
+no condolences...
+###--------
+###Mugshot:ShadowMan
+May you be lost
+and wander in the
+Underworld forever...
+###--------
+###Mugshot:ShadowMan
+Now...I want to see
+the bottom of this
+world of darkness...
+###--------
+###Mugshot:ShadowMan
+...Let's continue.
+###--------
+###Script:17
+###Mugshot:KnightMan
+LaserMan... Although
+you were an enemy,you
+were a formidable foe...
+###--------
+###Mugshot:KnightMan
+Now then,let us
+not dawdle!
+###--------
+###Mugshot:KnightMan
+This is not the time
+for hesitation! Such
+is a knight's duty!
+###--------
+###Script:18
+###Mugshot:NapalmMan
+In a showdown of two
+kindred spirits,looks
+like I came out on top!
+###--------
+###Mugshot:NapalmMan
+LaserMan,huh...
+I'll remember that name!
+###--------
+###Mugshot:NapalmMan
+Gahahah...
+Speaking of which,
+###--------
+###Mugshot:NapalmMan
+let's go see that
+"overwhelming terror"
+that's up ahead!
+###--------
+###Script:19
+###Mugshot:IceMan
+In a way,LaserMan
+was an even colder
+Navi than me...
+###--------
+###Mugshot:IceMan
+I can freeze all
+kinds of objects,but...
+###--------
+###Mugshot:IceMan
+But LaserMan...
+He's able to
+freeze hearts...
+###--------
+###Mugshot:IceMan
+What a cruel power...
+###--------
+###Mugshot:IceMan
+And to think,
+something worse is
+waiting up ahead...
+###--------
+###Script:20
+###Mugshot:ElecMan
+Somehow...
+We made it...
+###--------
+###Mugshot:ElecMan
+If the battle had gone
+any longer,I would've
+been out of juice...
+###--------
+###Mugshot:ElecMan
+Talk about cutting
+it close...
+###--------
+###Mugshot:ElecMan
+Will my electricity
+hold out for what's
+up ahead?
+###--------
+###Script:21
+###Mugshot:PlantMan
+What an ugly flower,
+wrapped in hatred.
+###--------
+###Mugshot:PlantMan
+It's enough to make
+my beautiful self
+wither...
+###--------
+###Mugshot:PlantMan
+And likely,in the area
+just up ahead...
+###--------
+###Mugshot:PlantMan
+The flower in there
+is probably much
+more unsightly...
+###--------
+###Script:22
+###Mugshot:Bass
+Hmph... Pathetic...
+###--------
+###Mugshot:Bass
+This is nothing like
+the power of hatred
+that I know...
+###--------
+###Mugshot:Bass
+...Let's keep moving.
+###--------

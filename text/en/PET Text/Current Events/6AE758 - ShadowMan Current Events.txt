@@ -1,0 +1,23 @@
+﻿###TextArchive:6AE758
+###Script:1
+<printPlayerNickname>,shouldn't
+we be training?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+The tournament
+is this weekend,
+isn't it?
+###--------
+###Script:2
+I'll show off my
+ninja skills at the
+tournament today.
+###--------
+###Script:3
+...It seems we
+have an item
+that looks...fun.
+###--------
+Why don't we check
+our Key Items?
+###--------

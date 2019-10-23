@@ -1,0 +1,81 @@
+﻿###TextArchive:6F9B4C
+###Script:0
+Recovers
+50HP!
+###--------
+###Script:1
+Recovers
+max HP!
+###--------
+###Script:2
+No weak
+viruses for
+a while.
+###--------
+###Script:3
+Remove trap
+on mystery
+data.
+###--------
+###Script:4
+More likely
+to meet
+last enemy.
+###--------
+###Script:5
+Unlocks
+mystery
+data.
+###--------
+###Script:6
+###Mugshot:MegaMan
+Let's not
+use it yet.
+###--------
+###Script:7
+###Mugshot:MegaMan
+You want to
+use "<printItem>"?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printItem buffer=1 item=0
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:8
+<printCurrentNavi>
+recovers
+50HP!
+###Command:printCurrentNavi
+###--------
+###Script:9
+<printCurrentNavi>
+recovers
+max HP!
+###Command:printCurrentNavi
+###--------
+###Script:10
+You used
+"<printItem>"
+###Command:printItem buffer=1 item=0
+###--------
+###Script:11
+###Mugshot:MegaMan
+You're already
+using "<printItem>"!
+###Command:printItem buffer=1 item=0
+###--------
+###Script:12
+###Mugshot:MegaMan
+There isn't
+any locked
+data!
+###--------
+###Script:13
+###Mugshot:MegaMan
+No viruses
+around
+here yet!
+###--------

@@ -1,0 +1,196 @@
+﻿###TextArchive:6C1BFC
+###Script:0
+Temp message
+###--------
+###Script:10
+Ugh,it's so hot
+inside the PET!
+###--------
+At this rate,I'm
+going to melt!
+###--------
+This has got
+to be the fault
+of viruses!
+###--------
+<printPlayerNickname>,let's
+eliminate the
+virus and cool off!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Are you ready?
+###--------
+<spacePx><option><space> Ready!  <option><space> Wait!
+###Command:spacePx count=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:11
+Okay!
+Grin and bear it...
+###--------
+###Script:12
+Error!
+###--------
+###Script:13
+F-Feels like I'm
+gonna melt! But
+I'll do my best!
+###--------
+###Script:14
+Phew! It's finally
+cooled down
+inside the PET.
+###--------
+I feel power welling
+up due to the
+temperature drop!
+###--------
+###Script:15
+Phew! It's finally
+cooled down
+inside the PET.
+###--------
+Ah,speaking
+of which...
+###--------
+the viruses
+dropped this
+just now!
+###--------
+###Script:16
+We got
+<printBuffer> Zennys!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:17
+Phew! It's finally
+cooled down
+inside the PET.
+###--------
+...Huh? There's
+something weird
+inside the ice...
+###--------
+###Script:18
+We got
+<printBuffer> BugFrags!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:20
+<printPlayerNickname>,I don't
+feel so well today...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I wanna train a
+little to prepare
+for battle.
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:21
+Okay.
+###--------
+I'll do my best
+even if I don't
+feel well!
+###--------
+###Script:22
+Error!
+###--------
+###Script:23
+*huff...*
+We failed
+the training.
+###--------
+But I'll make up
+for it in battle!
+###--------
+###Script:24
+Nice operating!
+###--------
+My body feels hot!
+There's power
+welling up!
+###--------
+###Script:25
+Nice operating!
+###--------
+Now I should have
+no problems winning
+battles,too!
+###--------
+Ah,what's this?
+###--------
+I found something
+inside the ice!
+###--------
+###Script:26
+We got
+<printBuffer> Zennys!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:27
+Nice operating!
+###--------
+Now I should have
+no problems winning
+battles,too!
+###--------
+Ah,what's this?
+###--------
+I found something
+inside the ice!
+###--------
+###Script:28
+We got
+<printBuffer> BugFrags!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:60
+We failed...
+I'll try harder
+next time.
+###--------
+###Script:61
+We did it!
+Our hard work
+paid off!
+###--------
+I kinda feel
+like there's
+power welling up!
+###--------
+###Script:62
+We did it!
+Our hard work
+paid off!
+###--------
+...Huh? There's
+something weird
+inside the ice...
+###--------
+We got
+<printBuffer> Zennys!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:63
+We did it!
+Our hard work
+paid off!
+###--------
+...Huh? There's
+something weird
+inside the ice...
+###--------
+We got
+<printBuffer> BugFrags!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------

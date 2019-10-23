@@ -1,0 +1,70 @@
+﻿###TextArchive:79CF04
+###Script:0
+###Mugshot:MrProgGreen
+TODAY IS SUNDAY...
+...RIGHT?
+###--------
+###Mugshot:MrProgGreen
+WHEN YOU DON'T HAVE
+A JOB,YOU LOSE TRACK
+OF WHAT DAY IT IS...
+###--------
+###Mugshot:MrProgGreen
+I HAVE TO FIND A
+NEW JOB SOON...
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+ON WEEKDAYS AROUND
+LUNCHTIME,THIS PLACE
+GETS PRETTY CROWDED.
+###--------
+###Mugshot:MrProgGreen
+BUT TODAY IS SUNDAY,
+SO IT'S FAIRLY QUIET.
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+*YAWN⋯*
+I FEEL SLEEPY
+FOR SOME REASON...
+###--------
+###Mugshot:MrProgGreen
+IT'S A LITTLE EARLY,
+BUT MAYBE I'LL JUST
+TAKE A QUICK NAP...
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+YOU'RE ONLINE THIS
+EARLY ON A SUNDAY?
+HOW PROACTIVE!
+###--------
+###Script:30
+###Mugshot:NormNaviPink
+Today's Sunday.
+###--------
+###Mugshot:NormNaviPink
+My operator's out with
+her darling husband
+and children right now!
+###--------
+###Script:80
+###Mugshot:NaviGirlOrange
+Today is Sunday!
+###--------
+###Mugshot:NaviGirlOrange
+Virus busting,shopping...
+I'm gonna spend the
+day doing stuff I like!
+###--------
+###Script:81
+###Mugshot:NaviGirlOrange
+Oh? It's already
+that time?
+###--------
+###Mugshot:NaviGirlOrange
+Well,I'm starting my
+new job tomorrow. I'd
+better jack out soon.
+###--------

@@ -1,0 +1,161 @@
+﻿###TextArchive:6CD48C
+###Script:1
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:2
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:3
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:4
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you⋯
+###--------
+###Script:5
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you⋯
+###--------
+###Script:6
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you⋯
+###--------
+###Script:7
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you⋯
+###--------
+###Script:20
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you⋯
+###--------
+###Script:21
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you⋯
+###--------
+###Script:22
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you⋯
+###--------
+###Script:23
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you⋯
+###--------
+###Script:24
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you⋯
+###--------
+###Script:25
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you⋯
+###--------
+###Script:26
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Mail for you⋯
+###--------

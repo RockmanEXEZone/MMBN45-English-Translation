@@ -1,0 +1,55 @@
+﻿###TextArchive:7AAD84
+###Script:0
+###Mugshot:NaviGirlOrange
+You're still
+hiding some wares,
+aren't you!?
+###--------
+###Mugshot:NaviGirlOrange
+Let me see 'em!
+###--------
+###Mugshot:NormNaviYellow
+I-It's all gone...!
+###--------
+###Mugshot:NaviGirlOrange
+Quit lying!
+###--------
+###Script:1
+###Mugshot:NormNaviPink
+Can't you throw in
+some kind of freebie!?
+###--------
+###Mugshot:NormNaviYellow
+Please go easy
+on me,miss...
+###--------
+###Mugshot:NormNaviYellow
+I'm already selling
+at a loss like this...
+###--------
+###Script:2
+###Mugshot:NormNaviPink
+The Navi running that
+shop is my boyfriend...
+###--------
+###Mugshot:NormNaviPink
+Every Wednesday he's
+surrounded by girls
+acting all flirty...
+###--------
+###Mugshot:NormNaviPink
+Ugh!!
+I can't forgive him!
+###--------
+###Mugshot:NormNaviPink
+...Then again,that's
+just part of his job...
+###--------
+###Mugshot:NormNaviPink
+I'll shoot him some
+sharp looks from here
+###++++++++
+###Mugshot:NormNaviPink
+so he doesn't get
+any funny ideas...
+###--------

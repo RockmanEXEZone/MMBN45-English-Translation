@@ -1,0 +1,1429 @@
+﻿###TextArchive:7AB4B4
+###Script:0
+###Mugshot:OfficialNavi
+This is the entry
+desk for the
+Gold Tournament.
+###--------
+###Mugshot:OfficialNavi
+You'd like to be
+entered into the
+tournament,correct?
+###--------
+###Mugshot:OfficialNavi
+Let me explain
+the procedure
+prior to entry.
+###--------
+###Mugshot:OfficialNavi
+First,we will give you
+a test to see whether
+you have the makings
+###--------
+###Mugshot:OfficialNavi
+to participate in the
+Gold Tournament.
+###--------
+###Mugshot:OfficialNavi
+Should you pass
+the test,
+###--------
+###Mugshot:OfficialNavi
+you will also need to
+come back here and
+pay the entry fee.
+###--------
+###Mugshot:OfficialNavi
+But you don't have to
+pay up immediately.
+Take your time.
+###--------
+###Mugshot:OfficialNavi
+That's the gist of it.
+###--------
+###Mugshot:OfficialNavi
+Shall we move right
+along and begin
+the test?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+All right...
+###--------
+###Mugshot:OfficialNavi
+But if you don't
+pass the test,
+###--------
+###Mugshot:OfficialNavi
+you can't enter
+the tournament.
+###--------
+###Script:1
+###Mugshot:OfficialNavi
+This is the entry
+desk for the
+Gold Tournament.
+###--------
+###Mugshot:OfficialNavi
+You must be here
+to sign up for
+the tournament?
+###--------
+###Mugshot:OfficialNavi
+Hold on...
+###--------
+###Mugshot:OfficialNavi
+You still need to take
+the proficiency test...
+Will you take it now?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+All right...
+###--------
+###Mugshot:OfficialNavi
+But if you don't
+pass the test,
+###--------
+###Mugshot:OfficialNavi
+you can't enter
+the tournament.
+###--------
+###Script:2
+###Mugshot:OfficialNavi
+Then let me explain
+the specifics of
+the test.
+###--------
+###Mugshot:OfficialNavi
+In the back of this
+area,there are three
+qualified Navi judges
+###--------
+###Mugshot:OfficialNavi
+who will challenge
+you to virus battles.
+###--------
+###Mugshot:OfficialNavi
+Each Navi will evaluate
+your battling using
+different criteria.
+###--------
+###Mugshot:OfficialNavi
+If you manage to
+successfully clear
+the battle within
+###--------
+###Mugshot:OfficialNavi
+the constraints set
+by the judge,you will
+receive "PassData".
+###--------
+###Mugshot:OfficialNavi
+Each Navi will give you
+more details about their
+evaluation criteria.
+###--------
+###Mugshot:OfficialNavi
+If you're able
+to get a total
+of 3 "PassData",
+###--------
+###Mugshot:OfficialNavi
+no more,no less,from
+each of the judges...
+That is,one from each...
+###--------
+###Mugshot:OfficialNavi
+then please return
+here. Upon passing
+the test,
+###--------
+###Mugshot:OfficialNavi
+we can register you
+for participation in
+the Gold Tournament.
+###--------
+###Mugshot:OfficialNavi
+Okay! Let's
+begin the test!
+###--------
+###Mugshot:OfficialNavi
+Get ready...
+Get set...
+###--------
+###Mugshot:OfficialNavi
+Goooooo!!
+###--------
+###Script:3
+###Mugshot:OfficialNavi
+Please do your
+best on the test!
+###--------
+###Mugshot:OfficialNavi
+...What's the matter?
+Would you like me to
+explain it again?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+All right...
+Then,give it your all!
+###--------
+###Script:4
+###Mugshot:OfficialNavi
+Then let me explain
+the specifics of the
+test one more time.
+###--------
+###Mugshot:OfficialNavi
+In the back of this
+area,there are three
+qualified Navi judges
+###--------
+###Mugshot:OfficialNavi
+who will challenge
+you to virus battles.
+###--------
+###Mugshot:OfficialNavi
+Each Navi will evaluate
+your battling using
+different criteria.
+###--------
+###Mugshot:OfficialNavi
+If you manage to
+successfully clear
+the battle within
+###--------
+###Mugshot:OfficialNavi
+the constraints set
+by the judge,you will
+receive "PassData".
+###--------
+###Mugshot:OfficialNavi
+Each Navi will give you
+more details about their
+evaluation criteria.
+###--------
+###Mugshot:OfficialNavi
+If you're able
+to get a total
+of 3 "PassData",
+###--------
+###Mugshot:OfficialNavi
+no more,no less,from
+each of the judges...
+That is,one from each...
+###--------
+###Mugshot:OfficialNavi
+then please return
+here. Upon passing
+the test,
+###--------
+###Mugshot:OfficialNavi
+we can register you
+for participation in
+the Gold Tournament.
+###--------
+###Mugshot:OfficialNavi
+All right,
+give it your all!
+###--------
+###Script:5
+###Mugshot:OfficialNavi
+Oho...
+###--------
+###Mugshot:OfficialNavi
+Did you get all 3
+of the "PassData"?
+###--------
+###Mugshot:OfficialNavi
+In that case,let me
+take a quick look...
+###--------
+<printCurrentNavi> showed:
+"PassData"!!
+###Command:printCurrentNavi
+###--------
+###Mugshot:OfficialNavi
+Yup...
+No mistaking it.
+###--------
+###Mugshot:OfficialNavi
+Congratulations!
+###--------
+###Mugshot:OfficialNavi
+Excellent work!
+You cleared the test!
+###--------
+###Mugshot:OfficialNavi
+Well then,I will
+register you for
+the Gold Tournament.
+###--------
+###Mugshot:OfficialNavi
+So...as part of
+your entry,
+###--------
+###Mugshot:OfficialNavi
+I will require a fee
+of 20 BugFrags. Is
+that alright with you?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Well,whenever you'd
+like to enter,
+please come again.
+###--------
+###Script:6
+###Mugshot:OfficialNavi
+20 BugFrags...
+Yup,they're all here.
+###--------
+###Mugshot:OfficialNavi
+Okay! I'll register
+you for the Gold
+Tournament.
+###--------
+###Mugshot:OfficialNavi
+...Registration
+complete!
+###--------
+###Mugshot:OfficialNavi
+Please do your best
+in the tournament
+this weekend!
+###--------
+###Script:7
+###Mugshot:OfficialNavi
+Will you enter the
+Gold Tournament?
+###--------
+###Mugshot:OfficialNavi
+As part of
+your entry,
+###--------
+###Mugshot:OfficialNavi
+I will require 20
+BugFrags. Is that
+alright with you?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Well,whenever you'd
+like to enter,
+please come again.
+###--------
+###Script:8
+###Mugshot:OfficialNavi
+...I'm very sorry,but
+you don't seem to
+have enough BugFrags...
+###--------
+###Mugshot:OfficialNavi
+Please come back
+here after saving
+up more BugFrags.
+###--------
+###Script:9
+###Mugshot:OfficialNavi
+Registration has
+ended for today!
+###--------
+###Mugshot:OfficialNavi
+Please come
+again next time!
+###--------
+###Script:10
+###Mugshot:OfficialNavi
+This is the entry
+desk for the
+Gold Tournament.
+###--------
+###Mugshot:OfficialNavi
+To qualify for the
+Gold Tournament,
+###--------
+###Mugshot:OfficialNavi
+you must first
+win the Silver
+Tournament.
+###--------
+###Mugshot:OfficialNavi
+Did you bring
+your "<printItem>"
+with you?
+###Command:printItem buffer=0 item=2
+###--------
+###Mugshot:OfficialNavi
+Without it,I'm afraid
+you can't enter.
+Come back later...
+###--------
+###Script:11
+###Mugshot:OfficialNavi
+This is the entry
+desk for the
+Gold Tournament,
+###--------
+###Mugshot:OfficialNavi
+but we're not open
+during the weekend.
+###--------
+###Mugshot:OfficialNavi
+Please come back on
+Monday to Friday.
+###--------
+###Script:15
+###Mugshot:NormNaviYellow
+We're the trio of
+Official training
+supervisors.
+###--------
+###Mugshot:NormNaviYellow
+Just waiting here for
+further instructions...
+###--------
+###Script:16
+###Mugshot:NormNaviYellow
+You came to take the
+test for the Gold
+Tournament,yeah?
+###--------
+###Mugshot:NormNaviYellow
+I'm one of the
+judges,Load Runner!
+Nice to meet you!
+###--------
+###Mugshot:NormNaviYellow
+Let's get down
+to business. I'll
+explain my test.
+###--------
+###Mugshot:NormNaviYellow
+When I'm busting
+viruses,I emphasize
+speed above all.
+###--------
+###Mugshot:NormNaviYellow
+You probably get
+it already,right?
+###--------
+###Mugshot:NormNaviYellow
+My test is about
+how quickly you
+can delete viruses!
+###--------
+###Mugshot:NormNaviYellow
+In just a sec,I'll
+have you bust
+some viruses.
+###--------
+###Mugshot:NormNaviYellow
+Delete the viruses
+within 30 seconds,
+and you pass!
+###--------
+###Mugshot:NormNaviYellow
+But enough explaining!
+Let's begin the test!
+###--------
+###Mugshot:NormNaviYellow
+Are you ready!?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> Wait!
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Alright,come back
+when you're ready.
+###--------
+###Script:17
+###Mugshot:NormNaviYellow
+Alright,let's go!
+###--------
+###Mugshot:NormNaviYellow
+Test Battle,
+ready...
+###--------
+###Mugshot:NormNaviYellow
+Staaaart!!
+###--------
+###Script:18
+###Mugshot:NormNaviYellow
+Oh,hey,
+I remember you!
+###--------
+###Mugshot:NormNaviYellow
+You were taking
+the test!
+###--------
+###Mugshot:NormNaviYellow
+Alright,I'll explain
+the details of the
+test once again.
+###--------
+###Mugshot:NormNaviYellow
+When I'm busting
+viruses,I emphasize
+speed above all.
+###--------
+###Mugshot:NormNaviYellow
+You probably get it
+already,right?
+###--------
+###Mugshot:NormNaviYellow
+My test is about
+how quickly you
+can delete viruses!
+###--------
+###Mugshot:NormNaviYellow
+In just a sec,I'll
+have you bust
+some viruses.
+###--------
+###Mugshot:NormNaviYellow
+Delete the viruses
+within 30 seconds,
+and you pass!
+###--------
+###Mugshot:NormNaviYellow
+But enough explaining.
+Let's begin the test!
+###--------
+###Mugshot:NormNaviYellow
+Are you ready!?
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Actually...
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Alright,come back
+when you're ready.
+###--------
+###Script:19
+###Mugshot:NormNaviYellow
+...What's up? You
+wanna challenge
+the test again,
+###--------
+###Mugshot:NormNaviYellow
+and see if you can
+delete viruses
+within 30 seconds?
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Actually...
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Alright,come back
+when you're ready.
+###--------
+###Script:20
+###Mugshot:NormNaviYellow
+...Yeah!!
+Excellent operating!
+###--------
+###Mugshot:NormNaviYellow
+I'm not easy to
+impress,you know!
+###--------
+###Mugshot:NormNaviYellow
+You've passed
+my test with
+flying colors!
+###--------
+###Mugshot:NormNaviYellow
+...Here!
+You've earned it!
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=12
+###--------
+###Mugshot:NormNaviYellow
+Congratulations!
+###--------
+###Script:22
+###Mugshot:NormNaviYellow
+It'd be nice if you
+could become a
+NetBattle champion
+###--------
+###Mugshot:NormNaviYellow
+just by taking
+tournament tests,huh...
+###--------
+###Script:23
+###Mugshot:NormNaviYellow
+...Hmmm.
+Sorry,but you
+failed the test.
+###--------
+###Mugshot:NormNaviYellow
+If the fire in your
+heart still burns,
+you should try again.
+###--------
+###Mugshot:NormNaviYellow
+How about it!?
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Actually...
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Is that so...?
+###--------
+###Mugshot:NormNaviYellow
+If you light up the
+fire in your heart
+again,come see me.
+###--------
+###Script:25
+###Mugshot:HeelNaviPurple
+I might look like this,
+but I'm actually an
+Official Navi.
+###--------
+###Mugshot:HeelNaviPurple
+Turns out a Navi
+of this type has
+###--------
+###Mugshot:HeelNaviPurple
+an easier time dealing
+with rebellious youths.
+###--------
+###Script:26
+###Mugshot:HeelNaviPurple
+So you came to take
+the Gold Tournament
+test,did ya?
+###--------
+###Mugshot:HeelNaviPurple
+I'm one of the judges!
+Beltz,the Tech Wizard!
+Nice meetin' ya!
+###--------
+###Mugshot:HeelNaviPurple
+Listen up--I'll
+explain the details
+of my test.
+###--------
+###Mugshot:HeelNaviPurple
+In my battles,I
+emphasize technique.
+###--------
+###Mugshot:HeelNaviPurple
+In other words,my
+test is all about
+your Busting Level!
+###--------
+###Mugshot:HeelNaviPurple
+It's a good indicator
+of your technique
+when deleting viruses.
+###--------
+###Mugshot:HeelNaviPurple
+In a bit,I'm gonna
+have you delete the
+viruses I release.
+###--------
+###Mugshot:HeelNaviPurple
+If you can get a
+Busting Level of 8
+or higher,you pass.
+###--------
+###Mugshot:HeelNaviPurple
+Okay,are we getting
+started or what?
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Actually...
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Gotcha...
+###--------
+###Mugshot:HeelNaviPurple
+Once you're ready,
+come again.
+###--------
+###Script:27
+###Mugshot:HeelNaviPurple
+Let's get going!
+###--------
+###Mugshot:HeelNaviPurple
+Test Battle!
+Ready,start!!
+###--------
+###Script:28
+###Mugshot:HeelNaviPurple
+So,you've decided
+to take the test?
+###--------
+###Mugshot:HeelNaviPurple
+Alright,I'll explain
+the details of the
+test one more time.
+###--------
+###Mugshot:HeelNaviPurple
+In my battles,I
+emphasize technique.
+###--------
+###Mugshot:HeelNaviPurple
+In other words,my
+test is all about
+your Busting Level!
+###--------
+###Mugshot:HeelNaviPurple
+It's a good indicator
+of your technique
+when deleting viruses.
+###--------
+###Mugshot:HeelNaviPurple
+In a bit,I'm gonna
+have you delete the
+viruses I release.
+###--------
+###Mugshot:HeelNaviPurple
+If you can get a
+Busting Level of 8
+or higher, you pass.
+###--------
+###Mugshot:HeelNaviPurple
+Okay,are we getting
+started or what?
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Actually...
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Gotcha...
+###--------
+###Mugshot:HeelNaviPurple
+Once you're ready,
+come again.
+###--------
+###Script:29
+###Mugshot:HeelNaviPurple
+Hey,you're back!
+###--------
+###Mugshot:HeelNaviPurple
+Did you find enough
+courage to delete the
+viruses I'll send at ya
+###++++++++
+###Mugshot:HeelNaviPurple
+with a Busting Level
+of 8 or higher?
+###--------
+###Mugshot:HeelNaviPurple
+Okay,ready to
+start the test?
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Actually...
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Gotcha...
+###--------
+###Mugshot:HeelNaviPurple
+Once you're ready,
+come again.
+###--------
+###Script:30
+###Mugshot:HeelNaviPurple
+Whoa!
+###--------
+###Mugshot:HeelNaviPurple
+That was some amazing
+busting technique!
+###--------
+###Mugshot:HeelNaviPurple
+If you're gonna show
+me THAT kind of skill,
+###--------
+###Mugshot:HeelNaviPurple
+there's no way I
+CAN'T pass you!
+###--------
+###Mugshot:HeelNaviPurple
+Here,take this.
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=13
+###--------
+###Mugshot:HeelNaviPurple
+Congratulations!
+###--------
+###Script:32
+###Mugshot:HeelNaviPurple
+When I'm doing
+this judging stuff,
+###--------
+###Mugshot:HeelNaviPurple
+occasionally I get to
+meet an amazing Navi.
+Just like you,huh?
+###--------
+###Script:33
+###Mugshot:HeelNaviPurple
+Hmmmmmmm...
+###--------
+###Mugshot:HeelNaviPurple
+Sorry,but you fail.
+###--------
+###Mugshot:HeelNaviPurple
+Wanna challenge the
+test one more time?
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Actually...
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Really...?
+###--------
+###Script:35
+###Mugshot:NaviGirlOrange
+*yawn...*
+I'm getting bored.
+###--------
+###Mugshot:NaviGirlOrange
+I wonder if the next
+candidate's gonna
+be here soon?
+###--------
+###Script:36
+###Mugshot:NaviGirlOrange
+Hiya! Did ya come
+here to take the
+Gold Tournament test?
+###--------
+###Mugshot:NaviGirlOrange
+It's written all
+over yer face!
+###--------
+###Mugshot:NaviGirlOrange
+I'm one of the judges,
+Anette Gain!
+###--------
+###Mugshot:NaviGirlOrange
+Ya know the best
+part of a battle is
+###--------
+###Mugshot:NaviGirlOrange
+when ya win,ya get
+a buncha loot like
+chips and Zennys!
+###--------
+###Mugshot:NaviGirlOrange
+My test is about seeing
+if ya can get chips
+after winning a battle!
+###--------
+###Mugshot:NaviGirlOrange
+If ya get a chip from
+the viruses I'll send
+yer way,you'll be A-OK!
+###--------
+###Mugshot:NaviGirlOrange
+Simple,right?
+###--------
+###Mugshot:NaviGirlOrange
+'Kay,here we go...
+You ready?
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Actually...
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NaviGirlOrange
+C'mon,
+don't be boring!
+###--------
+###Script:37
+###Mugshot:NaviGirlOrange
+Then here we go!
+###--------
+###Mugshot:NaviGirlOrange
+Test Battle!
+Readyyyy...
+###--------
+###Mugshot:NaviGirlOrange
+Staaaaaaart!
+###--------
+###Script:38
+###Mugshot:NaviGirlOrange
+Hehe!
+So ya came to take
+my test after all!
+###--------
+###Mugshot:NaviGirlOrange
+Ya don't gotta hide it.
+Yer eyes say it all!
+###--------
+###Mugshot:NaviGirlOrange
+Right,well,I'll explain
+my test one more
+time for ya!
+###--------
+###Mugshot:NaviGirlOrange
+My test is about seeing
+if ya can get chips
+after winning a battle!
+###--------
+###Mugshot:NaviGirlOrange
+If ya get a chip from
+the viruses I'll send
+yer way,you'll be A-OK!
+###--------
+###Mugshot:NaviGirlOrange
+Simple,right?
+###--------
+###Mugshot:NaviGirlOrange
+'Kay,here we go...
+You ready?
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Actually...
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NaviGirlOrange
+C'mon,
+don't be boring!
+###--------
+###Script:39
+###Mugshot:NaviGirlOrange
+Aha! So ya came to
+retry my test,did ya?
+###--------
+###Mugshot:NaviGirlOrange
+If ya get a chip from
+the viruses I'll send
+yer way,ya pass!
+###--------
+###Mugshot:NaviGirlOrange
+It's a super-simple
+test!
+###--------
+###Mugshot:NaviGirlOrange
+Ready to get started!?
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Actually...
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NaviGirlOrange
+Yer kiddin' me!
+Don't be so boring!
+###--------
+###Script:40
+###Mugshot:NaviGirlOrange
+Kyahaha!
+You got a chip!
+###--------
+###Mugshot:NaviGirlOrange
+Hurraaaaay!
+You passed!
+###--------
+###Mugshot:NaviGirlOrange
+That sure was some
+amazin' technique!
+###--------
+###Mugshot:NaviGirlOrange
+'Kay,here's
+your reward!
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=14
+###--------
+###Mugshot:NaviGirlOrange
+Congraaaats!
+###--------
+###Script:42
+###Mugshot:NaviGirlOrange
+I can't wait to see
+how amazing the next
+NetBattler will be!
+###--------
+###Script:43
+###Mugshot:NaviGirlOrange
+Uhhhhh...
+###--------
+###Mugshot:NaviGirlOrange
+Real sorry to say
+this,but ya didn't
+pass my test.
+###--------
+###Mugshot:NaviGirlOrange
+Ya gonna pull
+yerself together
+and try again?
+###--------
+<positionOptionHorizontal><option><space> You bet!  <option><space> Actually...
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NaviGirlOrange
+Huh,really!?
+###--------
+###Script:50
+###Mugshot:IceMan
+*fwooooooo!*
+Battle with me!
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:IceMan
+Whaaa!
+Aw,shucks...
+###--------
+###Script:51
+###Mugshot:IceMan
+...W-What a downer...
+###--------
+###Mugshot:IceMan
+There's snow-way
+I'll lose next time!
+###--------
+###Script:52
+###Mugshot:IceMan
+Thanks! That was
+a good battle!
+###--------
+###Mugshot:IceMan
+Battle with me
+again sometime!
+###--------
+###Script:53
+###Mugshot:JunkMan
+Y-You...
+B-Battle me...
+###--------
+###Mugshot:JunkMan
+You will,r-right?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:JunkMan
+D-Do you not want
+to b-battle me
+because I'm j-junk?
+###--------
+###Mugshot:JunkMan
+T-That's it, right?
+That m-must be it.
+###--------
+###Mugshot:JunkMan
+I'm stunned...
+###--------
+###Script:54
+###Mugshot:JunkMan
+Y-You...you're strong...
+Let's b-battle
+again sometime...
+###--------
+###Script:55
+###Mugshot:JunkMan
+W-When I win battles,
+everyone p-pays
+attention to me.
+###--------
+###Mugshot:JunkMan
+Then...I won't be
+lonely anymore!
+###--------
+###Script:56
+###Mugshot:IceMan
+I'll put you on ice!
+###--------
+###Mugshot:IceMan
+Battle routine,set!
+Execute!
+###--------
+###Script:57
+###Mugshot:JunkMan
+I-I want to become
+stronger,a-and be
+accepted by everyone!
+###--------
+###Mugshot:JunkMan
+Battle routine...s-set...
+E-Execute!
+###--------
+###Script:58
+###Mugshot:IceMan
+T-There's another me!
+###--------
+###Mugshot:IceMan
+U-Uh... I-If it's cool
+with you,do you
+wanna NetBattle?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:IceMan
+T-To be honest,
+I don't really
+wanna fight,either.
+###--------
+###Script:59
+###Mugshot:JunkMan
+Y-You... You're
+just like m-me?
+###--------
+###Mugshot:JunkMan
+N-Nice to meet you...
+W-W-Want to NetBattle?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:JunkMan
+I-I'm stunned...
+###--------
+###Script:60
+###Mugshot:MrProgGreen
+HI! THIS IS
+INTERNET8!
+###--------
+###Mugshot:MrProgGreen
+THIS AREA HOUSES THE
+ENTRY DESK FOR THE
+GOLD TOURNAMENT!
+###--------
+###Script:61
+###Mugshot:PurpleNavi
+I've challenged the
+Gold Tournament
+prelims over and over...
+###--------
+###Mugshot:PurpleNavi
+But no matter how
+many times I try,
+it's no good...
+###--------
+###Script:62
+###Mugshot:NormNaviPink
+NetBattles that focus
+on speed,technique,
+and getting chips...
+###--------
+###Mugshot:NormNaviPink
+Kinda tough,huh...
+###--------
+###Script:70
+###Mugshot:PurpleNavi
+How am I going to
+delete viruses
+within 30 seconds...
+###--------
+###Mugshot:PurpleNavi
+Maybe a combo...?
+Or a P.A.⋯
+###--------
+###Script:71
+###Mugshot:NormNaviPink
+So to get chips,
+you have to delete
+several viruses
+###++++++++
+###Mugshot:NormNaviPink
+at the same time,and
+be quick about it...
+###--------
+###Mugshot:NormNaviPink
+I wonder if there's
+anything else?
+###--------
+###Script:80
+###Mugshot:OfficialNavi
+I'm an Official.
+###++++++++
+###Mugshot:OfficialNavi
+Doesn't seem like
+there are any
+incidents going on...
+###--------
+###Script:81
+###Mugshot:HeelNaviPurple
+I get a bad vibe from
+those Official Navis
+wandering around...
+###--------
+###Mugshot:HeelNaviPurple
+Just cuz I've got a
+mean face,they come
+question me right away...
+###--------
+###Script:90
+###Mugshot:OfficialNavi
+Hm...
+No abnormalities here!
+###--------
+###Mugshot:OfficialNavi
+If we keep up the
+patrols like this,we
+can prevent crime!
+###--------
+###Script:91
+###Mugshot:HeelNaviPurple
+What the heck...
+I'm just running
+to get fit...
+###--------
+###Mugshot:HeelNaviPurple
+Geez! Everyone
+keeps judging me
+by the way I look...
+###--------
+###Mugshot:HeelNaviPurple
+Well,I guess I've
+gotten used to it...
+###--------
+###Script:100
+###Mugshot:WindMan
+You wish to proceed?
+###--------
+###Mugshot:WindMan
+Then,I shall
+perform a test,
+###++++++++
+###Mugshot:WindMan
+to see if you
+are worthy of
+advancing ahead...
+###--------
+###Mugshot:WindMan
+However,this test is
+not for you. It is
+for your operator...
+###--------
+###Mugshot:WindMan
+Operator,you must
+operate me and
+rouse a wind!
+###--------
+###Mugshot:WindMan
+If you can rouse a
+wind that impresses me,
+I shall let you pass.
+###--------
+###Mugshot:WindMan
+What say you...?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:WindMan
+Good...
+In that case,let us
+begin immediately...
+###--------
+###Mugshot:WindMan
+Here we go!!
+###--------
+###Script:101
+###Mugshot:WindMan
+H-Hmmm!!
+Quite remarkable.
+###--------
+###Mugshot:WindMan
+It takes a
+commendable person
+to impress me...
+###--------
+###Mugshot:WindMan
+Very well,
+you may pass...
+###--------
+###Script:102
+###Mugshot:WindMan
+That level of skill
+cannot rouse a wind
+that can impress me.
+###--------
+###Script:103
+###Mugshot:WindMan
+...Hm,I see...
+###--------
+###Script:110
+###Mugshot:MrProgGreen
+TOURNAMENT ENTRIES
+ARE ACCEPTED ON
+###++++++++
+###Mugshot:MrProgGreen
+WEEKDAYS,FROM
+<regionUS>6 AM<regionEnd><regionEU>6:00<regionEnd> TO MIDNIGHT!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Script:221
+###Mugshot:NormNaviYellow
+Come again soon!
+###--------
+###Script:222
+###Mugshot:NormNaviYellow
+Sorry,
+I'm all sold out.
+###--------
+###Script:223
+###Mugshot:NormNaviYellow
+I'm a NetDealer.
+Wanna see my stuff?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:224
+###Mugshot:NormNaviYellow
+I'm a NetDealer.
+Today's the weekly
+Ladies Day!
+###--------
+###Mugshot:NormNaviYellow
+I've got some sweet
+deals just for girls
+throughout the day!
+###--------
+###Mugshot:NormNaviYellow
+Wanna see my stuff!?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:225
+###Mugshot:NormNaviYellow
+Hey,welcome!
+I'm a NetDealer!
+###--------
+###Mugshot:NormNaviYellow
+You're in luck!
+I'm in such a
+good mood today,
+###--------
+###Mugshot:NormNaviYellow
+everything has been
+marked down! Buy as
+much as you want!
+###--------
+###Mugshot:NormNaviYellow
+I've got stuff you
+can't normally get!!
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------

@@ -1,0 +1,753 @@
+﻿###TextArchive:7C416C
+###Script:1
+###Mugshot:MrProgGreen
+FWAH!
+I HAVE LOST!
+###--------
+###Mugshot:KnightMan
+WOO-HOO!
+I DID IT! (Temp)
+###--------
+###Script:3
+###Mugshot:KnightMan
+If those are your
+wishes,<printPlayerNickname>,
+then I shall oblige...
+###Command:printPlayerNickname
+###--------
+###Script:10
+###Mugshot:KnightMan
+Pardon me,youngster
+over there! Would
+you care for a duel?
+###--------
+###Mugshot:NormNaviYellow
+You sure look strong
+for an old-timer...
+###--------
+###Mugshot:NormNaviYellow
+...OK,sure!
+I'll take you on!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:11
+###Mugshot:NormNaviYellow
+I lost...
+###--------
+###Mugshot:NormNaviYellow
+Y-You old-timer...
+That armor's not
+just for show,huh...
+###--------
+###Mugshot:KnightMan
+I am no old-timer!!
+###--------
+###Script:12
+###Mugshot:KnightMan
+Youngster...
+Would you care
+for a duel?
+###--------
+###Mugshot:NormNaviYellow
+A duel? You're looking
+for a fight,huh?
+###--------
+###Mugshot:NormNaviYellow
+...Sure.
+I can take you.
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:13
+###Mugshot:NormNaviYellow
+Y-You got me...!!
+###--------
+###Mugshot:KnightMan
+Youngster,perhaps
+your training is
+still insufficient?
+###--------
+###Script:14
+###Mugshot:KnightMan
+Halt,you there!
+You appear stout.
+Care for a duel?
+###--------
+###Mugshot:NormNaviYellow
+Ah,um...
+Sure,why not.
+###--------
+###Mugshot:NormNaviYellow
+But don't blame me
+if you get hurt.
+###--------
+###Mugshot:KnightMan
+Worry not!
+My training is no
+laughing matter!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:15
+###Mugshot:NormNaviYellow
+I should've known!
+You really don't
+pull any punches.
+###--------
+###Mugshot:NormNaviYellow
+You surprised me!
+###--------
+###Script:16
+###Mugshot:KnightMan
+You there!
+What do you say
+to a NetBattle?
+###--------
+###Mugshot:NormNaviYellow
+I don't mind,but
+I'm not going to
+go easy on you...
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:17
+###Mugshot:NormNaviYellow
+I couldn't get
+any hits in...
+W-Who are you...?
+###--------
+###Script:18
+###Mugshot:KnightMan
+That look in your eyes...
+How about it?
+Care for a duel?
+###--------
+###Mugshot:NormNaviYellow
+I don't like to fight
+without a reason...
+###--------
+###Mugshot:NormNaviYellow
+but I'm not one to
+turn down a challenge!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:19
+###Mugshot:NormNaviYellow
+I-I'm beat!!
+###--------
+###Mugshot:KnightMan
+Hm! That was a
+good battle!
+###--------
+###Script:20
+###Mugshot:KnightMan
+You look rather
+strong,youngster!
+###--------
+###Mugshot:KnightMan
+How about it?
+Would you care to
+have a duel!?
+###--------
+###Mugshot:NormNaviYellow
+You're on!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:21
+###Mugshot:NormNaviYellow
+Y-You got me...
+###--------
+###Mugshot:KnightMan
+Hohoho!
+You still have
+much to learn!
+###--------
+###Script:22
+###Mugshot:KnightMan
+Hm! I like the look
+on your face...
+###--------
+###Mugshot:KnightMan
+Would you care for
+a duel with me?
+###--------
+###Mugshot:NormNaviYellow
+You're one big Navi...
+###--------
+###Mugshot:NormNaviYellow
+I don't mind battling
+you,but...can you keep
+up with my speed!?
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:23
+###Mugshot:NormNaviYellow
+*oof!*
+You're not just
+any big Navi!
+###--------
+###Mugshot:KnightMan
+You were brimming
+with vitality!
+###--------
+###Mugshot:KnightMan
+That's what I like
+about you youngsters!
+###--------
+###Script:24
+###Mugshot:KnightMan
+It seems you have
+plenty of strength
+to spare...
+###--------
+###Mugshot:KnightMan
+How about letting
+it out on me?
+###--------
+###Mugshot:NormNaviYellow
+Huh? You wanna fight,
+old-timer?
+###--------
+###Mugshot:NormNaviYellow
+Sure! Let's make it
+quick,old-timer!
+###--------
+###Mugshot:KnightMan
+Do not call me
+an old-timer!!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:25
+###Mugshot:NormNaviYellow
+H-Heh!!
+You're lucky I wasn't
+feeling well today!!
+###--------
+###Script:26
+###Mugshot:KnightMan
+You have a determined
+look on your face...
+###--------
+###Mugshot:KnightMan
+What do you say
+to a duel?
+###--------
+###Mugshot:NormNaviYellow
+Yeah,sure...
+But you'll regret it!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:27
+###Mugshot:NormNaviYellow
+Y-You ain't half bad...
+###--------
+###Script:28
+###Mugshot:KnightMan
+Would you care for
+a duel?
+###--------
+###Mugshot:NormNaviYellow
+Sure,whatever...
+###--------
+###Mugshot:NormNaviYellow
+But I'm warnin' ya...
+Don't take me
+for a chump!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:29
+###Mugshot:NormNaviYellow
+Darn it...
+I won't forget this!!
+###--------
+###Script:30
+###Mugshot:KnightMan
+How would you care
+for a duel?
+###--------
+###Mugshot:HeelNaviPurple
+What!? You lookin'
+for a fight!?
+###--------
+###Mugshot:HeelNaviPurple
+If it's a fight you
+want,it's a fight
+you'll get!
+###--------
+###Mugshot:HeelNaviPurple
+Bring it on!!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:31
+###Mugshot:HeelNaviPurple
+I-I got creamed...
+###--------
+###Script:32
+###Mugshot:KnightMan
+What do you say to
+a duel?
+###--------
+###Mugshot:HeelNaviPurple
+You got some nerve
+challenging ME,huh!?
+###--------
+###Mugshot:HeelNaviPurple
+Big mistake...get ready
+for a beatdown!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:33
+###Mugshot:HeelNaviPurple
+W-Why you...!
+This isn't over!!
+###--------
+###Script:34
+###Mugshot:KnightMan
+Will you have a
+duel with me?
+###--------
+###Mugshot:HeelNaviPurple
+Dunno what's the
+matter with you
+but sure,I'll fight ya!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:35
+###Mugshot:HeelNaviPurple
+No way!
+I can't believe I lost!
+###--------
+###Script:36
+###Mugshot:KnightMan
+Would you care
+for a duel?
+###--------
+###Mugshot:HeelNaviPurple
+Sure! I'm in a
+real bad mood so
+this is perfect!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:37
+###Mugshot:HeelNaviPurple
+Y-You got me...
+###--------
+###Script:38
+###Mugshot:KnightMan
+You have the face
+of a villain...
+###--------
+###Mugshot:KnightMan
+How about it?
+Care for a duel?
+###--------
+###Mugshot:HeelNaviPurple
+Shut it! I was born
+with this face!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:39
+###Mugshot:HeelNaviPurple
+T-That's...a pretty
+powerful flail,huh...
+###--------
+###Script:40
+###Mugshot:KnightMan
+This may be a bit
+sudden,but would you
+care for a duel?
+###--------
+###Mugshot:HeelNaviBlack
+Whoa!
+A challenge to a duel!
+###--------
+###Mugshot:HeelNaviBlack
+Sweet! What are we
+waiting for? Let's
+get right into it!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:41
+###Mugshot:HeelNaviBlack
+I-I'm no match!
+###--------
+###Mugshot:HeelNaviBlack
+I'll get you
+next time...!
+###--------
+###Script:42
+###Mugshot:KnightMan
+You there! You look
+confident in your skills.
+Care for a duel?
+###--------
+###Mugshot:HeelNaviBlack
+Confidence? Yeah,
+I got plenty of it!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:43
+###Mugshot:HeelNaviBlack
+I-I should've known...
+You're not just
+anybody...
+###--------
+###Script:44
+###Mugshot:KnightMan
+You look like you're
+itching for a battle...
+###--------
+###Mugshot:KnightMan
+If you don't mind,
+how about being
+my opponent?
+###--------
+###Mugshot:HeelNaviBlack
+Are you sure...?
+###--------
+###Mugshot:HeelNaviBlack
+I'm really bad at
+holding back!!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:45
+###Mugshot:HeelNaviBlack
+I-I held back...
+Just a little...
+###--------
+###Script:46
+###Mugshot:KnightMan
+You seem hungry for
+a fight...it's written
+all over your face.
+###--------
+###Mugshot:KnightMan
+Care for a duel,then?
+###--------
+###Mugshot:HeelNaviBlack
+You get me,right!?
+Let's do this! I love
+fightin' tough guys!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:47
+###Mugshot:HeelNaviBlack
+You're as tough
+as I thought...
+###--------
+###Script:48
+###Mugshot:KnightMan
+You seem to be bored.
+May I suggest a duel
+to kill some time?
+###--------
+###Mugshot:HeelNaviBlack
+Heh,I don't mind...
+###--------
+###Mugshot:HeelNaviBlack
+You better make this
+worth my time!
+###--------
+###Mugshot:KnightMan
+What say you,
+<printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Very well,then!
+En garde!!
+###--------
+###Script:49
+###Mugshot:HeelNaviBlack
+T-That wasn't a bad
+use of my time...
+###--------

@@ -1,0 +1,28 @@
+﻿###TextArchive:7A6F0C
+###Script:0
+###Mugshot:HeelNaviBlack
+It's the weekend.
+###--------
+###Mugshot:HeelNaviBlack
+Be that as it may,
+my operator and I
+will not rest!
+###--------
+###Mugshot:HeelNaviBlack
+We shall do nothing
+but train! A ninja
+never rests!
+###--------
+###Script:1
+###Mugshot:HeelNaviBlack
+I have still not
+trained enough.
+###--------
+###Mugshot:HeelNaviBlack
+I will strengthen myself
+further,and become the
+greatest ninja Navi!
+###--------
+###Mugshot:HeelNaviBlack
+*chop,chop!*
+###--------

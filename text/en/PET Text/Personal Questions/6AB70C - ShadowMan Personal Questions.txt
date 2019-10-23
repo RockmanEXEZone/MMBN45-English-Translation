@@ -1,0 +1,648 @@
+﻿###TextArchive:6AB70C
+###Script:1
+You did not acquire
+your operating
+skills alone...
+###--------
+<printPlayerNickname>,you have
+an older brother,
+don't you?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Information is
+crucial for a ninja.
+Tell me his name.
+###--------
+###Script:2
+...Is that so.
+###--------
+###Script:3
+You did not acquire
+your operating
+skills alone...
+###--------
+<printPlayerNickname>,you have
+a younger brother,
+don't you?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Information is
+crucial for a ninja.
+Tell me his name.
+###--------
+###Script:4
+...Is that so.
+###--------
+###Script:5
+You did not acquire
+your operating
+skills alone...
+###--------
+<printPlayerNickname>,you have
+an older sister,
+don't you?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Information is
+crucial for a ninja.
+Tell me her name.
+###--------
+###Script:6
+...Is that so.
+###--------
+###Script:7
+You did not acquire
+your operating
+skills alone...
+###--------
+<printPlayerNickname>,you have
+a younger sister,
+don't you?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Information is
+crucial for a ninja.
+Tell me her name.
+###--------
+###Script:8
+...Is that so.
+###--------
+###Script:9
+There's no way
+you can master
+the art of battle
+###++++++++
+without daily
+training.
+###--------
+Battle training
+requires many
+comrades...
+###--------
+Tell me the name
+of one of your
+comrades...
+###--------
+###Script:11
+That was a decent
+training session
+on the Net,eh?
+###--------
+When you're locked
+in a fierce battle,
+###--------
+your body must
+be trained for
+endurance...
+###--------
+Food is key when
+you're training
+your body.
+###--------
+<printPlayerNickname>,what
+food do you like?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:13
+You can never have
+too many chips
+or ninja stars.
+###--------
+You could say
+it's my hobby
+to collect them.
+###--------
+What is your
+hobby...?
+###--------
+###Script:15
+No matter how many
+fierce battles
+you push through,
+###--------
+in the end,you're
+still just a
+child of man...
+###++++++++
+Surely you must be
+dreaming to become
+something greater.
+###--------
+......
+Care to tell
+me what it is?
+###--------
+###Script:17
+Mail can provide
+you with all sorts
+of information...
+###--------
+But it seems we
+haven't received
+important mail yet...
+###--------
+I mean mail from
+the person you
+like,<printPlayerNickname>⋯
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Tell me the name
+of the person
+you like.
+###--------
+There's no sense
+in hiding it. My
+investigation
+###--------
+will uncover it in
+no time,so just
+divulge it to me...
+###--------
+###Script:19
+Mail can provide
+you with all sorts
+of information...
+###--------
+But it seems we
+haven't received
+important mail yet...
+###--------
+I mean mail from
+the person you
+like,<printPlayerNickname>⋯
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Tell me the name
+of the person
+you like.
+###--------
+There's no sense
+in hiding it. My
+investigation
+###--------
+will uncover it in
+no time,so just
+divulge it to me...
+###--------
+###Script:21
+Completing the
+library is one
+type of training...
+###--------
+Those who have
+trained by filling
+up the library
+###--------
+all on their own
+merits are worthy
+of my admiration.
+###--------
+Who do you
+admire...?
+###--------
+###Script:23
+Now that
+we've finished
+reading mail,
+###--------
+I want some
+answers from you...
+###--------
+Who do you
+truly loathe?
+###--------
+It must be fate
+that brought me
+to your PET.
+###--------
+Unlike you,I have
+no qualms about
+eliminating them...
+###--------
+...Heh,just kidding.
+I don't kill without
+a good reason.
+###--------
+A request is a
+different story,
+though...
+###--------
+###Script:25
+You must be
+excited after
+all that battling.
+###--------
+Why don't we talk
+about something
+to relax...?
+###--------
+...Ah,I know.
+###--------
+From what I can
+gather,you watch
+quite a bit of TV...
+###--------
+Personally,I'm
+fond of those old
+samurai shows...
+###--------
+...Actually,I have
+a request...
+###--------
+Could you tell
+me what TV
+show you like?
+###--------
+###Script:27
+Experience
+and expertise
+are crucial,
+###++++++++
+both in battle and
+when exploring
+the Net.
+###--------
+Tell me which
+subject you're
+good at.
+###--------
+###Script:29
+Experience
+and expertise
+are crucial,
+###++++++++
+both in battle and
+when exploring
+the Net.
+###--------
+Tell me which
+subject you're
+bad at.
+###--------
+###Script:31
+As long as you
+don't slack on
+your daily training,
+###--------
+gaining the upper
+hand in battle
+is child's play...
+###--------
+But putting in a lot
+of effort won't get
+you everything...
+###--------
+<printPlayerNickname>,what is
+it that you desire
+right now? Tell me.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:32
+I've already
+learned plenty
+about chips.
+###--------
+Now,I'd like
+to hear more
+about you.
+###--------
+What is the name
+of the preschool
+you attend...?
+###--------
+###Script:33
+I've already
+learned plenty
+about chips.
+###--------
+Now,I'd like
+to hear more
+about you.
+###--------
+What is the name
+of the school
+you attend...?
+###--------
+###Script:34
+I've already
+learned plenty
+about chips.
+###--------
+Now,I'd like
+to hear more
+about you.
+###--------
+What is the name
+of the company
+you work for...?
+###--------
+###Script:40
+<printPlayerNickname>,
+aside from...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:41
+Do you have more
+older brothers?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:42
+...Is that so.
+###--------
+###Script:43
+<printPlayerNickname>,
+aside from...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:44
+Do you have more
+younger brothers?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:45
+...Is that so.
+###--------
+###Script:46
+<printPlayerNickname>,
+aside from...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:47
+Do you have more
+older sisters?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:48
+...Is that so.
+###--------
+###Script:49
+<printPlayerNickname>,
+aside from...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:50
+Do you have more
+younger sisters?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:51
+...Is that so.
+###--------
+###Script:52
+<printPlayerNickname>,
+aside from...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+<printStringBuffer3>
+###Command:printStringBuffer3
+###--------
+###Script:53
+Do you have
+other friends?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:54
+...Is that so.
+###--------
+###Script:55
+<printPlayerNickname>,
+aside from...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:56
+Do you have any
+other hobbies?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:57
+...Is that so.
+###--------
+###Script:58
+<printPlayerNickname>,
+aside from...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:59
+Do you like any
+other TV programs?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:60
+...Is that so.
+###--------
+###Script:61
+<printPlayerNickname>,
+aside from...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:62
+Do you desire
+any other things?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+...Is that so.
+###--------
+###Script:80
+Even for a ninja,
+family is precious.
+Cherish yours.
+###--------
+###Script:81
+Even for a ninja,
+family is precious.
+Cherish yours.
+###--------
+###Script:82
+Even for a ninja,
+family is precious.
+Cherish yours.
+###--------
+###Script:83
+Even for a ninja,
+family is precious.
+Cherish yours.
+###--------
+###Script:84
+We ninjas value
+our comrades.
+###--------
+Even I am gentle
+to those who see
+me as a friend.
+###--------
+I'll place my trust
+in your friends...
+###--------
+###Script:85
+Make sure you
+don't overeat...
+###--------
+###Script:86
+Heh,if I had to
+give my opinion...
+###--------
+That is a fairly
+common hobby...
+###--------
+###Script:87
+What an
+outrageous dream.
+###--------
+...But,never lose
+sight of it...
+###--------
+###Script:88
+I will be sure
+to remember that...
+###--------
+Mark my words!!
+###--------
+###Script:89
+Heh...
+There's so very
+much to learn
+###++++++++
+from those who
+came before you...
+###--------
+Respecting someone
+will cause you
+to grow,as well.
+###--------
+###Script:90
+You can be sure
+I'll remember that...
+###--------
+###Script:91
+Heh heh...
+Knowledge comes
+from many places.
+###++++++++
+I'll give
+it a watch.
+###--------
+###Script:92
+Interesting...
+Might be helpful in
+deciphering codes...
+###--------
+###Script:93
+If you keep saying
+such things,
+###--------
+you won't be
+able to become
+a true ninja...
+###--------
+###Script:94
+I know it's
+frustrating,not
+being able to
+###++++++++
+obtain that which
+you desire...
+###--------
+But endurance,too,
+is part of the path
+a ninja must walk...
+###--------
+###Script:95
+I'll be sure to
+remember that...
+###--------

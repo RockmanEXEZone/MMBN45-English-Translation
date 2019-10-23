@@ -1,0 +1,96 @@
+﻿###TextArchive:6C7A34
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+<printScheduleBuffer> is
+gonna be on soon.
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+Better hurry or
+it's going to start!
+###--------
+###Script:2
+Time to meet
+with <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+Let's move with
+lightning speed!
+###--------
+###Script:3
+Time for a
+recharge...I mean,
+time to eat.
+###--------
+###Script:4
+Time for school.
+If you're late,
+###--------
+the teach is
+gonna have a
+shock for you.
+###--------
+###Script:5
+Almost time for
+
+###--------
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Script:6
+Also...
+###--------
+###Script:21
+###Mugshot:ElecMan
+<printScheduleBuffer> is
+gonna be on soon.
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+###Mugshot:ElecMan
+Better hurry or
+it's going to start!
+###--------
+###Script:22
+###Mugshot:ElecMan
+Time to meet
+with <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:ElecMan
+Let's move with
+lightning speed!
+###--------
+###Script:23
+###Mugshot:ElecMan
+Time for a recharge...
+I mean,time to eat.
+###--------
+###Script:24
+###Mugshot:ElecMan
+Time for school.
+If you're late,
+###--------
+###Mugshot:ElecMan
+the teach is gonna
+have a shock for you.
+###--------
+###Script:25
+###Mugshot:ElecMan
+Almost time for
+
+###--------
+###Mugshot:ElecMan
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:ElecMan
+Also...
+###--------

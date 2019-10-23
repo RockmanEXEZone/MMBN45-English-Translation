@@ -1,0 +1,477 @@
+﻿###TextArchive:7C8570
+###Script:0
+###Mugshot:MegaMan
+W-Whoa,I sense
+some seriously
+bad dark energy!
+###--------
+###Mugshot:MegaMan
+T-That coffin...
+It can't be...!
+###--------
+###Script:1
+###Mugshot:Roll
+Y-Yikes...
+What's up with this
+creepy coffin...?
+###--------
+###Mugshot:Roll
+That couldn't be...
+...Could it?
+###--------
+###Script:2
+###Mugshot:GutsMan
+I-I'm getting a
+shiver down my spine
+all of a sudden...!
+###--------
+###Mugshot:GutsMan
+The power inside
+that coffin is givin'
+me the chills...
+###--------
+###Script:3
+###Mugshot:WindMan
+...I can feel an
+oppressive miasma
+drifting out...
+###--------
+###Mugshot:WindMan
+This coffin...
+###--------
+###Script:4
+###Mugshot:SearchMan
+Target in sight!
+###--------
+###Mugshot:SearchMan
+I've never felt
+this kind of power
+before...!
+###--------
+###Mugshot:SearchMan
+Prepare the
+BattleChips!
+###--------
+###Script:5
+###Mugshot:FireMan
+Man,whoever picked
+this coffin has some
+nasty taste.
+###--------
+###Mugshot:FireMan
+Heh,let's delete
+this sucker right
+away!
+###--------
+###Script:6
+###Mugshot:ThunderMan
+I sense an ominous
+power... Be wary!
+###--------
+###Script:7
+###Mugshot:ProtoMan
+There's something
+terribly powerful
+here...
+###--------
+###Mugshot:ProtoMan
+This sensation...
+There's no doubt,
+it's DarkPower!
+###--------
+###Script:8
+###Mugshot:NumberMan
+H-Hey...
+How about we head
+home,huh?
+###--------
+###Mugshot:NumberMan
+While there's life,
+there's hope...
+###++++++++
+###Mugshot:NumberMan
+You know,we can do
+that Official Tournament
+some other time...
+###--------
+###Mugshot:NumberMan
+Why don't we just
+leave this to the
+Official Navis...?
+###--------
+###Script:9
+###Mugshot:MetalMan
+So this is the
+coffin,is it?
+###--------
+###Mugshot:MetalMan
+There's a deep,
+foul power seeping
+out of that coffin...
+###--------
+###Mugshot:MetalMan
+We'd best make sure
+we're prepared...
+Especially now.
+###--------
+###Script:10
+###Mugshot:JunkMan
+H-Hey,you think we
+can defeat the Navi
+inside this c-coffin?
+###--------
+###Mugshot:JunkMan
+I-It's all good! With
+you operating,we'll
+pull it off somehow!
+###--------
+###Script:11
+###Mugshot:AquaMan
+Drip,drip...
+###--------
+###Mugshot:AquaMan
+H-Hey...
+Maybe it'd be better
+not to get involved?
+###--------
+###Mugshot:AquaMan
+...I-I'm scared,drip...
+###--------
+###Script:12
+###Mugshot:WoodMan
+W-What terrible
+DarkPower...
+###--------
+###Mugshot:WoodMan
+What on Earth lies
+within this coffin!?
+###--------
+###Script:13
+###Mugshot:StarMan
+H-Hey,isn't this
+kinda dangerous?
+###--------
+###Mugshot:StarMan
+I mean,I'm confident
+in our NetBattling
+and all... But...
+###--------
+###Mugshot:StarMan
+I've never felt
+a power like this
+before...
+###--------
+###Script:14
+###Mugshot:ShadowMan
+⋯!!
+This power...
+###--------
+###Mugshot:ShadowMan
+Don't lose focus...
+Something inside
+is awakening...
+###--------
+###Script:15
+###Mugshot:KnightMan
+Within lies a dastardly
+Navi who would disturb
+the peace of the world...
+###--------
+###Mugshot:KnightMan
+...Show thyself!!
+###--------
+###Mugshot:KnightMan
+This knight shall
+deliver unto thee
+thy punishment!
+###--------
+###Script:16
+###Mugshot:NapalmMan
+Hey,I know!
+###--------
+###Mugshot:NapalmMan
+How 'bout we blow the
+jerk hiding in there
+to smithereens!?
+###--------
+###Mugshot:NapalmMan
+In fact,whaddaya
+say we torch him
+coffin and all!
+###--------
+###Script:17
+###Mugshot:IceMan
+...This coffin is
+k-kinda scary...
+###--------
+###Mugshot:IceMan
+M-Maybe if I can
+freeze it shut...
+###--------
+###Script:18
+###Mugshot:ElecMan
+H-Hey...
+Did you sense that...?
+###--------
+###Mugshot:ElecMan
+The magnetic field
+around here is being
+violently disrupted...
+###--------
+###Mugshot:ElecMan
+Just what could be
+inside here...?
+###--------
+###Script:19
+###Mugshot:PlantMan
+Hmmmm...
+###--------
+###Mugshot:PlantMan
+Since our enemy
+is already in this
+coffin voluntarily...
+###--------
+###Mugshot:PlantMan
+...it saves me the
+trouble of burying
+him myself!
+###--------
+###Mugshot:PlantMan
+I'll make you suffer
+a beautiful defeat
+by my own hands...
+###--------
+###Script:20
+###Mugshot:Bass
+Come out of that
+coffin right now...
+###--------
+###Mugshot:Bass
+Or I'll decimate
+you while you're
+still inside...
+###--------
+###Script:21
+...What fool dares to
+disturb my slumber...?
+###--------
+###Script:22
+###Mugshot:ShadeMan
+All those who
+awaken me...
+###--------
+###Mugshot:ShadeMan
+Shall lament it in the
+depths of darkness
+for all eternity...!
+###--------
+###Script:23
+###Mugshot:ShadeMan
+Wh-wheeeeee!!
+###--------
+###Script:24
+###Mugshot:MegaMan
+Here he comes!
+###--------
+###Mugshot:MegaMan
+Battle routine,set!
+Execute!!
+###--------
+###Script:25
+###Mugshot:Roll
+N-No way...!
+###--------
+###Mugshot:Roll
+But if we run now...
+I-I'll lose my pride
+as a girl!
+###--------
+###Mugshot:Roll
+I'm trusting you
+with operating!
+Here we go!
+###--------
+###Script:26
+###Mugshot:GutsMan
+W-Whoaaa!!
+###--------
+###Mugshot:GutsMan
+W-We can't escape!
+Gonna hafta fight
+our way out!
+###--------
+###Mugshot:GutsMan
+Guts guts guts!
+YEEEE-HAAAAWW!!
+###--------
+###Script:27
+###Mugshot:WindMan
+I will seal your
+foul stench...
+###--------
+###Mugshot:WindMan
+Winds,rise up!
+Grant me power!
+###--------
+###Script:28
+###Mugshot:SearchMan
+Target,lock-on.
+###--------
+###Mugshot:SearchMan
+......
+Mission start!
+###--------
+###Script:29
+###Mugshot:FireMan
+W-Well this ain't good!
+He popped out!
+###--------
+###Mugshot:FireMan
+H-Hmph!
+###--------
+###Mugshot:FireMan
+Demons in those old
+stories are always
+weak to fire,right?
+###--------
+###Mugshot:FireMan
+In that case,
+FireMan's gonna turn
+up the heat on ya!
+###--------
+###Script:30
+###Mugshot:ThunderMan
+O great thunder!
+###--------
+###Mugshot:ThunderMan
+Grant me the power to
+smite this darkness!
+###--------
+###Script:31
+###Mugshot:ProtoMan
+Moving in!
+###--------
+###Script:32
+###Mugshot:NumberMan
+E-Eeeeeep!!
+###--------
+###Mugshot:NumberMan
+I-I'm all out of
+options... I have
+to fight back!
+###--------
+###Mugshot:NumberMan
+Hiyaaaahh!
+###--------
+###Script:33
+###Mugshot:MetalMan
+Haaah...
+My spirit courses
+through my hands...
+###--------
+###Mugshot:MetalMan
+My mind is clear!
+Roar,my fists!
+###--------
+###Script:34
+###Mugshot:JunkMan
+L-Let's go!
+###--------
+###Mugshot:JunkMan
+I-I'm counting on
+your operating!
+###--------
+###Script:35
+###Mugshot:AquaMan
+Driiiip!!
+###--------
+###Mugshot:AquaMan
+H-He's coming!
+He's coming,drip!
+###--------
+###Mugshot:AquaMan
+Drip,driiip!!
+###--------
+###Script:36
+###Mugshot:WoodMan
+Bah!
+###--------
+###Mugshot:WoodMan
+What foul power!
+###--------
+###Mugshot:WoodMan
+I will purge it with the
+power of the Earth!
+###--------
+###Script:37
+###Mugshot:StarMan
+Oh boy! Guess we
+gotta do this!
+###--------
+###Mugshot:StarMan
+Let's get 'em!
+Operate away!
+###--------
+###Script:38
+###Mugshot:ShadowMan
+One,two,three...
+###--------
+###Mugshot:ShadowMan
+...Sally forth!
+###--------
+###Script:39
+###Mugshot:KnightMan
+Fiend! I'll have you
+become rust on my flail!
+###--------
+###Mugshot:KnightMan
+Gwahahaaaa!
+###--------
+###Script:40
+###Mugshot:NapalmMan
+You think ya can
+take me on? Not
+in a million years!
+###--------
+###Mugshot:NapalmMan
+I'm gonna roast ya
+so bad,there won't
+even be ashes left!
+###--------
+###Script:41
+###Mugshot:IceMan
+I-If I can freeze
+him solid,this'll be
+a piece of cake!
+###--------
+###Mugshot:IceMan
+*fwoooooo!!*
+###--------
+###Script:42
+###Mugshot:ElecMan
+I'll give you an
+eternal sleep,with
+my 1 million volts!
+###--------
+###Script:43
+###Mugshot:PlantMan
+What a fabulous
+opportunity for you...
+###++++++++
+###Mugshot:PlantMan
+...To burst into
+petals and flutter
+gently in the wind!
+###--------
+###Script:44
+###Mugshot:Bass
+...You pest!
+###--------
+###Script:45
+###Mugshot:ShadeMan
+I'll cast you into
+the dark abyss!
+###--------
+###Mugshot:ShadeMan
+Wh-wheeeee!!
+###--------

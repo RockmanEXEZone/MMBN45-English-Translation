@@ -1,0 +1,627 @@
+﻿###TextArchive:7A5604
+###Script:0
+###Mugshot:OfficialNavi
+This is the
+Silver Tournament
+entry desk.
+###--------
+###Mugshot:OfficialNavi
+Will you enter the
+Silver Tournament
+this weekend?
+###--------
+###Mugshot:OfficialNavi
+In that case,please
+show me your Apprentice
+NetBattler license.
+###--------
+###Mugshot:OfficialNavi
+...OK,looks good.
+###--------
+###Mugshot:OfficialNavi
+For the entry fee,
+you must pay 500z.
+Is that alright?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+One,two,three...
+OK,it's all here.
+###--------
+###Mugshot:OfficialNavi
+I will now register
+your entry into
+the tournament.
+###--------
+###Mugshot:OfficialNavi
+*tak tak tak...*
+...and Enter!
+###--------
+###Mugshot:OfficialNavi
+OK,your entry
+is complete!
+###--------
+###Mugshot:OfficialNavi
+Please do your best
+at the tournament
+this weekend!
+###--------
+###Mugshot:OfficialNavi
+Come again!
+###--------
+###Script:1
+###Mugshot:OfficialNavi
+You've already
+entered today!
+###--------
+###Script:2
+###Mugshot:OfficialNavi
+You don't have
+enough money...
+###--------
+###Mugshot:OfficialNavi
+If you can't pay the
+fee,you can't enter
+the tournament...
+###--------
+###Script:3
+###Mugshot:OfficialNavi
+This is the
+Silver Tournament
+entry desk.
+###--------
+###Mugshot:OfficialNavi
+Will you enter the
+Silver Tournament
+this weekend?
+###--------
+###Mugshot:OfficialNavi
+In that case,please
+show me your Apprentice
+NetBattler license.
+###--------
+###Mugshot:OfficialNavi
+...Hm?
+You don't have one?
+###--------
+###Mugshot:OfficialNavi
+Then I'm afraid you
+can't participate in
+the Silver Tournament.
+###--------
+###Mugshot:OfficialNavi
+You must be at least
+Apprentice NetBattler
+level to enter.
+###--------
+###Mugshot:OfficialNavi
+The other desk here
+is for Apprentice
+NetBattler licenses.
+###--------
+###Mugshot:OfficialNavi
+Come back when you've
+taken the exam and
+received your license.
+###--------
+###Script:4
+###Mugshot:OfficialNavi
+If you don't
+have an Apprentice
+NetBattler license,
+###--------
+###Mugshot:OfficialNavi
+you can't enter the
+Silver Tournament.
+###--------
+###Mugshot:OfficialNavi
+Go get your Apprentice
+NetBattler certification
+at the other desk.
+###--------
+###Script:5
+###Mugshot:NormNaviYellow
+This is the
+Electopia NetBattler
+Association's
+###--------
+###Mugshot:NormNaviYellow
+Apprentice NetBattler
+education office.
+###--------
+###Mugshot:NormNaviYellow
+This organization was
+established to foster
+the development of
+###++++++++
+###Mugshot:NormNaviYellow
+Navis,so they
+can reach even
+greater heights.
+###--------
+###Mugshot:NormNaviYellow
+Will you take the
+Apprentice NetBattler
+examination?
+###--------
+###Mugshot:NormNaviYellow
+It costs 690z
+to take the exam.
+Is that alright?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+I see...
+###--------
+###Script:6
+###Mugshot:NormNaviYellow
+In that case,please
+first send us the
+690z exam fee.
+###--------
+###Mugshot:NormNaviYellow
+...OK,I've received
+your payment of 690z.
+###--------
+###Mugshot:NormNaviYellow
+Now,proceed to
+the exam center
+in Internet2.
+###--------
+###Mugshot:NormNaviYellow
+You'll need this
+in order to enter.
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=0
+###--------
+###Mugshot:NormNaviYellow
+You can reach it by
+going up the stairs
+in Internet1.
+###--------
+###Mugshot:NormNaviYellow
+Do your best
+and good luck!
+###--------
+###Script:7
+###Mugshot:NormNaviYellow
+You don't have
+enough money.
+###--------
+###Mugshot:NormNaviYellow
+You can't take the
+exam if you can't
+pay the fee...
+###--------
+###Script:8
+###Mugshot:NormNaviYellow
+Will you take the
+Apprentice NetBattler
+examination?
+###--------
+###Mugshot:NormNaviYellow
+It costs 690z
+to take the exam.
+Is that alright?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+I see...
+###--------
+###Script:9
+###Mugshot:NormNaviYellow
+Do your best on the
+Apprentice License
+examination!
+###--------
+###Script:10
+###Mugshot:NormNaviYellow
+Man,oh man...
+Hey you,great job!
+I just heard from
+###--------
+###Mugshot:NormNaviYellow
+the exam center!
+You've exceeded all
+our expectations!
+###--------
+###Mugshot:NormNaviYellow
+From today onward,
+you are a certified
+Apprentice NetBattler!
+###--------
+###Mugshot:NormNaviYellow
+Now,let me hand
+you your license!
+###--------
+###Mugshot:NormNaviYellow
+Congratulations!
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=1
+###--------
+###Script:11
+###Mugshot:NormNaviYellow
+Keep on working hard
+and improve your skills!
+###--------
+###Script:12
+###Mugshot:OfficialNavi
+I see...
+###--------
+###Script:13
+###Mugshot:OfficialNavi
+This is the
+Silver Tournament
+entry desk,but...
+###--------
+###Mugshot:OfficialNavi
+I'm afraid you
+can't enter during
+the weekend.
+###--------
+###Mugshot:OfficialNavi
+Please come back on
+Monday through Friday.
+###--------
+###Script:20
+###Mugshot:MrProgGreen
+HIYAAAAAA!!
+###--------
+###Mugshot:MrProgGreen
+HOW'S MY BATTLE
+CRY? DID IT GET
+YOU EXCITED!?
+###--------
+###Mugshot:MrProgGreen
+IF YOU WANT TO APPLY
+FOR THE APPRENTICE
+NETBATTLER EXAM,
+###++++++++
+###Mugshot:MrProgGreen
+IT'S RIGHT UP AHEAD!
+###--------
+###Script:21
+###Mugshot:MrProgGreen
+GOOD MOOOORNING!
+I'VE BEEN THIS
+FIRED UP SINCE DAWN!
+###--------
+###Mugshot:MrProgGreen
+IF YOU WANT TO APPLY
+FOR THE APPRENTICE
+NETBATTLER EXAM,
+###++++++++
+###Mugshot:MrProgGreen
+IT'S RIGHT UP AHEAD!
+###--------
+###Script:30
+###Mugshot:MrProgGreen
+HI!
+THIS IS INTERNET3!
+###--------
+###Mugshot:MrProgGreen
+HERE YOU'LL FIND
+THE ENTRY DESK FOR
+THE APPRENTICE
+###--------
+###Mugshot:MrProgGreen
+NETBATTLER EXAM,
+AS WELL AS THE
+SILVER TOURNAMENT!
+###--------
+###Mugshot:MrProgGreen
+BUT WAIT,
+THERE'S MORE!
+###++++++++
+###Mugshot:MrProgGreen
+THERE'S EVEN A
+PLAZA WITH SHOPS!
+WHOA!!
+###--------
+###Script:31
+###Mugshot:MrProgGreen
+GOOD MOOOORNING!
+WELCOME TO INTERNET3!
+###--------
+###Mugshot:MrProgGreen
+HERE YOU'LL FIND
+THE ENTRY DESK FOR
+THE APPRENTICE
+###--------
+###Mugshot:MrProgGreen
+NETBATTLER EXAM,
+AS WELL AS THE
+SILVER TOURNAMENT!
+###--------
+###Mugshot:MrProgGreen
+BUT WAIT,
+THERE'S MORE
+###++++++++
+###Mugshot:MrProgGreen
+THERE'S EVEN A
+PLAZA WITH SHOPS!
+YAHOO!!
+###--------
+###Script:32
+###Mugshot:MrProgGreen
+THIS IS INTERNET3!
+###--------
+###Mugshot:MrProgGreen
+RIGHT NOW IT'S NOON!
+TIME FOR LUNCH!!
+###--------
+###Script:33
+###Mugshot:MrProgGreen
+*MUMBLE,MUMBLE...*
+ALL THE PROGRAMS
+ARE ASLEEP...
+###--------
+###Mugshot:MrProgGreen
+THERE'S A DESK...
+FOR THE APPRENTICE
+NETBATTLER EXAM...
+###--------
+###Mugshot:MrProgGreen
+AND FOR THE SILVER
+TOURNAMENT...
+AND... OTHER STUFF...
+###--------
+###Mugshot:MrProgGreen
+*MUMBLE,MUMBLE...*
+###--------
+###Script:40
+###Mugshot:NaviGirlOrange
+The Silver Tournament
+entry desk is just
+up ahead.
+###--------
+###Mugshot:NaviGirlOrange
+Aim for the top!
+###--------
+###Script:41
+###Mugshot:NaviGirlOrange
+Good mornin'!
+You're up nice
+and early!
+###--------
+###Mugshot:NaviGirlOrange
+The Silver Tournament
+entry desk is just
+up ahead.
+###--------
+###Script:42
+###Mugshot:NaviGirlOrange
+The Silver Tournament
+entry desk is just
+up ahead.
+###--------
+###Mugshot:NaviGirlOrange
+...Ah,my shift is
+almost up.
+###--------
+###Mugshot:NaviGirlOrange
+At night,another Navi
+will show you around.
+See ya!
+###--------
+###Script:60
+###Mugshot:OfficialNavi
+There are various
+facilities here,
+###++++++++
+###Mugshot:OfficialNavi
+including the
+Apprentice NetBattler
+education office,
+###--------
+###Mugshot:OfficialNavi
+as well as the
+Silver Tournament
+entry desk.
+###--------
+###Script:61
+###Mugshot:OfficialNavi
+*yawn...*
+###--------
+###Mugshot:OfficialNavi
+Umm,there's the,uh,
+Apprentice NetBattler
+education office and...
+###--------
+###Mugshot:OfficialNavi
+other things like,umm,
+the Silver Tournament
+entry desk...uh...
+###--------
+###Mugshot:OfficialNavi
+...
+###--------
+###Mugshot:OfficialNavi
+So tired...
+###--------
+###Script:70
+###Mugshot:Roll
+Hiya,<printCurrentNavi>!
+Wanna battle with me?
+###Command:printCurrentNavi
+###--------
+###Mugshot:Roll
+I've been really
+into this "battle
+diet" thing recently.
+###--------
+###Mugshot:Roll
+Sound good?
+###--------
+<positionOptionHorizontal><option><space> Yeah!  <option><space> I'll pass
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Roll
+Oh...
+###--------
+###Mugshot:Roll
+Well,maybe we can
+battle another time!
+###--------
+###Script:71
+###Mugshot:Roll
+Oh no! I lost!
+###--------
+###Mugshot:Roll
+Still,I get the
+feeling this diet's
+pretty effective!
+###--------
+###Script:72
+###Mugshot:Roll
+Alright!
+That worked up
+a good sweat!
+###--------
+###Mugshot:Roll
+This "battle diet"
+seems to be
+working wonders!
+###--------
+###Script:73
+###Mugshot:Roll
+Here I go!!
+###--------
+###Mugshot:Roll
+Battle routine,set!
+###--------
+###Mugshot:Roll
+Execute!
+###--------
+###Script:74
+###Mugshot:Roll
+Ah!! I'm surprised!
+I thought you were
+some kind of actress...
+###--------
+###Mugshot:Roll
+But,you look
+exactly like me...
+###--------
+###Mugshot:Roll
+Oh yeah! Wanna help
+me out with my
+"battle diet"?
+###--------
+<positionOptionHorizontal><option><space> Yeah!  <option><space> I'll pass
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Roll
+Come oooon! Can't
+you be my partner
+for just a little bit?
+###--------
+###Script:80
+###Mugshot:MrProgGreen
+TOURNAMENT ENTRIES
+ARE ACCEPTED ON
+###++++++++
+###Mugshot:MrProgGreen
+WEEKDAYS,FROM
+<regionUS>6 AM<regionEnd><regionEU>6:00<regionEnd> TO MIDNIGHT!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Script:221
+###Mugshot:NormNaviYellow
+Come again soon!
+###--------
+###Script:222
+###Mugshot:NormNaviYellow
+Sorry,
+I'm all sold out.
+###--------
+###Script:223
+###Mugshot:NormNaviYellow
+I'm a NetDealer.
+Wanna see my stuff?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:224
+###Mugshot:NormNaviYellow
+I'm a NetDealer.
+Today's the weekly
+Ladies Day!
+###--------
+###Mugshot:NormNaviYellow
+I've got some sweet
+deals just for girls
+throughout the day!
+###--------
+###Mugshot:NormNaviYellow
+Wanna see my stuff!?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:225
+###Mugshot:NormNaviYellow
+Hey,welcome!
+I'm a NetDealer!
+###--------
+###Mugshot:NormNaviYellow
+You're in luck!
+I'm in such a
+good mood today,
+###--------
+###Mugshot:NormNaviYellow
+everything has been
+marked down! Buy as
+much as you want!
+###--------
+###Mugshot:NormNaviYellow
+Wanna see my stuff!?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------

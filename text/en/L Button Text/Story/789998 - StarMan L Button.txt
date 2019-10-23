@@ -1,0 +1,160 @@
+﻿###TextArchive:789998
+###Script:10
+###Mugshot:StarMan
+We should go explore
+the Net some more!
+###--------
+###Script:11
+###Mugshot:StarMan
+Wanna go take the
+Apprentice License
+exam,<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:12
+###Mugshot:StarMan
+Let's do our best
+in the Apprentice
+License exam!
+###--------
+###Script:13
+###Mugshot:StarMan
+Let's go get
+that "<printChip>"!
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:StarMan
+Let's go get that
+Apprentice License!
+###--------
+###Script:15
+###Mugshot:StarMan
+Nice work on the
+Apprentice License
+exam!
+###++++++++
+###Mugshot:StarMan
+Wanna take a
+little break?
+###--------
+###Script:16
+###Mugshot:StarMan
+I wonder what's going
+on in Internet3...?
+###--------
+###Script:17
+###Mugshot:StarMan
+Guess that Navi we
+beat was the one
+causing all that...
+###--------
+###Mugshot:StarMan
+Are you tired?
+Wanna jack out
+for now?
+###--------
+###Script:18
+###Mugshot:StarMan
+I wonder what's going
+on in Internet5...?
+###--------
+###Script:19
+###Mugshot:StarMan
+I wonder what's going
+on in Internet7...?
+###--------
+###Script:20
+###Mugshot:StarMan
+I wonder what's going
+on in Internet9...?
+###--------
+###Script:21
+###Mugshot:StarMan
+I wonder what's going
+on in Internet10...?
+###--------
+###Script:22
+###Mugshot:StarMan
+I wonder what's going
+on in Internet12...?
+###--------
+###Script:23
+###Mugshot:StarMan
+Let's get back
+that "MinusKey"
+from BlackWorks!
+###--------
+###Script:24
+###Mugshot:StarMan
+Looks like the
+other Navi has
+the "MinusKey"!
+###--------
+###Script:25
+###Mugshot:StarMan
+Let's bring back the
+"MinusKey" to the
+Navi in Internet9!
+###--------
+###Script:26
+###Mugshot:StarMan
+Let's go to the
+Official Tournament
+entry desk!
+###--------
+###Script:27
+###Mugshot:StarMan
+Let's go to
+the Undernet!
+###++++++++
+###Mugshot:StarMan
+The Navi we're
+after should be
+near a coffin!
+###--------
+###Script:28
+###Mugshot:StarMan
+Let's go enter the
+Official Tournament!
+###--------
+###Script:29
+###Mugshot:StarMan
+The Official Tournament
+is this weekend! Let's
+shoot for the stars!
+###--------
+###Script:30
+###Mugshot:StarMan
+The Official Tournament!
+It's our time to shine!
+###--------
+###Script:31
+###Mugshot:StarMan
+Let's explore the
+Net some more!
+###--------
+###Script:32
+###Mugshot:StarMan
+Let's go do the
+Official Tournament
+prelims,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:33
+###Mugshot:StarMan
+Hey,let's read the
+mail we just got!
+###--------
+###Script:34
+###Mugshot:StarMan
+Once the weekend is
+over,let's go enter
+the Official Tournament!
+###--------
+###Script:35
+###Mugshot:StarMan
+The Navi we're
+after should be
+near a coffin!
+###--------

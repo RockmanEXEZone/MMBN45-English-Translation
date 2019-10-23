@@ -1,0 +1,171 @@
+﻿###TextArchive:788858
+###Script:10
+###Mugshot:NumberMan
+Why don't we have
+a look around on
+the Net,<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:11
+###Mugshot:NumberMan
+Let's go take the
+Apprentice License
+exam!
+###--------
+###Script:12
+###Mugshot:NumberMan
+Let's do our best
+on the Apprentice
+License exam!
+###--------
+###Script:13
+###Mugshot:NumberMan
+We have to find
+a "<printChip>"!
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:NumberMan
+Let's go pick up our
+Apprentice License.
+###--------
+###Script:15
+###Mugshot:NumberMan
+Good work on the
+Apprentice License
+exam!
+###++++++++
+###Mugshot:NumberMan
+Want to take it
+easy for a bit?
+###--------
+###Script:16
+###Mugshot:NumberMan
+This incident in
+Internet3 is
+most troubling...
+###--------
+###Script:17
+###Mugshot:NumberMan
+It seems that Navi
+we beat was the one
+behind the incident...
+###--------
+###Mugshot:NumberMan
+I'm a little tired.
+How about we jack
+out for now?
+###--------
+###Script:18
+###Mugshot:NumberMan
+This incident in
+Internet5 is
+most troubling...
+###--------
+###Script:19
+###Mugshot:NumberMan
+This incident in
+Internet7 is
+most troubling...
+###--------
+###Script:20
+###Mugshot:NumberMan
+This incident in
+Internet9 is
+most troubling...
+###--------
+###Script:21
+###Mugshot:NumberMan
+This incident in
+Internet10 is
+most troubling...
+###--------
+###Script:22
+###Mugshot:NumberMan
+This incident in
+Internet12 is
+most troubling...
+###--------
+###Script:23
+###Mugshot:NumberMan
+Let's take back
+that "MinusKey"
+from BlackWorks!
+###--------
+###Script:24
+###Mugshot:NumberMan
+It seems the
+remaining Navi has
+the "MinusKey"...
+###--------
+###Script:25
+###Mugshot:NumberMan
+Let's return the
+"MinusKey" to the
+Navi in Internet9.
+###--------
+###Script:26
+###Mugshot:NumberMan
+Shall we go to the
+Official Tournament
+entry desk?
+###--------
+###Script:27
+###Mugshot:NumberMan
+I suppose we have
+no choice but to go
+to the Undernet...
+###--------
+###Mugshot:NumberMan
+We should look for a
+coffin to find our
+target Navi,right?
+###--------
+###Script:28
+###Mugshot:NumberMan
+Let's go enter the
+Official Tournament.
+###--------
+###Script:29
+###Mugshot:NumberMan
+The Official Tournament
+is this weekend.
+Let's do our best!
+###--------
+###Script:30
+###Mugshot:NumberMan
+The Official Tournament...
+Just the name makes me
+shake with excitement!
+###--------
+###Script:31
+###Mugshot:NumberMan
+Let's go explore
+more of the Net!
+###--------
+###Script:32
+###Mugshot:NumberMan
+Let's participate in
+the Official Tournament
+prelims,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:33
+###Mugshot:NumberMan
+Shouldn't you read
+the mail you just
+got,<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:34
+###Mugshot:NumberMan
+Once the weekend is
+over, let's go enter
+the Official Tournament.
+###--------
+###Script:35
+###Mugshot:NumberMan
+We should look for a
+coffin to find our
+target Navi,right?
+###--------

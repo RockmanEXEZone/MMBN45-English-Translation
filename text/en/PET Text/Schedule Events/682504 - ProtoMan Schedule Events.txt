@@ -1,0 +1,121 @@
+﻿###TextArchive:682504
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+<printPlayerNickname>,
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer> will
+be starting soon.
+###Command:printScheduleBuffer
+###--------
+###Script:2
+<printPlayerNickname>,time
+for our meeting
+with 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+It would be rude
+to arrive late.
+Let's hurry.
+###--------
+###Script:3
+<printPlayerNickname>,it's
+time to eat.
+###Command:printPlayerNickname capitalizeFirst=true
+###++++++++
+Hurry,before
+it gets cold.
+###--------
+###Script:4
+<printPlayerNickname>,it's
+time for school.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+It'd be best to
+head out soon.
+###--------
+###Script:5
+<printPlayerNickname>,
+it's time for
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Script:6
+Next...
+###--------
+###Script:21
+###Mugshot:ProtoMan
+<printPlayerNickname>,
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:ProtoMan
+<printScheduleBuffer> will
+be starting soon.
+###Command:printScheduleBuffer
+###--------
+###Script:22
+###Mugshot:ProtoMan
+<printPlayerNickname>,time
+for our meeting
+with 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:ProtoMan
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:ProtoMan
+It would be rude
+to arrive late.
+Let's hurry.
+###--------
+###Script:23
+###Mugshot:ProtoMan
+<printPlayerNickname>,
+it's time to eat.
+###Command:printPlayerNickname capitalizeFirst=true
+###++++++++
+###Mugshot:ProtoMan
+Hurry,before
+it gets cold.
+###--------
+###Script:24
+###Mugshot:ProtoMan
+<printPlayerNickname>,it's
+time for school.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:ProtoMan
+It'd be best to
+head out soon.
+###--------
+###Script:25
+###Mugshot:ProtoMan
+<printPlayerNickname>,it's time
+for 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:ProtoMan
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:ProtoMan
+Next...
+###--------

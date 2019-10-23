@@ -1,0 +1,13 @@
+﻿###TextArchive:67133C
+###Script:1
+SearchMan,
+returned to base.
+###--------
+Power charge is
+complete. Ready
+for deployment.
+###--------
+###Script:2
+...Mission failed.
+My apologies.
+###--------

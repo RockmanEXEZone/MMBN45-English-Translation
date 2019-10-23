@@ -1,0 +1,136 @@
+﻿###TextArchive:675440
+###Script:1
+Happy New Year!
+###--------
+Let's make
+it another
+successful year.
+###--------
+Wonder if we have
+a mission for
+this year yet...
+###--------
+###Script:2
+Today is
+April Fools' Day...
+###--------
+Watch your back,
+or you might be
+###--------
+the target of
+a prank before
+you know it.
+###--------
+###Script:3
+Today is
+Valentine's Day...
+###--------
+The probability of
+you receiving a
+letter today is...
+###--------
+...60%!
+###--------
+Granted...I did not
+include your mother
+in my calculations.
+###--------
+###Script:4
+Today is
+Valentine's Day...
+###--------
+The probability of
+you receiving a
+letter today is...
+###++++++++
+...60%!
+###--------
+Granted...I did not
+include your mother
+in my calculations.
+###--------
+###Script:5
+Tonight is
+Halloween...
+###--------
+Be careful.
+Enemies may be
+lying in wait
+###++++++++
+around every
+corner.
+###++++++++
+Proper camouflage
+is essential...
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve.
+###--------
+The chances of
+a white Christmas
+this year are...
+###--------
+...45%!
+###--------
+Although...it can
+vary per region.
+###--------
+###Script:9
+Merry Christmas!
+###--------
+Did Santa Claus
+make an
+appearance?
+###--------
+There is only a
+little while left
+of the year...
+###--------
+###Script:10
+Tonight is
+New Year's Eve...
+###--------
+###--------
+Don't be alarmed if
+you see explosions
+in the sky tonight...
+###--------
+###Script:11
+Happy Birthday.
+###--------
+I hope you continue
+to improve your
+operating skills.
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:18
+It's also
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------

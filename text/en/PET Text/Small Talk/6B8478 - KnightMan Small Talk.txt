@@ -1,0 +1,1133 @@
+﻿###TextArchive:6B8478
+###Script:0
+Error!
+Put info in
+the form!
+###--------
+###Script:1
+Look at how
+the library
+is filling up!
+###--------
+<printPlayerNickname>,I'm
+certain your chip
+collection ratio
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+is within the
+top five at
+<printSchool>!
+###Command:printSchool capitalizeFirst=false
+###--------
+There is no
+mistaking it!
+###--------
+###Script:2
+<printPlayerNickname>,there
+is someone at
+<printSchool>
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printSchool capitalizeFirst=false
+###--------
+who has even more
+chips than you do,
+is there not?
+###--------
+You cannot become
+truly strong
+without realizing
+###++++++++
+there is always
+someone better
+than you!
+###--------
+###Script:3
+Regardless of how
+many chips you
+have,<printPlayerNickname>,
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+it does not prove
+that you're a
+strong battler!
+###--------
+I am sure there
+are some at
+<printSchool>
+###Command:printSchool capitalizeFirst=false
+###--------
+who mistakenly
+believe they
+are strong,
+###++++++++
+just because they
+have gathered a
+great many chips!
+###--------
+###Script:5
+Now,<printPlayerNickname>⋯
+Next time,
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+I would like to
+see <printOlderBro>'s
+skill as well!
+###Command:printOlderBro capitalizeFirst=false
+###--------
+###Script:6
+Surely <printYoungerBro>
+has inherited
+###Command:printYoungerBro capitalizeFirst=false
+###--------
+your operating
+techniques,
+<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Just once,I
+would like to
+see his skill!
+###--------
+###Script:7
+<printPlayerNickname>,surely
+<printOlderSis> must be
+a splendid battler!
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printOlderSis capitalizeFirst=false
+###--------
+###--------
+I would be humbled
+to be operated
+by her someday!
+###--------
+###Script:8
+<printPlayerNickname>,
+is <printYoungerSis>
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printYoungerSis capitalizeFirst=false
+###--------
+not yet allowed
+to use the Net,
+perhaps?
+###--------
+I'm certain she
+holds amazing
+potential!
+###--------
+###Script:9
+Victory or defeat,
+I shall hold
+no grudges!
+###--------
+A knight deepens
+his friendships
+through battle!
+###--------
+Someone like
+<printFriend>
+###Command:printFriend capitalizeFirst=false
+###++++++++
+will also make
+a good knight
+someday!
+###--------
+###Script:10
+When a battle is
+over,your friends'
+faces come to mind...
+###--------
+I wonder what
+<printFriend> is doing
+at this moment...?
+###Command:printFriend capitalizeFirst=false
+###--------
+###Script:11
+Our opponents
+just now were
+on the same level
+###--------
+as <printFriend>⋯
+No,perhaps
+even better!?
+###Command:printFriend capitalizeFirst=false
+###--------
+The Net is a vast
+place,indeed...
+###--------
+###Script:13
+Running around
+on the Net makes
+you grow hungry...
+###--------
+But if I were to
+eat <printFavFood>,
+###Command:printFavFood capitalizeFirst=false
+###++++++++
+my belly would
+expand for sure!
+###--------
+###Script:14
+Strolling around
+an area you know
+###++++++++
+like the back of
+your pocket is
+very soothing...
+###--------
+It resembles the
+feeling you get
+when you eat
+###--------
+<printFavFood> made
+by your mother,
+<printPlayerNickname>⋯
+###Command:printFavFood capitalizeFirst=false
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:15
+In the end,virus
+busting is all about
+strength,<printPlayerNickname>!
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Eat <printFavFood>
+to your heart's
+content,
+###Command:printFavFood capitalizeFirst=false
+###--------
+so that you may
+build up plenty of
+strength,<printPlayerNickname>!
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:17
+As you amass more
+chips,it's as if
+the library is
+###--------
+blossoming with
+flowers! It's
+a noble cause.
+###--------
+Speaking of
+nobility,<printPlayerNickname>,
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+your hobby
+<printHobby> is
+quite noble as well!
+###Command:printHobby capitalizeFirst=false
+###--------
+###Script:18
+A proud library
+full of tirelessly
+collected chips...
+###--------
+Nothing gives
+me greater
+satisfaction.
+###--------
+When you are
+doing <printHobby>,
+###Command:printHobby capitalizeFirst=false
+###--------
+I am sure you
+feel the same,
+<printPlayerNickname>!
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:19
+Hmmm...
+When I look
+at the library,
+###--------
+my spirit yearns
+for even more
+chips!
+###--------
+You understand
+how I feel,
+do you not?
+###--------
+It's the same
+feeling you get
+after <printHobby>.
+###Command:printHobby capitalizeFirst=false
+###--------
+###Script:21
+Winning the
+tournament is an
+important goal,
+###--------
+but that is only
+me speaking
+as a knight...
+###--------
+But you,
+<printPlayerNickname>,
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+you hold an even
+greater ambition
+in your heart...
+###--------
+Namely,to achieve
+your dream of being
+a<printDream> <printDream>!
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:22
+Oof... I suffered
+some painful scars
+in the tournament...
+###--------
+However! Each
+and every one of
+these scars were
+###--------
+sustained whilst
+fighting alongside
+you,<printPlayerNickname>⋯
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Whenever I receive
+a new scar,if I
+only remind myself
+###--------
+it brings <printPlayerNickname>
+one step closer to
+being <printDream>,
+###Command:printPlayerNickname capitalizeFirst=false
+###Command:printDream capitalizeFirst=false
+###--------
+I will gladly bear
+these scars as
+badges of honor!
+###--------
+###Script:23
+We learned a lot
+from the tournament
+this time!
+###--------
+Be sure to use the
+experience from
+this tournament to
+###--------
+charge ahead on
+the path to becom-
+ing a<printDream> <printDream>!
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:25
+Protecting those
+you cherish is
+a knight's duty!!
+###--------
+I am rather curious
+where <printCrush>
+could be right now...
+###Command:printCrush capitalizeFirst=false
+###--------
+May I suggest
+sending a mail to
+check up on them...?
+###--------
+###Script:26
+E-Mail certainly
+is convenient!
+###--------
+I've heard that
+in the past,
+sending letters
+###--------
+would take quite
+some time.
+But with E-Mail,
+###--------
+your letter reaches
+the other party
+in an instant!
+###--------
+I shall send some
+mail to <printCrush>
+right away!
+###Command:printCrush capitalizeFirst=false
+###--------
+###Script:27
+<printPlayerNickname>,when
+you send mail
+to <printCrush>,
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printCrush capitalizeFirst=false
+###--------
+shall I double-
+check the
+contents for you?
+###--------
+...Hmm,but that
+is none of my
+business,is it...
+###--------
+###Script:29
+Any knight is
+bound to make
+some enemies...
+###--------
+Certainly,it's best
+to have fewer
+enemies,but...
+###--------
+Anyway,I suggest
+I send some mail
+to <printPlayerEnemy>
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+so we can gauge
+their reaction...
+......
+###--------
+...Don't get
+involved,you say?
+###--------
+If that's what you
+think,<printPlayerNickname>,
+then I concede...
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:30
+I am curious about
+<printPlayerEnemy>'s
+movements...
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+May I suggest I
+send some mail to
+check up on them...?
+###--------
+...Don't get
+involved,you say?
+###--------
+If that's what you
+think,<printPlayerNickname>,
+then I concede...
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:31
+Be on your guard
+if you receive mail
+from <printPlayerEnemy>⋯
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+...It might be a
+trap,after all.
+###--------
+###Script:33
+Lately,I feel as
+though my body
+###++++++++
+is not very nimble
+during battles...
+###--------
+Perhaps I should
+study <printFavShow>
+for diet ideas...
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:34
+In recent days,our
+battles have been
+a dime a dozen...
+###--------
+Isn't there some
+new battle strategy
+we could employ?
+###--------
+Perhaps watching
+<printFavShow> would
+be insightful...
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:35
+Tips to become
+stronger in battle
+###++++++++
+can be found in
+many different
+places!
+###--------
+For instance,
+surely <printFavShow>
+contains some!
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:37
+Perhaps chips are
+not something we
+collect,per se,
+###++++++++
+but instead,they
+simply gather
+on their own...
+###--------
+Much like how
+people tend
+to gather
+###--------
+around those who
+are respected...
+###--------
+With someone
+like <printIdol>,
+###Command:printIdol capitalizeFirst=false
+###--------
+surely both chips
+and people would
+gather naturally...
+###--------
+###Script:38
+Every time the
+library fills a
+little further,
+###--------
+I feel as if we
+are getting closer
+to <printIdol>⋯
+###Command:printIdol capitalizeFirst=false
+###--------
+###Script:39
+All the chips that
+you've filled the
+library with...
+###--------
+These chips are
+proof of your
+efforts,<printPlayerNickname>.
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+I have confidence
+<printIdol> sees
+it the same way...
+###Command:printIdol capitalizeFirst=false
+###--------
+###Script:41
+Lately,battles have
+become more and
+more satisfying!
+###--------
+It's all thanks to
+your <printBestSubject>
+skill,is it not?
+###Command:printBestSubject capitalizeFirst=false
+###--------
+###Script:42
+Fighting viruses
+earlier convinced
+me of one thing...
+###--------
+Battles are
+not just about
+power alone!
+###--------
+I'm only as strong
+as I am now
+###--------
+thanks to your gift
+for <printBestSubject>,
+<printPlayerNickname>!
+###Command:printBestSubject capitalizeFirst=false
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:43
+<printPlayerNickname>,your
+splendid operating
+is reinforced
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+by your aptitude
+for <printBestSubject>!
+###Command:printBestSubject capitalizeFirst=false
+###--------
+If you gather
+more knowledge,
+I'm certain
+###--------
+you will be able
+to battle even
+more amazingly!
+###--------
+###Script:45
+<printPlayerNickname>,there
+are plenty of
+places on the Net
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+where you can
+improve your
+battle technique,
+###--------
+but make sure to
+study <printWorstSubject>
+properly as well!
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+There is more to
+being a knight
+than just strength...
+###--------
+One must also
+be educated to
+a certain level!
+###--------
+###Script:46
+I am not good at
+dealing with certain
+viruses on the Net...
+###--------
+But if there is
+something you
+are bad at,
+###++++++++
+it just means
+you must build a
+strategy for it!
+###--------
+<printWorstSubject>
+is the same
+way,<printPlayerNickname>!
+###Command:printWorstSubject capitalizeFirst=false
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:47
+The Net certainly
+is heaps of fun!
+###--------
+There are so very
+many opponents to
+battle,after all!
+###--------
+<printPlayerNickname>,surely
+there are many
+battles for you
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+to take on in the
+real world,too!
+Like <printWorstSubject>!
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+###Script:49
+That was a
+fierce battle!
+###--------
+If we had a<printWish>
+<printWish>,
+perhaps we'd be
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###++++++++
+able to battle
+with a little
+more leeway...
+###--------
+###Script:50
+<printPlayerNickname>,please
+try to obtain
+a<printWish> <printWish>!
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+A<printWish> <printWish> is
+something a knight
+cannot do without!
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+Having one or not
+can make a world
+of difference!
+###--------
+###Script:51
+I am sure battles
+will grow even more
+difficult from now...
+###--------
+It may be a good
+idea to obtain
+a<printWish> <printWish>
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+in order to
+prepare for our
+future battles.
+###--------
+###Script:53
+You cannot become
+strong just by
+reading mail.
+###--------
+In our current
+condition,
+###++++++++
+I am not sure
+we can defeat
+<printMostFrequentOpponent>⋯
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+All we can do is
+remain steadfast!
+Let us do our best!
+###--------
+###Script:54
+I had a thought
+whilst we were
+reading mail...
+###--------
+It is no good to
+just aimlessly fight
+battle after battle.
+###--------
+Unless we fight
+with purpose
+every time,
+###--------
+we will certainly
+lose to <printMostFrequentOpponent>!
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+###Script:55
+<printPlayerNickname>,absorbing
+everything
+around you,
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+and using it to
+improve yourself
+###--------
+is the mark of
+an excellent
+NetBattler...
+###--------
+By that logic,you
+must be sure
+###++++++++
+to carefully read
+the contents of
+every mail!
+###--------
+I have no doubt
+<printMostFrequentOpponent> is also
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+reading their
+mail thoroughly...
+###--------
+......
+We cannot afford
+to lose to them!
+###--------
+###Script:57
+Speaking of
+equipment,
+###--------
+I would like for
+<printLostToOpponent> to show
+us theirs sometime.
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+Perhaps then we'll
+understand the key
+to their strength.
+###--------
+###Script:58
+<printPlayerNickname>,if you
+long for victory,
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+you should start
+by training daily
+###--------
+and carefully
+reinforcing your
+equipment!
+###--------
+As for <printLostToOpponent>'s
+training regimen
+and equipment...
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+I don't see any
+flaws in either.
+###--------
+We mustn't
+lose,either...
+###--------
+###Script:59
+It could be said
+that a battle has
+already begun
+###--------
+the moment you
+start thinking about
+your equipment.
+###--------
+<printLostToOpponent> owes
+their strength
+to knowing this.
+###Command:printLostToOpponent capitalizeFirst=true
+###--------
+Do you understand?
+###--------
+###Script:61
+Will our current
+equipment be
+sufficient?
+###--------
+When we battle
+with <printMostLostToOpponent>,
+###Command:printMostLostToOpponent capitalizeFirst=false
+###--------
+there is no that
+doubt they will
+use <printMostLostToOpponentsChip>.
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+We must devise
+a countermeasure...
+###--------
+###Script:62
+Apologies for bring-
+ing this up right
+after you changed
+###--------
+our equipment,but
+I recommend the
+chip "<printMostLostToOpponentsChip>"!
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+I would strongly
+suggest you place
+it into the folder!
+###--------
+###Script:63
+Have you finished
+with our equipment?
+###--------
+I feel a slight
+unease with our
+current equipment...
+###--------
+May I suggest
+we put <printMostLostToOpponentsChip>
+into our folder?
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+...Hm? You already
+intended to put
+it in!?
+###--------
+My apologies!
+I should have
+known my place!
+###--------
+###Script:65
+I took a bit too
+much damage in our
+battle just now...
+###--------
+Had <printDefeatedOpponent>
+been around to
+see that battle,
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+they would surely
+be roaring with
+laughter...
+###--------
+Let us strengthen
+our defenses a bit
+better next time...
+###--------
+###Script:66
+Even though we
+just finished
+a battle,
+###--------
+I feel like battling
+<printDefeatedOpponent> for
+some reason...
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+How curious...
+###--------
+###Script:67
+After a battle
+that left you
+unsatisfied,
+###--------
+nothing gets rid of
+that feeling like
+fighting <printDefeatedOpponent>!
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:69
+<printPlayerNickname>,allow
+me to make a
+suggestion...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+How about we use
+<printMostDefeatedOpponentsChip> in our
+next battle?
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+<printMostDefeatedOpponent> might
+believe they are
+skilled with it,
+###Command:printMostDefeatedOpponent capitalizeFirst=false
+###--------
+but I believe you
+would be able to
+###--------
+put it to even
+better use,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:70
+If you seek a chip
+to intimidate your
+opponents with
+###--------
+in battle,then
+I recommend
+<printMostDefeatedOpponentsChip>!
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+There is no Navi
+that could take
+this chip head-on
+###++++++++
+and not be
+scared witless!
+###--------
+###Script:71
+That was a good
+battle... However,
+###--------
+you are too gentle
+when it comes to
+finishing battles!
+###--------
+May I suggest
+trying something
+like <printMostDefeatedOpponentsChip>?
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+Use it when you've
+driven the opponent
+into a corner,
+###++++++++
+and you will see
+the effects
+right away!
+###--------
+###Script:73
+<printFavStandardChip1> is a
+chip that tickles
+a knight's heart!
+###Command:printFavStandardChip1 capitalizeFirst=true
+###--------
+It smells strongly
+of chivalry!
+###--------
+###Script:74
+After consulting
+the library,
+###--------
+it seems <printFavStandardChip1>
+was the chip we
+used the most!
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+###Script:75
+You could say
+<printFavStandardChip1> is a chip
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+that shows your
+personality,
+<printPlayerNickname>!
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+No,no!
+I did not mean
+it in a bad way!
+###--------
+###Script:77
+As we were looking
+through the library,
+###--------
+I was reminded
+of that one time
+###--------
+we missed with
+<printFavStandardChip2> whilst
+virus busting...
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+That was truly
+regrettable...
+###--------
+###Script:78
+<printFavStandardChip2> is
+fundamental when
+battling viruses.
+###Command:printFavStandardChip2 capitalizeFirst=true
+###--------
+Do you not think
+so too,<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+No,I am positive!
+There is no
+mistaking it!
+###--------
+###Script:79
+There is this chip
+called "<printFavStandardChip2>"...
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+Its strength is
+not so simple as
+mere brute force.
+###--------
+That chip is hard
+to use for someone
+without technique!
+###--------
+###Script:81
+There is this chip
+called "<printFavStandardChip3>"...
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+It's rather an
+insignificant chip,
+###--------
+but we seem to
+keep using it
+for some reason...
+###--------
+Perhaps you have
+a subconscious
+interest,<printPlayerNickname>!
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:82
+<printPlayerNickname>,your
+technique is
+recognizable to all!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+But if you were
+told to battle with
+only <printFavStandardChip3>,
+###Command:printFavStandardChip3 capitalizeFirst=false
+###++++++++
+that would certainly
+be a different
+story,wouldn't it!
+###--------
+###Script:83
+<printPlayerNickname>,out of
+all the chips there
+are,if I asked
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+you to pick your
+3rd favorite
+Standard Chip...
+###--------
+Which would you
+pick,I wonder?
+###--------
+Personally,I
+would boldly
+pick <printFavStandardChip3>!
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+###Script:85
+Though they are
+fewer in number
+###--------
+than Standard
+Chips,MegaChips
+have an impact
+###--------
+that Standard
+Chips simply cannot
+compare to!
+###--------
+In particular,
+<printFavMegaChip> leaves a
+strong impression!
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+###Script:86
+If we only consider
+the standard power
+for MegaChips...
+###--------
+<printFavMegaChip> stands
+out amongst
+the bunch!
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+###Script:87
+Whenever I
+see the picture
+for <printFavMegaChip>,
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+I always become
+enthralled by it!
+###--------
+###Script:89
+MegaChips pale in
+comparison to the
+might of GigaChips.
+###--------
+And even among
+them,it would be
+no exaggeration
+###--------
+to say <printFavGigaChip>'s
+power is truly
+outrageous...
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+###Script:90
+Every time we use
+<printFavGigaChip>,I feel
+my armor creaking...
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+So if possible,
+please refrain
+from using it...
+###--------
+###Script:91
+I'm not sure if
+even my armor
+###--------
+could withstand
+a direct hit
+from <printFavGigaChip>⋯
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+It's certainly a
+frightening chip...
+###--------

@@ -1,0 +1,45 @@
+﻿###TextArchive:666D5C
+###Script:1
+Ugh!!
+This stinks!
+###--------
+Next time,
+GutsMan's gonna
+win for sure!
+###--------
+###Script:2
+We did it!
+We're the champs!
+###--------
+<printPlayerNickname>,the
+two of us won
+it together!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+YEE-HAAAAWW!!
+###--------
+###Script:10
+<printPlayerNickname>,we
+didn't enter...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+Let's aim
+for the top!
+Yee-haaaw!!
+###--------
+###Script:21
+Let's aim
+for the top!
+Yee-haaaw!!
+###--------
+###Script:22
+Let's aim
+for the top!
+Yee-haaaw!!
+###--------
+###Script:23
+Let's aim
+for the top!
+Yee-haaaw!!
+###--------

@@ -1,0 +1,54 @@
+﻿###TextArchive:709704
+###Script:0
+A PErsonal Terminal.
+MegaMan is installed
+on this PET.
+###--------
+###Script:33
+###Mugshot:MegaMan
+HP Memry
+###--------
+###Script:34
+###Mugshot:MegaMan
+ExpMemry
+###--------
+###Script:35
+###Mugshot:MegaMan
+RegUP1
+###--------
+###Script:36
+###Mugshot:MegaMan
+RegUP2
+###--------
+###Script:37
+###Mugshot:MegaMan
+RegUP3
+###--------
+###Script:38
+###Mugshot:MegaMan
+SubMem
+###--------
+###Script:39
+###Mugshot:MegaMan
+MiniEnrg
+###--------
+###Script:40
+###Mugshot:MegaMan
+FullEnrg
+###--------
+###Script:41
+###Mugshot:MegaMan
+SneakRun
+###--------
+###Script:42
+###Mugshot:MegaMan
+Untrap
+###--------
+###Script:43
+###Mugshot:MegaMan
+LocEnemy
+###--------
+###Script:44
+###Mugshot:MegaMan
+Unlocker
+###--------

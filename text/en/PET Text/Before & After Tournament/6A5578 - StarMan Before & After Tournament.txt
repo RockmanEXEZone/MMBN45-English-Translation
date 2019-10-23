@@ -1,0 +1,36 @@
+﻿###TextArchive:6A5578
+###Script:1
+O shooting star!
+Please give us a
+victory next time.
+###--------
+###Script:2
+Great,we won!
+The shooting star
+must've heard us!
+###--------
+###Script:10
+We're not entered,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:20
+Boy,my heart's
+beating like crazy!
+Let's do our best!
+###--------
+###Script:21
+Boy,my heart's
+beating like crazy!
+Let's do our best!
+###--------
+###Script:22
+Boy,my heart's
+beating like crazy!
+Let's do our best!
+###--------
+###Script:23
+Boy,my heart's
+beating like crazy!
+Let's do our best!
+###--------

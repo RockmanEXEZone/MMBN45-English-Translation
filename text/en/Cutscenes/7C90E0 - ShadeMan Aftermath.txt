@@ -1,0 +1,452 @@
+﻿###TextArchive:7C90E0
+###Script:0
+###Mugshot:ShadeMan
+Y-You swine...
+Don't think for a
+second this is the end...
+###--------
+###Mugshot:ShadeMan
+The DarkPower...
+is eternal...!
+###--------
+###Mugshot:ShadeMan
+Wh-Wh-Wheeeeeeee!!
+###--------
+###Script:1
+###Mugshot:MegaMan
+ShadeMan...
+What a terrifying Navi.
+###--------
+###Mugshot:MegaMan
+OK,let's head back
+to Internet12!
+###--------
+###Mugshot:MegaMan
+We have to enter the
+Official Tournament!
+###--------
+###Script:2
+###Mugshot:Roll
+We did it! All thanks
+to your skill!
+###--------
+###Mugshot:Roll
+Nice operating!
+###--------
+###Mugshot:Roll
+Let's get back to
+Internet12!
+###--------
+###Mugshot:Roll
+Time to enter the
+Official Tournament!
+###--------
+###Script:3
+###Mugshot:GutsMan
+Yee-haw!
+We did it!
+###--------
+###Mugshot:GutsMan
+W-We were almost in
+trouble there...
+###--------
+###Mugshot:GutsMan
+If he got the draw on
+us... Makes me shudder
+just thinkin' about it!
+###--------
+###Mugshot:GutsMan
+Let's get back to
+Internet12!
+###--------
+###Mugshot:GutsMan
+We're gonna win that
+Official Tournament!
+###--------
+###Script:4
+###Mugshot:WindMan
+The smog is fading...
+###--------
+###Mugshot:WindMan
+Not even DarkPower
+stands a chance
+against a pure wind.
+###--------
+###Mugshot:WindMan
+Now,let us return
+to Internet12.
+###--------
+###Mugshot:WindMan
+We have to finish our
+application for the
+Official Tournament...
+###--------
+###Script:5
+###Mugshot:SearchMan
+Mission complete...
+###--------
+###Mugshot:SearchMan
+You picked a poor
+opponent...ShadeMan.
+###--------
+###Mugshot:SearchMan
+Let's return to
+Internet12.
+###--------
+###Mugshot:SearchMan
+We need to complete
+our registration for
+the Official Tournament.
+###--------
+###Script:6
+###Mugshot:FireMan
+See? Told ya so...
+###--------
+###Mugshot:FireMan
+Demons are always
+weak to fire!
+###--------
+###Mugshot:FireMan
+Gahahah...
+That was a blast.
+###--------
+###Mugshot:FireMan
+Let's keep it up
+for the Official
+Tournament,got it!?
+###--------
+###Mugshot:FireMan
+Let's get back to
+Internet12 and enter
+that tournament!
+###--------
+###Mugshot:FireMan
+I'm all fired up now!
+###--------
+###Script:7
+###Mugshot:ThunderMan
+If you do reincarnate,
+I pray it's in the form
+of a kind-hearted being.
+###--------
+###Mugshot:ThunderMan
+Now,let us return
+to Internet12.
+###--------
+###Mugshot:ThunderMan
+Our registration for
+the Official Tournament
+is still incomplete.
+###--------
+###Script:8
+###Mugshot:ProtoMan
+Mission complete!
+###--------
+###Mugshot:ProtoMan
+ShadeMan...
+A formidable foe.
+###--------
+###Mugshot:ProtoMan
+But there's nothing
+I can't cut down!
+###--------
+###Mugshot:ProtoMan
+OK,let's return to
+Internet12!
+###--------
+###Mugshot:ProtoMan
+We need to wrap up
+our registration for
+the Official Tournament.
+###--------
+###Script:9
+###Mugshot:NumberMan
+...I-I'm alive...
+###--------
+###Mugshot:NumberMan
+S-So...
+I won,huh...
+###--------
+###Mugshot:NumberMan
+T-Thank goodness!!
+###--------
+###Mugshot:NumberMan
+In my panicked state,
+I must have...
+###--------
+###Mugshot:NumberMan
+A-Anyway!
+L-Let's get out of
+this snake pit quickly!
+###--------
+###Mugshot:NumberMan
+We need to complete our
+registration for the
+###++++++++
+###Mugshot:NumberMan
+Official Tournament
+in Internet12!
+###--------
+###Mugshot:NumberMan
+L-Let's go there
+pronto... R-Right!?
+###--------
+###Script:10
+###Mugshot:MetalMan
+I put all I've got into
+my punches! Nothing
+my fists can't break!
+###--------
+###Mugshot:MetalMan
+...Let's get back to
+Internet12.
+###--------
+###Mugshot:MetalMan
+We have to enter the
+Official Tournament.
+###--------
+###Script:11
+###Mugshot:JunkMan
+W-We did it!
+I... I-I won!!
+###--------
+###Mugshot:JunkMan
+I-I kept thinking
+I was d-done for...
+It's all thanks to you!
+###--------
+###Mugshot:JunkMan
+I-I'm so happy!
+###--------
+###Mugshot:JunkMan
+Let's win the
+Official Tournament
+like this,too!
+###--------
+###Mugshot:JunkMan
+Oh!
+We haven't f-finished
+entering yet!
+###--------
+###Mugshot:JunkMan
+Let's get back
+to Internet12!
+###--------
+###Script:12
+###Mugshot:AquaMan
+D-Drip...
+###--------
+###Mugshot:AquaMan
+I-I thought it was
+all over,drip!
+###--------
+###Mugshot:AquaMan
+My legs are still
+shaking!
+###--------
+###Mugshot:AquaMan
+S-Still!
+Nice operating,drip!
+###--------
+###Mugshot:AquaMan
+H-Hurry!
+Let's return to
+Internet12,drip!
+###--------
+###Mugshot:AquaMan
+We have to enter the
+Official Tournament!
+###--------
+###Mugshot:AquaMan
+I don't wanna stay
+here for another
+second,drip!
+###--------
+###Script:13
+###Mugshot:WoodMan
+Behold the power of
+the Earth!
+###++++++++
+###Mugshot:WoodMan
+And the power of
+the sun,always
+shining down!
+###--------
+###Mugshot:WoodMan
+DarkPower is no
+match for this!
+###--------
+###Mugshot:WoodMan
+Now,are you tired?
+Let's return to
+Internet12.
+###--------
+###Mugshot:WoodMan
+We have to finish
+entering the
+Official Tournament.
+###--------
+###Script:14
+###Mugshot:StarMan
+W-We won...
+Were the stars
+on our side?
+###--------
+###Mugshot:StarMan
+Let's hurry back
+to Internet12.
+###--------
+###Mugshot:StarMan
+The Official Tournament
+is waiting for us!
+###--------
+###Script:15
+###Mugshot:ShadowMan
+Don't think you're
+the only dweller of
+the dark,ShadeMan...
+###--------
+###Mugshot:ShadowMan
+I,too,have always
+lived in a world
+of darkness...
+###--------
+###Mugshot:ShadowMan
+I'm well versed in
+its ways of battle...
+...Hmph.
+###--------
+###Mugshot:ShadowMan
+Now then,let's return
+to Internet12...
+###--------
+###Mugshot:ShadowMan
+We have some
+unfinished business
+###++++++++
+###Mugshot:ShadowMan
+with the Official
+Tournament
+entry desk.
+###--------
+###Script:16
+###Mugshot:KnightMan
+All evil in this world
+shall answer to me!
+###--------
+###Mugshot:KnightMan
+Now,let us return
+to Internet12.
+###--------
+###Mugshot:KnightMan
+We must bring news
+of ShadeMan's defeat,
+###--------
+###Mugshot:KnightMan
+and settle our
+entrance into the
+Official Tournament.
+###--------
+###Script:17
+###Mugshot:NapalmMan
+Tsk...
+He forced my hand...
+###--------
+###Mugshot:NapalmMan
+That guy was stronger
+than I thought.
+###--------
+###Mugshot:NapalmMan
+I got a bit nervous
+there...
+###--------
+###Mugshot:NapalmMan
+But he was no match
+for me in the end!
+###--------
+###Mugshot:NapalmMan
+Hey,we're goin' back
+to Internet12!
+###--------
+###Mugshot:NapalmMan
+I'm still not satisfied.
+We gotta enter the
+Official Tournament!
+###--------
+###Script:18
+###Mugshot:IceMan
+T-T-That was scary...
+I've never met such
+a scary Navi before...
+###--------
+###Mugshot:IceMan
+B-But after that
+last battle,I'm
+feeling more confident!
+###--------
+###Mugshot:IceMan
+With this,we should be
+able to do well in the
+Official Tournament!
+###--------
+###Mugshot:IceMan
+Let's go enter in
+Internet12!
+###--------
+###Script:19
+###Mugshot:ElecMan
+I've...discharged
+too much power...
+###--------
+###Mugshot:ElecMan
+After we go enter that
+Official Tournament
+in Internet12,
+###--------
+###Mugshot:ElecMan
+I could really use
+a recharge...
+###--------
+###Script:20
+###Mugshot:PlantMan
+Sweet dreams,
+ShadeMan...
+###--------
+###Mugshot:PlantMan
+But know that you'll
+never blossom into
+a flower.
+###--------
+###Mugshot:PlantMan
+You only get one
+chance to bloom...
+###--------
+###Mugshot:PlantMan
+Now then,why don't we
+return to Internet12?
+###--------
+###Mugshot:PlantMan
+Let's set the grand
+stage for our flowers...
+The Official Tournament.
+###--------
+###Script:21
+###Mugshot:Bass
+You call that DarkPower?
+You boring worm...
+###--------
+###Mugshot:Bass
+...Hey.
+###--------
+###Mugshot:Bass
+The Official Tournament
+will have plenty of
+###++++++++
+###Mugshot:Bass
+interesting opponents
+to crush,correct?
+###--------
+###Mugshot:Bass
+Hmph,let's get back
+to Internet12 then...
+###--------

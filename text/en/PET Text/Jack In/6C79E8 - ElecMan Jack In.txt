@@ -1,0 +1,7 @@
+﻿###TextArchive:6C79E8
+###Script:1
+Jack in!
+ElecMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

@@ -1,0 +1,7 @@
+﻿###TextArchive:6BC2F8
+###Script:1
+Jack in!
+NapalmMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

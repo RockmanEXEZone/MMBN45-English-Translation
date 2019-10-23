@@ -1,0 +1,342 @@
+﻿###TextArchive:7C9C44
+###Script:0
+A world where hatred
+swirls eternally...
+###--------
+This world...
+Everything...
+I hate it...
+###--------
+###Script:1
+###Mugshot:LaserMan
+I am LaserMan...
+###--------
+###Mugshot:LaserMan
+From far,far away,
+the power of hatred
+has drawn me here...
+###--------
+###Mugshot:LaserMan
+Why am I here...?
+###--------
+###Mugshot:LaserMan
+Why are my days spent
+seeking battle...?
+###--------
+###Mugshot:LaserMan
+For the life of me,
+I cannot remember...
+###--------
+###Mugshot:LaserMan
+But when I give my
+body to the hatred
+that overflows within,
+###--------
+###Mugshot:LaserMan
+and lose myself in
+the heat of battle...
+###--------
+###Mugshot:LaserMan
+I can faintly remember
+my original self...
+###--------
+###Mugshot:LaserMan
+Now,in this vortex
+of hatred...
+Make me go mad!!
+###--------
+###Script:2
+###Mugshot:MegaMan
+T-This terrifying
+DarkPower,swelling
+with hatred...
+###--------
+###Mugshot:MegaMan
+I'm leaving the
+operating to you!
+###--------
+###Mugshot:MegaMan
+Battle routine,set!
+Execute!!
+###--------
+###Script:3
+###Mugshot:Roll
+...W-W-What the heck!?
+This guy's gone nuts!
+###--------
+###Mugshot:Roll
+No way am I losing
+to someone like that!
+###--------
+###Mugshot:Roll
+Hey,I'm counting
+on your operating!
+Give it your all!
+###--------
+###Mugshot:Roll
+Let's do it!!
+###--------
+###Script:4
+###Mugshot:GutsMan
+GutsMan's got guts,too!
+If he wants a fight,
+then I'm gonna win!
+###--------
+###Mugshot:GutsMan
+Let's do it!
+YEEEE-HAAAAWW!!
+###--------
+###Script:5
+###Mugshot:WindMan
+How pathetic,LaserMan...
+You've been swallowed
+up in hatred!
+###--------
+###Mugshot:WindMan
+With the power of the
+wind,your hatred shall
+be blown away!
+###--------
+###Mugshot:WindMan
+*whoooosh!!*
+###--------
+###Script:6
+###Mugshot:SearchMan
+...Here he comes!
+Prepare for combat!
+###--------
+###Mugshot:SearchMan
+...Target,lock-on!
+###--------
+###Mugshot:SearchMan
+Mission start!!
+###--------
+###Script:7
+###Mugshot:FireMan
+Tsk,if hatred is
+all ya got to
+prove you exist...
+###--------
+###Mugshot:FireMan
+Then you're even
+more pathetic
+than I thought...
+###--------
+###Mugshot:FireMan
+I'm gonna burn away
+all of your hatred...
+###--------
+###Mugshot:FireMan
+FIREEEEEE!!
+###--------
+###Script:8
+###Mugshot:ThunderMan
+I'll make you taste
+my power of thunder
+and lightning...
+###--------
+###Mugshot:ThunderMan
+It'll be a real shock
+for your heart
+twisted by hatred!
+###--------
+###Script:9
+###Mugshot:ProtoMan
+LaserMan...
+That name's on the
+Officials' blacklist.
+###--------
+###Mugshot:ProtoMan
+A Special S-Rank
+criminal...
+###--------
+###Mugshot:ProtoMan
+So he was here the
+whole time...!
+###--------
+###Mugshot:ProtoMan
+...Your villainy
+ends here!
+###--------
+###Script:10
+###Mugshot:NumberMan
+T-This has nothing
+to do with me!
+###--------
+###Mugshot:NumberMan
+I-I'll just be on
+my way home!
+###--------
+###Mugshot:LaserMan
+Graaaaaaahhhh!!
+###--------
+###Mugshot:NumberMan
+E-Eeeek!
+Save meeee!!
+###--------
+###Script:11
+###Mugshot:MetalMan
+Don't think you can beat
+me by letting hatred
+control your body.
+###--------
+###Mugshot:MetalMan
+I'll slam you back
+on the straight and
+narrow with my fists!
+###--------
+###Script:12
+###Mugshot:JunkMan
+I-I know it all too well...
+How it feels when no
+one understands you...
+###--------
+###Mugshot:JunkMan
+But that feeling
+is gone now!
+###--------
+###Mugshot:JunkMan
+I-I can't lose to you!!
+###--------
+###Script:13
+###Mugshot:AquaMan
+D-Drip,drip!
+###--------
+###Mugshot:AquaMan
+T-That power of hatred
+is incredible,drip!
+###--------
+###Mugshot:AquaMan
+The water in my
+head's gonna be
+contaminated...!
+###--------
+###Mugshot:AquaMan
+D-Don't come any
+closer,drip!
+###--------
+###Script:14
+###Mugshot:WoodMan
+Your power of hatred
+springs from turmoil...
+###--------
+###Mugshot:WoodMan
+I will give you
+the peace of
+eternal slumber!
+###--------
+###Script:15
+###Mugshot:StarMan
+Oh boy... With my power
+alone,it doesn't seem
+likely I'll win...
+###--------
+###Mugshot:StarMan
+Stars twinkling in
+the night sky above!
+Lend me your power!
+###--------
+###Mugshot:StarMan
+Let's blast off!!
+###--------
+###Script:16
+###Mugshot:ShadowMan
+So that's your
+true form...
+###++++++++
+###Mugshot:ShadowMan
+A ghost clinging to
+life,to the power
+of hatred...
+###--------
+###Mugshot:ShadowMan
+I'll guide you to
+the other side with
+my ninjutsu!
+###--------
+###Mugshot:ShadowMan
+Kaaaah!!
+###--------
+###Script:17
+###Mugshot:KnightMan
+Hmph!
+###--------
+###Mugshot:KnightMan
+Knight of heresy,
+clad in darkness!
+###--------
+###Mugshot:KnightMan
+I shall smite your
+malice with my flail!
+###--------
+###Script:18
+###Mugshot:NapalmMan
+You got the same kinda
+smell that I do...
+###--------
+###Mugshot:NapalmMan
+Hey...
+So you only feel
+truly alive
+###--------
+###Mugshot:NapalmMan
+when you're in the
+middle of fightin',huh?
+Just like me...
+###--------
+###Mugshot:NapalmMan
+Let's enjoy a fight
+between us two
+messed-up Navis...
+###--------
+###Mugshot:NapalmMan
+...Bring it!!
+###--------
+###Script:19
+###Mugshot:IceMan
+I-I'll leave the
+operating to you!
+###--------
+###Mugshot:IceMan
+We can't handle
+this guy like any
+other Navi!
+###--------
+###Mugshot:IceMan
+H-Here he comes!!
+###--------
+###Script:20
+###Mugshot:ElecMan
+This power...
+###--------
+###Mugshot:ElecMan
+Will my electricity
+work on an enemy
+like this...?
+###--------
+###Mugshot:ElecMan
+Seems I have no
+choice but to try...
+Get ready...
+###--------
+###Mugshot:ElecMan
+...Let's go!
+1 million volts!!
+###--------
+###Script:21
+###Mugshot:PlantMan
+Careful...
+This rose has thorns!
+##Think you're able to
+##scatter my petals...?
+###--------
+###Script:22
+###Mugshot:Bass
+The power of hatred,
+huh...?
+###--------
+###Mugshot:Bass
+Interesting...
+Come,give me your
+best shot.
+###--------

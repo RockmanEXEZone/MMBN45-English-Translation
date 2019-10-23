@@ -1,0 +1,77 @@
+﻿###TextArchive:65AFA0
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+<printScheduleBuffer> is
+about to be on!
+Quick,to the TV!
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+###Script:2
+Time to meet
+with <printScheduleBuffer>!
+###Command:printScheduleBuffer
+###++++++++
+I'm looking
+forward to it!
+###--------
+###Script:3
+It's time to eat!
+###--------
+###Script:4
+It's almost time
+for school!
+Do your best!
+###--------
+###Script:5
+It's time for
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:6
+After that...
+###--------
+###Script:21
+###Mugshot:MegaMan
+<printScheduleBuffer> is
+about to be on!
+Quick, to the TV!
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+###Script:22
+###Mugshot:MegaMan
+Time to meet
+with <printScheduleBuffer>!
+###Command:printScheduleBuffer
+###++++++++
+###Mugshot:MegaMan
+I'm looking
+forward to it!
+###--------
+###Script:23
+###Mugshot:MegaMan
+It's time to eat!
+###--------
+###Script:24
+###Mugshot:MegaMan
+It's almost time
+for school!
+Do your best!
+###--------
+###Script:25
+###Mugshot:MegaMan
+It's time for
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:MegaMan
+After that...
+###--------

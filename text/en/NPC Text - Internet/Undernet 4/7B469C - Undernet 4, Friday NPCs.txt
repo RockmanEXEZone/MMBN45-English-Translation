@@ -1,0 +1,191 @@
+﻿###TextArchive:7B469C
+###Script:0
+###Mugshot:HeelNaviBlack
+Ah,perfect...
+Fight me...
+###--------
+<positionOptionHorizontal><option><space> Bring it!  <option><space> No thanks
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviBlack
+Scared,huh...
+###--------
+###Mugshot:HeelNaviBlack
+No point fighting
+a weakling anyway!
+###--------
+###Script:1
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:HeelNaviBlack
+You're stronger...
+Than I thought...
+###--------
+###Script:3
+###Mugshot:HeelNaviBlack
+So that's all
+you've got...
+###--------
+###Mugshot:HeelNaviBlack
+If your life is
+precious to you,
+###++++++++
+###Mugshot:HeelNaviBlack
+hurry up and get
+out of the Undernet.
+###--------
+###Mugshot:HeelNaviBlack
+With skill like that,
+you can't stay here.
+###--------
+###Script:4
+###Mugshot:NormNaviYellow
+I'm a surface Navi
+who was lured in
+by the DarkPower...
+###--------
+###Mugshot:NormNaviYellow
+From the looks of
+it,you're here for
+the same reason...
+###--------
+###Mugshot:NormNaviYellow
+Care to have a
+battle as equals?
+###--------
+<positionOptionHorizontal><option><space> Yeah!  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Hmph...you won't
+last long in the
+Undernet like that.
+###--------
+###Script:5
+###Mugshot:NormNaviYellow
+Hwaaaaaa...
+O darkness...
+Give me power!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+Execute!
+###--------
+###Script:6
+###Mugshot:NormNaviYellow
+I-I don't have
+enough DarkPower...!?
+###--------
+###Script:7
+###Mugshot:NormNaviYellow
+This is what the
+DarkPower is like!
+###--------
+###Script:8
+###Mugshot:HeelNaviPurple
+Fwaaahhhh...
+###--------
+###Mugshot:HeelNaviPurple
+You...me...
+Fight...now...
+###--------
+<positionOptionHorizontal><option><space> Okay!  <option><space> No way!
+###Command:positionOptionHorizontal width=13
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+You're...a coward...
+###--------
+###Script:9
+###Mugshot:HeelNaviPurple
+Begin...battle...
+Ooohhh... Waahhh...
+###--------
+###Script:10
+###Mugshot:HeelNaviPurple
+You're...strong...
+###--------
+###Script:11
+###Mugshot:HeelNaviPurple
+You're...weak...
+###--------
+###Script:12
+###Mugshot:HeelNaviPurple
+Hrrraaaaaaaaa!!
+WE BATTLE NOOOOW!!
+###--------
+###Script:13
+###Mugshot:HeelNaviPurple
+I-I lost!?
+Uwaaaaargh!!
+###--------
+###Script:14
+###Mugshot:HeelNaviPurple
+Heh heh heh...
+###--------
+###Mugshot:HeelNaviPurple
+That was so heated,
+I feel like I'm about
+to burst into flames...
+###--------
+###Script:15
+###Mugshot:HeelNaviPurple
+Bonjour!
+###--------
+###Mugshot:HeelNaviPurple
+Would you care
+to battle me?
+###--------
+<positionOptionHorizontal><option><space> Okay!  <option><space> No way!
+###Command:positionOptionHorizontal width=13
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Here I was planning
+a bloody banquet...
+Just for you...
+###--------
+###Script:16
+###Mugshot:HeelNaviPurple
+Excellent...
+You will be the
+special guest...
+###++++++++
+###Mugshot:HeelNaviPurple
+...to our bloody
+banquet!
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+Execute!
+###--------
+###Script:17
+###Mugshot:HeelNaviPurple
+You're very good...
+###--------
+###Script:18
+###Mugshot:HeelNaviPurple
+Hehehehehehehe...
+###++++++++
+###Mugshot:HeelNaviPurple
+How did you like it...?
+The bloody banquet
+thrown in your honor...
+###--------

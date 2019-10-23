@@ -1,0 +1,310 @@
+﻿###TextArchive:66B0D4
+###Script:0
+###Mugshot:WindMan
+Today is 
+###--------
+###Mugshot:WindMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------
+###Mugshot:WindMan
+<printBuffer>.
+What do you
+want to do...?
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------
+###Script:1
+###Mugshot:WindMan
+Schedule something
+for which day?
+###--------
+###Script:2
+###Mugshot:WindMan
+What to register?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:3
+###Mugshot:WindMan
+That day already
+passed...
+###--------
+###Script:4
+###Mugshot:WindMan
+You cannot register
+any more...
+###--------
+###Mugshot:WindMan
+To add more,delete
+some existing plans
+first.
+###--------
+###Script:5
+###Mugshot:WindMan
+What to delete?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:6
+###Mugshot:WindMan
+Check plans for
+which day?
+###--------
+###Script:7
+###Mugshot:WindMan
+What to register?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:8
+###Mugshot:WindMan
+What to delete?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:10
+###Mugshot:WindMan
+These are your
+things,<printPlayerNickname>⋯
+<spacePx><option><space> Check Key Items
+###Command:printPlayerNickname
+###Command:spacePx count=8
+###Command:option brackets=false left=0 right=0 up=0 down=0
+###Command:space count=1
+###--------
+###Script:20
+###Mugshot:WindMan
+From what time?
+###--------
+###Script:21
+###Mugshot:WindMan
+How frequent?
+###--------
+###Script:22
+###Mugshot:WindMan
+What are the details?
+###--------
+###Script:23
+###Mugshot:WindMan
+Meet with whom?
+###--------
+###Script:24
+###Mugshot:WindMan
+Is this acceptable?
+
+
+###--------
+###Mugshot:WindMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:25
+###Mugshot:WindMan
+<printPlayerNickname>,
+you have plans at
+that time already.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:30
+###Mugshot:WindMan
+I will overwrite them,
+is that acceptable?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:31
+###Mugshot:WindMan
+What sort of holiday?
+###--------
+###Script:32
+###Mugshot:WindMan
+Register where?
+###--------
+###Script:33
+###Mugshot:WindMan
+Is this acceptable?
+
+
+###--------
+###Mugshot:WindMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:40
+###Mugshot:WindMan
+Transfer SubChips
+to me here...
+###--------
+###Script:41
+###Mugshot:WindMan
+Change my
+equipment here...
+###--------
+###Script:42
+###Mugshot:WindMan
+Check the
+Data Library here...
+###--------
+###Script:43
+###Mugshot:WindMan
+Check your
+mail here.
+###--------
+###Script:44
+###Mugshot:WindMan
+Check your
+Key Items here...
+###--------
+###Script:45
+###Mugshot:WindMan
+Save your
+progress here...
+###--------
+###Script:50
+###Mugshot:WindMan
+<printBuffer>:
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:WindMan
+<printBuffer>
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Mugshot:WindMan
+<printScheduleBuffer> 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:WindMan
+<printScheduleBuffer>
+ 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:WindMan
+"<printScheduleBuffer>"
+will be deleted...
+###Command:printScheduleBuffer
+###--------
+###Mugshot:WindMan
+Is that acceptable?
+
+
+###--------
+###Mugshot:WindMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:WindMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:51
+###Mugshot:WindMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Mugshot:WindMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:WindMan
+<printBuffer> 
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:WindMan
+(<printScheduleBuffer>)
+ 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:WindMan
+"<printScheduleBuffer>"
+will be deleted...
+###Command:printScheduleBuffer
+###--------
+###Mugshot:WindMan
+Is that acceptable?
+
+
+###--------
+###Mugshot:WindMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:WindMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:52
+###Mugshot:WindMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:WindMan
+<printBuffer>
+ 
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:WindMan
+"<printScheduleBuffer>"
+will be deleted...
+###Command:printScheduleBuffer
+###--------
+###Mugshot:WindMan
+Is that acceptable?
+
+
+###--------
+###Mugshot:WindMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:WindMan
+<wait>
+###Command:wait frames=1
+###--------

@@ -1,0 +1,1174 @@
+﻿###TextArchive:7A152C
+###Script:0
+###Mugshot:MrProgGreen
+GREAT WORK!
+###--------
+###Mugshot:MrProgGreen
+THE APPRENTICE NET-
+BATTLER EXAM CENTER
+IS JUST AHEAD!
+###--------
+###Mugshot:MrProgGreen
+I'M HERE TO WISH
+EVERYONE GOOD LUCK!
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+GOOD MORNING TO YOU!
+###--------
+###Mugshot:MrProgGreen
+UP AHEAD IS THE
+APPRENTICE NET-
+BATTLER EXAM CENTER!
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+IT'S ALREADY TIME
+TO BE SAYING GOOD
+EVENING!
+###--------
+###Mugshot:MrProgGreen
+AND PRETTY SOON
+IT'LL BE TIME FOR
+ME TO GO HOME!
+###--------
+###Script:10
+###Mugshot:HeelNaviBlack
+I'm training right now
+so I can call myself
+"the strongest"...
+###--------
+###Mugshot:HeelNaviBlack
+If you don't have any
+business with me,please
+don't talk to me.
+###--------
+###Script:11
+###Mugshot:HeelNaviBlack
+Just what does
+it mean to be
+"the strongest"...?
+###--------
+###Mugshot:HeelNaviBlack
+What is it I have to
+do to claim that title?
+###--------
+###Mugshot:HeelNaviBlack
+I can't imagine it's
+as simple as always
+winning in battles...
+###--------
+###Script:12
+###Mugshot:HeelNaviBlack
+I'm in the middle of
+training to become
+"the strongest"...
+###--------
+###Mugshot:HeelNaviBlack
+Right now,I don't
+have any interest in
+NetBattling for fun.
+###--------
+###Script:13
+###Mugshot:HeelNaviBlack
+The title of
+"the strongest"...
+###--------
+###Mugshot:HeelNaviBlack
+When I earn that
+title,just what am
+I going to see!?
+###--------
+###Mugshot:HeelNaviBlack
+Once I attain it,what's
+left to struggle for?
+###--------
+###Mugshot:HeelNaviBlack
+As a fighter yourself,
+you must be dying to
+find out too,right?
+###--------
+###Script:14
+###Mugshot:HeelNaviBlack
+I'm in the middle
+of training...
+###--------
+###Mugshot:HeelNaviBlack
+I'm not here to
+make friends.
+###--------
+###Script:15
+###Mugshot:HeelNaviBlack
+I'm committed to my
+training to become
+"the strongest" now.
+###--------
+###Mugshot:HeelNaviBlack
+Discipline of spirit
+comes first. I'm not
+interested in NetBattles.
+###--------
+###Script:16
+###Mugshot:HeelNaviBlack
+If you're looking
+for a NetBattle,
+don't ask me...
+###--------
+###Mugshot:HeelNaviBlack
+I'm in the middle
+of training. I can't
+NetBattle right now.
+###--------
+###Script:20
+###Mugshot:MrProgGreen
+HIYAAAHHH!!
+YA-HOO!!
+###--------
+###Mugshot:MrProgGreen
+THIS IS INTERNET2!
+###--------
+###Mugshot:MrProgGreen
+LET'S PUMP IT UP
+AND KEEP IT UP!
+###--------
+###Mugshot:MrProgGreen
+PUMP!
+###--------
+###Mugshot:MrProgGreen
+IT!!
+###--------
+###Mugshot:MrProgGreen
+UUUUUP!!!
+###--------
+###Script:21
+###Mugshot:MrProgGreen
+WOAAAAAAH!!
+IT'S A BRAND
+NEW DAY!!
+###--------
+###Mugshot:MrProgGreen
+GOOD MORNING!!
+THIS IS INTERNET2!!
+###--------
+###Mugshot:MrProgGreen
+LET'S PUMP IT UP
+AND KEEP IT UP
+TODAY!
+###--------
+###Script:22
+###Mugshot:MrProgGreen
+NOT GOOD MORNING!
+CUZ IT'S ALREADY
+AFTERNOON!
+###--------
+###Mugshot:MrProgGreen
+HAHAHA! THE BRIGHT
+DAYLIGHT SURE GETS
+ME PUMPED UP!!
+###--------
+###Script:23
+###Mugshot:MrProgGreen
+THIS IS INTERNET2!
+DON'T CARE IF IT'S
+BRIGHT OR DARK!
+###--------
+###Mugshot:MrProgGreen
+YOU HEAR ME!?
+###--------
+###Mugshot:MrProgGreen
+THAT'S RIGHT!
+###--------
+###Mugshot:MrProgGreen
+EVEN AT NIGHT,I'M
+GONNA PUMP IT UP!!
+###--------
+###Script:24
+###Mugshot:MrProgGreen
+TIME FOR SLEEP MODE!
+###--------
+###Mugshot:MrProgGreen
+IN OTHER WORDS,I'M
+GOING TO SLEEP NOW!
+###--------
+###Mugshot:MrProgGreen
+BUT EVEN THEN,I'LL
+STILL PUMP IT UP!!
+###--------
+...This Mr.Prog
+automatically greets
+anyone who passes by.
+###--------
+It still seems to
+be pumped up,
+even during sleep.
+###--------
+###Script:30
+###Mugshot:AquaMan
+Drip,drip!
+###--------
+###Mugshot:AquaMan
+Well,if it isn't
+<printCurrentNavi>, drip!
+###Command:printCurrentNavi
+###--------
+###Mugshot:AquaMan
+Let's have a
+battle,drip!
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> Nah
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:AquaMan
+I see...
+That's too bad,drip...
+###--------
+###Script:31
+###Mugshot:AquaMan
+Drip drip!!
+###--------
+###Mugshot:AquaMan
+I lost...
+This drips...
+###--------
+###Mugshot:AquaMan
+I'll work hard to
+make sure I don't
+lose next time,drip!
+###--------
+###Script:32
+###Mugshot:AquaMan
+Driiiip! Driiiip!
+###--------
+###Mugshot:AquaMan
+I won,I won!
+###--------
+###Mugshot:AquaMan
+That was fun!
+Let's battle again
+sometime,drip!
+###--------
+###Script:33
+###Mugshot:GutsMan
+Guts guts!
+###--------
+###Mugshot:GutsMan
+Let's have a brawl!
+###--------
+<positionOptionHorizontal><option><space> Yeah  <option><space> Nah
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:GutsMan
+Don't leave me
+hanging...
+###--------
+###Script:34
+###Mugshot:GutsMan
+Guuuuuuts!!
+You got me!
+###--------
+###Mugshot:GutsMan
+N-Next time I'm
+definitely gonna win!
+###--------
+###Script:35
+###Mugshot:GutsMan
+My Guts power is
+through the roof!
+###--------
+###Mugshot:GutsMan
+Great battle!
+Let's have another
+one sometime!
+###--------
+###Script:36
+###Mugshot:AquaMan
+Yay!
+###--------
+###Mugshot:AquaMan
+All right,I'll give
+it my best,drip!
+###--------
+###Mugshot:AquaMan
+Battle routine,set!
+###--------
+###Mugshot:AquaMan
+Execute,drip!!
+###--------
+###Script:37
+###Mugshot:GutsMan
+I'll show off my guts!
+Time to give it
+everything I've got!
+###--------
+###Mugshot:GutsMan
+Battle routine,set!
+###--------
+###Mugshot:GutsMan
+Execute!
+###--------
+###Script:38
+###Mugshot:AquaMan
+What the drip!?
+###--------
+###Mugshot:AquaMan
+Who are you!?
+###--------
+###Mugshot:AquaMan
+This suspicious guy
+looks just like me!
+###--------
+###Mugshot:AquaMan
+Battle with me,drip!!
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> Nah
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:AquaMan
+I feel strangely
+disappointed,drip...
+###--------
+###Script:39
+###Mugshot:GutsMan
+Guts...!
+###--------
+###Mugshot:GutsMan
+G-GutsMan!?
+###--------
+###Mugshot:GutsMan
+I don't get what's
+goin' on here,
+###--------
+###Mugshot:GutsMan
+but you and I should
+have a battle of guts!
+###--------
+<positionOptionHorizontal><option><space> Yeah  <option><space> Nah
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:GutsMan
+Don't leave me
+hanging...
+###--------
+###Script:40
+###Mugshot:NumberMan
+You want to proceed
+past this point?
+###--------
+###Mugshot:NumberMan
+Are your academic
+abilities up to
+the task?
+###--------
+###Mugshot:NumberMan
+I'll test your
+mathematical skills.
+###--------
+###Mugshot:NumberMan
+If I'm convinced of
+your prowess, I'll
+allow you to pass.
+###--------
+###Mugshot:NumberMan
+Shall we?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NumberMan
+Then, let's begin!
+###--------
+###Script:41
+###Mugshot:NumberMan
+Y-You did it...
+###--------
+###Mugshot:NumberMan
+Very well...
+I'll clear the
+path for you.
+###--------
+###Script:42
+###Mugshot:NumberMan
+You haven't
+studied enough!
+###--------
+###Mugshot:NumberMan
+Try again at the
+re-examination!
+###--------
+###Script:43
+###Mugshot:NumberMan
+I see...
+###--------
+###Script:130
+###Mugshot:OfficialNavi
+Ah,you're here to
+take the Apprentice
+License exam,right?
+###--------
+###Mugshot:OfficialNavi
+Then I'll go right
+ahead and explain the
+contents of the exam!
+###--------
+###Mugshot:OfficialNavi
+The exam is made
+up of two parts.
+###--------
+###Mugshot:OfficialNavi
+For the first test...
+###--------
+###Mugshot:OfficialNavi
+I will check to see if
+you know the necessary
+NetBattling material.
+###--------
+###Mugshot:OfficialNavi
+After that is
+the second test...
+###--------
+###Mugshot:OfficialNavi
+It's simply a practical
+exam. In other words,
+virus busting.
+###--------
+###Mugshot:OfficialNavi
+However, the goal
+isn't just to delete
+the viruses,
+###--------
+###Mugshot:OfficialNavi
+but rather,to obtain
+the BattleChips
+they hold.
+###--------
+###Mugshot:OfficialNavi
+That about wraps
+up the explanation.
+###--------
+###Mugshot:OfficialNavi
+So,shall we begin
+the exam?
+###--------
+<positionOptionHorizontal><option><space> Ready!  <option><space> Wait!
+###Command:positionOptionHorizontal width=11
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Everyone gets nervous
+before a test.
+###--------
+###Mugshot:OfficialNavi
+Once you're fully
+prepared,come
+back again,okay?
+###--------
+###Script:131
+###Mugshot:OfficialNavi
+Then,the first part
+of the Apprentice
+NetBattler exam starts...
+###--------
+###Mugshot:OfficialNavi
+...Now!
+###--------
+###Mugshot:OfficialNavi
+First up is the
+basic NetBattler
+knowledge test.
+###--------
+###Mugshot:OfficialNavi
+You'll need to answer
+10 questions in a row.
+###--------
+###Mugshot:OfficialNavi
+Let's begin!
+###--------
+###Script:132
+###Mugshot:OfficialNavi
+Question #1!
+###--------
+###Mugshot:OfficialNavi
+What is the term used
+when a NetNavi is
+###--------
+###Mugshot:OfficialNavi
+sent from the PET
+to the Cyberworld?
+###--------
+<positionOptionVertical><option><space> Check in
+<positionOptionVertical><option><space> Jack out
+<positionOptionVertical><option><space> Jack in
+###Command:positionOptionVertical width=5
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=5
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=5
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Correct!
+###--------
+###Mugshot:OfficialNavi
+OK,question #2!
+###--------
+###Mugshot:OfficialNavi
+During battle,when
+you hit an enemy
+with a BattleChip
+###--------
+###Mugshot:OfficialNavi
+right as they are
+about to attack,
+###--------
+###Mugshot:OfficialNavi
+they can no longer
+move for a short
+period of time.
+###--------
+###Mugshot:OfficialNavi
+What is this
+technique called?
+###--------
+<positionOptionVertical><option><space> Table
+<positionOptionVertical><option><space> Counter
+<positionOptionVertical><option><space> Revert
+###Command:positionOptionVertical width=5
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=5
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=5
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Correct!
+###--------
+###Mugshot:OfficialNavi
+On to question #3!
+###--------
+###Mugshot:OfficialNavi
+What is the term for
+a chip that does not
+###--------
+###Mugshot:OfficialNavi
+damage the enemy
+directly,such as
+AreaGrab?
+###--------
+<positionOptionVertical><option><space> Support Chip
+<positionOptionVertical><option><space> Custom Chip
+<positionOptionVertical><option><space> Helper Chip
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Correct!
+###--------
+###Mugshot:OfficialNavi
+Next,question #4!
+###--------
+###Mugshot:OfficialNavi
+A Mettaur has 40 HP.
+###--------
+###Mugshot:OfficialNavi
+What is "HP" an
+abbreviation for
+in this context?
+###--------
+<positionOptionVertical><option><space> HomePage
+<positionOptionVertical><option><space> Health Points
+<positionOptionVertical><option><space> Hit Points
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Correct!
+###--------
+###Mugshot:OfficialNavi
+Moving right along!
+Question #5!
+###--------
+###Mugshot:OfficialNavi
+You can arrange
+particular chips and
+combine them together
+###--------
+###Mugshot:OfficialNavi
+to create a more
+powerful attack. What
+is this process called?
+###--------
+<positionOptionVertical><option><space> Program Advantage
+<positionOptionVertical><option><space> Program Advance
+<positionOptionVertical><option><space> Perfect Chip
+###Command:positionOptionVertical width=15
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=15
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=15
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Correct!
+###--------
+###Mugshot:OfficialNavi
+The halfway point!
+Question #6!
+###--------
+###Mugshot:OfficialNavi
+What is it called when
+two separate chips
+work well together?
+###--------
+<positionOptionVertical><option><space> Congo
+<positionOptionVertical><option><space> Combo
+<positionOptionVertical><option><space> Convoy
+###Command:positionOptionVertical width=4
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=4
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=4
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Correct!
+###--------
+###Mugshot:OfficialNavi
+Next is question #7!
+###--------
+###Mugshot:OfficialNavi
+What is it called when
+you defeat two enemies
+at the same time?
+###--------
+<positionOptionVertical><option><space> Double Date
+<positionOptionVertical><option><space> Duple Delete
+<positionOptionVertical><option><space> Double Delete
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Correct!
+###--------
+###Mugshot:OfficialNavi
+Keep it up!
+Question #8!
+###--------
+###Mugshot:OfficialNavi
+What is the highest
+Busting Level?
+###--------
+<positionOptionVertical><option><space> 10
+<positionOptionVertical><option><space> S
+<positionOptionVertical><option><space> Z
+###Command:positionOptionVertical width=0
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=0
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=0
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Correct!
+###--------
+###Mugshot:OfficialNavi
+Almost there!
+Question #9!
+###--------
+###Mugshot:OfficialNavi
+If you want to talk
+to your operator
+while on the Net,
+###--------
+###Mugshot:OfficialNavi
+which button
+do you press?
+###--------
+<positionOptionVertical><option><space> A Button
+<positionOptionVertical><option><space> R Button
+<positionOptionVertical><option><space> L Button
+###Command:positionOptionVertical width=5
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=5
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=5
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Correct!
+###--------
+###Mugshot:OfficialNavi
+Last one!
+Question #10!
+###--------
+###Mugshot:OfficialNavi
+How much was the fee
+to take the Apprentice
+NetBattler exam?
+###--------
+<positionOptionVertical><option><space> 960z
+<positionOptionVertical><option><space> 530z
+<positionOptionVertical><option><space> 690z
+###Command:positionOptionVertical width=2
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=2
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=2
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Correct!
+###--------
+###Mugshot:OfficialNavi
+Good job! You've
+passed the first
+test of the exam!
+###--------
+###Mugshot:OfficialNavi
+Congratulations!
+###--------
+###Mugshot:OfficialNavi
+But don't celebrate
+just yet...
+###--------
+###Mugshot:OfficialNavi
+Next we have the
+second test of
+the exam!
+###--------
+###Mugshot:OfficialNavi
+This part involves
+winning a specific
+chip from virus battles.
+###--------
+###Mugshot:OfficialNavi
+Please bring back
+the "<printChip>" chip!
+###Command:printChip buffer=0 chip=104
+###--------
+###Mugshot:OfficialNavi
+That chip is held by
+viruses in the areas
+Internet3 and 4.
+###--------
+###Mugshot:OfficialNavi
+Make sure you win
+quickly and battle
+with good technique!
+###--------
+###Mugshot:OfficialNavi
+Of course,cheating
+is not allowed...
+###--------
+###Mugshot:OfficialNavi
+Off you go,then!
+###--------
+###Script:134
+###Mugshot:OfficialNavi
+That'll be 100z...
+###--------
+###Mugshot:OfficialNavi
+All right,shall
+we try again?
+###--------
+###Script:135
+###Mugshot:OfficialNavi
+Now then,have
+you fully prepared
+yourself!?
+###--------
+<positionOptionHorizontal><option><space> Ready!  <option><space> Wait!
+###Command:positionOptionHorizontal width=11
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+You're quite nervous,
+aren't you...?
+###--------
+###Script:136
+###Mugshot:OfficialNavi
+Would you like to
+retake the Apprentice
+NetBattler exam?
+###--------
+###Mugshot:OfficialNavi
+The required
+re-examination fee
+is 100 Zennys.
+###--------
+###Mugshot:OfficialNavi
+Is that alright?
+###--------
+<positionOptionHorizontal><option><space> Yup!  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Then come back
+later,if you're
+still interested...
+###--------
+###Script:137
+###Mugshot:OfficialNavi
+I'm very sorry,but
+you don't have
+enough money...
+###--------
+###Mugshot:OfficialNavi
+If you want to
+retake the exam,
+###--------
+###Mugshot:OfficialNavi
+save up 100 Zennys
+and come again.
+###--------
+###Script:138
+###Mugshot:OfficialNavi
+Ah...
+###--------
+###Mugshot:OfficialNavi
+Were you able to
+get a "<printChip>"?
+###Command:printChip buffer=0 chip=104
+###--------
+###Mugshot:OfficialNavi
+Well then,please
+allow me to verify...
+###--------
+###Mugshot:OfficialNavi
+Hmmm...
+###--------
+###Mugshot:OfficialNavi
+.........
+Confirmed!
+###--------
+###Mugshot:OfficialNavi
+Well done! You've
+passed the Apprentice
+NetBattler exam!
+###--------
+###Mugshot:OfficialNavi
+Yahooooo!!
+###--------
+###Mugshot:OfficialNavi
+Okay,I've contacted
+the education office.
+###--------
+###Mugshot:OfficialNavi
+Please go there to
+receive your license.
+###--------
+###Mugshot:OfficialNavi
+Congratulations!
+###--------
+###Script:139
+###Mugshot:OfficialNavi
+Ah,did you bring
+the chip with you?
+###--------
+###Mugshot:OfficialNavi
+In that case,
+please allow me
+to take a look...
+###--------
+###Mugshot:OfficialNavi
+Hmm...not yet,
+it seems...
+###--------
+###Mugshot:OfficialNavi
+The chip you have
+to get is "<printChip>".
+###Command:printChip buffer=0 chip=104
+###--------
+###Mugshot:OfficialNavi
+The viruses with
+that chip are in
+Internet3 and 4.
+###--------
+###Script:140
+###Mugshot:OfficialNavi
+The Apprentice License
+will be awarded in
+Internet3!
+###--------
+###Script:141
+###Mugshot:OfficialNavi
+Well! Looks like you've
+got real talent!
+###--------
+###Script:142
+###Mugshot:OfficialNavi
+Bzzzt!
+Sorry,but that's
+incorrect.
+###--------
+###Mugshot:OfficialNavi
+If you can't answer
+simple questions like
+these,you've still
+###--------
+###Mugshot:OfficialNavi
+got a way to go before
+you can call yourself
+Apprentice NetBattler!
+###--------
+###Mugshot:OfficialNavi
+The re-examination
+fee is 100 Zennys.
+###++++++++
+###Mugshot:OfficialNavi
+Want to try it
+one more time?
+###--------
+<positionOptionHorizontal><option><space> Y-Yeah  <option><space> Nope!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Oh well...
+###--------
+###Mugshot:OfficialNavi
+When you want to try
+the exam again,
+###--------
+###Mugshot:OfficialNavi
+save up 100 Zennys
+and come back here.
+###--------
+###Script:145
+###Mugshot:NormNaviYellow
+Hey!
+Hey,you!
+###--------
+###Mugshot:NormNaviYellow
+I don't suppose
+you're looking to
+go on ahead?
+###--------
+###Mugshot:NormNaviYellow
+Up ahead is a
+security door.
+###--------
+###Mugshot:NormNaviYellow
+If you don't have a
+"<printItem>",then it
+won't let you through.
+###Command:printItem buffer=0 item=8
+###--------
+###Mugshot:NormNaviYellow
+I hear that when
+this area was made,
+###--------
+###Mugshot:NormNaviYellow
+it cost quite a bit
+of money, and they
+went over budget.
+###--------
+###Mugshot:NormNaviYellow
+In order to make up
+for the loss,
+###--------
+###Mugshot:NormNaviYellow
+they're enforcing
+a toll now.
+###--------
+###Mugshot:NormNaviYellow
+Can you believe how
+much the managers
+of this area
+###--------
+###Mugshot:NormNaviYellow
+are selling
+"<printItem>" for?
+###Command:printItem buffer=0 item=8
+###--------
+###Mugshot:NormNaviYellow
+10000 Zennys!
+For crying out loud!
+###--------
+###Mugshot:NormNaviYellow
+It's crazy to even
+THINK about buying
+one, right?
+###--------
+###Mugshot:NormNaviYellow
+So,I'm trying to make
+some money here.
+###++++++++
+###Mugshot:NormNaviYellow
+I sell "<printItem>"
+counterfeits.
+###Command:printItem buffer=0 item=8
+###--------
+###Mugshot:NormNaviYellow
+Wanna buy one for
+1500z? Don't worry,
+I won't tell anyone.
+###--------
+###Mugshot:NormNaviYellow
+Don't you think
+that's a pretty
+reasonable price?
+###--------
+###Mugshot:NormNaviYellow
+How about it?
+###--------
+<positionOptionHorizontal><option><space> Sold!  <option><space> Forget it!
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Oh yeah...?
+###--------
+###Mugshot:NormNaviYellow
+Well,if you're
+ever interested,
+come see me...
+###--------
+###Script:146
+###Mugshot:NormNaviYellow
+Hey, welcome!
+###--------
+###Mugshot:NormNaviYellow
+How about it?
+Thinking of buying the
+"<printItem>" I made?
+###Command:printItem buffer=0 item=8
+###--------
+###Mugshot:NormNaviYellow
+I'm giving you a
+super reasonable
+price of 1500z!
+###--------
+###Mugshot:NormNaviYellow
+How's that sound?
+###--------
+<positionOptionHorizontal><option><space> Sold!  <option><space> Forget it!
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Oh yeah...?
+###--------
+###Mugshot:NormNaviYellow
+Well,if you're
+ever interested,
+come see me...
+###--------
+###Script:147
+###Mugshot:NormNaviYellow
+Terribly sorry,but it
+looks like you're a
+little short on cash...
+###--------
+###Mugshot:NormNaviYellow
+I'm selling it for
+as low as it can go.
+I really can't go lower.
+###--------
+###Mugshot:NormNaviYellow
+Sorry,but you'll have
+to come back later.
+###--------
+###Script:148
+###Mugshot:NormNaviYellow
+...I wonder what other
+business I can do...
+###--------
+###Script:149
+###Mugshot:NormNaviYellow
+Wow,big spender!
+###--------
+###Mugshot:NormNaviYellow
+Well then,I'll hand
+over the goods! Here!
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=8
+###--------
+###Mugshot:NormNaviYellow
+Keep this a secret
+to everybody,okay?
+Don't sell me out!
+###--------

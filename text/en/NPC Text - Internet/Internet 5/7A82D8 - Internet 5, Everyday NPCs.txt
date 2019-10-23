@@ -1,0 +1,124 @@
+﻿###TextArchive:7A82D8
+###Script:0
+###Mugshot:MrProgGreen
+WELCOME!
+THIS IS INTERNET5!
+###--------
+###Mugshot:MrProgGreen
+IF YOU CONTINUE
+ON AHEAD,YOU'LL
+REACH INTERNET8.
+###--------
+###Mugshot:MrProgGreen
+THERE,YOU CAN FIND
+THE GOLD TOURNAMENT
+ENTRY DESK!
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+UP AHEAD IS
+INTERNET7!
+###--------
+###Script:10
+###Mugshot:NormNaviBrown
+I walk as part of
+my daily routine.
+###--------
+###Mugshot:NormNaviBrown
+Netopia wasn't built
+in a day,y'know. Same
+goes for your health!
+###--------
+###Script:20
+###Mugshot:NormNaviYellow
+I think the Gold
+Tournament entry desk
+was in Internet8...
+###--------
+###Mugshot:NormNaviYellow
+Let's do our best!
+###--------
+###Script:30
+###Mugshot:NormNaviBrown
+I walk a different
+route in the
+morning and night.
+###--------
+###Mugshot:NormNaviBrown
+It's important to
+keep at it every day.
+###--------
+###Script:40
+###Mugshot:NormNaviPink
+My operator usually
+gets home late,
+###--------
+###Mugshot:NormNaviPink
+so I can only visit the
+Net around this time.
+###--------
+###Script:50
+###Mugshot:WindMan
+You wish to face me...?
+###--------
+<positionOptionHorizontal><option><space> Certainly  <option><space> No,thanks
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:WindMan
+To decline a wind
+god's invitation
+draws up bad karma...
+###--------
+###Script:51
+###Mugshot:WindMan
+Fwoooo...
+###--------
+###Mugshot:WindMan
+Quite exceptional.
+You carry a strong wind.
+###--------
+###Script:52
+###Mugshot:WindMan
+What happened...?
+Was the headwind
+too strong for you?
+###--------
+###Script:53
+###Mugshot:WindMan
+Then,here I come...
+Blow,fierce winds!
+###--------
+###Mugshot:WindMan
+Battle routine,set!
+Execute!
+###--------
+###Script:54
+###Mugshot:WindMan
+Oho... The same form
+as I? Intriguing.
+###--------
+###Mugshot:WindMan
+In that case,let me
+see how much strength
+you really have.
+###--------
+###Mugshot:WindMan
+Dare you test your
+might against me?
+###--------
+<positionOptionHorizontal><option><space> Certainly  <option><space> No,thanks
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:WindMan
+Though you mimic
+the form,you cannot
+mimic the spirit...
+###--------

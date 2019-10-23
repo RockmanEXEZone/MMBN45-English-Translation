@@ -1,0 +1,7 @@
+﻿###TextArchive:67CB24
+###Script:1
+Jack in!
+ThunderMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

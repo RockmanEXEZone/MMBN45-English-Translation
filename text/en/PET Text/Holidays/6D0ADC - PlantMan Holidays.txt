@@ -1,0 +1,153 @@
+﻿###TextArchive:6D0ADC
+###Script:1
+Happy New Year,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+The seeds have
+been sown...
+###--------
+###--------
+###--------
+###--------
+Let's hope we
+reap another
+beautiful year.
+###--------
+###Script:2
+Today is
+April Fools' Day.
+###--------
+There's nothing
+like pulling off
+a prank elegantly.
+###--------
+One of my
+favorites is
+the flower
+###--------
+###--------
+that squirts water
+in someone's face.
+###--------
+###Script:3
+Today is
+Valentine's Day.
+###--------
+If it's about
+Valentine's,
+of course,
+###++++++++
+the first thing
+that comes to
+mind is chocolate.
+###--------
+Did you know it's
+made from a seed
+known as "cocoa"?
+###--------
+###Script:4
+Today is
+Valentine's Day.
+###++++++++
+If it's about
+Valentine's,
+of course,
+###++++++++
+the first thing
+that comes to
+mind is chocolate.
+###--------
+Did you know it's
+made from a seed
+known as "cocoa"?
+###--------
+###Script:5
+Tonight is
+Halloween.
+###--------
+Carved pumpkins!
+Beautiful costumes!
+###--------
+###--------
+Ahh,this holiday
+has it all...!
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve.
+###--------
+Whenever it's
+Christmas season,
+###++++++++
+all the towns look
+like colorful little
+flower gardens.
+###--------
+###Script:9
+Merry Christmas.
+###--------
+The Christmas
+decorations will
+be taken down
+###++++++++
+after today...
+It makes me
+a little sad.
+###--------
+###Script:10
+Tonight is
+New Year's Eve.
+###--------
+The year is going
+to fade away soon...
+###--------
+Isn't it just the
+saddest thing?
+###--------
+###Script:11
+Happy Birthday,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+If you were a
+tree,you would
+have gained 1 ring.
+###--------
+Keep growing
+to become
+bigger,stronger,
+###--------
+and most
+importantly,even
+more beautiful.
+###--------
+###Script:12
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And...
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------

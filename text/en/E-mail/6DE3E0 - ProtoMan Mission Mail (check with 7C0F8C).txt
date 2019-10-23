@@ -1,0 +1,864 @@
+﻿###TextArchive:6DE3E0
+###Script:27
+###Mugshot:SciLabMan
+What are you doing!?
+###--------
+###Mugshot:SciLabMan
+This isn't like you.
+You could use some
+time to cool off!
+###--------
+###Mugshot:SciLabMan
+Don't expect any
+payment this time!!
+###--------
+###Script:28
+###Mugshot:SciLabMan
+Excellent job!
+###--------
+###Mugshot:SciLabMan
+I knew you'd be
+able to make
+quick work of it.
+###--------
+###Mugshot:SciLabMan
+Your reward data is
+enclosed. Take it!
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=33
+###--------
+###Script:29
+<printCurrentNavi> got:
+"<printBuffer> Zennys"!!!
+###Command:printCurrentNavi
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:30
+<printCurrentNavi> got
+<printBuffer> BugFrags!!!
+###Command:printCurrentNavi
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:31
+I'll be counting
+on you in the
+future,too!
+###--------
+###Script:33
+This is HQ...
+###--------
+Viruses are running
+amok in Internet1.
+###--------
+Delete these viruses
+within 60 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:34
+This is HQ...
+###--------
+Viruses are running
+amok in Internet2.
+###--------
+Delete these viruses
+within 60 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:35
+This is HQ...
+###--------
+We've received
+word that a
+serial thief Navi
+###--------
+is hiding out
+in Internet3.
+###--------
+Head to the scene
+within 40 minutes
+and check it out.
+###--------
+The suspect is a
+green NormalNavi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:36
+This is HQ...
+###--------
+We've received word
+that a burglar Navi
+who ran from
+###--------
+an Officials post
+is hiding out
+in Internet4.
+###--------
+Head to the scene
+within 40 minutes
+and check it out.
+###--------
+You are authorized
+to delete them,
+if necessary.
+###--------
+The suspect is
+described as purple,
+female-type Navi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:37
+This is HQ...
+###--------
+We've received
+word that a serial
+arsonist Navi
+###--------
+is hiding out
+in Internet1.
+###--------
+Head to the scene
+within 40 minutes
+and check it out.
+###--------
+You are authorized
+to delete them,
+if necessary.
+###--------
+The suspect is a
+green NormalNavi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:38
+This is HQ...
+###--------
+We've received
+a tip from a
+neighborhood Navi
+###--------
+that the suspect of
+an assault was seen
+in Internet2.
+###--------
+Head to the scene
+within 40 minutes
+and check it out.
+###--------
+You are authorized
+to delete them,
+if necessary.
+###--------
+The suspect is
+a purple normal-
+type Navi.
+###--------
+Sorry,but that's all
+the info we have.
+###--------
+The rest is up to
+your intuition!!
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:39
+This is HQ...
+###--------
+We've received word
+that the culprit of
+some recent
+###--------
+random assault
+incidents has been
+spotted in Internet3.
+###--------
+Head to the scene
+within 40 minutes
+and check it out.
+###--------
+You are authorized
+to delete them,
+if necessary.
+###--------
+The suspect is
+a green normal-
+type Navi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:40
+This is HQ...
+###--------
+A member of a
+notorious bank
+robbing group
+###--------
+was apparently seen
+in Internet4.
+###--------
+Head to the scene
+within 30 minutes
+and delete him.
+###--------
+The suspect is
+a mean-looking
+purple Navi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:41
+This is HQ...
+###--------
+Viruses are running
+amok in Internet5.
+###--------
+Delete these viruses
+within 50 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:42
+This is HQ...
+###--------
+Viruses are running
+amok in Internet6.
+###--------
+Delete these viruses
+within 50 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:43
+This is HQ...
+###--------
+A member of a
+criminal group
+responsible for
+###--------
+a recent hijacking
+has been spotted
+in Internet7.
+###--------
+Head to the scene
+within 40 minutes
+and check it out.
+###--------
+You are authorized
+to delete them,
+if necessary.
+###--------
+The suspect is
+a green normal-
+type Navi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:44
+This is HQ...
+###--------
+A hoodlum Navi seems
+to be causing trouble
+in Internet8.
+###--------
+Head to the scene
+within 40 minutes
+and check it out.
+###--------
+You are authorized
+to delete him,
+if necessary.
+###--------
+The suspect is
+a purple normal-
+type Navi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:45
+This is HQ...
+###--------
+A member of a
+criminal group
+responsible for
+###--------
+a recent hijacking
+has been spotted
+in Internet5!
+###--------
+Head to the scene
+within 40 minutes
+and check it out.
+###--------
+You are authorized
+to delete them,
+if necessary.
+###--------
+The culprit is
+described as a
+green NormalNavi.
+###--------
+The rest is up to
+your intuition...
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:46
+This is HQ...
+###--------
+We have reports
+of a counterfeit
+DarkChip merchant
+###--------
+trying to sell his
+wares in Internet6.
+###--------
+Head to the scene
+within 40 minutes
+and check it out.
+###--------
+You are authorized
+to delete him,
+if necessary.
+###--------
+The suspect is
+a green normal-
+type Navi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:47
+This is HQ...
+###--------
+We've received word
+that a hacker Navi
+responsible for the
+###--------
+creation of many
+viruses is currently
+in Internet7.
+###--------
+Head to the scene
+within 30 minutes
+and check it out.
+###--------
+You are authorized
+to delete them,
+if necessary.
+###--------
+The suspect is a
+male,but they seem
+to be masquerading
+###--------
+as a yellow
+female-type Navi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:48
+This is HQ...
+###--------
+The ringleader of
+a certain criminal
+organization
+###--------
+has been spotted
+in Internet8.
+###--------
+Head to the scene
+within 30 minutes
+and check it out.
+###--------
+You are authorized
+to delete him,
+if necessary.
+###--------
+The ringleader Navi
+seems to be a rather
+mean-looking Navi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:49
+This is HQ...
+###--------
+Viruses are running
+amok in Internet9.
+###--------
+Delete these viruses
+within 50 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:50
+This is HQ...
+###--------
+Viruses are running
+amok in Internet10.
+###--------
+Delete these viruses
+within 40 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:51
+This is HQ...
+###--------
+A female Navi
+who escaped
+from NetPrison
+###--------
+has been sighted
+in Internet11.
+###--------
+Head to the scene
+within 40 minutes
+and check it out.
+###--------
+You are authorized
+to delete her,
+if necessary.
+###--------
+The suspect is
+a purple female-
+type Navi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:52
+This is HQ...
+###--------
+There is a Navi in
+Internet12 claiming
+###++++++++
+to be part of the
+DarkChip Syndicate.
+###--------
+Head to the scene
+within 40 minutes
+and check it out.
+###--------
+You are authorized
+to delete them,
+if necessary.
+###--------
+The suspect is
+a green normal-
+type Navi.
+###--------
+Show them what
+happens when you
+mock the Officials.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:53
+This is HQ...
+###--------
+We've received intel
+that a member of
+the criminal group,
+###--------
+the "Crunchy Bones",
+is in Internet9.
+###--------
+The "Crunchy Bones"
+are suspected
+to be responsible
+###++++++++
+for the deletion
+of several
+Official Navis.
+###--------
+Head to the scene
+within 40 minutes and
+interrogate him.
+###--------
+You are authorized
+to delete him,
+if necessary.
+###--------
+The suspect is
+a green normal-
+type Navi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:54
+This is HQ...
+###--------
+We've got a tip that
+a Navi is rampaging
+in Internet10.
+###--------
+Head to the scene
+within 30 minutes
+and check it out.
+###--------
+You are authorized
+to delete them,
+if necessary.
+###--------
+The rampaging Navi
+is a mean-looking,
+shifty-eyed Navi.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:55
+This is HQ...
+###--------
+It seems a Navi
+calling himself part
+of the Shadow Army
+###--------
+has sent a challenge
+letter to the
+Officials.
+###--------
+It looks like he's
+in Internet11.
+###--------
+Get over there
+within 30 minutes
+and clean things up.
+###--------
+If he causes a
+scene,feel free
+to delete him.
+###--------
+Allegedly,the Shadow
+Army member is
+rather mean-looking.
+###--------
+Go teach him a
+good lesson.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:56
+This is HQ...
+###--------
+It looks like a
+Navi suspected of
+Undernet activity
+###--------
+has been spotted
+in Internet12.
+###--------
+For someone like
+you,20 minutes
+should be plenty.
+###--------
+Assess the situation
+first,but if it
+proves necessary,
+###++++++++
+you are authorized
+to delete them.
+###--------
+The target Navi
+is a HeelNavi;
+###--------
+use your best
+intuition to pick
+them out!!
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:57
+This is HQ...
+###--------
+Viruses that were
+the subject of
+SciLab research
+###--------
+have leaked into
+Undernet1.
+###--------
+These viruses are
+holding some top
+secret SciLab data;
+###--------
+delete them before
+that falls into the
+hands of criminals.
+###--------
+Your time limit
+is 40 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:58
+This is HQ...
+###--------
+It appears that some
+viruses developed by
+a foreign program
+###--------
+fanatic are showing
+up in Undernet2.
+###--------
+The situation is
+still unclear,
+###++++++++
+but delete them
+before this
+causes a stink.
+###--------
+Your time limit
+is 40 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:59
+This is HQ...
+###--------
+There's a criminal
+Navi trying to get
+out of the Undernet.
+###--------
+The Navi is hiding
+out in Undernet3
+at the moment.
+###--------
+We can't allow
+Undernet Navis to
+roam the surface.
+###--------
+Put a stop to
+their plan within
+40 minutes.
+###--------
+This could end in
+a pretty ugly fight,
+###--------
+so be prepared
+for anything.
+###--------
+It seems like the
+target Navi took
+on the form of a
+###--------
+red normal-type
+Navi to blend in
+with civilians.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:60
+This is HQ...
+###--------
+We have indications
+that a Navi is hiding
+out in Undernet4
+###--------
+who is planning to
+mount an attack on
+the surface Net.
+###--------
+Arrest or delete
+them within
+40 minutes.
+###--------
+It seems like the
+target Navi took
+on the form of a
+###--------
+green normal-type
+Navi to blend in
+with civilians.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:61
+This is HQ...
+###--------
+We have reports
+that a Navi
+claiming to be
+###++++++++
+part of the WWW
+(World Three) is
+in Undernet1.
+###--------
+Apparently the
+suspect is a yellow
+female-type Navi.
+###++++++++
+Don't let your guard
+down for a second.
+###--------
+Arrest or delete
+her within
+20 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:62
+This is HQ...
+###--------
+According to reports,
+a Navi in Undernet2
+###++++++++
+is claiming to be a
+part of Gospel.
+###--------
+It's a black-colored
+Navi with a wicked
+face.
+###--------
+We have no idea
+what he's up to...
+###--------
+Arrest or delete
+him within
+20 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:63
+This is HQ...
+###--------
+We've received
+word that a Navi
+in Undernet3
+###--------
+is claiming to be a
+part of the Neo WWW
+(World Three).
+###--------
+The suspect is
+described as having
+a wicked face.
+###--------
+Arrest or delete
+them within
+20 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:64
+This is HQ...
+###--------
+A member of a
+virus manufacturing
+organization
+###--------
+has been spotted
+in Undernet4.
+###--------
+Apparently,he has a
+really wicked look...
+###--------
+Arrest or delete
+him within
+20 minutes.
+###--------
+Your payment will be
+sent by mail later.
+###--------
+Good luck!
+###--------
+###Script:65
+This mission has
+already concluded.
+###--------

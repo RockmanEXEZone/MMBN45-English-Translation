@@ -1,0 +1,16 @@
+﻿###TextArchive:6BC034
+###Script:1
+<printPlayerNickname>,let me
+blow up more stuff!
+This ain't enough!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:2
+Tsk! You gotta use
+chip attacks in that
+kinda situation!
+###--------
+Aren't you relyin'
+on my abilities
+a bit too much?
+###--------

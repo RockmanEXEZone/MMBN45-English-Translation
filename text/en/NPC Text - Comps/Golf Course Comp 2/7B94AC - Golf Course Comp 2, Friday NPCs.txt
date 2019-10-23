@@ -1,0 +1,117 @@
+﻿###TextArchive:7B94AC
+###Script:0
+###Mugshot:NormNaviYellow
+Hey,you here to
+battle too? Wanna
+try battling with me?
+###--------
+<positionOptionHorizontal><option><space> Sure!  <option><space> Nope!
+###Command:positionOptionHorizontal width=11
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Whaaaa...?
+What a letdown...
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Alright,here I go!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+That was some amazing
+skill! You're good!
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+What'd you think?
+I'm pretty good,huh?
+###--------
+###Script:4
+###Mugshot:HeelNaviPurple
+You want to
+battle with ME?
+###--------
+###Mugshot:HeelNaviPurple
+I'll show you a world
+of battling you've
+never seen before!
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Tsk!
+###--------
+###Script:5
+###Mugshot:HeelNaviPurple
+Come into my brave
+new world of battle!
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+Execute!
+###--------
+###Script:6
+###Mugshot:HeelNaviPurple
+I guess there's
+always someone
+better than you,huh...
+###--------
+###Script:7
+###Mugshot:HeelNaviPurple
+How was it? Did you
+see a new world?
+###--------
+###Script:8
+###Mugshot:HeelNaviBlack
+Let me guess.
+You want to battle
+me,don't you?
+###--------
+###Mugshot:HeelNaviBlack
+Sounds good.
+I'll be your opponent...
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviBlack
+Tsk,so that's
+how it is...
+###--------
+###Script:9
+###Mugshot:HeelNaviBlack
+I'll blow you away!
+###--------
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!
+###--------
+###Script:10
+###Mugshot:HeelNaviBlack
+*cough,cough...*
+You really did a
+number on me...
+###--------
+###Script:11
+###Mugshot:HeelNaviBlack
+No way you'll beat me
+if you keep prancing
+around like that!
+###--------

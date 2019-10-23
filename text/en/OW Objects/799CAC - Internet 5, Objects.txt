@@ -1,0 +1,61 @@
+﻿###TextArchive:799CAC
+###Script:0
+A wall of raging fire
+is blocking the path...
+###--------
+###Script:6
+###Mugshot:FireMan
+Heh heh heh...
+###--------
+###Mugshot:FireMan
+Just a small campfire.
+That's not going
+to stop me...
+###--------
+###Mugshot:FireMan
+Take this! FireArm!!
+###--------
+###Script:7
+###Mugshot:NapalmMan
+Those flames would
+probably get any old
+Navi quivering.
+###--------
+###Mugshot:NapalmMan
+But that's not
+gonna work on me!
+###--------
+###Mugshot:NapalmMan
+Eat this!!
+###--------
+###Script:8
+###Mugshot:AquaMan
+Drip,drip!
+###--------
+###Mugshot:AquaMan
+F-Fire,drip!
+I'll put it out
+right away,drip!
+###--------
+###Mugshot:AquaMan
+Driiiiiip!
+###--------
+###Script:9
+###Mugshot:IceMan
+Hey,check it out!
+I'm going to put out
+this fire right now!
+###--------
+###Mugshot:IceMan
+*fwoooooo!*
+###--------
+###Script:10
+Fighting fire with
+fire,the flames
+burned out!
+###--------
+###Script:11
+The raging fire was
+extinguished in the
+blink of an eye!
+###--------

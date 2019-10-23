@@ -1,0 +1,36 @@
+﻿###TextArchive:7ADB90
+###Script:0
+###Mugshot:NormNaviYellow
+Aqua-based viruses
+are swarming today.
+###--------
+###Mugshot:NormNaviYellow
+Gotta be careful
+they don't flood
+everything...
+###--------
+###Script:1
+###Mugshot:HeelNaviPurple
+The chip shops
+elsewhere have
+something called
+###++++++++
+###Mugshot:HeelNaviPurple
+"Ladies Day" on
+every Wednesday,
+or so they say.
+###--------
+###Mugshot:HeelNaviPurple
+It lets you get
+chips at a bargain.
+###--------
+###Mugshot:HeelNaviPurple
+But that BugFrag
+trader over there
+doesn't do that
+###--------
+###Mugshot:HeelNaviPurple
+kind of mushy stuff.
+Maybe they're not so
+easily swayed by love...
+###--------

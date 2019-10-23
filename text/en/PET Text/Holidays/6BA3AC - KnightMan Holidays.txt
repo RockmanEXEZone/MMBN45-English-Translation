@@ -1,0 +1,161 @@
+﻿###TextArchive:6BA3AC
+###Script:1
+Happy New Year!
+###--------
+Let us make this
+another splendid
+year,shall we?
+###--------
+But,<printPlayerNickname>,just
+because the year
+has only just begun
+###Command:printPlayerNickname
+###--------
+does not mean
+you should be
+slacking off!
+###--------
+May I suggest
+we pay visit
+to a friend
+###--------
+and enjoy a
+NetBattle?
+###--------
+###Script:2
+<printPlayerNickname>,today is
+April Fools' Day!
+###Command:printPlayerNickname
+###--------
+Hah! I already
+know all the oldest
+pranks in the book!
+###--------
+...Hm? What is this
+piece of paper
+on my back?
+###--------
+###Script:3
+<printPlayerNickname>,today is
+Valentine's Day!
+###Command:printPlayerNickname
+###--------
+There is no person
+on this planet
+who would not be
+###--------
+###--------
+happy to receive
+a letter from
+you,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:4
+<printPlayerNickname>,today is
+Valentine's Day!
+###Command:printPlayerNickname
+###--------
+There is no person
+on this planet
+who would not be
+###--------
+happy to receive
+a letter from
+you,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:5
+Tonight is
+Halloween!
+###--------
+Many foul monsters
+roam the streets
+tonight!
+###--------
+But do not
+be afraid!
+###++++++++
+They are merely
+normal people
+wearing costumes.
+###++++++++
+Though none of
+them as convincing
+as mine! Hoh hoh!
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+It is
+December 24th,
+Christmas Eve!
+###--------
+When shall Santa
+Claus make his
+appearance?
+###--------
+###Script:9
+Merry Christmas,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+Did you enjoy
+yourself last night?
+###--------
+I,too,would
+very much like
+to speak with
+###--------
+Santa Claus,
+even just once!
+###--------
+###Script:10
+Tonight is
+New Year's Eve!
+###--------
+The year is coming
+to an end. Have
+you managed to
+###++++++++
+fulfill your New
+Year's resolution
+of last year?
+###--------
+###Script:11
+Happy Birthday,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+I humbly offer
+you my deepest
+congratulations!
+###--------
+###Script:12
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------
+###Script:18
+Furthermore,it is
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------

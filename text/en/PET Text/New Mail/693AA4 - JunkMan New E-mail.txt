@@ -1,0 +1,175 @@
+###TextArchive:693AA4
+###Script:1
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<printPlayerNickname>,
+t-there's
+new mail!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:2
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<printPlayerNickname>,
+t-there's
+new mail!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:3
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<printPlayerNickname>,
+t-there's
+new mail!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:4
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+T-There's
+new mail!
+###--------
+###Script:5
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+T-There's
+new mail!
+###--------
+###Script:6
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+T-There's
+new mail!
+###--------
+###Script:7
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+T-There's
+new mail!
+###--------
+###Script:20
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+T-There's
+new mail!
+###--------
+###Script:21
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+T-There's
+new mail!
+###--------
+###Script:22
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+T-There's
+new mail!
+###--------
+###Script:23
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+T-There's
+new mail!
+###--------
+###Script:24
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+T-There's
+new mail!
+###--------
+###Script:25
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+T-There's
+new mail!
+###--------
+###Script:26
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+T-There's
+new mail!
+###--------

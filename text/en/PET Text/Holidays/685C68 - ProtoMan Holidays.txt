@@ -1,0 +1,135 @@
+﻿###TextArchive:685C68
+###Script:1
+Happy New Year.
+###--------
+Let's make it
+another good one.
+###--------
+By the way,did you
+visit your friends
+###++++++++
+for New Year's
+greetings yet?
+###--------
+Would it be OK
+if I come along...?
+###--------
+###Script:2
+Today is
+April Fools' Day.
+###--------
+We'd better stay
+sharp,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+There's no telling
+what others are
+plotting today...
+###--------
+###Script:3
+Today is
+Valentine's Day.
+###--------
+This tradition is
+already hundreds
+of years old.
+###++++++++
+For shy people,
+who are not so
+good at confessing
+###++++++++
+their feelings,
+it's an excellent
+opportunity.
+###--------
+###Script:4
+Today is
+Valentine's Day.
+###--------
+This tradition is
+already hundreds
+of years old.
+###--------
+For shy people,
+who are not so
+good at confessing
+###++++++++
+their feelings,
+it's an excellent
+opportunity.
+###--------
+###Script:5
+Tonight is
+Halloween.
+###--------
+Everyone outside
+is dressed up
+like a monster,
+###--------
+so it's tough to
+identify criminals
+on this day...
+###--------
+###Script:6
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve.
+###--------
+This time of year,
+I'm often mistaken
+for Santa Claus...
+###--------
+Is it because my
+colors are similar...?
+###--------
+###Script:9
+Merry Christmas!
+It's Christmas
+today.
+###--------
+Christmas is mostly
+observed on the
+25th,but there are
+###++++++++
+celebrations
+even on the days
+before and after.
+###--------
+###Script:10
+Tonight is
+New Year's Eve.
+###--------
+Tomorrow,a new
+year begins...
+###--------
+Are you ready
+to face the
+new challenges?
+###--------
+###Script:11
+Happy Birthday.
+###--------
+I hope we can
+keep working
+together like this.
+###--------
+###Script:12
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:18
+It's also
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------

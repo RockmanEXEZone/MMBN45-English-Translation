@@ -1,0 +1,170 @@
+﻿###TextArchive:7BD4B0
+###Script:0
+###Mugshot:NapalmMan
+...Hey,you wanna
+pass through here!?
+###--------
+###Mugshot:NapalmMan
+Well,I only open
+the way to folks
+I like,ya know.
+###--------
+###Mugshot:NapalmMan
+If you wanna
+get through,
+###++++++++
+###Mugshot:NapalmMan
+ya gotta do what
+I say to make me
+like you!
+###--------
+###Mugshot:NapalmMan
+So how about it?
+Wanna give it a go?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NapalmMan
+Heh heh...
+What shall I get
+you to do for me...
+###--------
+###Mugshot:NapalmMan
+Let's see...
+...Yeah, that'll do.
+###--------
+###Mugshot:NapalmMan
+I'm gonna scatter
+some viruses in
+Internet1.
+###--------
+###Mugshot:NapalmMan
+You gotta blast all
+those viruses within
+the time limit.
+###--------
+###Mugshot:NapalmMan
+Make sure you take
+'em out with a BANG!
+###--------
+###Mugshot:NapalmMan
+I'll lend you my
+NapalmProgram...
+###--------
+###Mugshot:NapalmMan
+One more thing--
+don't even think
+about jacking out
+###--------
+###Mugshot:NapalmMan
+until you've defeated
+the viruses I scattered.
+###--------
+###Mugshot:NapalmMan
+I hate cowards who avoid
+walking through the Net
+cuz of scary viruses.
+###--------
+###Mugshot:NapalmMan
+If you jack out even
+once, I ain't gonna
+let ya through here.
+###--------
+###Mugshot:NapalmMan
+Put on a good
+show for me!
+###--------
+###Script:1
+###Mugshot:NapalmMan
+Okay,in that case
+ya can go look
+for another path!
+###--------
+###Script:2
+###Mugshot:NapalmMan
+What? Did ya forget
+something already?
+###--------
+###Mugshot:NapalmMan
+Guess it's no use...
+I'll explain it
+to you again!
+###--------
+###Mugshot:NapalmMan
+I'm gonna scatter
+some viruses in
+Internet1.
+###--------
+###Mugshot:NapalmMan
+You gotta blast all
+those viruses within
+the time limit.
+###--------
+###Mugshot:NapalmMan
+One more thing--
+don't even think
+about jacking out
+###--------
+###Mugshot:NapalmMan
+until you've defeated
+the viruses I scattered.
+###--------
+###Mugshot:NapalmMan
+I hate cowards who avoid
+walking around the Net
+cuz of scary viruses.
+###--------
+###Mugshot:NapalmMan
+If you jack out even
+once, I ain't gonna
+let ya through here.
+###--------
+###Mugshot:NapalmMan
+Put on a good
+show for me!
+###--------
+###Script:3
+###Mugshot:NapalmMan
+I was watching ya
+blast away those
+viruses in Internet1!
+###--------
+###Mugshot:NapalmMan
+Not bad, not bad!
+Ya did pretty well!
+###--------
+###Mugshot:NapalmMan
+I like you...
+So you can pass!
+###--------
+###Script:4
+###Mugshot:NapalmMan
+You don't expect me to
+let you through with
+that botch job,do ya!?
+###--------
+###Mugshot:NapalmMan
+You gonna try again?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NapalmMan
+Alright, then get
+back out there!
+###--------
+###Script:5
+###Mugshot:NapalmMan
+Okay,in that case
+ya can go look
+for another path!
+###--------

@@ -1,0 +1,46 @@
+﻿###TextArchive:7B3FF0
+###Script:0
+###Mugshot:HeelNaviBlack
+Ah,perfect...
+Fight me...
+###--------
+<positionOptionHorizontal><option><space> Bring it!  <option><space> No thanks
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviBlack
+Scared,huh...
+###--------
+###Mugshot:HeelNaviBlack
+No point fighting
+a weakling anyway!
+###--------
+###Script:1
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:HeelNaviBlack
+You're stronger...
+Than I thought...
+###--------
+###Script:3
+###Mugshot:HeelNaviBlack
+That all you got?
+###--------
+###Mugshot:HeelNaviBlack
+If your life is
+precious to you,
+###++++++++
+###Mugshot:HeelNaviBlack
+hurry up and get
+out of the Undernet.
+###--------
+###Mugshot:HeelNaviBlack
+With skill like that,
+you can't stay here.
+###--------

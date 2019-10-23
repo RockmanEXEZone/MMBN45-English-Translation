@@ -1,0 +1,91 @@
+﻿###TextArchive:7B1D40
+###Script:0
+###Mugshot:NormNaviYellow
+My dream job is to
+become an Official!
+###--------
+###Mugshot:NormNaviYellow
+But if I want to
+become an Official,
+###--------
+###Mugshot:NormNaviYellow
+I have to become a
+strong NetBattler
+first,right?
+###--------
+###Mugshot:NormNaviYellow
+So,battle me!
+###--------
+<positionOptionHorizontal><option><space> Sure!  <option><space> Nah!
+###Command:positionOptionHorizontal width=10
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+W-Why won't anyone
+battle with me...?
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Yes! Here I go!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+Guess I've still got a
+long way to go before
+becoming an Official...
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+I feel like I've come
+one step closer to
+becoming an Official!
+###--------
+###Script:4
+###Mugshot:HeelNaviPurple
+Let's NetBattle!
+###--------
+###Mugshot:HeelNaviPurple
+A battle is kinda like
+a greeting between
+NetBattlers,ain't it?
+###--------
+###Mugshot:HeelNaviPurple
+C'mon,let's do it!
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Tsk!
+###--------
+###Script:5
+###Mugshot:HeelNaviPurple
+My greeting's gonna
+sting a bit,though!
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+Execute!
+###--------
+###Script:6
+###Mugshot:HeelNaviPurple
+T-That greeting...
+You don't mess
+around...!
+###--------
+###Script:7
+###Mugshot:HeelNaviPurple
+Hey now,it's
+over already?
+###--------

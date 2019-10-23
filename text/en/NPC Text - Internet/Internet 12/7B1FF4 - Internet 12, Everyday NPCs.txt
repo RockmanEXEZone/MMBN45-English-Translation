@@ -1,0 +1,591 @@
+﻿###TextArchive:7B1FF4
+###Script:0
+###Mugshot:OfficialNavi
+The fact you've come
+here means you're
+a chosen Navi...
+###--------
+###Mugshot:OfficialNavi
+The Official Tournament
+is only for those with
+the right credentials...
+###--------
+###Mugshot:OfficialNavi
+If you have the
+resolve,you may
+enter the tournament.
+###--------
+*beep beep!*
+###--------
+###Mugshot:OfficialNavi
+Ah,a transmission...
+Just a moment,please...
+###--------
+###Mugshot:OfficialNavi
+Yes,this is the
+Undernet lookout post!
+###--------
+###Mugshot:OfficialNavi
+...What!?
+A vicious criminal?
+###--------
+###Mugshot:OfficialNavi
+Hm...I see.
+That's perfect...
+###--------
+###Mugshot:OfficialNavi
+Allow me to test
+your true abilities.
+###--------
+###Mugshot:OfficialNavi
+The path behind
+that gate leads
+to the Undernet.
+###--------
+###Mugshot:OfficialNavi
+I've received
+intel that there's
+###--------
+###Mugshot:OfficialNavi
+a vicious criminal
+hiding out in
+Undernet4.
+###--------
+###Mugshot:OfficialNavi
+Please delete this
+vicious criminal and
+report back to me.
+###--------
+###Mugshot:OfficialNavi
+If you manage to
+defeat the scoundrel,
+###--------
+###Mugshot:OfficialNavi
+I will register
+you for free.
+###--------
+###Mugshot:OfficialNavi
+Of course,I don't
+have any doubts
+about your ability,but...
+###--------
+###Mugshot:OfficialNavi
+the Official Tournament
+is very high level...
+You understand,yes?
+###--------
+###Mugshot:OfficialNavi
+Please do your
+best,then.
+Hehehe...
+###--------
+###Mugshot:OfficialNavi
+Ah yes...apparently,
+the intel says to...
+###++++++++
+###Mugshot:OfficialNavi
+be on the lookout
+for a coffin in order
+to find the criminal...
+###--------
+###Mugshot:OfficialNavi
+Let me go ahead and
+open the gate that
+leads to the Undernet.
+###--------
+###Mugshot:OfficialNavi
+...Open sesame!!
+###--------
+###Script:2
+###Mugshot:OfficialNavi
+The intel said that
+the criminal is hiding
+out in Undernet4...
+###--------
+###Mugshot:OfficialNavi
+Apparently...you should
+be on the lookout
+for a coffin.
+###--------
+###Mugshot:OfficialNavi
+But...a coffin...?
+This is my first time
+hearing about this...
+###--------
+###Script:3
+###Mugshot:OfficialNavi
+Are you back from
+defeating the
+vicious criminal!?
+###--------
+###Mugshot:OfficialNavi
+I need to apologize
+to you for something.
+###--------
+###Mugshot:OfficialNavi
+We always test Navis
+who want to enter the
+Official Tournament.
+###--------
+###Mugshot:OfficialNavi
+To prove their worth,
+we have them defeat
+a Navi in the Undernet.
+###--------
+###Mugshot:OfficialNavi
+But this time,due to
+a slip-up on our end,
+###--------
+###Mugshot:OfficialNavi
+info about a real
+criminal got mixed in.
+###--------
+###Mugshot:OfficialNavi
+...The Super S-Rank
+villain,ShadeMan,
+who you just fought!
+###--------
+###Mugshot:OfficialNavi
+But you went right
+ahead and deleted
+ShadeMan!
+###++++++++
+###Mugshot:OfficialNavi
+No question about it!
+Your power is the
+real deal!
+###--------
+###Mugshot:OfficialNavi
+Shall I enter you into
+the Official Tournament
+right away?
+###--------
+###Mugshot:OfficialNavi
+Your registration will
+be free,of course!
+###--------
+###Mugshot:OfficialNavi
+Will you enter?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Is that so...?
+Well,please come
+again anytime.
+###--------
+###Script:4
+###Mugshot:OfficialNavi
+Well then,the
+entry fee will be
+1000 Zennys,please.
+###--------
+###Mugshot:OfficialNavi
+......
+Okay,I've received
+the 1000 Zennys.
+###--------
+###Mugshot:OfficialNavi
+Now,allow me to
+carry out the
+entry procedures.
+###--------
+###Mugshot:OfficialNavi
+*click clack...*
+*beeeeeep!*
+###--------
+###Mugshot:OfficialNavi
+Registration complete!
+###--------
+###Mugshot:OfficialNavi
+Please do your best in
+the Official Tournament
+this weekend!
+###--------
+###Script:5
+###Mugshot:OfficialNavi
+Then,allow me to
+carry out the
+entry procedures.
+###--------
+###Mugshot:OfficialNavi
+*click clack...*
+*beeeeeep!*
+###--------
+###Mugshot:OfficialNavi
+Registration complete!
+###--------
+###Mugshot:OfficialNavi
+Please do your best in
+the Official Tournament
+this weekend!
+###--------
+###Script:6
+###Mugshot:OfficialNavi
+I'm very sorry,but
+you don't have the
+necessary funds...
+###--------
+###Mugshot:OfficialNavi
+Please save up
+1000 Zennys and
+come back again...
+###--------
+###Script:7
+###Mugshot:OfficialNavi
+Oh,I'm sorry.
+Registration has
+ended for today...
+###--------
+###Script:8
+###Mugshot:OfficialNavi
+The fact you've come
+here means you're
+a chosen Navi...
+###--------
+###Mugshot:OfficialNavi
+The Official Tournament
+is only for those with
+the right credentials...
+###--------
+###Mugshot:OfficialNavi
+If you have the
+resolve,you may
+enter the tournament.
+###--------
+###Mugshot:OfficialNavi
+The entry fee is
+1000 Zennys.
+Will you enter?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:OfficialNavi
+Is that so...?
+###--------
+###Script:9
+###Mugshot:OfficialNavi
+This is the entry
+desk for the
+Official Tournament,
+###--------
+###Mugshot:OfficialNavi
+but we don't operate
+during the weekend.
+###--------
+###Mugshot:OfficialNavi
+Please come back on
+Monday to Friday.
+###--------
+###Script:20
+###Mugshot:MrProgGreen
+WHAT THE HECK,HUH!
+YOU WANNA
+PIECE OF ME!?
+###--------
+###Mugshot:MrProgGreen
+WHEW,I THOUGHT YOU
+WERE A VIRUS... PLEASE
+DON'T STARTLE ME.
+###--------
+###Script:21
+###Mugshot:NormNaviYellow
+The Undernet lies in
+the back of this area.
+###--------
+###Mugshot:NormNaviYellow
+But,the Official Navis
+are standing guard,so
+we can rest easy!
+###--------
+###Script:22
+###Mugshot:NormNaviPink
+The viruses around
+here are all so
+savage and scary...
+###--------
+###Script:30
+###Mugshot:NormNaviYellow
+My dream is to become
+an Official NetBattler!
+###--------
+###Script:31
+###Mugshot:NormNaviPink
+The Undernet
+is scary...
+###++++++++
+###Mugshot:NormNaviPink
+But between you
+and me...I'm kinda
+interested in it!
+###--------
+###Script:40
+###Mugshot:PurpleNavi
+It's gotten dark...
+###--------
+###Mugshot:PurpleNavi
+When the sun sets
+in this area,you
+can hear a dreadful
+###--------
+###Mugshot:PurpleNavi
+low groan coming
+from the direction
+of the Undernet...
+###--------
+###Mugshot:PurpleNavi
+Those sounds must
+be the moans of
+the dead...
+###--------
+###Mugshot:PurpleNavi
+...Just kidding!
+Did I frighten
+you a little?
+###--------
+###Script:41
+###Mugshot:NaviGirlOrange
+I know Officials are
+here to protect us,
+###++++++++
+###Mugshot:NaviGirlOrange
+but it's still
+scary after dark...
+###--------
+###Script:50
+###Mugshot:OfficialNavi
+It's not good
+to be out on the
+Internet so late.
+###--------
+###Mugshot:OfficialNavi
+If you stay
+out this late...
+###--------
+###Mugshot:OfficialNavi
+A black hand will stretch
+out from the Undernet
+and pull you in!
+###--------
+###Script:60
+###Mugshot:NapalmMan
+Graaaaaah!!
+I wanna battle so
+bad, I can't take it!
+###--------
+###Mugshot:NapalmMan
+Hey you!
+C'mon,battle me!
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> I'll pass
+###Command:positionOptionHorizontal width=13
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NapalmMan
+What the...!
+Don't mess with me!
+###--------
+###Script:61
+###Mugshot:NapalmMan
+Blast it...
+###--------
+###Mugshot:NapalmMan
+Now I'm all
+frustrated again...
+###--------
+###Script:62
+###Mugshot:NapalmMan
+Hahahahaaaa!
+###--------
+###Mugshot:NapalmMan
+That put me in a
+pretty good mood!
+###--------
+###Script:63
+###Mugshot:ProtoMan
+I can't shake the
+feeling... Are you
+targeting me?
+###--------
+<positionOptionHorizontal><option><space> Yeah  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:ProtoMan
+A wise answer,seeing
+as you're already
+within my range...
+###--------
+###Script:64
+###Mugshot:ProtoMan
+Tsk!!
+Did I go too
+easy on you...!?
+###--------
+###Script:65
+###Mugshot:ProtoMan
+With your speed,
+you'll never catch
+up to me!
+###--------
+###Script:66
+###Mugshot:NapalmMan
+I'll burn ya
+to a crisp!
+###--------
+###Mugshot:NapalmMan
+Battle routine,set!
+Execute!
+###--------
+###Script:67
+###Mugshot:ProtoMan
+...Prepare yourself!
+###--------
+###Script:68
+###Mugshot:NapalmMan
+Gwaaaaaah!!
+I wanna battle so
+bad, I can't take it!
+###--------
+###Mugshot:NapalmMan
+Huh...
+I've seen your face
+somewhere before!
+###--------
+###Mugshot:NapalmMan
+Meh,who cares
+about that stuff!
+C'mon,battle me!
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> I'll pass
+###Command:positionOptionHorizontal width=13
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NapalmMan
+What the...!
+Don't mess with me!
+###--------
+###Script:69
+###Mugshot:ProtoMan
+...Hmph.
+###--------
+###Mugshot:ProtoMan
+Did you think you'd
+catch me off guard by
+assuming that guise...?
+###--------
+###Mugshot:ProtoMan
+You can't defeat the
+real ProtoMan just by
+mimicking his form!
+###--------
+###Mugshot:ProtoMan
+Bring it on!
+I'll show you just how
+dull your blade is!
+###--------
+<positionOptionHorizontal><option><space> Bring it!  <option><space> Sorry!
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:ProtoMan
+Hmph...
+A wise decision.
+###--------
+###Script:70
+###Mugshot:MrProgGold
+SPARKLE SPARKLE!
+###--------
+###Mugshot:MrProgGold
+I AM A GOLDEN
+PROGRAM!
+###--------
+###Mugshot:MrProgGold
+I'LL RENEW THE CHIPS
+YOU'VE USED VIA THE
+BATTLECHIP GATE...
+###--------
+###Mugshot:MrProgGold
+LET'S DO IT!!
+###--------
+###Mugshot:MrProgGold
+SPARKLE SPARKLE!
+###--------
+###Script:80
+###Mugshot:OfficialNavi
+That Darkloid in
+the Undernet<waitSkip>･<waitSkip>･<waitSkip>･
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:OfficialNavi
+If it slips through
+our surveillance...
+###--------
+###Script:81
+###Mugshot:OfficialNavi
+It's hard to imagine
+ShadeMan has been
+completely eradicated...
+###--------
+###Mugshot:OfficialNavi
+I'm also concerned
+about the Darkloid
+###++++++++
+###Mugshot:OfficialNavi
+suspected to be
+in "that" area...
+###--------
+###Script:82
+###Mugshot:OfficialNavi
+Hmm,there don't
+seem to be any
+Darkloids here...
+###--------
+###Script:83
+###Mugshot:OfficialNavi
+I've got a rough
+idea of where the
+Darkloids are hiding,
+###--------
+###Mugshot:OfficialNavi
+but my hands are
+tied right now...
+This stinks!
+###--------
+###Script:90
+###Mugshot:MrProgGreen
+TOURNAMENT ENTRIES
+ARE ACCEPTED ON
+###++++++++
+###Mugshot:MrProgGreen
+WEEKDAYS,FROM
+<regionUS>6 AM<regionEnd><regionEU>6:00<regionEnd> TO MIDNIGHT!
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------

@@ -1,0 +1,139 @@
+﻿###TextArchive:7B6F9C
+###Script:0
+###Mugshot:MrProgGreen
+HOT,HOT,HOT!
+IT'S A PIPING HOT
+ELECTRIC STOVE!
+###--------
+###Mugshot:MrProgGreen
+MY JOB IS TO
+PREPARE FOOD
+USING ELECTRICITY!
+###--------
+###Mugshot:MrProgGreen
+POTS, WOKS, PANS!
+WHATEVER IT IS,I'LL
+GET IT NICE AND HOT!
+###--------
+###Script:10
+###Mugshot:PurpleNavi
+This is a venue
+for the Everyday
+Tournament!
+###--------
+###Mugshot:PurpleNavi
+Check the tournament
+board for the details!
+###--------
+###Script:11
+###Mugshot:PurpleNavi
+Today's Everyday
+Tournament is
+another scorcher!
+###--------
+###Mugshot:PurpleNavi
+Woohoo!!
+###--------
+###Script:12
+###Mugshot:NormNaviPink
+Yeah!
+NetBattling rules!
+###--------
+###Script:13
+###Mugshot:PurpleNavi
+Watching confident
+Navis duke it out
+every day is bliss!
+###--------
+###Script:14
+###Mugshot:NaviGirlOrange
+Apparently,if you win
+this tournament,
+###--------
+###Mugshot:NaviGirlOrange
+they'll give you a
+"<printItem>" prize!
+###Command:printItem buffer=0 item=19
+###--------
+###Script:15
+###Mugshot:HeelNaviPurple
+Ohhhh... I'm really
+raring to go!
+###--------
+###Script:16
+###Mugshot:NormNaviYellow
+It's all about copying
+the techniques of
+strong battlers!
+###--------
+###Script:17
+###Mugshot:PurpleNavi
+Hey you! Great job!
+That sure was some
+amazing technique!
+###--------
+###Script:20
+###Mugshot:PurpleNavi
+Hey,you're goooood!
+That was a great
+show of skill!
+###--------
+###Mugshot:PurpleNavi
+Please come
+challenge it again
+next time,<printCurrentNavi>!
+###Command:printCurrentNavi
+###--------
+###Script:21
+###Mugshot:PurpleNavi
+What a shame!
+Come challenge it
+again next time!
+###--------
+###Script:221
+###Mugshot:PurpleNavi
+Please come again!
+###--------
+###Script:222
+###Mugshot:PurpleNavi
+I'm a SubChipDealer,
+###--------
+###Mugshot:PurpleNavi
+but I'm all sold
+out! Sorry!
+###--------
+###Script:223
+###Mugshot:PurpleNavi
+I'm a SubChipDealer!
+###--------
+###Mugshot:PurpleNavi
+Wanna see my stuff?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:224
+###Mugshot:PurpleNavi
+I'm a SubChipDealer!
+###--------
+###Mugshot:PurpleNavi
+Today's the weekly
+Ladies Day!
+###--------
+###Mugshot:PurpleNavi
+I've got some sweet
+deals just for girls
+throughout the day!
+###--------
+###Mugshot:PurpleNavi
+Wanna see my stuff!?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------

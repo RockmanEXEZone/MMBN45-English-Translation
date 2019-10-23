@@ -1,0 +1,2204 @@
+﻿###TextArchive:716DE4
+###Script:0
+###Mugshot:SearchMan
+I'll explain
+the operation.
+###--------
+###Mugshot:SearchMan
+First,lock-on to the
+targets by moving the
+###--------
+###Mugshot:SearchMan
+Lock-On Sight in the
+middle of the screen
+with the +Control Pad.
+###--------
+###Mugshot:SearchMan
+Then,use the A Button
+to snipe viruses
+###--------
+###Mugshot:SearchMan
+or to make contact
+with targets.
+###--------
+###Mugshot:SearchMan
+Hold the B Button
+with the +Control Pad
+###++++++++
+###Mugshot:SearchMan
+to move the
+Lock-On Sight faster.
+###--------
+###Mugshot:SearchMan
+Some targets will
+hide themselves
+by using "Invis".
+###--------
+###Mugshot:SearchMan
+You can find those
+targets by using
+"SearchMode".
+###--------
+###Mugshot:SearchMan
+To enter SearchMode,
+press the R Button.
+###--------
+###Mugshot:SearchMan
+But SearchMode cannot
+be used if the gauge
+###--------
+###Mugshot:SearchMan
+at the bottom of the
+screen is empty.
+###--------
+###Mugshot:SearchMan
+During SearchMode,
+the gauge decreases,
+so keep an eye on it.
+###--------
+###Mugshot:SearchMan
+Once the gauge is
+empty,SearchMode
+will be cancelled.
+###--------
+###Mugshot:SearchMan
+But the gauge will
+refill over time,
+###--------
+###Mugshot:SearchMan
+so don't worry too
+much about using it.
+###--------
+###Mugshot:SearchMan
+That concludes my
+explanation for the
+operation. Good luck.
+###--------
+###Script:1
+<positionOptionVertical><option><space> Start mission
+<positionOptionVertical><option><space> Instructions
+<positionOptionVertical><option><space> Mission briefing
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Script:2
+###Mugshot:SearchMan
+Affirmative. I've
+confirmed the mission.
+###--------
+###Mugshot:SearchMan
+Let's begin.
+###--------
+###Script:3
+###Mugshot:SearchMan
+Mission complete.
+###--------
+###Mugshot:SearchMan
+Perfect operation.
+As expected,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:4
+###Mugshot:SearchMan
+Mission complete.
+###--------
+###Mugshot:SearchMan
+That mission was
+a bit difficult,
+###--------
+###Mugshot:SearchMan
+but with your operating
+skills,<printPlayerNickname>,
+###Command:printPlayerNickname
+###--------
+###Mugshot:SearchMan
+there were no
+particular problems.
+###--------
+###Script:5
+###Mugshot:SearchMan
+Mission complete.
+###--------
+###Mugshot:SearchMan
+Apologies. There were
+some difficulties...
+###--------
+###Script:6
+###Mugshot:SearchMan
+Time's up.
+###--------
+###Mugshot:SearchMan
+Apologies,<printPlayerNickname>.
+I wasn't strong enough.
+###Command:printPlayerNickname
+###--------
+###Mugshot:SearchMan
+I'll definitely make
+sure we succeed in
+our next mission.
+###--------
+###Script:7
+This is military HQ.
+###--------
+<printPlayerNickname>,SearchMan,
+good work.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+This is your reward
+for completing
+the mission.
+###--------
+Please accept it.
+###--------
+###Script:8
+###Mugshot:SearchMan
+We've arrived at
+the mission area.
+Shall we begin?
+###--------
+<positionOptionVertical><option><space> Start
+<positionOptionVertical><option><space> Quit
+###Command:positionOptionVertical width=2
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=2
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:14
+###Mugshot:HeelNaviBlack
+I-I didn't do nothin'
+yet today! R-Really!
+###--------
+###Script:15
+###Mugshot:HeelNaviBlack
+Stop buggin' me!
+You've got the wrong
+guy! Geez... *mutter*
+###--------
+###Script:16
+###Mugshot:HeelNaviBlack
+Y-You're horrible!
+###++++++++
+###Mugshot:HeelNaviBlack
+Treating me like
+a crook just
+because of my face!
+###--------
+###Script:17
+###Mugshot:MrProgGreen
+WHAT ARE YOU
+DOING? COULD
+YOU BE HERE TO
+###--------
+###Mugshot:MrProgGreen
+STEAL MY
+"MR.PROG DOLL?"
+###--------
+###Mugshot:MrProgGreen
+YOU CAN'T
+HAVE IIIIT!
+###--------
+###Script:18
+###Mugshot:MrProgGreen
+PLEASE STOP!
+###--------
+###Mugshot:MrProgGreen
+I'M JUST A
+POOR PROGRAM.
+###--------
+###Script:19
+###Mugshot:MrProgGreen
+YOU'VE GOT THE
+WRONG IDEA!
+YOU'RE WROOOOONG!!
+###--------
+###Script:20
+###Mugshot:NormNaviYellow
+Don't try and
+sell chips to me.
+###--------
+###Script:21
+###Mugshot:NormNaviYellow
+Ah! What is it?
+You scared the
+heck out of me...
+###--------
+###Script:22
+###Mugshot:NormNaviYellow
+I-I haven't done
+anything! Spare me!
+###--------
+###Script:23
+###Mugshot:NormNaviPink
+Don't touch me!
+I'm a princess!
+###--------
+###Script:24
+###Mugshot:NormNaviPink
+Huh? Huh? Huh?
+A wanted criminal?
+Me...?
+###--------
+###Script:25
+###Mugshot:NormNaviPink
+.........
+Is this some new kind
+of pickup strategy?
+###--------
+###Script:26
+###Mugshot:PurpleNavi
+What do you want?
+Are you mistaking
+me for someone else?
+###--------
+###Mugshot:PurpleNavi
+The city is a scary
+place. I'm going
+back to the country.
+###--------
+###Script:27
+###Mugshot:PurpleNavi
+You've got some guts
+to talk to me,bro!
+###--------
+###Mugshot:PurpleNavi
+......
+I-I'm sorry,
+please spare me!
+###--------
+###Script:28
+###Mugshot:PurpleNavi
+Rude! Who do you
+think you are,
+arresting me!?
+###--------
+###Script:29
+###Mugshot:OfficialNavi
+Help!
+###--------
+###Script:30
+###Mugshot:OfficialNavi
+Stop! Calm down!
+You've got the
+wrong person!
+###--------
+###Script:31
+###Mugshot:OfficialNavi
+I-I'll put my hands
+in the air,so don't
+shoot me...
+###--------
+###Script:32
+###Mugshot:HeelNaviPurple
+Just because I
+have a scary face?
+I'll sue you!
+###--------
+###Script:33
+###Mugshot:HeelNaviPurple
+Heh,you've got a
+good eye. I'm
+actually a NetCrimin...
+###--------
+###Mugshot:HeelNaviPurple
+Hey,hold on! I'm not
+done talking yet!
+###--------
+###Script:34
+###Mugshot:HeelNaviPurple
+.........
+Huh,I suddenly don't
+remember anything.
+###--------
+###Script:35
+###Mugshot:NaviGirlOrange
+I haven't done a thing!
+These are false
+accusations!
+###--------
+###Script:36
+###Mugshot:NaviGirlOrange
+Wha...!! You startled
+me! You're making
+a mistake!
+###--------
+###Script:37
+###Mugshot:NaviGirlOrange
+What? If you're trying
+to flirt with me,I'll
+have to turn you down.
+###--------
+###Script:38
+###Mugshot:HeelNaviBlack
+Even if you arrest
+me,DarkChips aren't
+gonna disappear!
+###--------
+###Script:39
+###Mugshot:HeelNaviBlack
+Yo,bro!
+About those DarkChi...
+###--------
+###Mugshot:HeelNaviBlack
+T-The Sharo Army!
+Shoot!
+###--------
+###Script:40
+###Mugshot:HeelNaviBlack
+W-Wait! Someone set
+me up! It's true!
+###--------
+###Script:41
+###Mugshot:MrProgGreen
+YOU SAVED ME!
+I WAS KNOCKING ON
+CYBERHEAVEN'S DOOR...
+###--------
+###Script:42
+###Mugshot:MrProgGreen
+WAAAAHH!
+VIRUSES ARE SCARY!
+###--------
+###Script:43
+###Mugshot:MrProgGreen
+TOO CLOSE! WHILE I
+WAS RUNNING AROUND
+RECKLESSLY,
+###--------
+###Mugshot:MrProgGreen
+MY COMMUNICATIONS
+SPEED WENT UP
+BY 200%!
+###--------
+###Script:44
+###Mugshot:NormNaviYellow
+City viruses are
+scary! I'm going
+back to the country!
+###--------
+###Script:45
+###Mugshot:NormNaviYellow
+I'll get you,viruses!
+Hyah! Hyah! Hyah!
+###--------
+###Script:46
+###Mugshot:NormNaviYellow
+T-Thanks! I can't
+m-move anymore!
+###--------
+###Script:47
+###Mugshot:NormNaviPink
+To think you
+actually found me...
+###--------
+###Mugshot:NormNaviPink
+You're definitely not
+some ordinary guy!
+###--------
+###Script:48
+###Mugshot:NormNaviPink
+D-Darn it!
+###--------
+###Script:49
+###Mugshot:NormNaviPink
+What did I do wrong!?
+###--------
+###Script:50
+###Mugshot:PurpleNavi
+How did you know?
+Who the heck ARE you!?
+###--------
+###Script:51
+###Mugshot:PurpleNavi
+Tsk... Guess you were
+too tough for me...
+###--------
+###Script:52
+###Mugshot:PurpleNavi
+To think they'd sent
+someone from the army...
+I miscalculated.
+###--------
+###Script:53
+###Mugshot:OfficialNavi
+There's no way
+I'd be found by
+an ordinary Navi!
+###--------
+###Script:54
+###Mugshot:OfficialNavi
+Even if I'm caught,
+if I can run away,
+victory is mine!
+###--------
+###Script:55
+###Mugshot:OfficialNavi
+Even if I'm caught,
+if I can run away,
+victory is mine!
+###--------
+###Script:56
+###Mugshot:HeelNaviPurple
+S-Shoot,I've
+been discovered?
+###--------
+###Script:57
+###Mugshot:HeelNaviPurple
+You figured me out!?
+###--------
+###Script:58
+###Mugshot:HeelNaviPurple
+No point running,huh...
+###--------
+###Script:59
+###Mugshot:NaviGirlOrange
+Phew... All this
+running around
+helped my diet!
+###--------
+###Mugshot:NaviGirlOrange
+Virus infections
+aren't always
+that bad.
+###--------
+###Script:60
+###Mugshot:NaviGirlOrange
+A virus like that?
+Coulda done it myself!
+###--------
+###Script:61
+###Mugshot:NaviGirlOrange
+Y-You saved me!
+I can't move
+another step!
+###--------
+###Script:62
+###Mugshot:NaviGirlPurple
+What's wrong with
+DarkChips!?
+###--------
+###Script:63
+###Mugshot:NaviGirlPurple
+C'mon,if you look the
+other way,I'll give
+you this DarkChip!
+###--------
+###Script:64
+###Mugshot:NaviGirlPurple
+Y-You're wrong! This
+is just a...black chip!
+###--------
+###Script:65
+###Mugshot:OfficialNavi
+I'll start a revolution
+in the Cyberworld!
+###--------
+###Script:66
+###Mugshot:OfficialNavi
+You're not getting
+this bag! I wouldn't
+give it up for my life!
+###--------
+###Script:67
+###Mugshot:OfficialNavi
+Tsk,I just wanted
+to open a huge
+hole in the Net
+###--------
+###Mugshot:OfficialNavi
+and let some light
+into the Undernet.
+I guess this is it...
+###--------
+###Script:68
+###Mugshot:HeelNaviPurple
+My disguise should
+have been perfect!
+How'd you know!?
+###--------
+###Script:69
+###Mugshot:HeelNaviPurple
+Just you watch!
+I'll get my revenge!
+###--------
+###Script:70
+###Mugshot:HeelNaviPurple
+Hah,you've seen
+through my disguise...
+I give up.
+###--------
+###Mugshot:HeelNaviPurple
+I'm ready.
+I'll go quietly.
+###--------
+###Script:71
+###Mugshot:NaviGirlOrange
+No one's figured
+me out! My disguise
+was perfect!
+###--------
+###Script:72
+###Mugshot:NaviGirlOrange
+I get it.
+I'll go quietly.
+###--------
+###Mugshot:NaviGirlOrange
+This is the first
+time someone saw
+through my disguise.
+###--------
+###Mugshot:NaviGirlOrange
+That's the
+military for you...
+###--------
+###Script:73
+###Mugshot:NaviGirlOrange
+You can't be serious!
+There's no way you
+could've figured me out!
+###--------
+###Script:76
+This is military HQ.
+###--------
+Good work,SerchMan.
+###--------
+This is your reward
+for completing
+the mission.
+###--------
+Please accept it.
+###--------
+SerchMan got:
+"HP Memry"!!!
+###--------
+###Script:77
+This is military HQ.
+###--------
+Good work,SerchMan.
+###--------
+This is your reward
+for completing
+the mission.
+###--------
+Please accept it.
+###--------
+SerchMan got:
+"<printBuffer> Zennys"!!!
+###Command:printBuffer buffer=3 minLength=1 padZeros=false padLeft=true
+###--------
+###Script:78
+This is military HQ.
+###--------
+Good work,SerchMan.
+###--------
+This is your reward
+for completing
+the mission.
+###--------
+Please accept it.
+###--------
+SerchMan got
+<printBuffer> BugFrags!!!
+###Command:printBuffer buffer=3 minLength=1 padZeros=false padLeft=true
+###--------
+###Script:79
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+DarkChip buyers.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 4 targets.
+###--------
+###Mugshot:SearchMan
+The DarkChip buyers
+can be identified by
+their blackened bodies.
+###--------
+###Mugshot:SearchMan
+To avoid leaking the
+mission to civilians,
+###--------
+###Mugshot:SearchMan
+avoid making contact
+with any Navis
+besides the targets.
+###--------
+###Mugshot:SearchMan
+If you do,5 seconds
+will be subtracted from
+the mission timer.
+###--------
+###Script:80
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+chip thieves.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 10 targets.
+###--------
+###Mugshot:SearchMan
+They're hiding with
+help of Invis,
+###--------
+###Mugshot:SearchMan
+so it may be difficult
+to locate them.
+###--------
+###Mugshot:SearchMan
+Make good use of
+my search abilities,
+###--------
+###Mugshot:SearchMan
+and arrest all of
+the targets.
+###--------
+###Script:81
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The target is the
+chip thief group,
+the "Getters".
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 4 targets.
+###--------
+###Mugshot:SearchMan
+The targets' disguises
+are perfect.
+###--------
+###Mugshot:SearchMan
+You'll have to identify
+the targets
+###--------
+###Mugshot:SearchMan
+by the way that
+they move.
+###--------
+###Mugshot:SearchMan
+Watch their movements
+carefully and arrest
+them.
+###--------
+###Mugshot:SearchMan
+To avoid leaking the
+mission to civilians,
+###--------
+###Mugshot:SearchMan
+avoid making contact
+with any Navis
+besides the targets.
+###--------
+###Mugshot:SearchMan
+If you do,5 seconds
+will be subtracted from
+the mission timer.
+###--------
+###Script:82
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+hacker Navis.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 13 targets.
+###--------
+###Mugshot:SearchMan
+They're hiding with
+help of Invis,
+###--------
+###Mugshot:SearchMan
+so it may be difficult
+to locate them.
+###--------
+###Mugshot:SearchMan
+Make good use of
+my search abilities,
+###--------
+###Mugshot:SearchMan
+and arrest all of
+the targets.
+###--------
+###Script:83
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+out-of-control
+Navis and programs
+###--------
+###Mugshot:SearchMan
+that have been
+infected with viruses.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 6 targets.
+###--------
+###Mugshot:SearchMan
+Please protect the
+infected Navis
+and programs
+###--------
+###Mugshot:SearchMan
+that are going
+out of control.
+###--------
+###Mugshot:SearchMan
+To avoid leaking the
+mission to civilians,
+###--------
+###Mugshot:SearchMan
+avoid making contact
+with any Navis
+besides the targets.
+###--------
+###Mugshot:SearchMan
+If you do,5 seconds
+will be subtracted from
+the mission timer.
+###--------
+###Script:84
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+extremists from
+the Undernet.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 5 targets.
+###--------
+###Mugshot:SearchMan
+They're planning to
+use explosives to blow
+up parts of the Net.
+###--------
+###Mugshot:SearchMan
+According to the
+data,it seems
+###--------
+###Mugshot:SearchMan
+they're storing
+the bombs in bags.
+###--------
+###Mugshot:SearchMan
+Arrest the Navis
+with bags,before
+the bombs explode.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+targets use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so make good use of
+my search abilities.
+###--------
+###Mugshot:SearchMan
+To avoid leaking the
+mission to civilians,
+###--------
+###Mugshot:SearchMan
+avoid making contact
+with any Navis
+besides the targets.
+###--------
+###Mugshot:SearchMan
+If you do,5 seconds
+will be subtracted from
+the mission timer.
+###--------
+###Script:85
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The target is
+a group of serial
+arsonists.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 15 targets.
+###--------
+###Mugshot:SearchMan
+They're hiding with
+help of Invis,
+###--------
+###Mugshot:SearchMan
+so it may be difficult
+to locate them.
+###--------
+###Mugshot:SearchMan
+Make good use of
+my search abilities,
+###--------
+###Mugshot:SearchMan
+and arrest all of
+the targets.
+###--------
+###Script:86
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+out-of-control
+Navis and programs
+###--------
+###Mugshot:SearchMan
+that have been
+infected with viruses.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 8 targets.
+###--------
+###Mugshot:SearchMan
+Protect the Navis
+that are going out of
+control due to viruses.
+###--------
+###Mugshot:SearchMan
+To avoid leaking the
+mission to civilians,
+###--------
+###Mugshot:SearchMan
+avoid making contact
+with any Navis
+besides the targets.
+###--------
+###Mugshot:SearchMan
+If you do,5 seconds
+will be subtracted from
+the mission timer.
+###--------
+###Script:87
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+Navis who've stolen
+sensitive SciLab data.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 5 targets.
+###--------
+###Mugshot:SearchMan
+The targets are fully
+disguised and cannot
+be distinguished easily.
+###--------
+###Mugshot:SearchMan
+However,due to
+SciLab's defensive
+viruses,there's a
+###--------
+###Mugshot:SearchMan
+bug in their movement
+programs,causing
+them to move strangely.
+###--------
+###Mugshot:SearchMan
+Watch their movements
+closely and arrest them.
+###--------
+###Mugshot:SearchMan
+To avoid leaking the
+mission to civilians,
+###--------
+###Mugshot:SearchMan
+avoid making contact
+with any Navis
+besides the targets.
+###--------
+###Mugshot:SearchMan
+If you do,5 seconds
+will be subtracted from
+the mission timer.
+###--------
+###Script:88
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+infected Navis
+going out of control.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 10 targets.
+###--------
+###Mugshot:SearchMan
+To avoid leaking the
+mission to civilians,
+###--------
+###Mugshot:SearchMan
+avoid making contact
+with any Navis
+besides the targets.
+###--------
+###Mugshot:SearchMan
+If you do,5 seconds
+will be subtracted from
+the mission timer.
+###--------
+###Script:89
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The target is
+a mass outbreak
+of viruses.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 15 targets.
+###--------
+###Script:90
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+viruses spread by
+Undernet Navis.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 15 targets.
+###--------
+###Script:91
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The target is
+a mass outbreak
+of viruses.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 15 targets.
+###--------
+###Script:92
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The target is
+a mass outbreak
+of viruses.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 15 targets.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so make good use of
+my search abilities,
+###--------
+###Mugshot:SearchMan
+and snipe all of
+the targets.
+###--------
+###Script:93
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+viruses spread by an
+Undernet virus lab.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 15 targets.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so make good use of
+my search abilities,
+###--------
+###Mugshot:SearchMan
+and snipe all of
+the targets.
+###--------
+###Script:94
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+viruses that have
+been spread
+###--------
+###Mugshot:SearchMan
+in order to assassinate
+a goodwill ambassador.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 15 targets.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so make good use of
+my search abilities,
+###--------
+###Mugshot:SearchMan
+and snipe all of
+the targets.
+###--------
+###Script:95
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The target is
+a mass outbreak
+of viruses.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 15 targets.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so make good use of
+my search abilities,
+###--------
+###Mugshot:SearchMan
+and snipe all of
+the targets.
+###--------
+###Script:96
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+viruses that have
+escaped from SciLab.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 18 targets.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so make good use of
+my search abilities,
+###--------
+###Mugshot:SearchMan
+and snipe all of
+the targets.
+###--------
+###Script:97
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The target is
+a mass outbreak
+of viruses.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 18 targets.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so make good use of
+my search abilities,
+###--------
+###Mugshot:SearchMan
+and snipe all of
+the targets.
+###--------
+###Script:98
+###Mugshot:SearchMan
+I've finished
+downloading the
+mission data.
+###--------
+###Mugshot:SearchMan
+The mission time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+The targets are
+viruses spawned from
+a virus creating device.
+###--------
+###Mugshot:SearchMan
+I've confirmed from
+the data that there
+are 18 targets.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so make good use of
+my search abilities,
+###--------
+###Mugshot:SearchMan
+and snipe all of
+the targets.
+###--------
+###Script:99
+###Mugshot:SearchMan
+I see you've arrived
+at the test area.
+###--------
+###Mugshot:SearchMan
+But I'm a little
+hesitant to begin
+the test
+###--------
+###Mugshot:SearchMan
+with your current
+equipment...
+###--------
+###Mugshot:SearchMan
+Okay,it's settled.
+I'll lend you my
+SearchScope.
+###--------
+###Mugshot:SearchMan
+It's an excellent
+tool that can use
+SearchMode.
+###--------
+###Mugshot:SearchMan
+This lets you detect
+viruses that have
+gone invisible.
+###--------
+###Mugshot:SearchMan
+Alright,let's begin
+the test.
+###--------
+###Script:100
+###Mugshot:SearchMan
+I've finished
+downloading the
+test mission data.
+###--------
+###Mugshot:SearchMan
+The test mission
+time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you pass the test.
+###--------
+###Script:101
+###Mugshot:SearchMan
+I've finished
+downloading the
+test mission data.
+###--------
+###Mugshot:SearchMan
+The test mission
+time is
+60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so use the SearchScope
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you pass the test.
+###--------
+###Script:102
+<positionOptionVertical><option><space> Start mission
+<positionOptionVertical><option><space> Instructions
+<positionOptionVertical><option><space> Mission briefing
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Script:103
+###Mugshot:SearchMan
+Affirmative.
+Are you ready?
+###--------
+###Mugshot:SearchMan
+Let's go!
+Test mission <wait>START!
+###Command:wait frames=120
+###--------
+###Script:104
+###Mugshot:SearchMan
+Mission complete.
+###--------
+###Script:105
+###Mugshot:SearchMan
+Time's up.
+The test mission
+is over.
+###--------
+###Script:106
+###Mugshot:SearchMan
+This program was
+developed by the
+Sharo Army.
+###--------
+###Mugshot:SearchMan
+It's a program for
+sniper training.
+###--------
+###Mugshot:SearchMan
+You're confident in
+your skills,right?
+###--------
+###Mugshot:SearchMan
+I look forward
+to the results.
+###--------
+###Mugshot:SearchMan
+This program is
+equipped with data
+for the SearchScope.
+###--------
+###Mugshot:SearchMan
+This special data
+enables the use
+of SearchMode,
+###--------
+###Mugshot:SearchMan
+which lets you detect
+invisible viruses.
+###--------
+###Mugshot:SearchMan
+Be sure to get
+accustomed to it.
+###--------
+###Script:107
+###Mugshot:SearchMan
+The sniper training time
+is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:108
+###Mugshot:SearchMan
+The sniper training time
+is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:109
+###Mugshot:SearchMan
+The sniper training time
+is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:110
+###Mugshot:SearchMan
+The sniper training time
+is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:111
+###Mugshot:SearchMan
+The sniper training time
+is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:112
+###Mugshot:SearchMan
+The sniper training time
+is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:113
+###Mugshot:SearchMan
+The sniper training time
+is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves.
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:114
+###Mugshot:SearchMan
+The sniper training time
+is 60 seconds.
+###--------
+###Mugshot:SearchMan
+18 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:115
+###Mugshot:SearchMan
+The sniper training time
+is 60 seconds.
+###--------
+###Mugshot:SearchMan
+18 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:116
+###Mugshot:SearchMan
+The sniper training time
+is 60 seconds.
+###--------
+###Mugshot:SearchMan
+18 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis
+to hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:117
+<positionOptionVertical><option><space> Start mission
+<positionOptionVertical><option><space> Instructions
+<positionOptionVertical><option><space> Mission briefing
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Script:118
+###Mugshot:SearchMan
+Affirmative.
+###--------
+###Mugshot:SearchMan
+Let's begin
+the training.
+###--------
+###Script:119
+###Mugshot:SearchMan
+Mission complete.
+The training is over.
+###--------
+###Mugshot:SearchMan
+Your operating
+abilities are
+second to none.
+###--------
+###Mugshot:SearchMan
+The Sharo Army may be
+interested in scouting
+you in the near future...
+###--------
+###Script:120
+###Mugshot:SearchMan
+Mission complete.
+The training is over.
+###--------
+###Mugshot:SearchMan
+Just as I'd expected.
+###--------
+###Mugshot:SearchMan
+As an operator,you
+show great situation
+assessment skills.
+###--------
+###Script:121
+###Mugshot:SearchMan
+Mission complete.
+The training is over.
+###--------
+###Mugshot:SearchMan
+You were able to pass
+this training session...
+###--------
+###Mugshot:SearchMan
+It appears you
+have considerable
+operating abilities.
+###--------
+###Script:122
+###Mugshot:SearchMan
+Unfortunately...
+You've failed this
+training session.
+###--------
+###Mugshot:SearchMan
+But I don't believe
+this is the full extent
+of your abilities.
+###--------
+###Mugshot:SearchMan
+Try showing off your
+true power during the
+next training session.
+###--------
+###Script:123
+###Mugshot:SearchMan
+This program was
+developed by the
+Sharo Army.
+###--------
+###Script:124
+###Mugshot:SearchMan
+The sniper training
+time is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:125
+###Mugshot:SearchMan
+The sniper training
+time is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:126
+###Mugshot:SearchMan
+The sniper training
+time is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:127
+###Mugshot:SearchMan
+The sniper training
+time is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis to
+hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:128
+###Mugshot:SearchMan
+The sniper training
+time is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis to
+hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:129
+###Mugshot:SearchMan
+The sniper training
+time is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis to
+hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:130
+###Mugshot:SearchMan
+The sniper training
+time is 60 seconds.
+###--------
+###Mugshot:SearchMan
+15 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis to
+hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:131
+###Mugshot:SearchMan
+The sniper training
+time is 60 seconds.
+###--------
+###Mugshot:SearchMan
+18 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis to
+hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:132
+###Mugshot:SearchMan
+The sniper training
+time is 60 seconds.
+###--------
+###Mugshot:SearchMan
+18 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis to
+hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:133
+###Mugshot:SearchMan
+The sniper training
+time is 60 seconds.
+###--------
+###Mugshot:SearchMan
+18 viruses have been
+spawned in the area.
+###--------
+###Mugshot:SearchMan
+Seems some of the
+viruses use Invis to
+hide themselves,
+###--------
+###Mugshot:SearchMan
+so use SearchMode
+to detect them.
+###--------
+###Mugshot:SearchMan
+If you're able to snipe
+all of the viruses
+within the time limit,
+###--------
+###Mugshot:SearchMan
+you'll complete the
+training.
+###--------
+###Script:134
+<positionOptionVertical><option><space> Start training
+<positionOptionVertical><option><space> Instructions
+<positionOptionVertical><option><space> Training briefing
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Script:135
+###Mugshot:SearchMan
+Affirmative.
+Let's begin training.
+###--------
+###Script:136
+###Mugshot:SearchMan
+Mission complete.
+###--------
+###Mugshot:SearchMan
+Perfect operation.
+As expected,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:137
+###Mugshot:SearchMan
+Mission complete.
+###--------
+###Mugshot:SearchMan
+That mission was
+a bit difficult,
+###--------
+###Mugshot:SearchMan
+but with your operating
+skills,<printPlayerNickname>,
+###Command:printPlayerNickname
+###--------
+###Mugshot:SearchMan
+there were no
+particular problems.
+###--------
+###Script:138
+###Mugshot:SearchMan
+Mission complete.
+###--------
+###Mugshot:SearchMan
+Apologies. There were
+some difficulties...
+###--------
+###Script:139
+###Mugshot:SearchMan
+Apologies,<printPlayerNickname>.
+I wasn't strong enough.
+###Command:printPlayerNickname
+###--------
+###Mugshot:SearchMan
+I'll definitely make
+sure we succeed in
+our next mission.
+###--------
+###Script:140
+###Mugshot:SearchMan
+I'll explain
+the operation.
+###--------
+###Mugshot:SearchMan
+First,lock-on to the
+targets by moving the
+###--------
+###Mugshot:SearchMan
+Lock-On Sight in the
+middle of the screen
+with the +Control Pad.
+###--------
+###Mugshot:SearchMan
+Then,use the A Button
+to snipe viruses.
+###--------
+###Mugshot:SearchMan
+Hold the B Button
+with the +Control Pad
+###++++++++
+###Mugshot:SearchMan
+to move the
+Lock-On Sight faster.
+###--------
+###Mugshot:SearchMan
+Some targets will
+hide themselves
+by using "Invis".
+###--------
+###Mugshot:SearchMan
+You can find those
+targets by using
+"SearchMode".
+###--------
+###Mugshot:SearchMan
+To enter SearchMode,
+press the R Button.
+###--------
+###Mugshot:SearchMan
+But SearchMode cannot
+be used if the gauge
+###--------
+###Mugshot:SearchMan
+at the bottom of the
+screen is empty.
+###--------
+###Mugshot:SearchMan
+During SearchMode,
+the gauge decreases,
+so keep an eye on it.
+###--------
+###Mugshot:SearchMan
+Once the gauge is
+empty,SearchMode
+will be cancelled.
+###--------
+###Mugshot:SearchMan
+But the gauge will
+refill over time,
+###--------
+###Mugshot:SearchMan
+so don't worry too
+much about using it.
+###--------
+###Mugshot:SearchMan
+That concludes my
+explanation for
+the operation.
+###--------

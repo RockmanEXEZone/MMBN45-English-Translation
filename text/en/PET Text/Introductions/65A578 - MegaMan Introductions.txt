@@ -1,0 +1,14 @@
+﻿###TextArchive:65A578
+###Script:1
+Nice to meet you!
+I'm MegaMan!
+###--------
+###Script:2
+It's been a while!
+###--------
+I'm glad we're
+a team again!
+###--------
+Let's do our
+best once again!
+###--------

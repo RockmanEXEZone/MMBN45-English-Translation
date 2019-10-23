@@ -1,0 +1,17 @@
+﻿###TextArchive:7A9DA8
+###Script:0
+###Mugshot:NormNaviYellow
+Looks like there's
+a fighting event
+going on in Internet8!
+###--------
+###Mugshot:NormNaviYellow
+Do you wanna go
+check it out too?
+###--------
+###Script:1
+###Mugshot:HeelNaviPurple
+Sure is a lot of noise
+coming from Internet8...
+I wonder what's up?
+###--------

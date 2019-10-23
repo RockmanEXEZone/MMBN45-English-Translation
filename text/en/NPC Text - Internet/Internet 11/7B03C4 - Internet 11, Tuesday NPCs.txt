@@ -1,0 +1,20 @@
+﻿###TextArchive:7B03C4
+###Script:0
+###Mugshot:NormNaviYellow
+Fire-based viruses
+are everywhere today,
+so it's blazing hot...
+###--------
+###Script:1
+###Mugshot:OfficialNavi
+Hey! Ya doin' alright!?
+I'm feelin' great!
+###--------
+###Mugshot:OfficialNavi
+Us Officials are
+always in a great
+mood,no matter what!
+###--------
+###Mugshot:OfficialNavi
+Ohhh yeeeeaaaahh!!
+###--------

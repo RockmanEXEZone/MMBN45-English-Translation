@@ -1,0 +1,48 @@
+﻿###TextArchive:6B69A0
+###Script:1
+What have I done...!
+I am deeply sorry.
+###--------
+I,KnightMan,swear
+to give it my all
+in our next battle!
+###--------
+###Script:2
+We've done it,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+A shout of triumph!
+Let us give a
+shout of triumph!
+###--------
+Huzzah!!
+Huzzah!!
+Huzzah!!
+###--------
+###Script:10
+<printPlayerNickname>,
+we are not
+entered.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+The hour of
+battle is nigh!!
+Let us be off!
+###--------
+###Script:21
+The hour of
+battle is nigh!!
+Let us be off!
+###--------
+###Script:22
+The hour of
+battle is nigh!!
+Let us be off!
+###--------
+###Script:23
+The hour of
+battle is nigh!!
+Let us be off!
+###--------

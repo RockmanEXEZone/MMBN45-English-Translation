@@ -1,0 +1,129 @@
+﻿###TextArchive:768800
+###Script:0
+###Mugshot:MrProgGreen
+DublSoul requires
+the sacrifice of a
+compatible chip.
+###--------
+###Script:1
+###Mugshot:Lan
+Sacrifice? Does that
+mean you lose it?
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+Correct. Right now,
+MegaMan can unite
+with GutsSoul.
+###--------
+###Mugshot:MrProgGreen
+GutsMan's a powerful
+soul that destroys
+panels outright.
+###--------
+###Mugshot:MrProgGreen
+Sacrifice CrakOut or
+a similar chip to
+unite with that soul.
+###--------
+###Mugshot:MrProgGreen
+Here's how to do it.
+First,select
+CrakOut.
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+Next,select the
+Unite command.
+###--------
+###Script:4
+###Mugshot:MrProgGreen
+Try it,Lan.
+###--------
+###Script:5
+###Mugshot:MrProgGreen
+Let's practice by
+selecting "CrakOut".
+###--------
+###Script:6
+###Mugshot:MrProgGreen
+No,select "CrakOut".
+Cancel,and then
+select again.
+###--------
+###Script:7
+###Mugshot:MrProgGreen
+Lan,you forgot the
+Unite command.
+###--------
+###Script:8
+###Mugshot:MrProgGreen
+Lan,there's no need
+to cancel.
+###--------
+###Script:9
+###Mugshot:MrProgGreen
+No need to run away.
+Let's continue.
+###--------
+###Script:10
+###Mugshot:MrProgGreen
+See? That's how a
+DublChip is made.
+Selecting OK will
+###--------
+###Mugshot:MrProgGreen
+now automatically
+activate DublSoul.
+###--------
+###Mugshot:MrProgGreen
+GutsSoul gives +30
+Attack to [bracket1]None[bracket2] and
+panel smash chips.
+###--------
+###Mugshot:MrProgGreen
+And PwrAtk's with
+the B Button will
+###--------
+###Mugshot:MrProgGreen
+become GutPunch,
+and then pressing B
+Button rapidly will
+###--------
+###Mugshot:MrProgGreen
+activate GutsMG.
+Try it!
+###--------
+###Script:11
+###Mugshot:MrProgGreen
+That's DublSoul.
+Mastering it will
+make you stronger.
+###--------
+###Mugshot:MrProgGreen
+However,there are a
+few restrictions
+on uniting.
+###--------
+###Mugshot:MrProgGreen
+First,you can't
+sacrifice regular
+chips.
+###--------
+###Mugshot:MrProgGreen
+Second,you can only
+unite once with the
+same soul in battle.
+###--------
+###Mugshot:MrProgGreen
+Third,DublSoul only
+lasts for 3 turns.
+Consider this before
+###--------
+###Mugshot:MrProgGreen
+you use DublSoul.
+###--------
+###Script:12
+###Mugshot:MrProgGreen
+No need to cancel.
+###--------

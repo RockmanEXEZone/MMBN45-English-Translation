@@ -1,0 +1,16 @@
+﻿###TextArchive:7782A8
+###Script:0
+###Mugshot:Lan
+Jack in!!<wait>
+MegaMan,Execute!<wait>
+###Command:wait frames=10
+###Command:wait frames=30
+###--------
+###Script:1
+MegaMan isn't in
+the PET...
+###--------
+###Script:10
+###Mugshot:MegaMan
+Mom looks upset...
+###--------

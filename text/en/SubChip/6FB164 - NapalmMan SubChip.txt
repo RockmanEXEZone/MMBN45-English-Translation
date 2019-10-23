@@ -1,0 +1,37 @@
+﻿###TextArchive:6FB164
+###Script:6
+###Mugshot:NapalmMan
+Let's not
+use it yet.
+###--------
+###Script:7
+###Mugshot:NapalmMan
+You wanna use
+"<printItem>"?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printItem buffer=1 item=0
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:11
+###Mugshot:NapalmMan
+You're already
+using "<printItem>",
+ya know?
+###Command:printItem buffer=1 item=0
+###--------
+###Script:12
+###Mugshot:NapalmMan
+There ain't
+any locked
+data!
+###--------
+###Script:13
+###Mugshot:NapalmMan
+No viruses
+around
+here yet!
+###--------

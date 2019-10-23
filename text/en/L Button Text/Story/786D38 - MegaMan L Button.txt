@@ -1,0 +1,177 @@
+﻿###TextArchive:786D38
+###Script:10
+###Mugshot:MegaMan
+Let's explore the
+Net some more!
+###--------
+###Script:11
+###Mugshot:MegaMan
+Let's go take the
+Apprentice License
+exam!
+###--------
+###Script:12
+###Mugshot:MegaMan
+Let's do our best on
+the Apprentice License
+exam!
+###--------
+###Script:13
+###Mugshot:MegaMan
+Let's go get
+a "<printChip>"!
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:MegaMan
+Let's go pick up our
+Apprentice License!
+###--------
+###Script:15
+###Mugshot:MegaMan
+Great job on the
+Apprentice License
+exam!
+###++++++++
+###Mugshot:MegaMan
+How about a
+little break?
+###--------
+###Script:16
+###Mugshot:MegaMan
+I wonder what's
+happening in
+Internet3...
+###--------
+###Script:17
+###Mugshot:MegaMan
+Looks like the Navi
+we beat was behind
+the incident...
+###--------
+###Mugshot:MegaMan
+Are you worn out?
+Want to jack out
+for a bit?
+###--------
+###Script:18
+###Mugshot:MegaMan
+I wonder what's
+happening in
+Internet5...
+###--------
+###Script:19
+###Mugshot:MegaMan
+I wonder what's
+happening in
+Internet7...
+###--------
+###Script:20
+###Mugshot:MegaMan
+I wonder what's
+happening in
+Internet9...
+###--------
+###Script:21
+###Mugshot:MegaMan
+I wonder what's
+happening in
+Internet10...
+###--------
+###Script:22
+###Mugshot:MegaMan
+I wonder what's
+happening in
+Internet12...
+###--------
+###Script:23
+###Mugshot:MegaMan
+Let's get that
+"MinusKey" back
+from BlackWorks!
+###--------
+###Script:24
+###Mugshot:MegaMan
+Looks like the
+other Navi has
+the "MinusKey"!
+###--------
+###Script:25
+###Mugshot:MegaMan
+Let's bring back the
+"MinusKey" to the
+Navi in Internet9!
+###--------
+###Script:26
+###Mugshot:MegaMan
+Let's go to the
+Official Tournament
+entry desk!
+###--------
+###Script:27
+###Mugshot:MegaMan
+Let's go to
+the Undernet!
+###--------
+###Mugshot:MegaMan
+We're supposed to
+look for a coffin
+to find the criminal.
+###--------
+###Script:28
+###Mugshot:MegaMan
+<printPlayerNickname>,let's go
+enter the Official
+Tournament!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:29
+###Mugshot:MegaMan
+The Official Tournament
+is this weekend! Let's
+give it all we've got!
+###--------
+###Script:30
+###Mugshot:MegaMan
+To win the Official
+Tournament...
+###++++++++
+###Mugshot:MegaMan
+That's every
+NetBattler's
+dream,right?
+###--------
+###Script:31
+###Mugshot:MegaMan
+There might still
+be more secrets
+on the Net!
+###--------
+###Mugshot:MegaMan
+Let's try exploring
+some more!
+###--------
+###Script:32
+###Mugshot:MegaMan
+<printPlayerNickname>,let's do the
+Official Tournament
+prelims!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:33
+###Mugshot:MegaMan
+Hey,let's read the
+mail we just got!
+###--------
+###Script:34
+###Mugshot:MegaMan
+Once the weekend is
+over,let's go enter
+the Official Tournament!
+###--------
+###Script:35
+###Mugshot:MegaMan
+We're supposed to
+look for a coffin
+to find the criminal.
+###--------

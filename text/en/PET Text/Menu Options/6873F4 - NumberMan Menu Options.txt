@@ -1,0 +1,202 @@
+﻿###TextArchive:6873F4
+###Script:1
+What shall we do
+next,<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:2
+Want to participate
+in the tournament?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:3
+Jack into
+the Net?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:4
+Want to change
+my equipment?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:5
+Take a look at
+the Data Library?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:6
+Want to read
+your E-Mail?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:7
+Want to have a
+Network Duel?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:8
+Want to open the
+save screen?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:10
+Want to participate
+in the tournament?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+<wait>
+###Command:wait frames=1
+###--------
+###Script:11
+Jack into
+the Net?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+<wait>
+###Command:wait frames=1
+###--------
+###Script:12
+Want to change
+my equipment?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+<wait>
+###Command:wait frames=1
+###--------
+###Script:13
+Take a look at
+the Data Library?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+<wait>
+###Command:wait frames=1
+###--------
+###Script:14
+Want to read
+your E-Mail?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+<wait>
+###Command:wait frames=1
+###--------
+###Script:15
+Want to have a
+Network Duel?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+<wait>
+###Command:wait frames=1
+###--------
+###Script:16
+##Want to save
+##your progress?
+Want to open the
+save screen?
+
+###--------
+<spacePx><option><space> Yes  <option><space> No
+###Command:spacePx count=24
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+<wait>
+###Command:wait frames=1
+###--------
+###Script:20
+At least listen
+to others until
+they're finished...
+###--------

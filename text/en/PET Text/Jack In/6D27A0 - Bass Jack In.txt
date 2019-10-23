@@ -1,0 +1,7 @@
+﻿###TextArchive:6D27A0
+###Script:1
+Jack in!
+Bass,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

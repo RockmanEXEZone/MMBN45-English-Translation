@@ -1,0 +1,44 @@
+﻿###TextArchive:66C7D8
+###Script:1
+Unfortunately...we
+were hit by some
+strong headwinds.
+###--------
+But the winds
+always turn
+eventually...
+###--------
+###Script:2
+We rode the
+tailwind... That was
+a splendid victory.
+###--------
+###Script:10
+<printPlayerNickname>,we
+are not entered.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+<printPlayerNickname>,let us
+go! The wind is
+in our favor!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:21
+<printPlayerNickname>,let us
+go! The wind is
+in our favor!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:22
+<printPlayerNickname>,let us
+go! The wind is
+in our favor!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:23
+<printPlayerNickname>,let us
+go! The wind is
+in our favor!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------

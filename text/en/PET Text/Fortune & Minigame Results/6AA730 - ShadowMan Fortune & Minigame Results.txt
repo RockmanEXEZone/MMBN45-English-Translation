@@ -1,0 +1,113 @@
+﻿###TextArchive:6AA730
+###Script:0
+Temp message
+###--------
+###Script:10
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Our job is
+done,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+Looks like we
+have mail from
+our client.
+###--------
+###Script:11
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+Tsk...
+Disgraceful...!
+###--------
+We have a
+scathing mail
+from our client...
+###--------
+###Script:12
+<printPlayerNickname>,we have
+<printShadowManMissionMinutes> minutes left.
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printShadowManMissionMinutes minLength=1 padZeros=false padLeft=false
+###--------
+###Script:13
+There's not much
+time,<printPlayerNickname>⋯
+Quickly!
+###Command:printPlayerNickname
+###--------
+###Script:70
+No...!
+If only I had
+my ninja stars...!
+###--------
+###Script:71
+Hmph...
+###--------
+All in a
+day's work...
+###--------
+Hm,it seems
+we've received
+some data...
+###--------
+An "HP Memry"⋯
+###--------
+I see...it's our
+reward for comple-
+ting the training...
+###--------
+In that case,
+I'll accept it...
+###--------
+###Script:72
+Hmph...
+###--------
+All in a
+day's work...
+###--------
+Hm,it seems
+we've received
+some data...
+###--------
+<printBuffer> Zennys...
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+I see...it's our
+reward for comple-
+ting the training...
+###--------
+In that case,
+I'll accept it...
+###--------
+###Script:73
+Hmph...
+###--------
+All in a
+day's work...
+###--------
+Hm,it seems
+we've received
+some data...
+###--------
+<printBuffer> BugFrags...
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+I see...it's our
+reward for comple-
+ting the training...
+###--------
+In that case,
+I'll accept it...
+###--------

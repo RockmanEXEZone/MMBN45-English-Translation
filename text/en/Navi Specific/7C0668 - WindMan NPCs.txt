@@ -1,0 +1,52 @@
+﻿###TextArchive:7C0668
+###Script:0
+###Mugshot:MrProgGreen
+HAAA!
+HWAAAH!
+HIYAAAHH!
+###--------
+###Mugshot:MrProgGreen
+PHEW...
+JUST A BIT MORE.
+###--------
+###Mugshot:MrProgGreen
+EXCUSE ME,BUT...
+I HAVE THIS FEELING,
+###++++++++
+###Mugshot:MrProgGreen
+THAT YOU CAN
+HELP ME FLY
+THROUGH THE SKY...
+###--------
+###Mugshot:WindMan
+<printPlayerNickname>,shall
+we assist this
+troubled program?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> Nah
+###Command:positionOptionHorizontal width=9
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:MrProgGreen
+R-REALLY?
+THEN,IF YOU PLEASE!
+###--------
+###Mugshot:WindMan
+*whoosh...* Helping
+those in need is a
+good attitude to have.
+###--------
+###Mugshot:WindMan
+Let us go to Internet1
+and perform the wind
+rousing ceremony.
+###--------
+###Script:1
+###Mugshot:WindMan
+*whoosh...*
+No helping it,then.
+###--------

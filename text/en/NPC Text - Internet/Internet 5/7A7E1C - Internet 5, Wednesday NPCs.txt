@@ -1,0 +1,25 @@
+﻿###TextArchive:7A7E1C
+###Script:0
+###Mugshot:NaviGirlOrange
+Today is Ladies Day!
+Time to spend big!
+###--------
+###Script:1
+###Mugshot:NormNaviPink
+I'm gonna stock up
+on SubChips,and...and...
+###--------
+###Mugshot:NormNaviPink
+I should probably
+pick up some powerful
+chips as well...
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+Every Wednesday
+is Ladies Day,huh...
+###--------
+###Mugshot:NormNaviYellow
+I wish they'd make
+a Men's Day too.
+###--------

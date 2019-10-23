@@ -1,0 +1,875 @@
+﻿###TextArchive:66DDD0
+###Script:0
+Error!
+Put info in
+the form!
+###--------
+###Script:1
+Places where
+many NetBattlers
+gather are
+###--------
+excellent for
+gathering info
+on chips.
+###--------
+Perhaps you
+could bring me
+to <printSchool>?
+###Command:printSchool capitalizeFirst=false
+###--------
+###Script:2
+Amongst your
+friends at
+<printSchool>,
+###Command:printSchool capitalizeFirst=false
+###--------
+are any of them
+NetBattlers?
+###--------
+Just like having
+many chips in the
+Data Library,
+###--------
+it's also good
+to have many
+friends...
+###--------
+###Script:3
+Don't get too
+absorbed in
+collecting chips
+###--------
+and be late
+to <printSchool>⋯
+###Command:printSchool capitalizeFirst=false
+###--------
+###Script:5
+There was a nice
+wind blowing on the
+Net again today...
+###--------
+Does <printOlderBro>
+know about the
+Cyberworld wind...?
+###Command:printOlderBro capitalizeFirst=false
+###--------
+If he does not,
+I would like
+to teach him.
+###--------
+###Script:6
+I sense a strong
+storm brewing
+within <printYoungerBro>.
+###Command:printYoungerBro capitalizeFirst=false
+###--------
+It would please me
+to wander around
+###++++++++
+the Cyberworld
+with him sometime.
+###--------
+###Script:7
+The Cyberworld's
+wind can change
+course on a whim.
+###--------
+...Much like
+<printOlderSis>'s mood.
+###Command:printOlderSis capitalizeFirst=false
+###--------
+###Script:8
+<printPlayerNickname>,can
+you predict the
+course of the
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Cyberworld's wind?
+<printYoungerSis> seems
+like she could.
+###Command:printYoungerSis capitalizeFirst=false
+###--------
+She just seems to
+have that quality...
+###--------
+###Script:9
+You can handle
+any matters via
+mail nowadays.
+###--------
+But for more
+important matters,
+###--------
+I would prefer you
+discuss them with
+<printFriend> directly...
+###Command:printFriend capitalizeFirst=false
+###--------
+###Script:10
+Thanks to E-mail,
+###++++++++
+the wind is no
+longer needed
+to spread news...
+###--------
+Indeed,were
+you looking to
+contact <printFriend>,
+###Command:printFriend capitalizeFirst=false
+###--------
+using E-mail would
+be sufficient...
+###--------
+###Script:11
+<printFriend> must use
+mail a lot too...
+###Command:printFriend capitalizeFirst=true
+###--------
+Do they not use
+carrier pigeons?
+...How unfortunate.
+###--------
+###Script:13
+I enjoy the feeling
+of the cyberwind.
+###--------
+Is it not similar
+to how you enjoy
+<printFavFood>?
+###Command:printFavFood capitalizeFirst=false
+###--------
+I may be a little
+off,but you
+get the idea.
+###--------
+###Script:14
+If <printFavFood>
+exists on the Net,
+###Command:printFavFood capitalizeFirst=false
+###--------
+I would like to
+try it as well,
+someday...
+###--------
+###Script:15
+If <printFavFood> is
+the source of your
+power,<printPlayerNickname>,
+###Command:printFavFood capitalizeFirst=false
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+then my source
+of power is the
+Cyberworld wind...
+###--------
+###Script:17
+After looking at
+chips,how about
+going outside?
+###--------
+Doing <printHobby>
+while you feel the
+breeze of the wind
+###Command:printHobby capitalizeFirst=false
+###++++++++
+is good for you,
+you know.
+###--------
+###Script:18
+How about it?
+Shall we go
+on the Net?
+###--------
+I feel a good
+wind is blowing...
+###--------
+Well,if you don't
+want to,I don't
+mind particularly...
+###--------
+Then,how about
+doing <printHobby>
+or something?
+###Command:printHobby capitalizeFirst=false
+###--------
+###Script:19
+At times,I find
+myself wanting
+to feel the wind.
+###--------
+Similarly,I'm sure
+there are times
+when you find
+###--------
+yourself really
+wanting to do
+<printHobby>⋯
+###Command:printHobby capitalizeFirst=false
+###--------
+###Script:21
+On the battlefield,
+those who sense
+the wind's course
+###--------
+and can control
+its flow will
+be victorious.
+###--------
+You,too,should not
+overlook the wind
+###++++++++
+that leads to
+becoming a<printDream>
+<printDream>⋯
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:22
+Humans and Navis
+alike are always
+carried by a wind...
+###--------
+Become that wind's
+ally,and it will lead
+you to your dream.
+###--------
+Your dream
+to become a<printDream>
+<printDream>⋯
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:23
+Those who strive
+to become a<printDream>
+<printDream>
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###++++++++
+can sense the
+wind well.
+###--------
+I approve of you
+for aiming for
+that as well.
+###--------
+###Script:25
+Love's outcome...
+It,too,is governed
+by the wind.
+###--------
+Often,a single mail
+can greatly shift
+the wind's flow.
+###--------
+<printPlayerNickname>,why not
+send some mail
+to <printCrush>?
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printCrush capitalizeFirst=false
+###--------
+###Script:26
+Something that
+crossed my mind...
+###--------
+What kind of
+person is this
+<printCrush>⋯?
+###Command:printCrush capitalizeFirst=false
+###--------
+Their name is
+pure,like a
+spring breeze...
+###--------
+I have no doubt
+that they are a
+wonderful person.
+###--------
+###Script:27
+<printPlayerNickname>⋯
+Tomorrow,why
+don't you invite
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printCrush> to
+go somewhere
+with you...?
+###Command:printCrush capitalizeFirst=false
+###--------
+###Script:29
+Hm... We're done
+checking mail.
+What to do next?
+###--------
+Will you challenge
+<printPlayerEnemy> to a
+fight? ...I doubt it.
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+###Script:30
+While looking
+at your mail,
+I was thinking...
+###--------
+<printPlayerEnemy> is⋯
+one complicated
+individual,with
+###Command:printPlayerEnemy capitalizeFirst=true
+###--------
+both good and
+bad Feng Shui...
+###--------
+###Script:31
+Should I blow
+away any mail
+from <printPlayerEnemy>?
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+Though...I would
+prefer not to
+do such a thing...
+###--------
+###Script:33
+There are various
+ways to tell the
+course of the wind
+###--------
+in a battle,but
+<printFavShow> may
+hold some hints...
+###Command:printFavShow capitalizeFirst=false
+###--------
+Endless possibilities
+lie hidden within
+that program...
+###--------
+###Script:34
+The winds were
+against us in
+that last battle...
+###--------
+Moments like that
+remind me of
+###--------
+that one scene
+from <printFavShow>⋯
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:35
+In terms of
+Feng Shui,
+###--------
+<printFavShow> is a
+show that raises
+your battle luck.
+###Command:printFavShow capitalizeFirst=false
+###--------
+Perhaps it would
+be a good idea
+###--------
+to hum the theme
+song or something
+before a battle...
+###--------
+###Script:37
+Collecting plenty
+of chips is good
+and all,but if you
+###--------
+want to complete
+the library,you
+will need to gather
+###--------
+chips both with
+good and bad
+Feng Shui.
+###--------
+Seems <printIdol>
+is also meticulous
+in that area...
+###Command:printIdol capitalizeFirst=false
+###--------
+###Script:38
+Our chip collection
+will not expand
+just by looking...
+###--------
+Rather than
+continue to ponder,
+we should act...
+###--------
+Surely <printIdol>
+believes so as well...
+###Command:printIdol capitalizeFirst=false
+###--------
+###Script:39
+Now,since we are
+done looking at
+the library...
+###--------
+Shall we go see
+<printIdol>⋯?
+###Command:printIdol capitalizeFirst=false
+###--------
+...What? We cannot?
+I see...
+###--------
+###Script:41
+If you want to
+catch a good wind
+in the Cyberworld,
+###--------
+you should put
+your <printBestSubject>
+knowledge to use...
+###Command:printBestSubject capitalizeFirst=false
+###--------
+###Script:42
+The Net is a world
+sprung from the
+minds of humanity...
+###--------
+For this reason,
+there is no way
+your vast knowledge
+###--------
+of <printBestSubject>
+would not come in
+handy in some way...
+###Command:printBestSubject capitalizeFirst=false
+###--------
+Put it to use
+somehow...
+###--------
+###Script:43
+With your expertise
+of <printBestSubject>,
+###Command:printBestSubject capitalizeFirst=false
+###--------
+can't you calculate
+the flow of the
+Net's wind?
+###--------
+Perhaps it is too
+difficult,after all...
+###--------
+###Script:45
+Just as a headwind
+can knock you down
+in the Cyberworld...
+###--------
+I say <printWorstSubject>
+is still a headwind
+in your life.
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+You still have
+much to grow...
+###--------
+###Script:46
+Now that we're
+done on the Net...
+###--------
+The current course
+of the wind is
+favorable
+###++++++++
+for studying
+<printWorstSubject>.
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+Though,tackling the
+wind head-on would
+be interesting too...
+###--------
+###Script:47
+Many fierce head-
+winds swirl around
+in the Cyberworld.
+###--------
+If you can conquer
+<printWorstSubject>,then
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+the Cyberworld's
+headwinds are
+nothing to fear...
+###--------
+###Script:49
+The outcome
+of a battle...
+###++++++++
+And whether you
+will ever obtain
+a<printWish> <printWish>⋯
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+Both are decided
+by the winds.
+###--------
+###Script:50
+The winds of
+battle are blowing
+towards victory...
+###--------
+But I am not sure
+where the winds of
+<printWish> blow...
+###Command:printWish capitalizeFirst=false
+###--------
+###Script:51
+If you had
+a<printWish> <printWish>,
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+it would likely shift
+the course of your
+life's wind greatly.
+###--------
+But if that is a
+good or bad thing,
+I do not know...
+###--------
+###Script:53
+Enough with the
+mail. I'm in the
+mood for a battle...
+###--------
+<printMostFrequentOpponent>! Blow in
+with the wind,
+and battle me!
+###Command:printMostFrequentOpponent capitalizeFirst=true
+###--------
+...They're not
+blowing in...
+###--------
+###Script:54
+I'd like a weather
+forecast newsletter
+or something...
+###--------
+Anyway...
+What is <printMostFrequentOpponent>
+doing right now?
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+Just wondering...
+###--------
+###Script:55
+Incidentally,
+<printPlayerNickname>,
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+who is better
+at studying?
+You or <printMostFrequentOpponent>?
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+Ah,but you would
+not admit defeat,
+of course...
+###--------
+*whoosh...*
+###--------
+###Script:57
+<printLostToOpponent>'s folder
+probably has more
+variety than ours...
+###Command:printLostToOpponent capitalizeFirst=true
+###--------
+Perhaps a
+Program Advance
+###--------
+is our best shot
+at beating them...
+###--------
+###Script:58
+If we're just
+fighting local
+viruses,
+###--------
+our current equip-
+ment is probably
+good enough,but
+###--------
+against <printLostToOpponent>,
+it might be a
+little unreliable...
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+###Script:59
+In battle,balancing
+offense and
+defense is crucial.
+###--------
+I expect <printLostToOpponent>
+is already familiar
+with that...
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+###Script:61
+If we put even
+just one <printMostLostToOpponentsChip>
+into our folder,
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+it may help us
+take control of
+the battle's flow.
+###--------
+###Script:62
+If you put in
+a<printMostLostToOpponentsChip> <printMostLostToOpponentsChip>,
+###Command:printMostLostToOpponentsChip printN=true
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+it will improve
+the balance of
+your folder.
+###--------
+At least,as far as
+Feng Shui goes...
+###--------
+###Script:63
+<printPlayerNickname>,if
+you put <printMostLostToOpponentsChip>
+into your folder,
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+your luck
+will improve.
+###--------
+###Script:65
+I could not sense
+the wind very well
+in that battle...
+###--------
+Even <printDefeatedOpponent>
+was better at
+sensing the wind...
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:66
+Quite a bit of
+headwind in that
+battle just now...
+###--------
+When the winds
+are against you,
+###++++++++
+even <printDefeatedOpponent> can
+prove troublesome...
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:67
+You must always
+aim to control the
+flow of battle...
+###--------
+Even if your foe
+is <printDefeatedOpponent>,you
+cannot ease up.
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:69
+The <printMostDefeatedOpponentsChip>
+chip can be used
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+to change the
+flow of battle.
+###--------
+###Script:70
+This wind
+flow means...
+###--------
+You should use
+<printMostDefeatedOpponentsChip> in our
+next battle.
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+...Alright?
+###--------
+###Script:71
+Haste makes waste
+in battle.
+###--------
+Don't use <printMostDefeatedOpponentsChip>
+right at the start
+of a battle...
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+Like <printMostDefeatedOpponent>
+does...
+###Command:printMostDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:73
+After blowing your
+opponent away
+with a wind chip,
+###--------
+using <printFavStandardChip1>
+is an effective
+follow-up...
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+###Script:74
+Good things come
+to those who
+carry <printFavStandardChip1>.
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+###Script:75
+The sound
+of <printFavStandardChip1>
+###Command:printFavStandardChip1 capitalizeFirst=false
+###++++++++
+cutting through
+the wind is so
+pleasant.
+###--------
+###Script:77
+<printFavStandardChip2> should
+be placed in the
+southwest part of
+###Command:printFavStandardChip2 capitalizeFirst=true
+###--------
+a room,according
+to Feng Shui.
+###--------
+###Script:78
+Using <printFavStandardChip2>
+will increase
+your chip luck...
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+According to
+Feng Shui,at least.
+###--------
+###Script:79
+<printFavStandardChip2> is a
+chip with latent
+powers...
+###Command:printFavStandardChip2 capitalizeFirst=true
+###--------
+Make sure to
+handle with care...
+###--------
+###Script:81
+<printFavStandardChip3> is totally
+useless for Feng
+Shui purposes...
+###Command:printFavStandardChip3 capitalizeFirst=true
+###--------
+But,you should
+treasure chips you
+are accustomed to...
+###--------
+###Script:82
+<printFavStandardChip3> doesn't
+play a particularly
+standout role,
+###Command:printFavStandardChip3 capitalizeFirst=true
+###--------
+but it does give
+us a tailwind in
+battle.
+###--------
+It's a chip you
+can rely on...
+###--------
+###Script:83
+The chips that
+are truly useful
+are often those
+###--------
+that don't actually
+stand out much,
+like <printFavStandardChip3>⋯
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+You should aim to
+become that kind
+of person,too...
+###--------
+###Script:85
+The feeling I get
+from <printFavMegaChip>
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+is that it's a chip
+that will deliver
+us a good wind.
+###--------
+But,more
+importantly...it
+has a nice name.
+###--------
+###Script:86
+As for chips that
+work well in terms
+of Feng Shui...
+###--------
+amongst the library,
+I'd say <printFavMegaChip>
+stands out.
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+If you place it in
+the northeast part
+of your room,
+###++++++++
+your luck will
+surely rise...
+###--------
+###Script:87
+When you're
+cornered in
+a battle,
+###--------
+you could try to
+use <printFavMegaChip> to
+change the flow.
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+...I'd say it has
+a good chance
+to work...
+###--------
+###Script:89
+<printFavGigaChip> is a
+chip like a storm.
+###Command:printFavGigaChip capitalizeFirst=true
+###--------
+Such strong power
+may not submit
+to its user...
+###--------
+Do be careful...
+###--------
+###Script:90
+<printFavGigaChip> is one
+frightening chip...
+###Command:printFavGigaChip capitalizeFirst=true
+###--------
+But I cannot deny
+that it also has
+its charm...
+###--------
+###Script:91
+<printFavGigaChip> has
+enough power to
+###Command:printFavGigaChip capitalizeFirst=true
+###--------
+change the course
+of the wind in
+battle...
+###--------
+If there is a
+tailwind,it will turn
+into a headwind...
+###--------

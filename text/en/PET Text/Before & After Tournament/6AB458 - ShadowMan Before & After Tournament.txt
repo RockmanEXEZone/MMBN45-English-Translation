@@ -1,0 +1,46 @@
+﻿###TextArchive:6AB458
+###Script:1
+For a ninja to be
+publicly humiliated...
+Disgraceful!!
+###--------
+I can't just back
+down from this...
+###--------
+###Script:2
+Did you get a
+good look at
+my ninjutsu...?
+###--------
+These are the
+arts of the ninja!!
+###--------
+###Script:10
+<printPlayerNickname>,we're
+not entered.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+Now,<printPlayerNickname>⋯
+Let us be
+on our way.
+###Command:printPlayerNickname
+###--------
+###Script:21
+Now,<printPlayerNickname>⋯
+Let us be
+on our way.
+###Command:printPlayerNickname
+###--------
+###Script:22
+Now,<printPlayerNickname>⋯
+Let us be
+on our way.
+###Command:printPlayerNickname
+###--------
+###Script:23
+Now,<printPlayerNickname>⋯
+Let us be
+on our way.
+###Command:printPlayerNickname
+###--------

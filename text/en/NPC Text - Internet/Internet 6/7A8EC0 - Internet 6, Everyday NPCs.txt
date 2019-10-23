@@ -1,0 +1,364 @@
+﻿###TextArchive:7A8EC0
+###Script:0
+###Mugshot:OfficialNavi
+Friday is Battle Day!
+Did you know?
+###--------
+###Mugshot:OfficialNavi
+Every Friday,at the
+plaza in Internet8,
+###--------
+###Mugshot:OfficialNavi
+Navis from all over
+the Net gather around
+to throw down!
+###--------
+###Mugshot:OfficialNavi
+If you're interested,
+why not give it a
+try yourself?
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Wonder what I'm
+gonna do today?
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+G'MORNIN'!
+THIS IS INTERNET6!
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+IT'S MY JOB TO
+COLLECT ALL OF
+THE GARBAGE THAT
+###--------
+###Mugshot:MrProgGreen
+IS THROWN AWAY
+IN THIS AREA
+EVERY MONDAY!
+###--------
+###Mugshot:MrProgGreen
+WE PROGRAMS HAVE
+A VARIETY OF JOBS,
+YOU KNOW!
+###--------
+###Script:11
+###Mugshot:NormNaviYellow
+I'm starving...
+Maybe I'll grab
+something to eat?
+###--------
+###Script:12
+###Mugshot:MrProgGreen
+HELLONICHIWA!
+THIS IS INTERNET6!
+###--------
+###Mugshot:MrProgGreen
+AND WITH THAT,
+HAVE A NICE DAY!
+###--------
+###Script:13
+###Mugshot:MrProgGreen
+I'M ALWAYS STUCK WITH
+GARBAGE COLLECTION
+EARLY IN THE MORNING.
+###--------
+###Mugshot:MrProgGreen
+SO NOW,I'M JUST
+GONNA CHILLAX.
+###--------
+###Mugshot:MrProgGreen
+HUMMMMMMMM...
+###--------
+###Script:21
+###Mugshot:NormNaviYellow
+Another day of
+hard work...I'm beat.
+###--------
+###Mugshot:NormNaviYellow
+Whew...
+###--------
+###Script:22
+###Mugshot:MrProgGreen
+EVENIN'!
+THIS IS INTERNET6!
+###--------
+###Mugshot:MrProgGreen
+YOU ALREADY KNEW...?
+I SEE... OKAY...
+###--------
+###Script:23
+###Mugshot:MrProgGreen
+AHH...SO BORED...
+###--------
+###Mugshot:MrProgGreen
+*YAWNNN...*
+###--------
+###Script:31
+###Mugshot:NormNaviYellow
+Zzzzzzz...
+Zzzzzzz...
+###--------
+###Script:32
+###Mugshot:MrProgGreen
+*MUMBLE,MUMBLE...*
+###--------
+###Mugshot:MrProgGreen
+THIS IS...INTERNET6...
+*MUMBLE,MUMBLE...*
+###--------
+###Script:33
+###Mugshot:MrProgGreen
+ZZZZZZ...
+ZZZZZZ...
+###--------
+###Mugshot:MrProgGreen
+...BWAH!?
+###--------
+###Script:40
+###Mugshot:MetalMan
+My fists are
+itching for a fight...
+###--------
+###Mugshot:MetalMan
+Will you battle me?
+###--------
+<positionOptionHorizontal><option><space> Let's go!  <option><space> No way!
+###Command:positionOptionHorizontal width=16
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:MetalMan
+......
+Fine.
+###--------
+###Script:41
+###Mugshot:MetalMan
+.........
+###--------
+###Mugshot:MetalMan
+At this rate, my
+aching fists will
+remain unsatisfied...
+###--------
+###Script:42
+###Mugshot:MetalMan
+That was a good fight...
+I must thank you.
+###--------
+###Script:43
+###Mugshot:PlantMan
+You wish to battle
+against me?
+###--------
+###Mugshot:PlantMan
+Show me your
+sparkling vitality!
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:PlantMan
+I see...
+Perhaps I was barking
+up the wrong tree.
+###--------
+###Script:44
+###Mugshot:PlantMan
+...C-Could I have
+been charmed...!?
+###--------
+###Mugshot:PlantMan
+Such beautiful,
+radiant vitality...
+###--------
+###Script:45
+###Mugshot:PlantMan
+The goddess of
+victory only smiles
+upon the beautiful...
+###--------
+###Script:46
+###Mugshot:MetalMan
+Roar,my bellowing fists!
+###--------
+###Mugshot:MetalMan
+Battle routine,set!
+Execute!
+###--------
+###Script:47
+###Mugshot:PlantMan
+Beauty...is strength!
+###--------
+###Mugshot:PlantMan
+Battle routine,set!
+Execute!
+###--------
+###Script:48
+###Mugshot:MetalMan
+You've got quite
+the fists there...
+###--------
+###Mugshot:MetalMan
+Shall we test them
+against mine and see if
+they're the real thing?
+###--------
+<positionOptionHorizontal><option><space> Let's go!  <option><space> No way!
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:MetalMan
+Hmph. Just a mere
+copycat,huh...
+###--------
+###Script:49
+###Mugshot:PlantMan
+Ahaha...
+Now aren't you a
+well-made imitation?
+###--------
+###Mugshot:PlantMan
+Your false look may
+pass the sniff test,
+###--------
+###Mugshot:PlantMan
+however,you're a
+little lacking in
+elegance.
+###--------
+###Mugshot:PlantMan
+Shall I teach your
+body what the real
+thing is like...?
+###--------
+<positionOptionHorizontal><option><space> Bring it!  <option><space> No thanks
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:PlantMan
+Hah. Fake beauty has
+no value without
+strength backing it up!
+###--------
+###Script:50
+###Mugshot:MetalMan
+If you want to pass,
+show me your operator's
+true strength...
+###--------
+###Mugshot:MetalMan
+No matter how powerful
+the Navi,a weak
+operator is no good...
+###--------
+###Mugshot:MetalMan
+Here's the deal.
+I'll have your
+operator operate me.
+###--------
+###Mugshot:MetalMan
+If your operator
+can make my
+fists tremble,
+###--------
+###Mugshot:MetalMan
+then I'll let
+you pass.
+###--------
+###Mugshot:MetalMan
+...Will you try?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:MetalMan
+Operator,I hope
+you're prepared.
+Begin!
+###--------
+###Script:51
+###Mugshot:MetalMan
+...That was some
+fine operating...
+###--------
+###Mugshot:MetalMan
+It's been some time
+since my fists have
+trembled like this...
+###--------
+###Script:52
+###Mugshot:MetalMan
+Operator,you'd do
+well to refine your
+skills and come back.
+###--------
+###Script:53
+###Mugshot:MetalMan
+...I see.
+###--------
+###Script:221
+###Mugshot:PurpleNavi
+Please come again!
+###--------
+###Script:222
+###Mugshot:PurpleNavi
+I'm a SubChipDealer,
+###--------
+###Mugshot:PurpleNavi
+but I'm all sold
+out! Sorry!
+###--------
+###Script:223
+###Mugshot:PurpleNavi
+I'm a SubChipDealer!
+###--------
+###Mugshot:PurpleNavi
+Wanna see my stuff?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:224
+###Mugshot:PurpleNavi
+I'm a SubChipDealer!
+###--------
+###Mugshot:PurpleNavi
+Today's the weekly
+Ladies Day!
+###--------
+###Mugshot:PurpleNavi
+I've got some sweet
+deals just for girls
+throughout the day!
+###--------
+###Mugshot:PurpleNavi
+Wanna see my stuff!?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------

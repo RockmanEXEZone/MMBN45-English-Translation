@@ -1,0 +1,27 @@
+﻿###TextArchive:691994
+###Script:1
+Tournament's
+this weekend...
+###--------
+I need to hone
+these fists of
+mine...
+###--------
+###Script:2
+With these
+two fists,
+###++++++++
+I'll grasp victory
+in today's
+tournament!!
+###--------
+###Script:3
+...Looks like
+we got an
+interesting item.
+###--------
+<printPlayerNickname>,
+let's check
+our Key Items.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------

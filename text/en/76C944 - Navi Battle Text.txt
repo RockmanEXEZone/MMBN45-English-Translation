@@ -1,0 +1,899 @@
+﻿###TextArchive:76C944
+###Script:0
+ Which 
+ enemy 
+###--------
+###Script:1
+ Enter 
+ dist. 
+###--------
+###Script:2
+###Mugshot:MegaMan
+Maybe we should run?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:3
+###Mugshot:MegaMan
+<wait>・<wait>・<wait>・<wait>OK!
+We got away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:4
+###Mugshot:MegaMan
+<wait>･<wait>･<wait>･<wait>It's no good!
+We can't run away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:5
+###Mugshot:MegaMan
+This is no time
+to run away!
+###--------
+###Script:6
+ Which 
+ enemy 
+###--------
+###Script:7
+ Enter 
+ dist. 
+###--------
+###Script:8
+###Mugshot:Roll
+Maybe we should run...?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:9
+###Mugshot:Roll
+<wait>･<wait>･<wait>･<wait>Yeah!
+Looks like we
+got away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:10
+###Mugshot:Roll
+<wait>･<wait>･<wait>･<wait>It's no good!
+We can't get away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:11
+###Mugshot:Roll
+No! This isn't the
+time to run away!
+###--------
+###Script:12
+ Which 
+ enemy 
+###--------
+###Script:13
+ Enter 
+ dist. 
+###--------
+###Script:14
+###Mugshot:GutsMan
+Should we get outta
+here?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:15
+###Mugshot:GutsMan
+<wait>･<wait>･<wait>･<wait>Yup!
+We got away somehow!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:16
+###Mugshot:GutsMan
+<wait>･<wait>･<wait>･<wait>Nope!
+Can't shake 'em off!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:17
+###Mugshot:GutsMan
+Now's not the time
+to be runnin' away!
+###--------
+###Script:18
+ Which 
+ enemy 
+###--------
+###Script:19
+ Enter 
+ dist. 
+###--------
+###Script:20
+###Mugshot:WindMan
+Should we retreat
+from this...?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:21
+###Mugshot:WindMan
+<wait>･<wait>･<wait>･<wait>Hm!
+We managed to escape!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:22
+###Mugshot:WindMan
+<wait>･<wait>･<wait>･<wait>No!
+We can't get away...!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:23
+###Mugshot:WindMan
+This is not the
+time to retreat!
+###--------
+###Script:24
+ Which 
+ enemy 
+###--------
+###Script:25
+ Enter 
+ dist. 
+###--------
+###Script:26
+###Mugshot:SearchMan
+Orders to withdraw?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:27
+###Mugshot:SearchMan
+<wait>･<wait>･<wait>･<wait>OK!
+We've successfully
+withdrawn!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:28
+###Mugshot:SearchMan
+<wait>･<wait>･<wait>･<wait>Hrk!
+Withdraw unsuccessful!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:29
+###Mugshot:SearchMan
+With all due respect,
+this is not the
+time to retreat!
+###--------
+###Script:30
+ Which 
+ enemy 
+###--------
+###Script:31
+ Enter 
+ dist. 
+###--------
+###Script:32
+###Mugshot:FireMan
+Tsk,should we run
+from this one?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:33
+###Mugshot:FireMan
+<wait>･<wait>･<wait>･<wait>Alright!
+Managed to get
+outta there!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:34
+###Mugshot:FireMan
+<wait>･<wait>･<wait>･<wait>No good!
+Can't escape...!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:35
+###Mugshot:FireMan
+Hey,this ain't the time
+to be runnin' away!
+###--------
+###Script:36
+ Which 
+ enemy 
+###--------
+###Script:37
+ Enter 
+ dist. 
+###--------
+###Script:38
+###Mugshot:ThunderMan
+Shall we retreat?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:39
+###Mugshot:ThunderMan
+<wait>･<wait>･<wait>･<wait>Hm!
+It seems we've
+managed to escape!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:40
+###Mugshot:ThunderMan
+<wait>･<wait>･<wait>･<wait>Hmm!
+It seems that we
+cannot run...!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:41
+###Mugshot:ThunderMan
+Running now would
+bring shame to
+our descendants!
+###--------
+###Script:42
+ Which 
+ enemy 
+###--------
+###Script:43
+ Enter 
+ dist. 
+###--------
+###Script:44
+###Mugshot:ProtoMan
+Shall we retreat?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:45
+###Mugshot:ProtoMan
+<wait>･<wait>･<wait>･<wait>Success!
+Looks like we've
+managed to escape.
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:46
+###Mugshot:ProtoMan
+<wait>･<wait>･<wait>･<wait>Hrk!
+We couldn't escape...!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:47
+###Mugshot:ProtoMan
+Is this really the time
+to be running away?
+###--------
+###Script:48
+ Which 
+ enemy 
+###--------
+###Script:49
+ Enter 
+ dist. 
+###--------
+###Script:50
+###Mugshot:NumberMan
+Perhaps running is
+the best option?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:51
+###Mugshot:NumberMan
+<wait>･<wait>･<wait>･<wait>*phew!*
+Looks like we
+got away.
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:52
+###Mugshot:NumberMan
+<wait>･<wait>･<wait>･<wait>Oh,dear!
+Looks like we're
+not getting away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:53
+###Mugshot:NumberMan
+We... We shouldn't run
+from this fight!
+###--------
+###Script:54
+ Which 
+ enemy 
+###--------
+###Script:55
+ Enter 
+ dist. 
+###--------
+###Script:56
+###Mugshot:MetalMan
+Should we run...?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:57
+###Mugshot:MetalMan
+<wait>･<wait>･<wait>･<wait>Hmph!
+Looks like we
+got away.
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:58
+###Mugshot:MetalMan
+<wait>･<wait>･<wait>･<wait>Mmmph!
+I see...we're
+unable to run...!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:59
+###Mugshot:MetalMan
+Running from this fight
+would be unforgivable!
+###--------
+###Script:60
+ Which 
+ enemy 
+###--------
+###Script:61
+ Enter 
+ dist. 
+###--------
+###Script:62
+###Mugshot:JunkMan
+Hm? A-Are we running?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+###Mugshot:JunkMan
+<wait>･<wait>･<wait>･<wait>Yes...
+W-We got away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:64
+###Mugshot:JunkMan
+<wait>･<wait>･<wait>･<wait>Sorry...
+W-We didn't get away...
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:65
+###Mugshot:JunkMan
+N-No! Even I k-know
+this is no time to run!
+###--------
+###Script:66
+ Which 
+ enemy 
+###--------
+###Script:67
+ Enter 
+ dist. 
+###--------
+###Script:68
+###Mugshot:AquaMan
+Should we run away,
+drip?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:69
+###Mugshot:AquaMan
+<wait>･<wait>･<wait>･<wait>Hooray!
+We got away,drip!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:70
+###Mugshot:AquaMan
+<wait>･<wait>･<wait>･<wait>No good!
+We couldn't run...!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:71
+###Mugshot:AquaMan
+Now isn't the time
+to run away, drip!
+###--------
+###Script:72
+ Which 
+ enemy 
+###--------
+###Script:73
+ Enter 
+ dist. 
+###--------
+###Script:74
+###Mugshot:WoodMan
+Hm,perhaps we
+should run?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:75
+###Mugshot:WoodMan
+<wait>･<wait>･<wait>･<wait>Yes!
+We somehow got away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:76
+###Mugshot:WoodMan
+<wait>･<wait>･<wait>･<wait>No good!
+It seems we couldn't
+get away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:77
+###Mugshot:WoodMan
+This probably isn't
+the best time to run!
+###--------
+###Script:90
+ Which 
+ enemy 
+###--------
+###Script:91
+ Enter 
+ dist. 
+###--------
+###Script:92
+###Mugshot:StarMan
+Hmm... Maybe it's
+time to run?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:93
+###Mugshot:StarMan
+<wait>･<wait>･<wait>･<wait>OK!
+Somehow, we got away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:94
+###Mugshot:StarMan
+<wait>･<wait>･<wait>･<wait>No good!
+We couldn't get away...
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:95
+###Mugshot:StarMan
+Hey,hey...
+Now's not the
+time to run!
+###--------
+###Script:96
+ Which 
+ enemy 
+###--------
+###Script:97
+ Enter 
+ dist. 
+###--------
+###Script:98
+###Mugshot:ShadowMan
+Shall we retreat?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:99
+###Mugshot:ShadowMan
+<wait>･<wait>･<wait>･<wait>Hm!
+Looks like we've
+gotten away.
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:100
+###Mugshot:ShadowMan
+<wait>･<wait>･<wait>･<wait>Unbelievable!
+To think they'd
+block our escape...
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:101
+###Mugshot:ShadowMan
+No! This is not the
+time to be running!
+###--------
+###Script:102
+ Which 
+ enemy 
+###--------
+###Script:103
+ Enter 
+ dist. 
+###--------
+###Script:104
+###Mugshot:KnightMan
+Shall we retreat?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:105
+###Mugshot:KnightMan
+<wait>･<wait>･<wait>･<wait>Oho!
+We've managed
+to retreat!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:106
+###Mugshot:KnightMan
+<wait>･<wait>･<wait>･<wait>Hmph!
+There is no escape...!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:107
+###Mugshot:KnightMan
+That will not do!
+We must fight!
+I will not back down!
+###--------
+###Script:108
+ Which 
+ enemy 
+###--------
+###Script:109
+ Enter 
+ dist. 
+###--------
+###Script:110
+###Mugshot:NapalmMan
+We gonna turn tail
+and get outta here?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:111
+###Mugshot:NapalmMan
+<wait>･<wait>･<wait>･<wait>OK!
+Got away somehow!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:112
+###Mugshot:NapalmMan
+<wait>･<wait>･<wait>･<wait>Tsk!
+They've blocked
+our escape...
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:113
+###Mugshot:NapalmMan
+What was that!?
+Now's not the time
+to be runnin' off!
+###--------
+###Script:114
+ Which 
+ enemy 
+###--------
+###Script:115
+ Enter 
+ dist. 
+###--------
+###Script:116
+###Mugshot:IceMan
+Are we running away?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:117
+###Mugshot:IceMan
+<wait>･<wait>･<wait>･<wait>Whoopee!
+We got away somehow!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:118
+###Mugshot:IceMan
+<wait>･<wait>･<wait>･<wait>Oh no!
+We couldn't get away...!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:119
+###Mugshot:IceMan
+This isn't the time
+to run away!
+###--------
+###Script:120
+ Which 
+ enemy 
+###--------
+###Script:121
+ Enter 
+ dist. 
+###--------
+###Script:122
+###Mugshot:ElecMan
+What's wrong?
+Are we running away?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:123
+###Mugshot:ElecMan
+<wait>･<wait>･<wait>･<wait>Hm.
+Seems like we
+got away.
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:124
+###Mugshot:ElecMan
+<wait>･<wait>･<wait>･<wait>Tsk!
+Couldn't get away...!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:125
+###Mugshot:ElecMan
+We have to face them!
+We can't just run away!
+###--------
+###Script:126
+ Which 
+ enemy 
+###--------
+###Script:127
+ Enter 
+ dist. 
+###--------
+###Script:128
+###Mugshot:PlantMan
+Should we leave them
+behind?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:129
+###Mugshot:PlantMan
+<wait>･<wait>･<wait>･<wait>Hm.
+Looks as though we
+got away.
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:130
+###Mugshot:PlantMan
+<wait>･<wait>･<wait>･<wait>Shoot!
+To think I couldn't
+get away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:131
+###Mugshot:PlantMan
+Well... We can't just
+run from every fight,
+you know.
+###--------
+###Script:132
+ Which 
+ enemy 
+###--------
+###Script:133
+ Enter 
+ dist. 
+###--------
+###Script:134
+###Mugshot:Bass
+Are we making a
+tactical retreat?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:135
+###Mugshot:Bass
+<wait>･<wait>･<wait>･<wait>Hmph!
+Shaking off weaklings
+is too easy.
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:136
+###Mugshot:Bass
+<wait>･<wait>･<wait>･<wait>Hmph!
+They've got some nerve
+blocking our retreat!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:137
+###Mugshot:Bass
+I won't run!
+Their life is mine!
+###--------

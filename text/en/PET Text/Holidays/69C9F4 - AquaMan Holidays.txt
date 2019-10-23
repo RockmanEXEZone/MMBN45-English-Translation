@@ -1,0 +1,147 @@
+﻿###TextArchive:69C9F4
+###Script:1
+Happy New Year,
+drip!
+###--------
+###--------
+Let's dive right
+in and make it
+another good one!
+###--------
+###Script:2
+Today is
+April Fools' Day,
+drip!
+###--------
+Watch out when
+opening any doors
+today,drip!
+###--------
+###--------
+###--------
+###--------
+Someone might've
+set a bucket of
+water on it!
+###--------
+###Script:3
+Today is
+Valentine's Day,
+drip!
+###--------
+Who are you going
+to write a letter
+to,<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+Drip...
+I'm nervous...
+###--------
+###Script:4
+Today is
+Valentine's Day,
+drip!
+###--------
+Who are you going
+to write a letter
+to,<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+Drip...
+I'm nervous...
+###--------
+###Script:5
+Tonight is
+Halloween,
+drip!
+###--------
+Are you going
+trick-or-treating
+tonight,drip?
+###--------
+It's fun to watch
+candy drip,drip,
+into your bag!
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve,
+drip!
+###--------
+But it's still
+too early for
+the fun to end!
+###--------
+###--------
+There's still
+Christmas Day
+tomorrow,drip!
+###--------
+###Script:9
+Merry Christmas,
+drip!
+###--------
+If I could go into
+the real world,
+###--------
+I'd change the
+water in the
+spout on my head
+###++++++++
+to snow,and we'd
+all have a white
+Christmas,drip!
+###--------
+###Script:10
+It's
+New Year's Eve,
+drip!
+###--------
+Tonight,we wash
+away all the grime
+of the past year!
+###--------
+I'll clean the
+inside of the PET
+later too,drip!
+###--------
+###Script:11
+Happy Birthday,
+drip!
+###--------
+I'm so excited,
+###--------
+there's more water
+spraying from my
+spout than usual!
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>",
+drip!
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And "<printScheduleBuffer>"
+too,drip!
+###Command:printScheduleBuffer
+###--------

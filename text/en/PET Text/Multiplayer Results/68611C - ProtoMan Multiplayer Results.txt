@@ -1,0 +1,16 @@
+﻿###TextArchive:68611C
+###Script:1
+My sincerest
+apologies. This
+was my fault...
+###--------
+###Script:2
+Excellent operating,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:3
+My apologies... I
+should have shown
+them no mercy.
+###--------

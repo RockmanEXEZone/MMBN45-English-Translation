@@ -1,0 +1,102 @@
+﻿###TextArchive:7B8AB4
+###Script:0
+###Mugshot:MrProgGreen
+MY JOB IS TO MAKE
+SOUND COME OUT
+OF THIS RADIO.
+###--------
+###Mugshot:MrProgGreen
+BUT MY BUDDY IN
+CHARGE OF TUNING
+BROKE DOWN.
+###--------
+###Mugshot:MrProgGreen
+WE'RE IN
+TROUBLE NOW...
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+PSSSSSHHH...
+SKREEEEEEEEE...
+###--------
+###Script:10
+###Mugshot:NormNaviYellow
+This is a venue
+for the Everyday
+Tournament!
+###--------
+###Mugshot:NormNaviYellow
+Check the tournament
+board for the details!
+###--------
+###Script:11
+###Mugshot:NormNaviYellow
+The Everyday
+Tournament brings
+Excitement,Everyday!
+###--------
+###Script:12
+###Mugshot:PurpleNavi
+Whoa!!
+I wanna battle too!
+###--------
+###Script:13
+###Mugshot:NormNaviPink
+Strong Navis
+are the coolest!
+###--------
+###Mugshot:NormNaviPink
+My heart's on fire!
+###--------
+###Script:14
+###Mugshot:OfficialNavi
+The Everyday
+Tournament is perfect
+for blowing off steam!
+###--------
+###Mugshot:OfficialNavi
+I'm gonna shout
+like crazy,
+###++++++++
+###Mugshot:OfficialNavi
+and forget about my
+soul-sucking job just
+for a little while!
+###--------
+###Script:15
+###Mugshot:NaviGirlOrange
+E-VE-RY! E-VE-RY!
+E-VE-RY! E-VE-RY!
+###--------
+###Script:16
+###Mugshot:HeelNaviBlack
+Soon,I'll enter the
+tournament,too...
+###--------
+###Mugshot:HeelNaviBlack
+But right now,I'm
+just charging up.
+###--------
+###Script:17
+###Mugshot:NormNaviYellow
+Congrats on winning!
+Enter again next time!
+###--------
+###Script:20
+###Mugshot:NormNaviYellow
+Congratulations!
+That was one heck
+of a battle!
+###--------
+###Mugshot:NormNaviYellow
+Please come
+challenge it again
+next time,<printCurrentNavi>!
+###Command:printCurrentNavi
+###--------
+###Script:21
+###Mugshot:NormNaviYellow
+What a shame!
+Come challenge it
+again next time!
+###--------

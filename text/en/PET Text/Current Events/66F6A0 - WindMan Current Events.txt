@@ -1,0 +1,31 @@
+﻿###TextArchive:66F6A0
+###Script:1
+<printPlayerNickname>,the
+tournament is
+this weekend.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+How about we do
+some training to
+prepare?
+###--------
+*whoooosh...*
+###--------
+###Script:2
+The day of our
+decisive battle
+has finally come...
+###--------
+<printPlayerNickname>,are
+you prepared!?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:3
+<printPlayerNickname>,it seems
+we have some
+kind of fun item.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+How about checking
+our Key Items?
+###--------

@@ -1,0 +1,62 @@
+﻿###TextArchive:79AB58
+###Script:2
+<printCurrentNavi> used:
+"Translatr"!!!
+###Command:printCurrentNavi
+###--------
+You can now read
+the words!
+###--------
+"In order to pass
+ through here,"
+###--------
+"pay a toll of
+ 20 BugFrags!"
+###--------
+...That's what it says.
+###--------
+Will you pay the
+BugFrags?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+<printCurrentNavi> paid:
+20 BugFrags!!
+###Command:printCurrentNavi
+###--------
+###Script:3
+It's the blackboard
+of the cyberschool...
+###--------
+Words are appearing
+at a breakneck pace.
+###++++++++
+It seems impossible
+to take notes...
+###--------
+###Script:4
+Students of the
+cyberschool use
+these desks.
+###--------
+Nowadays,after-school
+classes for humans have
+fallen out of fashion.
+###--------
+###Script:18
+You don't have
+enough BugFrags...
+###--------
+###Script:21
+Something is written
+here in a difficult
+programming language...
+###--------
+You can't decipher
+what was written here...
+###--------

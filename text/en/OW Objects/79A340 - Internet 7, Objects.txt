@@ -1,0 +1,67 @@
+﻿###TextArchive:79A340
+###Script:0
+A powerful current is
+flowing through here.
+You can't get past!
+###--------
+###Script:1
+"<printItem>"
+confirmed.
+###Command:printItem buffer=0 item=3
+###--------
+...Please proceed.
+###--------
+###Script:3
+"<printItem>"
+confirmed...
+###Command:printItem buffer=0 item=3
+###--------
+Please go ahead...
+###--------
+###Script:6
+###Mugshot:ThunderMan
+Such a puny amount
+of electricity cannot
+possibly hinder me.
+###--------
+###Mugshot:ThunderMan
+...Hmph!
+###--------
+###Script:7
+###Mugshot:ElecMan
+Ah,just what I need...
+I could use a recharge.
+###--------
+###Mugshot:ElecMan
+Haaaah!
+###--------
+###Script:8
+In a flash,the current
+was absorbed through
+<printCurrentNavi>'s hands!
+###Command:printCurrentNavi
+###--------
+###Script:14
+Please show your
+"<printItem>".
+###Command:printItem buffer=0 item=3
+###--------
+###Script:16
+If you want to pass
+through here,please
+show your "<printItem>".
+###Command:printItem buffer=0 item=3
+###--------
+This door also opens,
+one time only,for
+those with a "<printItem>".
+###Command:printItem buffer=0 item=20
+###--------
+...That's what it says.
+###--------
+###Script:17
+"<printItem>" confirmed⋯
+Take care and
+have a nice day.
+###Command:printItem buffer=0 item=20
+###--------

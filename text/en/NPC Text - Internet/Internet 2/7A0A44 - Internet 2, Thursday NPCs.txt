@@ -1,0 +1,120 @@
+﻿###TextArchive:7A0A44
+###Script:10
+###Mugshot:NormNaviPink
+Would you listen
+to this?
+###--------
+###Mugshot:NormNaviPink
+My operator did it
+again yesterday･<wait>･<wait>･
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviPink
+Blah,blah...<wait>
+Blah,blah...
+###Command:wait frames=20
+###--------
+###Script:11
+###Mugshot:NormNaviPink
+Ah,it's lunchtime.
+###--------
+###Mugshot:NormNaviPink
+I love how lively
+things get around
+lunchtime!
+###--------
+###Script:12
+###Mugshot:NormNaviPink
+The day is
+winding down...
+###--------
+###Mugshot:NormNaviPink
+In that case,let's
+call it a day and
+jack out,shall we?
+###--------
+###Script:20
+###Mugshot:NormNaviPink
+Oh no!
+You think that's bad,
+MY operator was･<wait>･<wait>･
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviPink
+Blah,blah...<wait>
+Blah,blah...
+###Command:wait frames=20
+###--------
+###Script:21
+###Mugshot:NormNaviPink
+The Navi over there
+with that Mr.Prog...
+###--------
+###Mugshot:NormNaviPink
+They're always
+together for lunch...
+###--------
+###Mugshot:NormNaviPink
+They must be
+really close!
+###--------
+###Script:22
+###Mugshot:NormNaviPink
+Today's Thursday,huh?
+Wonder what I should
+do for dinner...
+###--------
+###Mugshot:NormNaviPink
+I'd better discuss
+it with my operator!
+###--------
+###Script:40
+###Mugshot:NormNaviYellow
+Me and this Mr.Prog
+go way back.
+###--------
+###Mugshot:NormNaviYellow
+We always chat during
+lunch hours like this.
+###--------
+###Script:50
+###Mugshot:NormNaviBrown
+That Black Navi...
+Whenever I come here,
+he's always there...
+###--------
+###Mugshot:NormNaviBrown
+He says he's training.
+I hope he doesn't
+hurt himself...
+###--------
+###Script:60
+###Mugshot:PurpleNavi
+The Net is pretty
+quiet at night.
+###--------
+###Mugshot:PurpleNavi
+It's nice and calm,
+but it can get kind
+of lonely sometimes...
+###--------
+###Script:61
+###Mugshot:PurpleNavi
+That Mr.Prog in the
+center of this area...
+###--------
+###Mugshot:PurpleNavi
+Soon as I got near him,
+he started screaming,
+"PUMP IT UP!"
+###--------
+###Mugshot:PurpleNavi
+It scared the
+daylights out of me!
+###++++++++
+###Mugshot:PurpleNavi
+It's the middle of
+the night and all...
+###--------

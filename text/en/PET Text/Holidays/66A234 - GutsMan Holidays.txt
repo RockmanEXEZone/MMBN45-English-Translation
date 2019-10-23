@@ -1,0 +1,146 @@
+﻿###TextArchive:66A234
+###Script:1
+Yeee-haaaww!
+Happy New Year!
+###--------
+I'll be sure to
+work my guts off
+this year too!
+###--------
+###Script:2
+Today is
+April Fools' Day!
+###--------
+I know I'm not
+the sharpest
+guy around...
+###--------
+###--------
+###--------
+So I better be
+real careful today...
+###--------
+###Script:3
+Yeee-haaaww!
+###--------
+Finally,it's
+Valentine's Day!
+###--------
+Even I get
+nervous today...
+###--------
+I wanna get some
+letters too!
+###--------
+###Script:4
+Yeee-haaaww!
+###--------
+Finally,it's
+Valentine's Day!
+###--------
+Even I get
+nervous today...
+###++++++++
+I wanna get some
+letters too!
+###--------
+###Script:5
+Tonight is
+Halloween!
+###--------
+This is the
+perfect time to
+show our guts!!
+###--------
+###--------
+Let's go collect
+tons of candy!
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+Yeee-haaaww!
+###--------
+Merry Christmas!
+###--------
+Wait...not yet.
+Tonight is
+Christmas Eve!
+###--------
+Is there going
+to be a party
+tonight?
+###--------
+I can't wait to
+get my grub on!
+###--------
+###Script:9
+Merry Christmas!
+###--------
+But after Christmas
+Eve,I'm already in
+a New Year's mood...
+###--------
+New Year's Eve
+can't come
+soon enough...
+###--------
+###Script:10
+Yeee-haaaww!
+###--------
+Tonight is
+New Year's Eve!
+###--------
+It's a great day
+for cleaning up!
+###--------
+Everyone's probably
+busy getting
+set up at home...
+###--------
+So make sure you
+help out too!
+###--------
+###Script:11
+Yeee-haaaww!
+###--------
+Happy Birthday
+to you!
+###--------
+Hope we continue
+to stay good pals
+like this forever!
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And...
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------

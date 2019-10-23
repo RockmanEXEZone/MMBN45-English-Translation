@@ -1,0 +1,146 @@
+﻿###TextArchive:66F78C
+###Script:1
+*whoosh...*
+Happy New Year!
+###--------
+Let us hope
+for another
+excellent year.
+###--------
+###--------
+###--------
+A good wind
+is blowing!
+###--------
+###Script:2
+*whoosh...*
+###--------
+It seems today
+is called
+April Fools' Day...
+###--------
+On this day,it's
+common for people
+###++++++++
+to play pranks
+on one another.
+###++++++++
+I can't say I
+understand it...
+###--------
+###Script:3
+*whoosh...*
+###--------
+It seems today
+is referred to as
+Valentine's Day...
+###--------
+Apparently people
+secretly send
+a letter
+###++++++++
+to the person
+they like...
+###--------
+...What a curious
+tradition.
+###--------
+###Script:5
+*whoosh...*
+###--------
+Tonight is
+Halloween...
+###--------
+There is an
+ominous feeling in
+the air tonight...
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+*whoosh...*
+###--------
+It seems tonight
+is referred to as
+Christmas Eve...
+###--------
+I cannot say I
+am very familiar
+with it...
+###--------
+Is it some sort of
+human festival?
+###--------
+###Script:9
+###--------
+*whoosh...*
+Merry Christmas!
+###--------
+Everyone has been
+saying that,so I
+tried it as well.
+###--------
+Is it supposed
+to be some
+sort of spell...?
+###--------
+###Script:10
+*whoosh...*
+###--------
+Tonight is
+New Year's Eve...
+###--------
+It's the last day
+of the year...
+###--------
+There is a saying:
+"All's well that
+ ends well."
+###--------
+Let loose your
+worries of the
+past and have fun.
+###--------
+###Script:11
+*whoosh...*
+###--------
+Today is your
+birthday...
+###--------
+Congratulations.
+###--------
+Be sure to thank
+your parents who
+raised you...
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>"⋯
+###Command:printScheduleBuffer
+###--------
+###Script:18
+As well as...
+"<printScheduleBuffer>"⋯
+###Command:printScheduleBuffer
+###--------

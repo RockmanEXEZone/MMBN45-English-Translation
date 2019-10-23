@@ -1,0 +1,180 @@
+﻿###TextArchive:6E1068
+###Script:0
+  ChipFldr
+###--------
+###Script:1
+Folder
+###--------
+###Script:2
+ChipFolder  
+###--------
+###Script:3
+MegaBstr
+###--------
+###Script:4
+Shield
+###--------
+###Script:5
+ChrgShot
+###--------
+###Script:6
+Buster
+###--------
+###Script:7
+Barrier
+###--------
+###Script:8
+RollArro
+###--------
+###Script:9
+GutsMG
+###--------
+###Script:10
+GutsHamr
+###--------
+###Script:11
+Fan
+###--------
+###Script:12
+Wind
+###--------
+###Script:13
+ScopeGun
+###--------
+###Script:14
+FireArm
+###--------
+###Script:15
+Thunder
+###--------
+###Script:16
+LongSwrd
+###--------
+###Script:17
+DieBomb
+###--------
+###Script:18
+BrakBust
+###--------
+###Script:19
+MetlFist
+###--------
+###Script:20
+MetlBlde
+###--------
+###Script:21
+Poltrgst
+###--------
+###Script:22
+JunkPres
+###--------
+###Script:23
+AquaHose
+###--------
+###Script:24
+SeedShot
+###--------
+###Script:25
+DthForst
+###--------
+###Script:26
+TwklMetr
+###--------
+###Script:27
+KCrusher
+###--------
+###Script:28
+RWBall
+###--------
+###Script:29
+Invis
+###--------
+###Script:30
+NinStar
+###--------
+###Script:31
+FireBomb
+###--------
+###Script:32
+Napalm
+###--------
+###Script:33
+FreezBom
+###--------
+###Script:34
+PlntWeed
+###--------
+###Script:35
+ShootngB
+###--------
+###Script:36
+DOvrload
+###--------
+###Script:37
+ThunBolt
+###--------
+###Script:38
+R: 
+###--------
+###Script:39
+L: 
+###--------
+###Script:60
+Edit the
+ChipFolder!
+###--------
+###Script:61
+Choose a weapon
+for the R Button!
+###--------
+###Script:62
+Choose a weapon
+for the L Button!
+###--------
+###Script:63
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padZeros=false padLeft=true
+###--------
+###Script:70
+###Mugshot:MegaMan
+You don't have
+<printBuffer> chips yet!
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###--------
+###Mugshot:MegaMan
+Want to quit?
+
+###--------
+###Mugshot:MegaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:71
+###Mugshot:MegaMan
+You can only have 3
+of the same chip!
+###--------
+###Script:72
+###Mugshot:MegaMan
+You can only have 1
+of the same MegaChip!
+###--------
+###Script:73
+###Mugshot:MegaMan
+You can only have 1
+of the same GigaChip!
+###--------
+###Script:74
+###Mugshot:MegaMan
+You can only have
+5 MegaChips!
+###--------
+###Script:75
+###Mugshot:MegaMan
+You can only have
+1 GigaChip!
+###--------

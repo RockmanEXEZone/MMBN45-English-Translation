@@ -1,0 +1,591 @@
+﻿###TextArchive:7C7188
+###Script:0
+###Mugshot:MegaMan
+This is your first time
+on the Net,right?
+###--------
+###Mugshot:MegaMan
+Let's practice the
+basics of being a Net-
+Battler: virus busting!
+###--------
+###Mugshot:MegaMan
+OK! Here we go!
+###--------
+###Script:1
+###Mugshot:Roll
+Hey,do you know how
+to bust viruses?
+###--------
+###Mugshot:Roll
+There'll be viruses
+roaming around from
+here on,
+###++++++++
+###Mugshot:Roll
+so let's get in some
+basic training!
+###--------
+###Mugshot:Roll
+OK,let's begin!
+###--------
+###Script:2
+###Mugshot:GutsMan
+Guts,guts!
+###--------
+###Mugshot:GutsMan
+I'm sensing viruses
+nearby!
+###--------
+###Mugshot:GutsMan
+It'd be pretty
+bad if they get
+the jump on us...
+###--------
+###Mugshot:GutsMan
+Let's do some
+practice right here!
+###--------
+###Mugshot:GutsMan
+Get ready!
+###--------
+###Script:3
+###Mugshot:WindMan
+Incidentally...
+###--------
+###Mugshot:WindMan
+For a NetBattler,
+virus busting is the
+most basic of basics...
+###--------
+###Mugshot:WindMan
+From here on out,
+you will have to
+fight many battles.
+###--------
+###Mugshot:WindMan
+First,let us learn
+how to fight here...
+###--------
+###Mugshot:WindMan
+Are you prepared?
+Here we go...
+###--------
+###Script:4
+###Mugshot:SearchMan
+...I'm getting readings
+of numerous viruses
+on my radar...
+###--------
+###Mugshot:SearchMan
+In order to determine
+the best approach,
+###--------
+###Mugshot:SearchMan
+let's review how
+to bust viruses...
+###--------
+###Mugshot:SearchMan
+...Begin!
+###--------
+###Script:5
+###Mugshot:FireMan
+Shoot,that's right...
+###--------
+###Mugshot:FireMan
+I still don't have a
+clue how your battle
+skills are.
+###--------
+###Mugshot:FireMan
+I guess this is your
+first time workin'
+with me,huh?
+###--------
+###Mugshot:FireMan
+Let's skip the intro
+and go right into
+some virus busting!
+###--------
+###Mugshot:FireMan
+Time to get this
+show on the road!
+###--------
+###Script:6
+###Mugshot:ThunderMan
+In the areas from here
+on out,many viruses
+will appear...
+###--------
+###Mugshot:ThunderMan
+First,it would be a
+good idea to practice
+virus busting...
+###--------
+###Mugshot:ThunderMan
+Let's begin...
+###--------
+###Script:7
+###Mugshot:ProtoMan
+The Net...
+A fun place where
+many people meet.
+###--------
+###Mugshot:ProtoMan
+But it's also a
+dangerous place where
+viruses appear.
+###--------
+###Mugshot:ProtoMan
+First,let's practice
+virus busting
+###--------
+###Mugshot:ProtoMan
+so we can deal with
+the dangers.
+###--------
+###Mugshot:ProtoMan
+Let's get started!
+###--------
+###Script:8
+###Mugshot:NumberMan
+OK,we're on the Net...
+###--------
+###Mugshot:NumberMan
+A-Actually,maybe we
+should practice virus
+busting for now.
+###--------
+###Mugshot:NumberMan
+I shouldn't just hop
+on the Net without
+studying first...
+###--------
+###Mugshot:NumberMan
+OK,let's begin!
+###--------
+###Script:9
+###Mugshot:MetalMan
+Before we head further
+into the Net,let's
+practice virus busting.
+###--------
+###Mugshot:MetalMan
+I have absolute faith
+in my own fists,
+###--------
+###Mugshot:MetalMan
+but I still have some
+doubts about your
+operating...
+###--------
+###Mugshot:MetalMan
+The only way to
+remove that doubt
+is with practice.
+###--------
+###Mugshot:MetalMan
+Let's go...
+###--------
+###Script:10
+###Mugshot:JunkMan
+F-From here on,
+viruses will appear...
+###--------
+###Mugshot:JunkMan
+Whether I live or get
+deleted... d-depends
+on your operating...
+###--------
+###Mugshot:JunkMan
+For now,
+let's p-practice...
+###--------
+###Mugshot:JunkMan
+H-Here we go...
+###--------
+###Script:11
+###Mugshot:AquaMan
+Drip,drip!
+###--------
+###Mugshot:AquaMan
+There are viruses
+all over,drip...
+###--------
+###Mugshot:AquaMan
+It'd be scary if we
+suddenly got ambushed
+by viruses!
+###--------
+###Mugshot:AquaMan
+Let's practice
+here,drip!
+###--------
+###Mugshot:AquaMan
+Okay,here we go!
+Drip!
+###--------
+###Script:12
+###Mugshot:WoodMan
+Oh,that's right...
+###--------
+###Mugshot:WoodMan
+Before we walk around
+on the Net,let us
+practice busting viruses.
+###--------
+###Mugshot:WoodMan
+It's hard to say what
+sort of dangers await
+us past here...
+###--------
+###Mugshot:WoodMan
+Let's begin...
+###--------
+###Script:13
+###Mugshot:StarMan
+Come to think of it,
+do you know how to
+bust viruses?
+###--------
+###Mugshot:StarMan
+Either way,let's just
+practice here.
+###--------
+###Mugshot:StarMan
+A lot of viruses will
+pop up from this
+point on,after all.
+###--------
+###Mugshot:StarMan
+Alright,let's go!
+###--------
+###Script:14
+###Mugshot:ShadowMan
+I can feel it...
+The viruses'
+bloodthirst...
+###--------
+###Mugshot:ShadowMan
+Surely you know how
+to bust viruses...
+###--------
+###Mugshot:ShadowMan
+If you're going to be
+working with me,
+###--------
+###Mugshot:ShadowMan
+you must at least
+learn the basics...
+###--------
+###Mugshot:ShadowMan
+I'm beginning
+our training.
+###--------
+###Script:15
+###Mugshot:KnightMan
+We have arrived on
+the Net,
+###--------
+###Mugshot:KnightMan
+but are you versed
+in virus busting?
+If you intend to
+###--------
+###Mugshot:KnightMan
+continue on the Net,
+it is essential that
+you master it.
+###--------
+###Mugshot:KnightMan
+I propose that we
+practice virus busting.
+###--------
+###Mugshot:KnightMan
+Now,show me
+your strength!
+###--------
+###Script:16
+###Mugshot:NapalmMan
+By the way,you DO
+know how to bust
+viruses,right?
+###--------
+###Mugshot:NapalmMan
+Usually it's fine to
+leave things to me,
+###--------
+###Mugshot:NapalmMan
+but I gotta have you
+at least learn the
+bare minimum.
+###--------
+###Mugshot:NapalmMan
+So let's do some
+training!
+Here we go!
+###--------
+###Script:17
+###Mugshot:IceMan
+Did you know that
+the Net is crawling
+with viruses?
+###--------
+###Mugshot:IceMan
+Let's do some virus
+busting practice
+while we can!
+###--------
+###Mugshot:IceMan
+Here we go!
+###--------
+###Script:18
+###Mugshot:ElecMan
+First,let me make
+this perfectly clear...
+###--------
+###Mugshot:ElecMan
+If you're going on the
+Net,there's no avoiding
+virus battles...
+###--------
+###Mugshot:ElecMan
+Let's practice the
+basics here.
+###--------
+###Mugshot:ElecMan
+Can you keep up?
+Let's go!
+###--------
+###Script:19
+###Mugshot:PlantMan
+Do you know how to
+bust viruses?
+###--------
+###Mugshot:PlantMan
+You'll be fighting a
+fair number of them,
+so if you lack the
+###--------
+###Mugshot:PlantMan
+basics of combat,
+you'll have a hard time
+coming up roses...
+###--------
+###Mugshot:PlantMan
+How about a refresher?
+Let's get started...
+###--------
+###Script:20
+###Mugshot:Bass
+You...
+If someone like you is
+going to operate me,
+###--------
+###Mugshot:Bass
+you'd better learn
+the basics of battle...
+###--------
+###Mugshot:Bass
+Let's see how
+well you hold up!
+###--------
+###Script:21
+###Mugshot:MegaMan
+We can't afford to
+stumble here!
+###--------
+###Mugshot:MegaMan
+Let's try it again!
+###--------
+###Script:22
+###Mugshot:Roll
+C'mon,what are
+you doing!?
+###--------
+###Mugshot:Roll
+We're trying it again!
+###--------
+###Script:23
+###Mugshot:GutsMan
+Guts,guts!
+###--------
+###Mugshot:GutsMan
+That was close...!
+Let's try again!
+###--------
+###Script:24
+###Mugshot:WindMan
+Hopeless...
+One more time...
+###--------
+###Script:25
+###Mugshot:SearchMan
+At this rate,we will
+be unable to advance
+on the Net!
+###--------
+###Mugshot:SearchMan
+We're starting over!
+###--------
+###Script:26
+###Mugshot:FireMan
+Ya blew it! Those
+viruses are weak,
+just beat 'em!
+###--------
+###Mugshot:FireMan
+We're doin' it again!
+###--------
+###Script:27
+###Mugshot:ThunderMan
+What are you doing!
+Get ahold of yourself!
+###--------
+###Mugshot:ThunderMan
+Once more!
+###--------
+###Script:28
+###Mugshot:ProtoMan
+I'm terribly sorry...
+Please give me
+another chance!
+###--------
+###Mugshot:ProtoMan
+Let's go!
+###--------
+###Script:29
+###Mugshot:NumberMan
+Ow-ow-ow...
+They did a real
+number on me...
+###--------
+###Mugshot:NumberMan
+......
+Huh,you're not
+satisfied?
+###--------
+###Mugshot:NumberMan
+R-Right,of course.
+Okay,let's do it again!
+###--------
+###Script:30
+###Mugshot:MetalMan
+We're doing it again.
+###--------
+###Mugshot:MetalMan
+If you stay calm,
+there should be
+no problem.
+###--------
+###Mugshot:MetalMan
+Let's go!
+###--------
+###Script:31
+###Mugshot:JunkMan
+I-If you can't defeat
+these viruses,we'll have
+problems down the line!
+###++++++++
+###Mugshot:JunkMan
+Let's t-try again!
+###--------
+###Script:32
+###Mugshot:AquaMan
+It's no good if
+you don't do it
+properly,drip!
+###--------
+###Mugshot:AquaMan
+Let's try it again,
+drip!
+###--------
+###Script:33
+###Mugshot:WoodMan
+We're doing it
+once more...
+###++++++++
+###Mugshot:WoodMan
+You should be able
+to do it if you try.
+Do your best!
+###--------
+###Script:34
+###Mugshot:StarMan
+Geez,pull yourself
+together!
+###--------
+###Mugshot:StarMan
+OK,we're doing it again!
+Do your best this time!
+###--------
+###Script:35
+###Mugshot:ShadowMan
+You lack training...
+###--------
+###Mugshot:ShadowMan
+...One more time...
+###--------
+###Script:36
+###Mugshot:KnightMan
+What are you doing!
+###--------
+###Mugshot:KnightMan
+A knight cannot yield
+to viruses like these!
+###--------
+###Mugshot:KnightMan
+We shall try it
+once more!
+###--------
+###Script:37
+###Mugshot:NapalmMan
+You blockhead!
+What was that!?
+###--------
+###Mugshot:NapalmMan
+You're just draggin'
+me down!
+###--------
+###Mugshot:NapalmMan
+C'mon,we're doin'
+it again!
+###--------
+###Script:38
+###Mugshot:IceMan
+You failed!
+###--------
+###Mugshot:IceMan
+Try hard to make
+sure you don't fail
+this time!
+###--------
+###Script:39
+###Mugshot:ElecMan
+I expect you to
+operate a little
+better than that.
+###--------
+###Mugshot:ElecMan
+Don't let me down
+this time.
+###--------
+###Script:40
+###Mugshot:PlantMan
+Now that wasn't an
+elegant battle at all...
+###--------
+###Mugshot:PlantMan
+Let's do it again.
+Show me your graceful
+operating this time.
+###--------
+###Script:41
+###Mugshot:Bass
+...Hmph.
+So that's all your
+technique amounts to...
+###--------
+###Mugshot:Bass
+One more time...
+###--------

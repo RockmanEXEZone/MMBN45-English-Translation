@@ -1,0 +1,129 @@
+﻿###TextArchive:680454
+###Script:1
+Happy New Year.
+###--------
+Let's make it
+another good one...
+###--------
+###Script:2
+Today is
+April Fools' Day.
+###--------
+Remember that
+you should never
+play any pranks
+###--------
+that could be
+hurtful to others.
+###--------
+###Script:3
+Today is
+Valentine's Day.
+###--------
+This is that day
+where you receive
+letters from people
+###++++++++
+who like you,right?
+###--------
+I wonder how many
+you will receive...
+###--------
+###Script:4
+Today is
+Valentine's Day.
+###--------
+This is that day
+where you receive
+letters from people
+###++++++++
+who like you,right?
+###++++++++
+I wonder how many
+you will receive...
+###--------
+###Script:5
+Tonight is
+Halloween.
+###--------
+This holiday is
+quite popular
+in Netopia.
+###++++++++
+All sorts of
+scary things are
+celebrated today.
+###++++++++
+Hmm...thunder is
+scary,right?
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve.
+###--------
+The year is
+drawing to a close.
+###++++++++
+Let's enjoy
+it before it
+fades away...
+###--------
+###Script:9
+Merry Christmas.
+###--------
+Did you eat
+your fill today?
+###--------
+The New Year is
+coming up soon.
+###--------
+###Script:10
+Tonight is
+New Year's Eve.
+###--------
+Is there anything
+you left undone
+this year?
+###--------
+Be sure to have no
+regrets this last
+day of the year.
+###--------
+###Script:11
+It's your
+birthday today.
+###--------
+Congratulations.
+###--------
+Today is a day you
+should celebrate
+you being born.
+###--------
+Reflect upon your
+journey so far...
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And...
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------

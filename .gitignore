@@ -1,0 +1,15 @@
+_rom/*.gba
+_rom/*.sym
+_rom/*.temp
+_rom/*.tpl
+_rom/*.txt
+_rom/*.exe
+_rom/*.ips
+_rom/*.bps
+_rom/*.bin
+!_rom/PLACE_ROM_HERE.txt
+_temp/
+tools/armips.exe
+tools/lzss.exe
+text/jp
+text/tpl

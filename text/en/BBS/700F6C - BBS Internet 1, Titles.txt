@@ -1,0 +1,142 @@
+﻿###TextArchive:700F6C
+###Script:0
+ Koetsu   Welcome!
+###--------
+###Script:1
+ Koetsu   LR Btn equip
+###--------
+###Script:2
+ Koetsu   Defense equip
+###--------
+###Script:3
+ Macky    Fill gauge!
+###--------
+###Script:4
+ Koetsu   RE:Fill gauge
+###--------
+###Script:5
+ Yukko    Navi movement
+###--------
+###Script:6
+ Koetsu   RE:Navi movem
+###--------
+###Script:7
+ Takkun   Run frm virus
+###--------
+###Script:8
+ Joshua   BtlChip Gate!
+###--------
+###Script:9
+ Norizo   RE:BtlChipGat
+###--------
+###Script:10
+ Ruta     Combine chip?
+###--------
+###Script:11
+ WM Dex   RE:Combine ch
+###--------
+###Script:12
+ BBS0  0C XXXXXXXXXXXXX
+###--------
+###Script:13
+ BBS0  0D XXXXXXXXXXXXX
+###--------
+###Script:14
+ BBS0  0E XXXXXXXXXXXXX
+###--------
+###Script:15
+ Tessan   Tickets!!
+###--------
+###Script:16
+ Daffy    Uh,Tickets?
+###--------
+###Script:17
+ John     New craze?
+###--------
+###Script:18
+ Chuny    What's P.A.?
+###--------
+###Script:19
+ Koetsu   RE:What's P.A
+###--------
+###Script:20
+ Macky    Good defense
+###--------
+###Script:21
+ Takayan  Hockey puck?
+###--------
+###Script:22
+ Mumu     Use holes!
+###--------
+###Script:23
+ Coaches  Yep,use holes
+###--------
+###Script:24
+ Chika    My prince
+###--------
+###Script:25
+ Noah     What the?
+###--------
+###Script:26
+ Isshy    RE:What the?
+###--------
+###Script:27
+ Chuny    Tricky!
+###--------
+###Script:28
+ Samuzo   That's BomBoy
+###--------
+###Script:29
+ Koetsu   RE:That's Bom
+###--------
+###Script:30
+ BBS0  1E XXXXXXXXXXXXX
+###--------
+###Script:31
+ BBS0  1F XXXXXXXXXXXXX
+###--------
+###Script:32
+ Nanase   FstGauge
+###--------
+###Script:33
+ Jamie    Its opposite
+###--------
+###Script:34
+ Peter    Drain gauge
+###--------
+###Script:35
+ BBS0  23 XXXXXXXXXXXXX
+###--------
+###Script:36
+ BBS0  24 XXXXXXXXXXXXX
+###--------
+###Script:37
+ BBS0  25 XXXXXXXXXXXXX
+###--------
+###Script:38
+ BBS0  26 XXXXXXXXXXXXX
+###--------
+###Script:39
+ BBS0  27 XXXXXXXXXXXXX
+###--------
+###Script:40
+ BBS0  28 XXXXXXXXXXXXX
+###--------
+###Script:41
+ BBS0  29 XXXXXXXXXXXXX
+###--------
+###Script:42
+ BBS0  2A XXXXXXXXXXXXX
+###--------
+###Script:43
+ BBS0  2B XXXXXXXXXXXXX
+###--------
+###Script:44
+ BBS0  2C XXXXXXXXXXXXX
+###--------
+###Script:45
+ BBS0  2D XXXXXXXXXXXXX
+###--------
+###Script:46
+ BBS0  2E XXXXXXXXXXXXX
+###--------

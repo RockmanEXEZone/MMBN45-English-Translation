@@ -1,0 +1,171 @@
+﻿###TextArchive:789D00
+###Script:10
+###Mugshot:ShadowMan
+Let's explore
+the Net...
+###--------
+###Script:11
+###Mugshot:ShadowMan
+An Apprentice
+License exam...?
+...Sure,why not.
+###--------
+###Script:12
+###Mugshot:ShadowMan
+The Apprentice License
+exam... With my powers,
+it should be trivial...
+###--------
+###Script:13
+###Mugshot:ShadowMan
+Let's seek out
+this "<printChip>".
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:ShadowMan
+Let's retrieve our
+Apprentice License...
+###--------
+###Script:15
+###Mugshot:ShadowMan
+Good work on the
+Apprentice License
+exam...
+###++++++++
+###Mugshot:ShadowMan
+How about we rest
+for a while?
+###--------
+###Script:16
+###Mugshot:ShadowMan
+This incident in
+Internet3 has
+my attention...
+###--------
+###Script:17
+###Mugshot:ShadowMan
+Seems the Navi we
+defeated was the
+cause of the incident...
+###--------
+###Mugshot:ShadowMan
+How about we jack
+out and consider
+our next move...?
+###--------
+###Script:18
+###Mugshot:ShadowMan
+This incident in
+Internet5 has
+my attention...
+###--------
+###Script:19
+###Mugshot:ShadowMan
+This incident in
+Internet7 has
+my attention...
+###--------
+###Script:20
+###Mugshot:ShadowMan
+This incident in
+Internet9 has
+my attention...
+###--------
+###Script:21
+###Mugshot:ShadowMan
+This incident in
+Internet10 has
+my attention...
+###--------
+###Script:22
+###Mugshot:ShadowMan
+This incident in
+Internet12 has
+my attention...
+###--------
+###Script:23
+###Mugshot:ShadowMan
+Steal the "MinusKey"
+back from BlackWorks...?
+Should be trivial.
+###--------
+###Script:24
+###Mugshot:ShadowMan
+Seems the other Navi
+has the "MinusKey"...
+###--------
+###Script:25
+###Mugshot:ShadowMan
+Let's return the
+"MinusKey" to the
+Navi in Internet9.
+###--------
+###Script:26
+###Mugshot:ShadowMan
+Let's make for the
+Official Tournament
+entry desk...
+###--------
+###Script:27
+###Mugshot:ShadowMan
+Let's venture into
+the Undernet...
+###++++++++
+###Mugshot:ShadowMan
+Our target Navi should
+be near a coffin...
+###--------
+###Script:28
+###Mugshot:ShadowMan
+Now,let's enter the
+Official Tournament...
+###--------
+###Script:29
+###Mugshot:ShadowMan
+The Official Tournament
+is this weekend...
+###++++++++
+###Mugshot:ShadowMan
+I'll show them the
+deepest secrets
+of the ninja.
+###--------
+###Script:30
+###Mugshot:ShadowMan
+The Official Tournament...
+###++++++++
+###Mugshot:ShadowMan
+I'll show them the
+deepest secrets
+of the ninja...
+###--------
+###Script:31
+###Mugshot:ShadowMan
+Let's delve deeper
+into the Net.
+...What do you say?
+###--------
+###Script:32
+###Mugshot:ShadowMan
+Should we not take the
+Official Tournament
+prelims?
+###--------
+###Script:33
+###Mugshot:ShadowMan
+...Are you not going
+to read the mail
+that just arrived?
+###--------
+###Script:34
+###Mugshot:ShadowMan
+Once the weekend is
+over,let's enter the
+Official Tournament.
+###--------
+###Script:35
+###Mugshot:ShadowMan
+Our target Navi should
+be near a coffin...
+###--------

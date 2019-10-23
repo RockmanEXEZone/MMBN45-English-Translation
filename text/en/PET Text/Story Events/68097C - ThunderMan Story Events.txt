@@ -1,0 +1,145 @@
+﻿###TextArchive:68097C
+###Script:10
+Let's try to
+explore more
+of the Net...
+###--------
+###Script:11
+Let's go take
+the Apprentice
+License exam...
+###--------
+###Script:12
+Let's try to pass
+this Apprentice
+License exam...
+###--------
+###Script:13
+Let's go get
+a "<printChip>"...
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+Let's go get our
+Apprentice License...
+###--------
+###Script:15
+Good work on
+the Apprentice
+License exam!
+###--------
+Do you want to
+jack out for now?
+###--------
+###Script:16
+Let's see what
+is happening
+in Internet3...
+###--------
+###Script:17
+It seems that Navi
+we beat caused
+the incident...
+###--------
+You must be worn
+out... Want to jack
+out for now?
+###--------
+###Script:18
+Let's see what
+is happening
+in Internet5...
+###--------
+###Script:19
+Let's see what
+is happening
+in Internet7...
+###--------
+###Script:20
+Let's see what
+is happening
+in Internet9...
+###--------
+###Script:21
+Let's see what
+is happening
+in Internet10...
+###--------
+###Script:22
+Let's see what
+is happening
+in Internet12...
+###--------
+###Script:23
+Let's recover the
+"MinusKey" from
+the BlackWorks...
+###--------
+###Script:24
+It seems the
+other Navi has
+the "MinusKey".
+###--------
+###Script:25
+Let's return
+the "MinusKey"
+###--------
+to the Navi
+in Internet9.
+###--------
+###Script:26
+###--------
+Let's head to the
+Official Tournament
+entry desk...
+###--------
+###Script:27
+Let's head into
+the Undernet...
+###--------
+The Navi we're
+after should be
+near a coffin...
+###--------
+###Script:28
+Let's go enter
+the Official
+Tournament.
+###--------
+###Script:29
+The Official
+Tournament is
+this weekend.
+###++++++++
+Let's aim
+for victory...
+###--------
+###Script:30
+The Official
+Tournament... Let's
+aim for victory.
+###--------
+###Script:31
+Let's delve
+even deeper
+into the Net.
+###--------
+###Script:32
+Let's go take the
+Official Tournament
+prelims.
+###--------
+###Script:33
+<printPlayerNickname>,you
+still have that
+unread mail...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:34
+Once the
+weekend is over,
+###--------
+let's go enter
+the Official
+Tournament.
+###--------

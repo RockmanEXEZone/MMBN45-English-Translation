@@ -1,0 +1,452 @@
+﻿###TextArchive:7A32A8
+###Script:0
+###Mugshot:PurpleNavi
+I enjoy spending
+my days off here.
+###--------
+###Mugshot:PurpleNavi
+It's nice just being
+able to relax and
+shop around.
+###--------
+###Mugshot:PurpleNavi
+Right now I'm thinking
+whether I should buy
+some new chips or not.
+###--------
+###Script:1
+###Mugshot:PurpleNavi
+Alright! I'm going
+to enjoy today to
+the fullest as well!
+###--------
+###Mugshot:PurpleNavi
+This plaza is
+like a paradise!
+###--------
+###Script:2
+###Mugshot:PurpleNavi
+I did a bit too much
+shopping,and now my
+wallet's looking empty!
+###--------
+###Mugshot:PurpleNavi
+I have a bad habit
+of impulsively buying
+things I don't need.
+###--------
+###Script:10
+###Mugshot:OfficialNavi
+I love shopping,so
+I tend to hang out
+with this guy a lot.
+###--------
+###Mugshot:OfficialNavi
+I always end up
+buying all sorts
+of doodads,though...
+###--------
+###Mugshot:OfficialNavi
+But it's fine,right?
+It's my Zenny and I'm
+not hurting anyone!
+###--------
+###Script:11
+###Mugshot:OfficialNavi
+I'm here once again...
+###--------
+###Mugshot:OfficialNavi
+I do think it's best
+to avoid spending
+money where you can,
+###--------
+###Mugshot:OfficialNavi
+but in the end,
+I always buy
+tons of stuff...
+###--------
+###Script:12
+###Mugshot:OfficialNavi
+I tagged along with
+this guy and bought all
+kinds of stuff again...
+###--------
+###Mugshot:OfficialNavi
+My wallet's so cold
+and empty,but my
+heart's warm with joy!
+###--------
+###Mugshot:OfficialNavi
+･<wait>･<wait>･<wait>No regrets!!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Script:20
+###Mugshot:HeelNaviBlack
+What the heck!?
+Who do you
+think you are,
+###++++++++
+###Mugshot:HeelNaviBlack
+acting all buddy-buddy
+with me,huh!?
+###--------
+###Mugshot:HeelNaviBlack
+You'd better prepare
+yourself! Graaaah!!
+###--------
+###Mugshot:HeelNaviBlack
+･<wait>･<wait>･
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:HeelNaviBlack
+Huh?
+...Huhhh?
+###--------
+###Mugshot:HeelNaviBlack
+W-What? Your face
+is scary,like saying
+"Bring it on then!"
+###--------
+###Mugshot:HeelNaviBlack
+Wait! Forgive me!
+I didn't mean it!
+###++++++++
+###Mugshot:HeelNaviBlack
+I'm actually really
+bad at fighting...
+###--------
+###Mugshot:HeelNaviBlack
+I got a bit carried
+away there. Real
+sorry about that.
+###--------
+###Script:21
+###Mugshot:HeelNaviBlack
+That yellow Navi by
+the entrance...she's a
+cutie,don't ya think?
+###--------
+###Mugshot:HeelNaviBlack
+Whenever she talks with
+that accent of hers,
+it pierces my heart!
+###--------
+###Mugshot:HeelNaviBlack
+But even though I
+look this this,
+###++++++++
+###Mugshot:HeelNaviBlack
+I'm pretty shy,so
+I can't talk to her!
+###--------
+###Mugshot:HeelNaviBlack
+Argh!!
+I'm so embarrassed!
+###--------
+###Script:22
+###Mugshot:HeelNaviBlack
+That cute girl
+jacked out...
+###--------
+###Mugshot:HeelNaviBlack
+Ugh...
+This is agonizing...
+###--------
+###Script:23
+###Mugshot:HeelNaviBlack
+Everyone's starting
+to leave,so I think
+I'll jack out soon,too.
+###--------
+###Script:30
+###Mugshot:NormNaviYellow
+How did this happen!?
+I lost in round 1 of
+the tournament again!
+###--------
+###Mugshot:NormNaviYellow
+Whyyyyy!?
+I trained so hard!
+Even during holidays!
+###--------
+###Mugshot:NormNaviYellow
+Am I just lacking
+in talent!?
+###--------
+###Script:31
+###Mugshot:NormNaviYellow
+It's right around this
+time that this area
+gets really bustling.
+###--------
+###Mugshot:NormNaviYellow
+*yawn*⋯ But it's
+Sunday morning...
+I'm still so sleepy.
+###--------
+###Mugshot:NormNaviYellow
+Anyway,I can't
+afford to lose focus!
+###++++++++
+###Mugshot:NormNaviYellow
+Today's finally
+the day of the
+tournament,after all!!
+###--------
+###Script:32
+###Mugshot:NormNaviYellow
+Gahhhh...!!
+###--------
+###Mugshot:NormNaviYellow
+How many tournaments
+in a row have I lost
+in the first round now?
+###--------
+###Mugshot:NormNaviYellow
+Let's see...
+1,2,3...
+###--------
+###Mugshot:NormNaviYellow
+I can't even count
+how many times!?
+###++++++++
+###Mugshot:NormNaviYellow
+Why!? Why!? Am I
+really that weak!?
+###--------
+###Mugshot:NormNaviYellow
+Do I really not
+have an ounce
+of talent at all!?
+###--------
+###Script:40
+###Mugshot:NaviGirlOrange
+With this relaxin'
+plaza full of people
+and shops all over...
+###--------
+###Mugshot:NaviGirlOrange
+Why,I could stick
+around here all day
+without gettin' bored!
+###--------
+###Mugshot:NaviGirlOrange
+That's the city
+life for ya!!
+###--------
+###Script:41
+###Mugshot:NaviGirlOrange
+I just moved here
+from the countryside!
+###--------
+###Mugshot:NaviGirlOrange
+I'm aimin' to become
+a sophisticated
+city woman!
+###--------
+###Script:42
+###Mugshot:NaviGirlOrange
+The countryside's
+got its own nice
+things 'bout it,
+###--------
+###Mugshot:NaviGirlOrange
+but I think this here
+city's more stimulatin'
+for young Navis!
+###--------
+###Script:50
+###Mugshot:MrProgGreen
+AHH...EVEN THOUGH WE'RE
+PROGRAMS,WE FELL IN
+LOVE WITH EACH OTHER!
+###--------
+###Mugshot:MrProgGreen
+NORMALLY,THIS
+KIND OF LOVE IS
+NOT ALLOWED...
+###--------
+###Mugshot:MrProgGreen
+BUT I JUST CAN'T
+HELP IT! BECAUSE
+I LOVE YOU SO!!
+###--------
+###Script:51
+###Mugshot:MrProgGreen
+HOLD ON... IS LOVE
+BETWEEN PROGRAMS
+ACTUALLY FORBIDDEN?
+###--------
+###Mugshot:MrProgGreen
+･<wait>･<wait>･<wait>
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:MrProgGreen
+WELL,THAT'S OKAY.
+###--------
+###Mugshot:MrProgGreen
+IT FEELS COOLER
+IF YOU CAN CALL IT
+"FORBIDDEN LOVE"!!
+###--------
+###Script:60
+###Mugshot:MrProgGreen
+IF LOVE BETWEEN
+PROGRAMS ISN'T
+ALLOWED,
+###--------
+###Mugshot:MrProgGreen
+THEN WE'LL RUN
+AWAY TOGETHER!
+###--------
+###Mugshot:MrProgGreen
+YES,ANYWHERE WILL DO!
+IF IT'S WITH YOU!!
+LALALALA...
+###--------
+###Script:61
+###Mugshot:MrProgGreen
+OUR LOVE IS A
+FORBIDDEN LOVE!
+###--------
+###Mugshot:MrProgGreen
+ISN'T THAT
+KINDA COOL?
+###--------
+###Script:70
+###Mugshot:NormNaviBrown
+Youngsters are
+all so absorbed in
+their NetBattling...
+###--------
+###Mugshot:NormNaviBrown
+Sometimes I take
+them on,but my age
+catches up to me fast.
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Aha!!
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"When I battle with
+ the teenagers of today,
+ my legs turn to mush."
+###--------
+###Script:71
+###Mugshot:NormNaviBrown
+Novice NetBattlers
+are always coming
+to this area,
+###--------
+###Mugshot:NormNaviBrown
+hoping to become
+Apprentice NetBattlers
+and join tournaments.
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Hm!!
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"I too want to be
+ an Official NetBattler
+ for fame and glory."
+###--------
+###Script:80
+###Mugshot:NormNaviPink
+Tomorrow...!
+The garbage...!
+Is collected...!
+###--------
+###Mugshot:NormNaviPink
+Finally making her
+grand appearance...
+It's the Navi wife!
+###--------
+###Mugshot:NormNaviPink
+Now to throw away
+this garbage...!
+...Out you go!!
+###--------
+###Mugshot:NormNaviPink
+Haaaaahh!
+Phew...
+###--------
+###Script:90
+###Mugshot:NormNaviPink
+Oh,good day to you.
+###--------
+###Mugshot:NormNaviPink
+There are some
+convenient spots
+around here,
+###++++++++
+###Mugshot:NormNaviPink
+but it does get
+rather crowded on
+the weekends,no?
+###--------
+###Mugshot:NormNaviPink
+But I just loooove
+shopping,so it doesn't
+bother me at all.
+###--------
+###Script:91
+###Mugshot:NormNaviPink
+Ah,I was wondering
+why the people here
+were so excited.
+###--------
+###Mugshot:NormNaviPink
+It looks like
+they've entered
+the tournament!
+###--------
+###Mugshot:NormNaviPink
+NetBattlers are just
+so amazing! I'd love
+to chat with them!
+###--------
+###Script:110
+###Mugshot:HeelNaviPurple
+There's more
+than just this
+one tournament...
+###--------
+###Mugshot:HeelNaviPurple
+There must be
+other stages,
+###++++++++
+###Mugshot:HeelNaviPurple
+prepared for the
+mightiest battlers
+to clash on...
+###--------
+###Script:111
+###Mugshot:HeelNaviPurple
+I wonder just how
+many tournaments are
+being held,anyway?
+###--------
+###Mugshot:HeelNaviPurple
+A tournament where
+all of the high-rank
+###++++++++
+###Mugshot:HeelNaviPurple
+Navis gather must
+be really awesome.
+###--------

@@ -1,0 +1,14 @@
+﻿###TextArchive:681FD4
+###Script:1
+I'm back.
+<printPlayerNickname>,good
+work out there.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:2
+My apologies.
+It was my fault...
+###--------
+What a blunder...
+I'm ashamed.
+###--------

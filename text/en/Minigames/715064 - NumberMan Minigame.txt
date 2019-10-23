@@ -1,0 +1,159 @@
+﻿###TextArchive:715064
+###Script:0
+Heheheh...
+I've started it up.
+###--------
+The diabolical math
+problems I've put
+into this TimeBomb...
+###--------
+I've no doubt this
+special training will
+improve your grades.
+###--------
+<positionOptionVertical><option><space> Start drill
+<positionOptionVertical><option><space> Hear lecture
+###Command:positionOptionVertical width=9
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=9
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:1
+I'll hold a lecture on
+how this drill works.
+###--------
+The premise is simple.
+###--------
+Before the timer on the
+TimeBomb reaches 0,
+###--------
+choose an answer for
+the blank space in the
+equation I'm holding.
+###--------
+Pick from one of the
+options below it,and
+complete the equation.
+###--------
+If you get it wrong...
+###--------
+You'll have to do the
+same equation again
+as punishment!
+###--------
+The TimeBomb's timer
+is set to 40 seconds.
+###--------
+If you don't solve
+all of the problems
+within 40 seconds...
+###--------
+I'll be caught up in the
+TimeBomb's explosion!
+###--------
+I-I'm putting my neck
+on the line here!
+###--------
+In conclusion,do you
+have any questions?
+###--------
+OK! That covers the
+basics,so I'll end
+my lecture here.
+###--------
+<positionOptionVertical><option><space> Start drill now
+<positionOptionVertical><option><space> Repeat lecture
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:2
+Drill...<wait>
+###Command:wait frames=60
+###--------
+###Script:3
+It's
+simple!
+###--------
+###Script:4
+Hmm...
+###--------
+###Script:5
+Try
+harder.
+###--------
+###Script:6
+Next
+problem.
+###--------
+###Script:7
+Once
+again!
+###--------
+###Script:8
+H-Hurry!
+Faster!
+Faster!
+###--------
+###Script:9
+N-No
+time
+left!
+###--------
+###Script:10
+Eeeeee
+eeeeek!
+###--------
+###Script:11
+Great!<wait>
+###Command:wait frames=80
+###--------
+###Script:12
+Do your
+best!
+###--------
+###Script:13
+Pick any level you like.
+###--------
+<option><space> Level 1  <option><space> Level 2
+<option><space> Level 3  <option><space> Level 4
+###Command:option brackets=false left=1 right=1 up=2 down=2
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=3 down=3
+###Command:space count=1
+###Command:option brackets=false left=3 right=3 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=2 right=2 up=1 down=1
+###Command:space count=1
+###--------
+###Script:14
+Is this
+problem
+okay?
+###--------
+###Script:15
+Heheheh...
+I've started it up.
+###--------
+The academic
+problems I've put
+into this TimeBomb...
+###--------
+I'll use this drill to
+grade your intelligence.
+Prepare yourself!
+###--------
+<positionOptionVertical><option><space> Start drill
+<positionOptionVertical><option><space> Hear lecture
+###Command:positionOptionVertical width=9
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=9
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------

@@ -1,0 +1,23 @@
+﻿###TextArchive:7B1BC0
+###Script:0
+###Mugshot:NormNaviPink
+Today is Ladies
+Patrol Day,you see.
+###--------
+###Mugshot:NormNaviPink
+Despite my looks,
+I'm an Official!
+###--------
+###Mugshot:NormNaviPink
+Awesome,right?
+Teehee!
+###--------
+###Script:1
+###Mugshot:NaviGirlOrange
+No irregularities
+at Site B!
+###--------
+###Mugshot:NaviGirlOrange
+Today is peaceful
+as well!
+###--------

@@ -1,0 +1,168 @@
+﻿###TextArchive:78A7A8
+###Script:10
+###Mugshot:IceMan
+Let's go explore
+everywhere on the
+Net!
+###--------
+###Script:11
+###Mugshot:IceMan
+I wanna try the
+Apprentice License
+exam!
+###--------
+###Script:12
+###Mugshot:IceMan
+Let's do our best
+on the Apprentice
+License exam!
+###--------
+###Script:13
+###Mugshot:IceMan
+Let's go get a
+"<printChip>",<printPlayerNickname>!
+###Command:printChip buffer=0 chip=104
+###Command:printPlayerNickname
+###--------
+###Script:14
+###Mugshot:IceMan
+Let's go get our
+Apprentice License!
+###--------
+###Script:15
+###Mugshot:IceMan
+Great work on the
+Apprentice License
+exam!
+###++++++++
+###Mugshot:IceMan
+Want to take a
+little break?
+###--------
+###Script:16
+###Mugshot:IceMan
+I wanna find out
+what's going on
+in Internet3...
+###--------
+###Script:17
+###Mugshot:IceMan
+That Navi we beat
+was the one causing
+all that,huh...
+###--------
+###Mugshot:IceMan
+Do you want to
+jack out for now?
+###--------
+###Script:18
+###Mugshot:IceMan
+I wanna find out
+what's going on
+in Internet5...
+###--------
+###Script:19
+###Mugshot:IceMan
+I wanna find out
+what's going on
+in Internet7...
+###--------
+###Script:20
+###Mugshot:IceMan
+I wanna find out
+what's going on
+in Internet9...
+###--------
+###Script:21
+###Mugshot:IceMan
+I wanna find out
+what's going on
+in Internet10...
+###--------
+###Script:22
+###Mugshot:IceMan
+I wanna find out
+what's going on
+in Internet12...
+###--------
+###Script:23
+###Mugshot:IceMan
+Let's get back the
+"MinusKey" from those
+BlackWorks guys!
+###--------
+###Script:24
+###Mugshot:IceMan
+Seems like the
+other Navi has
+the "MinusKey"!
+###--------
+###Script:25
+###Mugshot:IceMan
+Let's bring back the
+"MinusKey" to the
+Navi in Internet9!
+###--------
+###Script:26
+###Mugshot:IceMan
+Let's go to the
+Official Tournament
+entry desk!
+###--------
+###Script:27
+###Mugshot:IceMan
+Let's go to
+the Undernet.
+###++++++++
+###Mugshot:IceMan
+The Navi we're
+after should be
+near a coffin...
+###--------
+###Script:28
+###Mugshot:IceMan
+OK! Let's go enter
+the Official Tournament!
+###--------
+###Script:29
+###Mugshot:IceMan
+The Official Tournament's
+this weekend! Let's
+give it our best shot!
+###--------
+###Script:30
+###Mugshot:IceMan
+The Official Tournament...
+I can't keep my cool
+anymore!
+###--------
+###Script:31
+###Mugshot:IceMan
+I want to explore
+more of the Net!
+###--------
+###Script:32
+###Mugshot:IceMan
+Let's go take the
+Official Tournament
+prelims,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:33
+###Mugshot:IceMan
+<printPlayerNickname>,let's read
+the mail we just got!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:34
+###Mugshot:IceMan
+Once the weekend is
+over,let's go enter
+the Official Tournament!
+###--------
+###Script:35
+###Mugshot:IceMan
+The Navi we're
+after should be
+near a coffin...
+###--------

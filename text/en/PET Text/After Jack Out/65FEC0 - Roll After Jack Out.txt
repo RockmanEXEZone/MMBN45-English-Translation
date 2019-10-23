@@ -1,0 +1,16 @@
+﻿###TextArchive:65FEC0
+###Script:1
+Whew,I'm back!
+###--------
+Great work
+today,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:2
+Ow,ow,ow...
+That smarts...
+###--------
+Next time,be
+more careful with
+your operating!
+###--------

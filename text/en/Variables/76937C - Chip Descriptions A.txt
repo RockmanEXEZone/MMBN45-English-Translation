@@ -1,0 +1,1248 @@
+﻿###TextArchive:76937C
+###Script:1
+Cannon to
+attack
+1 enemy
+###--------
+###Script:2
+Cannon to
+attack
+1 enemy
+###--------
+###Script:3
+Cannon to
+attack
+1 enemy
+###--------
+###Script:4
+Knock
+enmy back
+1 square
+###--------
+###Script:5
+Snowstorm
+atk! Make
+pnl ice
+###--------
+###Script:6
+Firestorm
+atk! Make
+pnl magma
+###--------
+###Script:7
+MuteAnt
+blinds
+enemy
+###--------
+###Script:8
+8hit strm
+2 squares
+ahead
+###--------
+###Script:9
+Fires 3sq
+shotgun
+blast!
+###--------
+###Script:10
+Fires 3sq
+shotgun
+blast!
+###--------
+###Script:11
+Fires 3sq
+shotgun
+blast!
+###--------
+###Script:12
+Firebeam
+2sq ahead
+3sq long!
+###--------
+###Script:13
+Firebeam
+2sq ahead
+3sq long!
+###--------
+###Script:14
+Firebeam
+2sq ahead
+3sq long!
+###--------
+###Script:15
+3-shot to
+pierce 1
+panel!
+###--------
+###Script:16
+5-shot to
+pierce 1
+panel!
+###--------
+###Script:17
+7-shot to
+pierce 1
+panel!
+###--------
+###Script:18
+Creates a
+large
+explosion
+###--------
+###Script:19
+Explodes
+1 square
+behind
+###--------
+###Script:20
+Explodes
+2 diag.
+squares
+###--------
+###Script:21
+Explodes
+up,down
+on hit
+###--------
+###Script:22
+Explodes
+1 square
+behind
+###--------
+###Script:23
+Explodes
+2 diag.
+squares
+###--------
+###Script:24
+Explodes
+up,down
+on hit
+###--------
+###Script:25
+3-sq atk.
+Powerful
+on magma!
+###--------
+###Script:26
+3-sq atk.
+Powerful
+on ice!
+###--------
+###Script:27
+A static
+blast 2sq
+ahead
+###--------
+###Script:28
+Makes
+enmy's HP
+same
+###--------
+###Script:29
+Throws a
+minibomb
+3sq ahead
+###--------
+###Script:30
+Throws a
+bomb 3sq
+ahead
+###--------
+###Script:31
+Throws a
+bomb 3sq
+ahead
+###--------
+###Script:32
+Sunbeam
+2sq ahead
+3sq long!
+###--------
+###Script:33
+Sunbeam
+2sq ahead
+3sq long!
+###--------
+###Script:34
+Sunbeam
+2sq ahead
+3sq long!
+###--------
+###Script:35
+Pull and
+shok enmy
+ahead
+###--------
+###Script:36
+Pull and
+shok enmy
+ahead
+###--------
+###Script:37
+Pull and
+shok enmy
+ahead
+###--------
+###Script:38
+Bounces
+on every
+2nd panel
+###--------
+###Script:39
+Bounces
+on every
+2nd panel
+###--------
+###Script:40
+Bounces
+on every
+2nd panel
+###--------
+###Script:41
+Throws a
+bug-bomb
+3sq ahead
+###--------
+###Script:42
+Electric
+atk! Make
+pnl crack
+###--------
+###Script:43
+Spores
+atk! Make
+pnl grass
+###--------
+###Script:44
+Breaks
+3rd panel
+ahead
+###--------
+###Script:45
+Geyser 3
+squares
+forward
+###--------
+###Script:46
+Firebomb
+hits 3rd
+sq ahead!
+###--------
+###Script:47
+Opens a
+pitfall
+trap
+###--------
+###Script:48
+Cuts enmy
+in front!
+Range: 1
+###--------
+###Script:49
+Cuts enmy
+in front!
+Range: 3
+###--------
+###Script:50
+Cuts enmy
+in front!
+Range: 2
+###--------
+###Script:51
+Cuts enmy
+in front!
+Range: 3
+###--------
+###Script:52
+Cuts enmy
+in front!
+Range: 2
+###--------
+###Script:53
+Blow enmy
+in front!
+Range: 3
+###--------
+###Script:54
+Cust
+Gauge=
+Atk Str
+###--------
+###Script:55
+Magc swrd
+w/shiftng
+range
+###--------
+###Script:56
+Slice
+enemy in
+your area
+###--------
+###Script:57
+Pralyzing
+electric
+attack!
+###--------
+###Script:58
+Pralyzing
+electric
+attack!
+###--------
+###Script:59
+Pralyzing
+electric
+attack!
+###--------
+###Script:60
+Counter-
+attack to
+enemy
+###--------
+###Script:61
+Counter-
+attack to
+enemy
+###--------
+###Script:62
+Counter-
+attack to
+enemy
+###--------
+###Script:63
+Ricochet
+attack to
+right
+###--------
+###Script:64
+Ricochet
+attack to
+right
+###--------
+###Script:65
+Ricochet
+attack to
+right
+###--------
+###Script:66
+Stop site
+w/ Button
+and attck
+###--------
+###Script:67
+Stop site
+w/ Button
+and attck
+###--------
+###Script:68
+Stop site
+w/ Button
+and attck
+###--------
+###Script:69
+Launch 2
+fangs up
+and down
+###--------
+###Script:70
+Launch 2
+fangs up
+and down
+###--------
+###Script:71
+Launch 2
+fangs up
+and down
+###--------
+###Script:72
+Stretches
+web over
+enmy area
+###--------
+###Script:73
+Stretches
+web on
+enmy area
+###--------
+###Script:74
+Stretches
+web under
+enmy area
+###--------
+###Script:75
+Boomerang
+encircles
+field
+###--------
+###Script:76
+Boomerang
+encircles
+field
+###--------
+###Script:77
+Boomerang
+encircles
+field
+###--------
+###Script:78
+Lance
+attck 3sq
+ahead
+###--------
+###Script:79
+Lance
+attck 3sq
+ahead
+###--------
+###Script:80
+Lance
+attck 3sq
+ahead
+###--------
+###Script:81
+Lance
+through
+back line
+###--------
+###Script:82
+DarkHole
+appears
+in front
+###--------
+###Script:83
+WindBox
+blows at
+enmy area
+###--------
+###Script:84
+VacuumFan
+pulls
+enemy in
+###--------
+###Script:85
+Places
+BoyBom in
+your area
+###--------
+###Script:86
+Places
+BoyBom in
+your area
+###--------
+###Script:87
+Places
+BoyBom in
+your area
+###--------
+###Script:88
+Repels
+enemy's
+attack
+###--------
+###Script:89
+Repels
+enemy's
+attack
+###--------
+###Script:90
+Repels
+enemy's
+attack
+###--------
+###Script:91
+Destroys
+1 panel
+in front
+###--------
+###Script:92
+Destroys
+2 panels
+in front
+###--------
+###Script:93
+Destroys
+3 panels
+in front
+###--------
+###Script:94
+Cursor
+destroys
+panels!
+###--------
+###Script:95
+Gel atk
+steals a
+panel!
+###--------
+###Script:96
+Call snak
+from hole
+in area
+###--------
+###Script:97
+An area-
+wide time
+bomb
+###--------
+###Script:98
+Place a
+mine in
+enmy area
+###--------
+###Script:99
+Place a
+rock cube
+in front
+###--------
+###Script:100
+Take no
+dmg for a
+while
+###--------
+###Script:101
+Confuses
+enemies
+w/ music
+###--------
+###Script:102
+Paralyzes
+enemies
+w/ music
+###--------
+###Script:103
+Throws
+VDoll
+ahead
+###--------
+###Script:104
+Hammr atk
+smashes
+in front!
+###--------
+###Script:105
+Hammr atk
+smashes
+in front!
+###--------
+###Script:106
+Hammr atk
+smashes
+in front!
+###--------
+###Script:107
+Recovers
+10HP
+###--------
+###Script:108
+Recovers
+30HP
+###--------
+###Script:109
+Recovers
+50HP
+###--------
+###Script:110
+Recovers
+80HP
+###--------
+###Script:111
+Recovers
+120HP
+###--------
+###Script:112
+Recovers
+150HP
+###--------
+###Script:113
+Recovers
+200HP
+###--------
+###Script:114
+Recovers
+300HP
+###--------
+###Script:115
+Recovers
+HP of
+objects
+###--------
+###Script:116
+Steals 1
+enemy
+square!
+###--------
+###Script:117
+Steals
+left edge
+from enmy
+###--------
+###Script:118
+Retaliate
+stolen
+panels!
+###--------
+###Script:119
+Retaliate
+stolen
+panels!
+###--------
+###Script:120
+CustGauge
+Temporary
+slow-down
+###--------
+###Script:121
+CustGauge
+Temporary
+speed-up
+###--------
+###Script:122
+Fix your
+area's
+panels
+###--------
+###Script:123
+Cracks
+all panel
+on screen
+###--------
+###Script:124
+Breaks
+all empty
+panels
+###--------
+###Script:125
+Turns all
+panels to
+swamp
+###--------
+###Script:126
+3-sq atk.
+Powerful
+on grass!
+###--------
+###Script:127
++10 for
+next chip
+attack
+###--------
+###Script:128
+3-sq atk.
+Powerful
+on pitfal
+###--------
+###Script:129
+Blinds
+enemy w/
+light
+###--------
+###Script:130
+3 Molokos
+charge
+the enemy
+###--------
+###Script:131
+3 Molokos
+charge
+the enemy
+###--------
+###Script:132
+3 Molokos
+charge
+the enemy
+###--------
+###Script:133
+Invisible
+for a
+while
+###--------
+###Script:134
+Attacks
+frm under
+ground
+###--------
+###Script:135
+Nullifies
+10 HP of
+damage
+###--------
+###Script:136
+Nullifies
+100 HP of
+damage
+###--------
+###Script:137
+Nullifies
+200 HP of
+damage
+###--------
+###Script:138
+Wind blws
+off aura,
+barriers
+###--------
+###Script:139
+Creates a
+HolyPanl
+in front
+###--------
+###Script:140
+Fire atk
+damages
+you
+###--------
+###Script:141
+Water atk
+damages
+you
+###--------
+###Script:142
+Elec atk
+damages
+you
+###--------
+###Script:143
+Wood atk
+damages
+you
+###--------
+###Script:144
+Takes the
+enemy's
+Navi away
+###--------
+###Script:145
+Sets trap
+and throw
+stars
+###--------
+###Script:146
+Retaliate
+for sword
+damage
+###--------
+###Script:147
+Damages
+enemy in
+recovery
+###--------
+###Script:148
+Duplicate
+damage to
+2nd enemy
+###--------
+###Script:149
++10 for
+next used
+atk chip
+###--------
+###Script:150
++20 for
+next used
+Navi chip
+###--------
+###Script:151
+RollArrow
+destroys
+chips
+###--------
+###Script:152
+RollArrow
+destroys
+chips
+###--------
+###Script:153
+RollArrow
+destroys
+chips
+###--------
+###Script:154
+Launches
+GutPunch
+ahead
+###--------
+###Script:155
+Launches
+GutStrgt
+ahead
+###--------
+###Script:156
+Launches
+GutImpct
+ahead
+###--------
+###Script:157
+Rush off
+screen &
+explodes
+###--------
+###Script:158
+Rush off
+screen &
+explodes
+###--------
+###Script:159
+Rush off
+screen &
+explodes
+###--------
+###Script:160
+Throws a
+bomb that
+seek enmy
+###--------
+###Script:161
+Throws a
+bomb that
+seek enmy
+###--------
+###Script:162
+Throws a
+bomb that
+seek enmy
+###--------
+###Script:163
+Fires 5
+Meteors
+at enemy
+###--------
+###Script:164
+Fires 5
+Meteors
+at enemy
+###--------
+###Script:165
+Fires 5
+Meteors
+at enemy
+###--------
+###Script:166
+Thunder
+strikes
+obstacles
+###--------
+###Script:167
+Thunder
+strikes
+obstacles
+###--------
+###Script:168
+Thunder
+strikes
+obstacles
+###--------
+###Script:169
+Cut twice
+once wide
+once long
+###--------
+###Script:170
+Cut twice
+once wide
+once long
+###--------
+###Script:171
+Cut twice
+once wide
+once long
+###--------
+###Script:172
+2hit ball
+atk! Pwr=
+last 2 HP
+###--------
+###Script:173
+3hit ball
+atk! Pwr=
+last 2 HP
+###--------
+###Script:174
+4hit ball
+atk! Pwr=
+last 2 HP
+###--------
+###Script:175
+Gear
+starts in
+enmy area
+###--------
+###Script:176
+Gear
+starts in
+enmy area
+###--------
+###Script:177
+Gear
+starts in
+enmy area
+###--------
+###Script:178
+Lift panl
+in front
+and throw
+###--------
+###Script:179
+Lift panl
+in row
+and throw
+###--------
+###Script:180
+Lift panl
+around
+and throw
+###--------
+###Script:181
+Raises
+AquaTowrs
+frm crack
+###--------
+###Script:182
+Raises
+AquaTowrs
+frm crack
+###--------
+###Script:183
+Raises
+AquaTowrs
+frm crack
+###--------
+###Script:184
+Raises
+WoodTowrs
+frm grass
+###--------
+###Script:185
+Raises
+WoodTowrs
+frm grass
+###--------
+###Script:186
+Raises
+WoodTowrs
+frm grass
+###--------
+###Script:187
+DARKCHIP
+CREATED
+BY DESIRE
+###--------
+###Script:188
+DARKCHIP
+CREATED
+BY DESIRE
+###--------
+###Script:189
+DARKCHIP
+CREATED
+BY DESIRE
+###--------
+###Script:190
+DARKCHIP
+CREATED
+BY DESIRE
+###--------
+###Script:191
+DARKCHIP
+CREATED
+BY DESIRE
+###--------
+###Script:192
+DARKCHIP
+CREATED
+BY DESIRE
+###--------
+###Script:193
+DARKCHIP
+CREATED
+BY DESIRE
+###--------
+###Script:194
+DARKCHIP
+CREATED
+BY DESIRE
+###--------
+###Script:195
+DARKCHIP
+CREATED
+BY DESIRE
+###--------
+###Script:196
+DARKCHIP
+CREATED
+BY DESIRE
+###--------
+###Script:201
+Repel all
+attacks
+under200
+###--------
+###Script:202
+Slash 2sq
+Power=
+HP lost
+###--------
+###Script:203
+Statue
+punishes
+when hit
+###--------
+###Script:204
+Anubis
+poisons
+enemies
+###--------
+###Script:205
++30 for
+next used
+atk chip
+###--------
+###Script:206
+Repairs &
+removes
+bugs
+###--------
+###Script:207
++20 for
+next chip
+attack
+###--------
+###Script:208
+Chng all
+own panel
+to holy
+###--------
+###Script:209
+CustGauge
+instantly
+fills
+###--------
+###Script:210
+Drop many
+meteor on
+enmy area
+###--------
+###Script:211
+Copy your
+bugs onto
+enemies
+###--------
+###Script:212
+More dmg
+if enemy
+has chip
+###--------
+###Script:213
+3-sq atk.
+Powerful
+ovr swamp
+###--------
+###Script:214
+Wing atk
+in enemy
+area
+###--------
+###Script:215
+Stone
+statue
+hits all
+###--------
+###Script:216
+Turns the
+row into
+DarkHoles
+###--------
+###Script:217
+Magc swrd
+w/shiftng
+range
+###--------
+###Script:218
+Repliroid
+swrd cuts
+3 times
+###--------
+###Script:219
+Fires a
+spread
+sunbeam
+###--------
+###Script:220
+12-shot
+vulcan
+cannon
+###--------
+###Script:221
+Attcks an
+enmy,then
+heals you
+###--------
+###Script:222
+Attcks an
+enmy,then
+heals you
+###--------
+###Script:223
+Attcks an
+enmy,then
+heals you
+###--------
+###Script:224
+GutsHammr
+cracks
+enmy area
+###--------
+###Script:225
+GutsHammr
+cracks
+enmy area
+###--------
+###Script:226
+GutsHammr
+cracks
+enmy area
+###--------
+###Script:227
+Whirlwind
+that spin
+acrss 3sq
+###--------
+###Script:228
+Whirlwind
+that spin
+acrss 3sq
+###--------
+###Script:229
+Whirlwind
+that spin
+acrss 3sq
+###--------
+###Script:230
+Stop site
+and fire
+5 shots
+###--------
+###Script:231
+Stop site
+and fire
+5 shots
+###--------
+###Script:232
+Stop site
+and fire
+5 shots
+###--------
+###Script:233
+FireArm
+burns to
+back edge
+###--------
+###Script:234
+FireArm
+burns to
+back edge
+###--------
+###Script:235
+FireArm
+burns to
+back edge
+###--------
+###Script:236
+Lightning
+break pnl
+3 ahead
+###--------
+###Script:237
+Lightning
+break pnl
+3 ahead
+###--------
+###Script:238
+Lightning
+break pnl
+3 ahead
+###--------
+###Script:239
+Move in
+and slice
+the enemy
+###--------
+###Script:240
+Move in
+and slice
+the enemy
+###--------
+###Script:241
+Move in
+and slice
+the enemy
+###--------
+###Script:242
+Bomb 3
+ahead!
+Hits 9sq
+###--------
+###Script:243
+Bomb 3
+ahead!
+Hits 9sq
+###--------
+###Script:244
+Bomb 3
+ahead!
+Hits 9sq
+###--------
+###Script:245
+Iron fist
+crushes
+1sq ahead
+###--------
+###Script:246
+Iron fist
+crushes
+1sq ahead
+###--------
+###Script:247
+Iron fist
+crushes
+1sq ahead
+###--------
+###Script:248
+Throw any
+objects
+on field
+###--------
+###Script:249
+Throw any
+objects
+on field
+###--------
+###Script:250
+Throw any
+objects
+on field
+###--------
+###Script:251
+WaterGun
+sprays
+2sq ahead
+###--------
+###Script:252
+WaterGun
+sprays
+2sq ahead
+###--------
+###Script:253
+WaterGun
+sprays
+2sq ahead
+###--------
+###Script:254
+WoodTowr
+pierce in
+enmy area
+###--------
+###Script:255
+WoodTowr
+pierce in
+enmy area
+###--------

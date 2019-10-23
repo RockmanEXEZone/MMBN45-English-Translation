@@ -1,0 +1,49 @@
+﻿###TextArchive:7BB6C8
+###Script:0
+###Mugshot:NormNaviYellow
+Hey! I think I'm
+pretty tough,
+###++++++++
+###Mugshot:NormNaviYellow
+but could you help
+me find out for sure?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+If you're refusing,
+that must mean I'm
+real tough after all!
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Okay!
+Here I go then!
+###--------
+###Mugshot:NormNaviYellow
+Float like a moth,
+sting like a mosquito!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+Whaaaaaaat!
+I was this weak!?
+###--------
+###Mugshot:NormNaviYellow
+Hahaha...
+I must be dreaming!
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+I knew it!
+I'm the toughest!
+###--------

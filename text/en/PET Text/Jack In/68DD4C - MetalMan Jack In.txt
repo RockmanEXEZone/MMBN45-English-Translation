@@ -1,0 +1,7 @@
+﻿###TextArchive:68DD4C
+###Script:1
+Jack in!
+MetalMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

@@ -1,0 +1,151 @@
+﻿###TextArchive:6C05C4
+###Script:10
+Let's go check
+out the Net,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:11
+The Apprentice
+License exam...?
+Might as well!
+###--------
+###Script:12
+The Apprentice
+License exam...?
+###--------
+That's a piece
+of cake!
+###--------
+###Script:13
+C'mon! We gotta
+find a "<printChip>"!
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+Alright! Let's get
+that Apprentice
+License!
+###--------
+###Script:15
+Nice work on
+the Apprentice
+License exam!
+###++++++++
+Wanna rest
+for a bit?
+###--------
+###Script:16
+Let's go see
+what's goin' on
+in Internet3...
+###--------
+###Script:17
+Guess that Navi we
+beat was the one
+causing all that...
+###--------
+You tired? We
+can jack out for
+now if you want.
+###--------
+###Script:18
+Let's go see
+what's goin' on
+in Internet5...
+###--------
+###Script:19
+Let's go see
+what's goin' on
+in Internet7...
+###--------
+###Script:20
+Let's go see
+what's goin' on
+in Internet9...
+###--------
+###Script:21
+Let's go see
+what's goin' on
+in Internet10...
+###--------
+###Script:22
+Let's go see
+what's goin' on
+in Internet12...
+###--------
+###Script:23
+Let's go grab that
+"MinusKey" from
+those BlackWorks!
+###--------
+###Script:24
+Looks like that
+other Navi's got
+the "MinusKey"!
+###--------
+###Script:25
+Guess we should
+take back the
+MinusKey
+###++++++++
+to the Navi
+in Internet9.
+###--------
+###Script:26
+###--------
+Let's get to the
+Official Tournament
+entry desk!
+###--------
+###Script:27
+Let's go to
+the Undernet!
+###--------
+That Navi we're
+after should be
+near a coffin...
+###--------
+###Script:28
+###--------
+<printPlayerNickname>,let's go
+enter that Official
+Tournament!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:29
+The Official
+Tournament is
+this weekend!
+###++++++++
+I'm gonna blow
+'em all away...
+###--------
+###Script:30
+Let's burn 'em
+up in the Official
+Tournament!
+###--------
+###Script:31
+I haven't blasted
+enough yet... Let's
+keep exploring!!
+###--------
+###Script:32
+Let's go do the
+Official Tournament
+prelims!
+###--------
+###Script:33
+C'mon,let's
+read that mail
+we just got!
+###--------
+###Script:34
+Once the
+weekend is over,
+###--------
+let's go enter
+that Official
+Tournament!
+###--------

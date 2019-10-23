@@ -1,0 +1,141 @@
+﻿###TextArchive:691A64
+###Script:1
+Happy New Year,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+My goal for this
+year is to train my
+fists even further.
+###--------
+You should decide
+on some sort
+of goal as well.
+###--------
+###Script:2
+Today is
+April Fools' Day...
+###--------
+Have fun,but
+don't forget...
+###--------
+Treat others the
+way you want
+to be treated.
+###--------
+###Script:3
+Today is
+Valentine's Day...
+###--------
+I'll say just this.
+A person's worth
+is not measured
+###--------
+by the number
+of letters
+they receive.
+###--------
+Don't lose heart...
+###--------
+###Script:4
+Today is
+Valentine's Day...
+###--------
+I'll say just this.
+A person's worth
+is not measured
+###--------
+by the number
+of letters
+they receive.
+###++++++++
+Don't lose heart...
+###--------
+###Script:5
+October 31st...
+Today is Halloween.
+###--------
+When you have
+big hands like me,
+it's a lot easier
+###--------
+to gather candy
+while trick-or-
+treating.
+###++++++++
+Watch out you
+don't overeat,
+though...
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+###Script:8
+December 24th...
+It's Christmas Eve.
+###--------
+Apparently,some
+guy named Santa
+###++++++++
+will sneak into
+your house tonight.
+###--------
+But don't worry...
+I'll keep watch.
+###--------
+###Script:9
+December 25th...
+Today is Christmas.
+###--------
+I saw a suspicious
+figure last night,
+###--------
+but unfortunately,
+they got away...
+Sorry.
+###--------
+###Script:10
+December 31st...
+New Year's Eve.
+###--------
+If you're setting
+off fireworks
+tonight,
+###--------
+###--------
+remember that
+safety comes first...
+###--------
+###Script:11
+Happy Birthday,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+It makes me happy
+to continue growing
+alongside you.
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And...
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------

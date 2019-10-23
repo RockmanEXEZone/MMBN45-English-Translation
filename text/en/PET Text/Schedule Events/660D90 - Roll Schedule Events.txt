@@ -1,0 +1,80 @@
+﻿###TextArchive:660D90
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+Almost time
+for <printScheduleBuffer>
+to be on!
+###Command:printScheduleBuffer
+###--------
+We gotta hurry or
+it's gonna start!
+###--------
+###Script:2
+Time to meet
+with <printScheduleBuffer>!
+I'm so excited!
+###Command:printScheduleBuffer
+###--------
+###Script:3
+Heeeey!
+Time to eat!
+###--------
+###Script:4
+Time for school!
+Hurry! Get ready
+or you'll be late!
+###--------
+###Script:5
+Time for
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:6
+After that,um...
+###--------
+###Script:21
+###Mugshot:Roll
+Almost time
+for <printScheduleBuffer>
+to be on!
+###Command:printScheduleBuffer
+###--------
+###Mugshot:Roll
+We gotta hurry or
+it's gonna start!
+###--------
+###Script:22
+###Mugshot:Roll
+Time to meet
+with <printScheduleBuffer>!
+I'm so excited!
+###Command:printScheduleBuffer
+###--------
+###Script:23
+###Mugshot:Roll
+Heeeey!
+Time to eat!
+###--------
+###Script:24
+###Mugshot:Roll
+Time for school!
+Hurry! Get ready
+or you'll be late!
+###--------
+###Script:25
+###Mugshot:Roll
+Time for <printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:Roll
+After that,um...
+###--------

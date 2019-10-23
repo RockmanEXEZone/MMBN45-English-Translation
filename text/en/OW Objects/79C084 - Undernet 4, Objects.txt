@@ -1,0 +1,32 @@
+﻿###TextArchive:79C084
+###Script:0
+I have been freed
+from the vampire's
+curse...
+###--------
+###Script:3
+There's nothing
+inside,but when
+you take a peek...
+###--------
+It's almost as if
+you're being dragged
+into the coffin...
+###--------
+###Script:4
+A sturdy coffin lies
+in front of you,
+###--------
+blending into the
+darkness of the
+Undernet...
+###--------
+###Script:7
+I have been bound,
+a servant to the
+vampire's power.
+###--------
+Defeat the vampire
+sleeping in his coffin
+to release me...
+###--------

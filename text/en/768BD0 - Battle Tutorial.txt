@@ -1,0 +1,228 @@
+﻿###TextArchive:768BD0
+###Script:0
+###Mugshot:MrProgGold
+Let me teach you
+the basics of
+virus busting!
+###--------
+###Mugshot:MrProgGold
+I'm Mr.Prog. My
+speech ability has
+###--------
+###Mugshot:MrProgGold
+been augmented so
+that I can explain
+things to you.
+###--------
+###Mugshot:MrProgGold
+Pleased to meet you!
+###--------
+###Mugshot:MrProgGold
+In this game,you
+can't use the
+###--------
+###Mugshot:MrProgGold
++Control Pad to move
+your Navi. Instead,
+###--------
+###Mugshot:MrProgGold
+you input commands
+beforehand for
+your Navi to follow.
+###--------
+###Mugshot:MrProgGold
+Let me show you
+how to do it!
+###--------
+###Script:1
+###Mugshot:MrProgGold
+The Strategy Screen
+lets you choose the
+enemy to attack.
+###--------
+###Script:2
+###Mugshot:MrProgGold
+Available chips are
+shown at the bottom.
+###--------
+###Script:3
+###Mugshot:MrProgGold
+Press the R Button
+to read descriptions
+for each chip.
+###--------
+###Mugshot:MrProgGold
+To run away,press
+the L Button. But
+it won't always work!
+###--------
+###Mugshot:MrProgGold
+Now,try choosing
+an enemy to hit!
+###--------
+###Script:4
+###Mugshot:MrProgGold
+Don't worry about
+running away for now.
+###--------
+###Script:5
+###Mugshot:MrProgGold
+Next,set the
+distance to
+the enemy.
+###--------
+###Mugshot:MrProgGold
+Your Navi will
+maintain it,so
+###--------
+###Mugshot:MrProgGold
+set it based on
+how the viruses
+attack you.
+###--------
+###Mugshot:MrProgGold
+Let's try setting
+the distance!
+###--------
+###Script:6
+###Mugshot:MrProgGold
+Time to battle!
+Your Navi will
+###--------
+###Mugshot:MrProgGold
+maintain the
+distance you've
+just set.
+###--------
+###Mugshot:MrProgGold
+Press the R Button
+or L Button to give
+your Navi attack
+###--------
+###Mugshot:MrProgGold
+commands.
+Every Navi has
+different attacks,
+###--------
+###Mugshot:MrProgGold
+like Shield or
+PowerAttack. Keep
+that in mind! Now,
+###--------
+###Mugshot:MrProgGold
+the most important
+part: using chips
+to attack!
+###--------
+###Script:7
+###Mugshot:MrProgGold
+This is your
+Cust Gauge!
+###--------
+###Mugshot:MrProgGold
+It must be filled in
+order to use chips.
+###--------
+###Mugshot:MrProgGold
+It fills gradually
+as time passes. It
+turns from yellow
+###--------
+###Mugshot:MrProgGold
+to red as it fills
+up with energy.
+You'll start out
+###--------
+###Mugshot:MrProgGold
+with a yellow
+Cust Gauge
+at first.
+###--------
+###Script:8
+###Mugshot:MrProgGold
+Take a good look
+at the bottom
+of the screen!
+###--------
+###Script:9
+###Mugshot:MrProgGold
+The chips in a
+Navi's folder are
+chosen randomly.
+###--------
+###Script:10
+###Mugshot:MrProgGold
+Standard Chips can
+be used when the
+gauge is yellow.
+###--------
+###Script:11
+###Mugshot:MrProgGold
+MegaChips are blue.
+They can be used if
+the gauge is blue.
+###--------
+###Script:12
+###Mugshot:MrProgGold
+GigaChips are red.
+They can be used if
+the gauge is red.
+###--------
+###Script:13
+###Mugshot:MrProgGold
+To use a chip,use
+the +Control Pad to
+select the chip.
+###--------
+###Mugshot:MrProgGold
+Then send,using
+the A Button.
+If you don't see the
+###--------
+###Mugshot:MrProgGold
+chip you want,then
+press the B Button
+to shuffle.
+###--------
+###Mugshot:MrProgGold
+Shuffling will lower
+your Cust Gauge
+so be careful!
+###--------
+###Script:14
+###Mugshot:MrProgGold
+That's all. Give it
+a try for yourself!
+###--------
+###Mugshot:MrProgGold
+To change targets
+during battle,press
+the +Control Pad up.
+###--------
+###Mugshot:MrProgGold
+To change distance
+during battle,press
+it down.
+###--------
+###Mugshot:MrProgGold
+There you have it.
+Good luck!
+###--------
+###Script:15
+###Mugshot:MrProgGold
+That concludes my
+virus busting class.
+###--------
+###Mugshot:MrProgGold
+It may take time to
+wrap your brain
+around auto-attacks.
+###--------
+###Mugshot:MrProgGold
+But just trust your
+Navi and focus on
+picking the chips!
+###--------
+###Mugshot:MrProgGold
+Good luck!
+###--------

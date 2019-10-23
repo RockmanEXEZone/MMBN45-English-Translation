@@ -1,0 +1,44 @@
+﻿###TextArchive:7B6E20
+###Script:0
+###Mugshot:NormNaviYellow
+This is my secret
+training area.
+###--------
+###Mugshot:NormNaviYellow
+How about it,wanna
+battle with me?
+###--------
+<positionOptionHorizontal><option><space> Yeah!  <option><space> Nope
+###Command:positionOptionHorizontal width=10
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Oh...
+That's too bad.
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Let's go!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+###--------
+###Mugshot:NormNaviYellow
+Execute!
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+Nice operating!
+###--------
+###Mugshot:NormNaviYellow
+That was a good
+battle! Thanks!
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+Looks like I need a
+little more training!
+###--------

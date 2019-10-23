@@ -1,0 +1,147 @@
+﻿###TextArchive:6AEE68
+###Script:10
+Let's explore
+the Net...
+###--------
+###Script:11
+An Apprentice
+License exam...?
+...Sure,why not.
+###--------
+###Script:12
+The Apprentice
+License exam...
+###--------
+With my powers,it
+should be trivial...
+###--------
+###Script:13
+Let's seek out
+this "<printChip>".
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+Let's retrieve our
+Apprentice License...
+###--------
+###Script:15
+Good work on
+the Apprentice
+License exam...
+###++++++++
+How about we
+rest for a while?
+###--------
+###Script:16
+This incident in
+Internet3 has
+my attention...
+###--------
+###Script:17
+Seems the Navi we
+beat was the cause
+of the incident...
+###--------
+###Script:18
+This incident in
+Internet5 has
+my attention...
+###--------
+###Script:19
+This incident in
+Internet7 has
+my attention...
+###--------
+###Script:20
+This incident in
+Internet9 has
+my attention...
+###--------
+###Script:21
+This incident in
+Internet10 has
+my attention...
+###--------
+###Script:22
+This incident in
+Internet12 has
+my attention...
+###--------
+###Script:23
+Steal the
+"MinusKey" back
+from BlackWorks...?
+###--------
+Should be trivial.
+###--------
+###Script:24
+Seems the other
+Navi has the
+"MinusKey"...
+###--------
+###Script:25
+Let's return
+the "MinusKey"
+###--------
+to the Navi
+in Internet9.
+###--------
+###Script:26
+###--------
+Let's make for the
+Official Tournament
+entry desk...
+###--------
+###Script:27
+Let's venture
+into the Undernet...
+###--------
+Our target
+Navi should be
+near a coffin...
+###--------
+###Script:28
+Now,let's enter
+the Official
+Tournament...
+###--------
+###Script:29
+The Official
+Tournament is
+this weekend...
+###++++++++
+I'll show them the
+deepest secrets
+of the ninja...
+###--------
+###Script:30
+The Official
+Tournament...
+###++++++++
+I'll show them the
+deepest secrets
+of the ninja...
+###--------
+###Script:31
+Let's delve deeper
+into the Net.
+...What do you say?
+###--------
+###Script:32
+Should we not
+take the Official
+Tournament prelims?
+###--------
+###Script:33
+...Are you not going
+to read the mail
+that just arrived?
+###--------
+###Script:34
+Once the
+weekend is over,
+###--------
+let's enter
+the Official
+Tournament...
+###--------

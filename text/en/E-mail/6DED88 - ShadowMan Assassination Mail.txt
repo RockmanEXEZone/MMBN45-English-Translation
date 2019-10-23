@@ -1,0 +1,908 @@
+﻿###TextArchive:6DED88
+###Script:27
+You,failing a simple
+request like that...
+I'm disappointed.
+###--------
+###Script:28
+...Just as I expected
+of you. Here is your
+promised reward.
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=33
+###--------
+###Script:29
+<printCurrentNavi> got:
+"<printBuffer> Zennys"!!!
+###Command:printCurrentNavi
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:30
+<printCurrentNavi> got:
+<printBuffer> BugFrags!!!
+###Command:printCurrentNavi
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:31
+Good work... I will
+be counting on you
+again next time...
+###--------
+###Script:33
+It's me... I have
+an assassination
+request for you...
+###--------
+It seems the Navi
+of a certain
+country's minister
+###++++++++
+has come to
+Internet1 in secret.
+###--------
+Erase that Navi
+within 60 minutes.
+###--------
+The target is
+disguised as a
+green NormalNavi.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:34
+It's me... I have
+an assassination
+request for you...
+###--------
+This time,it's a
+green NormalNavi
+in Internet2.
+###--------
+Erase him within
+60 minutes.
+###--------
+Seems like the client
+has a serious grudge
+against him...
+###--------
+They asked that
+you make it as
+painful as possible...
+###++++++++
+I will leave things
+to your discretion.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:35
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase the
+Official-type Navi
+in Internet3
+###--------
+within 40 minutes.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:36
+It's me... I have
+an assassination
+request for you...
+###--------
+Delete the Navi of
+a certain company's
+president.
+###--------
+The time limit is
+40 minutes.
+###--------
+Apparently,the
+Navi is currently
+in Internet4.
+###--------
+Their description...
+it's a green
+NormalNavi.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:37
+It's me... I have
+an assassination
+request for you...
+###--------
+This time,the target
+is in the same
+business as you.
+###--------
+It seems a hitman
+Navi from a
+certain country
+###++++++++
+has come to
+Internet1...
+###--------
+Erase him within
+40 minutes.
+###--------
+Their description
+is that they're a
+green NormalNavi.
+###--------
+Show him that
+we are not to
+be trifled with.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:38
+It's me... I have
+an assassination
+request for you...
+###--------
+The target this time
+is a female Navi
+who has stolen
+###++++++++
+vital secret
+information from a
+certain country.
+###--------
+It appears that
+she has snuck
+into Internet2.
+###--------
+Delete that Navi
+within 40 minutes.
+###--------
+Do not be swayed
+by her charms.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:39
+It's me... I have
+an assassination
+request for you...
+###--------
+It's a request from
+a certain company...
+###--------
+It appears they
+want you to erase
+a corporate spy.
+###--------
+Seems like the
+target is currently
+in Internet3...
+###--------
+Their description
+is that they're a
+green NormalNavi.
+###--------
+The client requests
+that you erase them
+within 40 minutes.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:40
+It's me... I have
+an assassination
+request for you...
+###--------
+There's a Navi in
+our organization
+###++++++++
+who tried to sell
+information to
+the Officials...
+###--------
+He's currently
+hiding out in
+Internet4.
+###--------
+I want you to
+erase this traitor...
+###--------
+30 minutes should
+be plenty of time...
+###--------
+As for their
+description,
+###++++++++
+look for a Navi
+with the same
+aura as you.
+###--------
+Our organization
+will not show any
+mercy to traitors!
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:41
+It's me... I have
+an assassination
+request for you...
+###--------
+Delete the Navi of
+a certain politician...
+###--------
+It seems someone
+will be in trouble
+###++++++++
+if that Navi is
+present in the
+upcoming election.
+###--------
+The target is
+currently headed
+to Internet5.
+###--------
+It's a green
+NormalNavi.
+###--------
+They're probably
+searching for a
+place to give their
+###++++++++
+speech for the
+upcoming election,
+or something.
+###--------
+I'm counting on you
+to get this done
+within 50 minutes.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:42
+It's me... I have
+an assassination
+request for you...
+###--------
+I can't give you
+any details,but...
+Erase a certain
+###--------
+green NormalNavi
+in Internet6
+within 50 minutes.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:43
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase the red
+NormalNavi in
+Internet7
+###--------
+within 35 minutes.
+###--------
+They're a loan
+shark that lent
+money to the client.
+###--------
+So,the money that
+they lent out
+is being used
+###++++++++
+for their own
+assassination,huh.
+###--------
+It's a cutthroat
+business,alright.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:44
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase a Navi part
+of the committee
+for a certain event...
+###--------
+It appears someone
+does not want this
+event to take place.
+###--------
+The target is a
+green NormalNavi
+in Internet8.
+###--------
+Get it done within
+35 minutes.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:45
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase a certain
+green Navi in
+Internet5
+###--------
+within 35 minutes.
+###--------
+That Navi is the
+leader of a gang...
+Seems they're at
+###--------
+odds with another
+gang. We'll settle
+the matter quickly.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:46
+It's me... I have
+an assassination
+request for you...
+###--------
+The target this time
+is a Navi who stole
+an important program
+###--------
+from a certain place.
+###--------
+Delete that Navi
+within 35 minutes.
+###--------
+He's disguised
+as an Official
+and is currently
+###++++++++
+hiding out in
+Internet6.
+###--------
+Seems like he's
+quite the virus
+tamer...
+###--------
+I'm not worried,
+but you can never
+be too careful...
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:47
+It's me... I have
+an assassination
+request for you...
+###--------
+The target this
+time is a green
+NormalNavi
+###--------
+who is currently
+in Internet7.
+###--------
+The request came
+from his love rival.
+###++++++++
+It seems love can
+really change people...
+###--------
+Delete him within
+30 minutes...
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:48
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase the Navi of
+a music producer
+in Internet8
+###--------
+within 30 minutes.
+###--------
+This request is
+from a musician
+###--------
+whom the target
+despised and drove
+out of the industry.
+###--------
+The target is a
+black HeelNavi.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:49
+It's me... I have
+an assassination
+request for you...
+###--------
+Delete the Navi
+of a certain
+defense attorney
+###++++++++
+within 40 minutes.
+His description
+is that he's a
+###--------
+green NormalNavi
+in Internet9.
+###--------
+Seems like he's
+quite the sleazy
+lawyer.
+###--------
+Of course...the law
+won't protect you
+from assassination.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:50
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase the Navi of
+a doctor,currently
+in Internet10.
+###--------
+The client who sent
+in the request is
+also a doctor,
+###--------
+battling for the
+director's seat
+at a hospital.
+###--------
+The target is an
+Official-type Navi.
+###--------
+Finish it within
+30 minutes...
+###--------
+The area is teeming
+with Officials.
+Don't get careless...
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:51
+It's me... I have
+an assassination
+request for you...
+###--------
+Delete a green
+NormalNavi
+###--------
+in Internet11
+within 30 minutes.
+###--------
+Seems like the
+client really has it
+out for this Navi.
+###--------
+Apparently,the Navi
+has a strange laugh.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:52
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase a NormalNavi
+in Internet12.
+###--------
+He's a journalist
+Navi investigating
+our organization.
+###--------
+Now,we shall make
+him the subject
+of investigation.
+###--------
+We cannot allow
+him to make our
+existence public...
+###--------
+Get it done within
+30 minutes.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:53
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase the green
+NormalNavi in
+Internet9.
+###--------
+The client requested
+that you do it
+within 30 minutes.
+###--------
+Seems like this
+is about some
+love trouble.
+###--------
+The client has
+called out the
+target to Internet9.
+###--------
+The target is likely
+looking for the
+client right now...
+###--------
+Give him the kiss
+of death in our
+client's place.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:54
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase the Heel-type
+Navi in Internet10
+within 25 minutes...
+###--------
+It seems like
+the Navi is a
+martial artist.
+###--------
+A battle between
+a martial artist
+and a ninja...
+###--------
+...This should be
+interesting.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:55
+It's me... I have
+an assassination
+request for you...
+###--------
+The target this
+time is a con
+artist...
+###--------
+It's a Heel-type
+Navi who's set up
+shop in Internet11.
+###--------
+Finish things
+within 25 minutes.
+###--------
+Show him that his
+tricks won't save
+him in battle...
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:56
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase a merchant
+in Internet12 who
+is selling DarkChips
+###--------
+that supposedly
+came from the
+Undernet.
+###--------
+It would seem that
+the DarkChips are
+actually fake.
+###--------
+Someone found this
+out the hard way,
+and they're furious.
+###++++++++
+I'm counting on you
+to get it done
+within 25 minutes.
+###--------
+As for their
+description,well...
+###++++++++
+they definitely look
+like someone who
+would sell DarkChips.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:57
+It's me... I have
+an assassination
+request for you...
+###--------
+The target is...
+a purple female-
+type Navi.
+###--------
+She went to
+Undernet1 in
+order to sell
+###--------
+a certain program.
+Delete,her along
+with the program,
+###--------
+before the deal
+goes through.
+###--------
+Get it cleaned up
+within 30 minutes.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:58
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase the Navi
+of a certain
+multi-millionaire.
+###--------
+The rich aren't
+exempt from being
+targeted...
+###--------
+The target is a
+brown NormalNavi.
+###--------
+Seems like they're
+searching for some-
+thing in Undernet2.
+###--------
+Put an end to them
+within 30 minutes.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:59
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase the green
+NormalNavi currently
+in Undernet3
+###--------
+within 30 minutes.
+###--------
+It's the Navi of a
+certain university
+researcher.
+###--------
+They're snooping
+around the Undernet
+more than we'd like.
+###--------
+Punish those who
+would disturb the
+Undernet's peace.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:60
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase the green
+NormalNavi currently
+in Undernet4
+###--------
+within 30 minutes.
+###--------
+Seems like they're
+quite the coward,
+but they managed to
+###++++++++
+get all the way to
+Undernet4 somehow...
+Impressive.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:61
+It's me... I have
+an assassination
+request for you...
+###--------
+It's an urgent
+request. Erase the
+green NormalNavi
+###--------
+in Undernet1
+within 20 minutes.
+###--------
+Apparently this Navi
+is a witness in
+a certain trial,
+###--------
+and it seems like
+their testimony will
+decide the verdict.
+###--------
+As they say...dead
+men tell no tales.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:62
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase a certain
+HeelNavi currently
+in Undernet2
+###--------
+within 20 minutes.
+###--------
+I don't actually
+know the reason for
+erasing this Navi...
+###--------
+But as long as
+there's a payment,
+it's our job
+###++++++++
+to erase anyone
+regardless of
+good or evil.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:63
+It's me... I have
+an assassination
+request for you...
+###--------
+Erase the black
+HeelNavi in
+Undernet3
+###--------
+within 20 minutes...
+###--------
+Apparently,this Navi
+has a heavy accent.
+###--------
+The Navi is the
+leader of a certain
+criminal group.
+###--------
+Naturally,the
+request came from
+an opposing group.
+###--------
+It's all thanks to
+the existence of
+conflicts like these
+###--------
+that we can
+continue with this
+line of work.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:64
+It's me... I have
+an assassination
+request for you...
+###--------
+It appears a certain
+deal is going to take
+place in Undernet4...
+###--------
+Erase the black
+HeelNavi who is
+waiting for the
+###--------
+other party to show
+up for the deal.
+They've been looking
+###--------
+to close this deal
+for a long time,so
+they're agitated.
+###--------
+Wrap it up within
+20 minutes.
+###--------
+Once it's finished,
+you will receive
+your reward by mail.
+###--------
+###Script:65
+This request has
+already concluded.
+###--------

@@ -1,0 +1,52 @@
+﻿###TextArchive:69EF48
+###Script:1
+We may have
+lost this time,
+###--------
+but if we wait
+patiently,like
+a big tree,
+###--------
+victory will
+sprout naturally...
+###--------
+###Script:2
+We did it...
+###--------
+This victory was
+a blessing of
+the Earth...
+###--------
+Shall we give
+our thanks to
+Mother Earth?
+###--------
+###Script:10
+We're not entered,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:20
+I will fight with
+all my might,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:21
+I will fight with
+all my might,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:22
+I will fight with
+all my might,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:23
+I will fight with
+all my might,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------

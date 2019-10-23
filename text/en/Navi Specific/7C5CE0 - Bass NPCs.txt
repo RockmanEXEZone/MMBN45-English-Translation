@@ -1,0 +1,561 @@
+﻿###TextArchive:7C5CE0
+###Script:1
+###Mugshot:Bass
+Someone like that...
+...Cannot satisfy me...
+###--------
+###Script:2
+###Mugshot:Bass
+...Hmph.
+So you're that
+afraid of losing...
+###--------
+###Script:10
+###Mugshot:Bass
+Fight...with me...
+###--------
+###Mugshot:NormNaviYellow
+⋯!!
+###--------
+###Mugshot:Bass
+Hmph,looks like
+this one's nothing
+special. Still...
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:11
+###Mugshot:Bass
+...Can you satisfy me?
+###--------
+###Mugshot:NormNaviYellow
+Wha-wha!?
+###--------
+###Mugshot:Bass
+Hmph,looks like
+this one's nothing
+special. Still...
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:12
+###Mugshot:Bass
+You...are you strong?
+###--------
+###Mugshot:NormNaviYellow
+Heh! 'Course I am!
+###--------
+###Mugshot:NormNaviYellow
+If you want,I'll let
+you experience my
+strength first-hand!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:13
+###Mugshot:Bass
+Fight me...
+###--------
+###Mugshot:NormNaviYellow
+What'd you say!?
+###--------
+###Mugshot:NormNaviYellow
+I-If you wanna go,
+then let's go!
+###--------
+###Mugshot:Bass
+Hmph,looks like
+this one's nothing
+special. Still...
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:14
+###Mugshot:Bass
+I wonder if you
+can satisfy me...?
+###--------
+###Mugshot:NormNaviYellow
+W-What!?
+Y-You wanna
+piece of me!?
+###--------
+###Mugshot:Bass
+Hmph,looks like
+this one's nothing
+special. Still...
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine, right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:15
+###Mugshot:Bass
+Viruses aren't enough...
+...You,fight me.
+###--------
+###Mugshot:NormNaviYellow
+You wanna battle me?
+Sure,let's go!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:16
+###Mugshot:Bass
+...Fight me...
+###--------
+###Mugshot:NormNaviYellow
+Huh?
+What're you
+muttering about?
+###--------
+###Mugshot:NormNaviYellow
+Sure,I'll be your
+opponent!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:17
+###Mugshot:Bass
+...Fight me.
+###--------
+###Mugshot:NormNaviYellow
+Youse got some guts
+pickin' a fight with me!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:18
+###Mugshot:Bass
+Escape is no
+longer possible.
+###--------
+###Mugshot:Bass
+You can either fight,
+or be decimated.
+###--------
+###Mugshot:NormNaviYellow
+Umm...uhh...
+What now...
+###--------
+###Mugshot:Bass
+Hmph,looks like
+this one's nothing
+special. Still...
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:19
+###Mugshot:Bass
+......
+###--------
+###Mugshot:NormNaviYellow
+Yer starin' daggers
+at me,y'know?
+###--------
+###Mugshot:NormNaviYellow
+I'm warnin' ya.
+I'm strong,ya hear?
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine, right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:20
+###Mugshot:Bass
+You look like you'll
+put up a fight...
+###--------
+###Mugshot:HeelNaviPurple
+*gulp!?*
+###--------
+###Mugshot:HeelNaviPurple
+I feel a terrifying
+power...!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:21
+###Mugshot:Bass
+Do you possess power
+that can entertain me?
+###--------
+###Mugshot:HeelNaviPurple
+What kinda nonsense
+are you spoutin'...
+###--------
+###Mugshot:Bass
+Fight me...
+###--------
+###Mugshot:HeelNaviPurple
+Oh! Sure,
+I'll fight ya!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:22
+###Mugshot:Bass
+Hey,you...
+Fight me!
+###--------
+###Mugshot:HeelNaviPurple
+Hmph! Bring it on!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:23
+###Mugshot:Bass
+Fight me...
+Quench my thirst...
+###--------
+###Mugshot:HeelNaviPurple
+If you wanna battle
+that badly,I'll be
+your opponent!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:24
+###Mugshot:Bass
+...Fight...me...
+###--------
+###Mugshot:HeelNaviPurple
+I-I may look like this,
+but I don't like
+pointless violence...
+###--------
+###Mugshot:HeelNaviPurple
+But if you're gonna
+throw down,I won't
+back down!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine, right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:25
+###Mugshot:Bass
+...Fight me...
+###--------
+###Mugshot:HeelNaviBlack
+Heh heh heh...
+###--------
+###Mugshot:HeelNaviBlack
+Yer gonna regret
+callin' me out!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine, right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:26
+###Mugshot:Bass
+Entertain me...
+Satisfy me...
+###--------
+###Mugshot:HeelNaviBlack
+...Sure,whatever.
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:27
+###Mugshot:Bass
+Fight me...
+###--------
+###Mugshot:HeelNaviBlack
+I'll make you
+regret this...
+###--------
+###Mugshot:HeelNaviBlack
+My sword's real
+sharp,you hear?
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:28
+###Mugshot:Bass
+How unentertaining...
+Fight...me...
+###--------
+###Mugshot:HeelNaviBlack
+Heh heh heh...
+###--------
+###Mugshot:HeelNaviBlack
+I understand your
+feelings well...
+###--------
+###Mugshot:HeelNaviBlack
+I'll entertain you...
+As much as you want!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine, right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------
+###Script:29
+###Mugshot:Bass
+Fight...me...
+Entertain me...
+###--------
+###Mugshot:HeelNaviBlack
+Sorry to tell ya,
+but you're not gonna
+be entertained!
+###--------
+###Mugshot:HeelNaviBlack
+Because I'm gonna
+delete you right
+here and now!
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,
+it's fine,right?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:Bass
+...Here I come!
+###--------

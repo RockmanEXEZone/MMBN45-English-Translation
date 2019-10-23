@@ -1,0 +1,41 @@
+﻿###TextArchive:65B74C
+###Script:1
+Too bad...
+Let's train,
+then try again!
+###--------
+###Script:2
+We did it,
+<printPlayerNickname>!
+We won!
+###Command:printPlayerNickname
+###--------
+###Script:10
+We didn't enter,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:20
+It's finally time!
+Let's give it our
+all,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:21
+It's finally time!
+Let's give it our
+all,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:22
+It's finally time!
+Let's give it our
+all,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:23
+It's finally time!
+Let's give it our
+all,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------

@@ -1,0 +1,20 @@
+﻿###TextArchive:79C1D8
+###Script:0
+If you do not
+have "<printItem>",
+then begone...
+###Command:printItem buffer=0 item=3
+###--------
+<printCurrentNavi> showed:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=3
+###--------
+...You may pass.
+###--------
+###Script:1
+If you do not
+have "<printItem>",
+then begone...
+###Command:printItem buffer=0 item=3
+###--------

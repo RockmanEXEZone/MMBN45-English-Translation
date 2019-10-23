@@ -1,0 +1,582 @@
+﻿###TextArchive:7000AC
+###Script:0
+Welcome! This is the
+Battle Board!
+###--------
+All of you've cleared
+the virus busting
+program,right?
+###--------
+This board is the place
+to share all your
+advanced techniques!
+###--------
+Everyone,tell us all
+about the tricks
+you've discovered!
+###--------
+To kick things off,
+I'll give a recap of
+L/R Button equipment!
+###--------
+###Script:1
+Each Navi has
+different equipment
+###++++++++
+they can use with
+the L/R Buttons.
+###--------
+For any Navi,you
+can choose 2 out
+of 3 types of
+###--------
+equips,and assign
+those to the L or R
+Button. By the way,
+###--------
+the default R Button
+equip for everyone
+is the Buster.
+###--------
+If you want to change
+your equips,go to
+the PET screen and
+###--------
+select "Equipment".
+Then choose your L/R
+equips,and you're set!
+###--------
+###Script:2
+There's also some
+defensive equips you
+can use on L/R.
+###--------
+For example,a Shield
+will block most
+attacks. However...
+###--------
+using defensive equips
+will also drain your
+Cust Gauge a bit.
+###--------
+###Script:3
+I found a pretty
+useful trick for
+battles,too!
+###--------
+Normally you have
+to wait for the Cust
+Gauge to fill before
+###--------
+you can use chips,
+right? Well,if you
+fire the Buster,
+###++++++++
+it'll fill up even
+faster! What a find!
+###--------
+###Script:4
+A quick way to
+increase the
+Cust Gauge? Well...
+###--------
+True,firing the
+Buster speeds it up,
+###++++++++
+but there's something
+even better!
+###--------
+Namely...
+Scoring a Counter!
+###--------
+What is a Counter?
+Right when the enemy
+is about to attack...
+###--------
+Blam! You hit them
+with a chip attack!
+###--------
+The enemy will be
+caught off guard!
+Not only will it
+###++++++++
+paralyze them,it
+also sends your Cust
+Gauge skyrocketing!
+###--------
+Multi-hit chips like
+Vulcan are perfect
+for Countering!
+###--------
+###Script:5
+You know how when
+you send BattleChips
+to your Navi,
+###--------
+they'll automatically
+move in range to hit
+the enemy,right?
+###--------
+But,sometimes they'll
+just use the chip right
+away. Why is that?
+###--------
+###Script:6
+It's true that your
+Navi will move before
+they use most chips,
+###--------
+but some chips can be
+used on the spot.
+###--------
+Why don't you try
+seeing for yourself
+which chips those are?
+###--------
+By the way,when using
+a chip that stops time
+and dims the screen,
+###--------
+it will always take
+effect at that spot,
+so make sure you
+###++++++++
+guide your Navi into
+range before using it!
+###--------
+###Script:7
+Whenever you want to
+run from viruses,you
+can press the L Button
+###--------
+in the Strategy Screen.
+But if you weren't
+able to get away,
+###--------
+you have to wait for
+the Cust Gauge to
+fill up to blue before
+###++++++++
+you can make your
+escape. Be careful!
+###--------
+###Script:8
+Nice to meet y'all!
+I picked up a
+BattleChip Gate today!
+###--------
+Let me give a quick
+rundown on what
+happens when you
+###--------
+plug in a Gate! The
+basic rules of battle
+seem to be pretty
+###--------
+much the same. But
+while you can only
+have 30 chips in
+###--------
+your folder normally...
+with a BattleChip
+Gate,you can slot in
+###++++++++
+and use as many
+as you want!
+And unlike your
+###--------
+folder,you can use
+any chip at any
+time. Good stuff!
+###--------
+But each chip you use
+with the Gate has a
+limited number of uses.
+###--------
+The number of uses
+won't recharge until
+you jack out,
+###--------
+so you have to pay
+close attention to when
+you use your chips!
+###--------
+###Script:9
+You bought a Chip
+Gate? Nice! I got
+mine yesterday,too.
+###--------
+Just so you know,
+you can recharge
+your chips in
+###++++++++
+some places on
+the Net.
+###--------
+To slot in or not!?
+That's the question
+of the Chip Gate!
+###--------
+Also! I got some
+mail that I just
+have to share!
+###--------
+"Attention,all Net-
+ Battlers! This is
+ an announcement!
+###--------
+"Starting now,a tour-
+ nament will be held
+ in the ElecStoveComp.
+###--------
+"It's called the
+ Everyday Tournament.
+ As the name implies,
+###--------
+"it takes place
+ every day. No
+ need to register!
+###--------
+"Give it your best
+ shot! (Please note
+ this tournament
+###--------
+"is unrelated to
+ the weekend
+ tournaments.)"
+###--------
+###Script:15
+Everyone,I just heard
+some hot news!
+###--------
+Seems the grand
+prize in the
+Everyday Tournament
+###++++++++
+is some kind
+of ticket.
+###--------
+###Script:16
+I've been tied up
+with battles and
+whatnot,but I do
+###--------
+plan on entering.
+What kind of ticket
+could it be!?
+###--------
+###Script:17
+Good afternoon,
+everyone.
+###--------
+Everyday Tournaments
+sure are catching on,
+aren't they?
+###--------
+They seem to be
+popping up in all
+kinds of places.
+###--------
+Anyway,I hear the
+tickets open doors on
+the Net somewhere.
+###--------
+###Script:18
+I was just in a battle,
+and my opponent's Navi
+uses this crazy attack
+###++++++++
+called a Program
+Advance something
+or other.
+###--------
+"Whaaa...!?"
+###--------
+Before I could finish
+that thought,I'd lost.
+I'm dead serious!
+###--------
+What kind of incredible
+technique was that!?
+###--------
+###Script:19
+Hello! Koetsu here to
+answer your questions!
+Program Advances,huh?
+###--------
+If you send 3 chips in
+a specific order,they'll
+form one big attack.
+###--------
+To do it,first press
+the Select Button.
+Then you have a
+###--------
+brief window of time
+to select the chips
+in the right order.
+###--------
+The resulting chip will
+have devastating power!
+It's really addictive.
+###--------
+Any combination you
+discover is recorded
+in your P.A.Memo.
+###--------
+Why don't you all work
+together and find some
+Program Advances?
+###--------
+###Script:20
+Using defensive equips
+makes your Cust Gauge
+go down,right?
+###--------
+But if you block your
+opponent's attack
+perfectly,it'll go up!
+###--------
+In other words,
+if you defend well,
+###--------
+you can lead straight
+into an attack. Well?
+Handy tip,right?
+###--------
+###Script:21
+Have you all seen that
+hockey puck-like virus
+called Dharma?
+###--------
+Isn't that attack where
+they ricochet off the
+walls a total pain?
+###--------
+I always have trouble
+with them. Any tips to
+delete them more easily?
+###--------
+###Script:22
+CrakOut works REALLY
+well against Dharma!
+###--------
+The Dharma's attacks
+are stopped cold by
+the holes! Take that!
+###--------
+Hockey puck? More like
+sitting duck! Heheheh!
+###--------
+###Script:23
+Some viruses definitely
+become easier to fight
+if you make some holes.
+###--------
+For me,one that comes
+to mind is Moloko.
+###--------
+Did you ever wonder
+how to stop its charges
+from reaching you?
+###--------
+I've really been
+on the lookout for
+CrakOuts lately.
+###--------
+###Script:24
+My opponent in the
+tournament was a real
+looker of a Navi.
+###--------
+Before I realized it,
+I'd pulled him in for a
+hug with MagBolt... Ehe.
+###--------
+What's a girl in her
+prime like me gonna
+do without MagBolt!
+###--------
+###Script:25
+Lately I'm seeing an
+Official patrolling the
+area more frequently.
+###--------
+He had a stern look on
+his face. I don't think
+he was messing around...
+###--------
+Is something going on?
+###--------
+###Script:26
+I asked an Official
+friend of mine,and it
+looks like they're on
+###--------
+guard against some
+shady Navis that call
+themselves "Darkloids".
+###--------
+I hope this isn't
+going to affect the
+tournaments...
+###--------
+###Script:27
+Wow! This virus is
+really pushing it!
+###--------
+...is what I thought
+before it took me out.
+###--------
+What it was actually
+pushing was a bomb.
+###--------
+The bomb also acts
+as a barricade,
+###++++++++
+so your attack can't
+reach the virus.
+###--------
+And,if the bomb gets
+pushed into your
+area,it'll explode.
+###--------
+How do you guys
+deal with this virus?
+###--------
+###Script:28
+That virus is called
+BomBoy. And the bomb
+is called BoyBomb.
+###--------
+You can destroy the
+BoyBomb before it blows
+up,but...why bother?
+###--------
+What I do is use chips
+that pierce one panel
+behind,like Vulcan.
+###--------
+That way,you can beat
+the virus before the
+BoyBomb can get close!
+###--------
+###Script:29
+Koetsu here! I keep
+learning new things,
+even about viruses.
+###--------
+Hmmm... What Samuzo
+says is certainly true.
+###--------
+But did you know
+there's an even
+easier method?
+###--------
+BomBoy can only
+move straight
+ahead. Meaning...
+###--------
+Well,if you've paid
+attention,you probably
+already guessed it!
+###--------
+Go ahead and drop an
+obstacle or hole in
+the BomBoy's path!
+###--------
+That's really all you
+have to do to stop it
+from advancing.
+###--------
+And then you can
+finish it off however
+you like. Easy,right?
+###--------
+###Script:30
+BBS00 ID1E
+###--------
+###Script:31
+BBS00 ID1F
+###--------
+###Script:32
+The FstGauge chip is
+really convenient!
+###--------
+It makes the
+Cust Gauge fill
+up way faster.
+###--------
+Talk about a godsend!
+###--------
+###Script:33
+On the other hand,isn't
+there also a chip that
+slows down the gauge?
+###--------
+If I remember right,it
+was called SloGauge...?
+###--------
+There sure are all
+sorts of different
+chips out there.
+###--------
+###Script:34
+FstGauge and
+SloGauge...
+###--------
+Did you know they
+don't drain the Cust
+Gauge when used?
+###--------
+And there are other
+chips that don't use
+up Cust Gauge,either.
+###--------
+I guess there are
+still some people that
+don't know about this.
+###--------
+Be sure to keep a
+close eye on the Cust
+Gauge during battle!
+###--------
+###Script:36
+BBS00 ID23
+###--------
+###Script:37
+BBS00 ID24
+###--------
+###Script:38
+BBS00 ID25
+###--------
+###Script:39
+BBS00 ID26
+###--------
+###Script:40
+BBS00 ID27
+###--------
+###Script:41
+BBS00 ID28
+###--------
+###Script:42
+BBS00 ID29
+###--------
+###Script:43
+BBS00 ID2A
+###--------
+###Script:44
+BBS00 ID2B
+###--------
+###Script:45
+BBS00 ID2C
+###--------
+###Script:46
+BBS00 ID2D
+###--------
+###Script:47
+BBS00 ID2E
+###--------
+###Script:48
+BBS00 ID2F
+###--------

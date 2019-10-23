@@ -1,0 +1,19 @@
+﻿###TextArchive:69E088
+###Script:1
+I am WoodMan...
+###--------
+I'm not a big
+talker,but...it's
+nice to meet you.
+###--------
+May the Earth
+bless you.
+###--------
+###Script:2
+It has been
+a while...
+###--------
+May the Earth
+continue to
+bless you.
+###--------

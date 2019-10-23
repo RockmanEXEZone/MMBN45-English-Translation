@@ -1,0 +1,153 @@
+﻿###TextArchive:6861B8
+###Script:10
+Let's patrol the
+Net,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:11
+How about we try
+out that Apprentice
+License exam?
+###--------
+###Script:12
+Let's give this
+Apprentice License
+exam all we have!
+###--------
+###Script:13
+Let's track down
+a "<printChip>".
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+Let's go pick up
+our Apprentice
+License,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:15
+Great work on
+the Apprentice
+License exam.
+###--------
+Want to take a
+short break?
+###--------
+###Script:16
+I'm concerned
+about the situation
+in Internet3...
+###--------
+###Script:17
+Looks like the
+Navi we beat was
+the perpetrator...
+###--------
+<printPlayerNickname>,do you
+want to jack
+out for now?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:18
+I'm concerned
+about the situation
+in Internet5...
+###--------
+###Script:19
+I'm concerned
+about the situation
+in Internet7...
+###--------
+###Script:20
+I'm concerned
+about the situation
+in Internet9...
+###--------
+###Script:21
+I'm concerned
+about the situation
+in Internet10...
+###--------
+###Script:22
+I'm concerned
+about the situation
+in Internet12...
+###--------
+###Script:23
+We need to recover
+the "MinusKey"
+from BlackWorks.
+###--------
+###Script:24
+Looks like the other
+Navi is holding
+the "MinusKey".
+###--------
+###Script:25
+Let's hand over
+the "MinusKey"
+###--------
+to the Navi
+in Internet9.
+###--------
+###Script:26
+###--------
+Let's go to the
+Official Tournament
+entry desk.
+###--------
+###Script:27
+Let's head into
+the Undernet.
+###--------
+Our target Navi
+was last seen
+near a coffin...
+###--------
+###Script:28
+###--------
+Let's go enter
+the Official
+Tournament!
+###--------
+###Script:29
+The Official
+Tournament takes
+place this weekend.
+###--------
+There's no way
+we can lose.
+###--------
+###Script:30
+There's no way
+we can lose
+###--------
+the Official
+Tournament,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:31
+Let's continue
+to scope out
+the Net.
+###--------
+###Script:32
+Let's go take the
+Official Tournament
+prelims.
+###--------
+###Script:33
+<printPlayerNickname>,let's
+read the mail
+that just came in...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:34
+Once the
+weekend is over,
+###--------
+let's go enter
+the Official
+Tournament.
+###--------

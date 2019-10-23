@@ -1,0 +1,30 @@
+﻿###TextArchive:6BA2BC
+###Script:1
+To arms!!
+###--------
+<printPlayerNickname>! It's
+time to train!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+This weekend's
+tournament
+draws near!
+###--------
+###Script:2
+On my knight's
+honor...I,KnightMan,
+hereby swear
+###--------
+to fight at my
+finest in today's
+tournament!
+###--------
+###Script:3
+<printPlayerNickname>,it would
+seem we have
+a curious item!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Let us inspect
+our Key Items!
+###--------

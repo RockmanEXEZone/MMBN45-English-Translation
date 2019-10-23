@@ -1,0 +1,48 @@
+﻿###TextArchive:6BC0C8
+###Script:0
+Temp message
+###--------
+###Script:70
+Tsk,we messed
+up...we'll get
+it next time!!
+###--------
+###Script:71
+Haaaah!
+That was
+refreshing!
+###--------
+I kinda feel like
+there's power
+welling up inside!
+###--------
+###Script:72
+Leave it to me!
+This is nothing!
+###--------
+......
+Hm? Looks like we
+got some data...
+###--------
+We received
+<printBuffer> Zennys!
+It's our reward!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+Niiiice...!
+###--------
+###Script:73
+Leave it to me!
+This is nothing!
+###--------
+......
+Hm? Looks like we
+got some data...
+###--------
+We received
+<printBuffer> BugFrags!
+It's our reward!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+Niiiice...!
+###--------

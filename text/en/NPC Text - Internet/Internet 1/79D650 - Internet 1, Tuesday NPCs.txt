@@ -1,0 +1,259 @@
+﻿###TextArchive:79D650
+###Script:0
+###Mugshot:MrProgGreen
+OH,HELLO.
+###--------
+###Mugshot:MrProgGreen
+MY COMPANY WENT
+UNDER, SO I DON'T
+HAVE A JOB.
+###++++++++
+###Mugshot:MrProgGreen
+NOW I'M UNEMPLOYED.
+###--------
+###Mugshot:MrProgGreen
+IF YOU'RE LOITERING
+AROUND ON THE NET
+AT THIS HOUR,THEN...
+###--------
+###Mugshot:MrProgGreen
+ARE YOU ALSO
+UNEMPLOYED?
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+ALRIGHT... I'LL DO MY
+BEST TO LOOK FOR A
+JOB AGAIN TODAY.
+###--------
+###Mugshot:MrProgGreen
+I CAN'T AFFORD TO
+STAY UNEMPLOYED
+FOREVER...
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+OH,IT'S ALREADY
+LUNCHTIME,HUH...
+###--------
+###Mugshot:MrProgGreen
+I THINK I'LL TAKE
+A LITTLE BREAK.
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+AH,I'M SO EXHAUSTED.
+###--------
+###Mugshot:MrProgGreen
+MAYBE I'LL JACK
+OUT SOON...
+###--------
+###Script:20
+###Mugshot:PurpleNavi
+We should strive to
+maintain the safety
+of this area.
+###--------
+###Mugshot:PurpleNavi
+My operator and I
+have dedicated our-
+selves to that cause.
+###--------
+###Mugshot:PurpleNavi
+Of course,eliminating
+viruses is also
+part of our job.
+###--------
+###Mugshot:PurpleNavi
+Despite appearances,
+we have confidence
+in our battle skills!
+###--------
+###Script:21
+###Mugshot:PurpleNavi
+All right,I'm going to
+do my best all day!
+###--------
+###Mugshot:PurpleNavi
+Long as I'm here,I
+won't let anything bad
+happen in this area!
+###--------
+###Script:22
+###Mugshot:PurpleNavi
+During lunch time,
+everyone's minds
+wander.
+###--------
+###Mugshot:PurpleNavi
+Especially in times
+like this,I must
+be diligent
+###++++++++
+###Mugshot:PurpleNavi
+in keeping the
+peace of this area!
+###--------
+###Script:23
+###Mugshot:PurpleNavi
+Alright,it's almost
+time for me to call
+it a day,I think.
+###--------
+###Mugshot:PurpleNavi
+No big incidents today,
+either. All in all,it
+was a peaceful day.
+###--------
+###Script:24
+###Mugshot:PurpleNavi
+*yawn*
+###--------
+###Mugshot:PurpleNavi
+I sure did my
+best at my job
+again today.
+###--------
+###Script:30
+###Mugshot:NormNaviPink
+My operator,along with
+her darling and their
+three children,
+###--------
+###Mugshot:NormNaviPink
+have built up a home
+that's just bursting
+with happiness!
+###--------
+###Mugshot:NormNaviPink
+It's a real
+lovey-dovey family!
+###--------
+###Script:31
+###Mugshot:NormNaviPink
+That old man exercises
+here every single day
+I really admire him...
+###--------
+###Mugshot:NormNaviPink
+But,I wonder what
+walking around all day
+even does for a Navi...
+###--------
+###Script:32
+###Mugshot:NormNaviPink
+My word,is it
+already that time?
+###--------
+###Mugshot:NormNaviPink
+It's time for
+my operator's
+beloved angel
+###--------
+###Mugshot:NormNaviPink
+to come home
+from preschool!
+###--------
+###Mugshot:NormNaviPink
+Operator!! This is
+no time to be dozing
+off! Quickly now!
+###--------
+###Script:50
+###Mugshot:NormNaviBrown
+Busting makes me
+feel good!!
+###--------
+###Mugshot:NormNaviBrown
+I ain't gonna lose to
+you youngsters yet!
+###--------
+###Mugshot:NormNaviBrown
+All right,you viruses!
+I'll take you on,
+anytime,anywhere!!
+###--------
+###Script:60
+###Mugshot:NormNaviYellow
+You shouldn't use chips
+when two people are
+alone together...
+###--------
+###Mugshot:NormNaviPink
+Huh?
+But I didn't use
+a chip or anything?
+###--------
+###Mugshot:NormNaviYellow
+No,you're using
+one right now!
+###--------
+###Mugshot:NormNaviYellow
+You must be using "Fan"
+because you've managed
+to pull in my heart!
+###--------
+###Script:61
+###Mugshot:NormNaviYellow
+To tell you the truth...
+I never change my
+Regular Chip,ever...
+###--------
+###Mugshot:NormNaviPink
+H-Huh?
+What's that?
+###--------
+###Mugshot:NormNaviYellow
+The "Fanfare" chip.
+###--------
+###Mugshot:NormNaviYellow
+To remind you
+that I'm always
+your biggest fan!
+###--------
+###Script:70
+###Mugshot:NormNaviPink
+Being born as a Navi
+and falling for you is
+my greatest fortune.
+###--------
+###Mugshot:NormNaviPink
+My heart is just
+overflowing with
+happiness...
+###--------
+###Script:71
+###Mugshot:NormNaviPink
+I can see myself
+reflected in your
+eyes...
+###--------
+###Mugshot:NormNaviPink
+Ohhh,it's like I'm
+being sucked into
+a cruel "DrkHole"...
+###--------
+###Script:80
+###Mugshot:NaviGirlOrange
+All right!
+It's lunchtime!
+###--------
+###Mugshot:NaviGirlOrange
+I think I'll take a
+short break too.
+###--------
+###Script:90
+###Mugshot:HeelNaviPurple
+All right,
+time for lunch!
+###--------
+###Mugshot:HeelNaviPurple
+Since my operator has
+a job that requires
+physical strength,
+###--------
+###Mugshot:HeelNaviPurple
+it's very important
+to take a little
+breather!
+###--------

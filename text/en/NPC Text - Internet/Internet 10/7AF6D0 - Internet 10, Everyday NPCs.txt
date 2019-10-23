@@ -1,0 +1,417 @@
+﻿###TextArchive:7AF6D0
+###Script:0
+###Mugshot:HeelNaviBlack
+The heck you want!?
+###--------
+###Mugshot:HeelNaviBlack
+You here to mess up our
+plan to sabotage the
+Official Tournament!?
+###--------
+###Mugshot:HeelNaviBlack
+I...I ain't gonna
+let you do that...
+###--------
+###Mugshot:HeelNaviBlack
+I won't let you!!
+###--------
+###Script:1
+###Mugshot:HeelNaviBlack
+Ugh...
+Ya got me...
+###--------
+###Mugshot:HeelNaviBlack
+...But I've realized.
+###--------
+###Mugshot:HeelNaviBlack
+......
+I was wrong.
+###--------
+###Mugshot:HeelNaviBlack
+Y'know,it's probably
+a good thing you
+beat me...
+###--------
+###Mugshot:HeelNaviBlack
+Actually...I got a favor
+to ask ya. My big
+bro's in Internet11.
+###--------
+###Mugshot:HeelNaviBlack
+My big bro...
+He's the boss of
+us BlackWorks guys...
+###--------
+###Mugshot:HeelNaviBlack
+Please...
+Defeat my big bro...
+###--------
+###Script:2
+###Mugshot:HeelNaviBlack
+Ugh...
+Ya got me...
+###--------
+###Mugshot:HeelNaviBlack
+......
+Huh,ya beat my
+big bro,too!?
+###--------
+###Mugshot:HeelNaviBlack
+Well,in that case...this
+thing's not gonna be
+of any use anymore...
+###--------
+###Mugshot:HeelNaviBlack
+Here,as proof of
+our regret... Take it.
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=11
+###--------
+###Mugshot:HeelNaviBlack
+Y'know,it's probably
+a good thing you
+beat me...
+###--------
+###Mugshot:HeelNaviBlack
+I'll go surrender
+to the Officials
+after this...
+###--------
+###Mugshot:HeelNaviBlack
+...Thank you.
+###--------
+###Script:3
+###Mugshot:HeelNaviBlack
+Please...
+Defeat my big bro
+in Internet11...
+###--------
+###Mugshot:HeelNaviBlack
+Bring him back
+to his senses...
+###--------
+###Script:4
+###Mugshot:HeelNaviBlack
+This time,I've
+learned my lesson...
+###--------
+###Mugshot:HeelNaviBlack
+When I failed the
+Official Tournament
+prelims,
+###++++++++
+###Mugshot:HeelNaviBlack
+I was really
+ticked off...
+###--------
+###Mugshot:HeelNaviBlack
+But I've been
+thinkin' long and
+hard about things...
+###--------
+###Script:10
+###Mugshot:PurpleNavi
+I wanna be in the
+Official Tournament
+someday too...
+###--------
+###Script:11
+###Mugshot:OfficialNavi
+You there! Feel free
+to wander around,but
+be careful of viruses!
+###--------
+###Script:20
+###Mugshot:PurpleNavi
+I wonder how you
+get into the Official
+Tournament...
+###--------
+###Script:21
+###Mugshot:OfficialNavi
+The area ahead
+is Internet12,
+###--------
+###Mugshot:OfficialNavi
+where the Official
+Tournament entry
+desk is located.
+###--------
+###Mugshot:OfficialNavi
+But not many Navis
+can manage to make
+it that far...
+###--------
+###Script:30
+###Mugshot:PurpleNavi
+Hey,did you know
+the Official Navis
+control this area?
+###--------
+###Mugshot:PurpleNavi
+It's cuz Internet12
+is up ahead,
+###--------
+###Mugshot:PurpleNavi
+which is connected
+to the Undernet.
+###--------
+###Script:31
+###Mugshot:OfficialNavi
+The sun's gone down...
+I need to intensify
+my patrols.
+###--------
+###Script:40
+###Mugshot:HeelNaviPurple
+What the!?
+###--------
+###Mugshot:HeelNaviPurple
+Good kids should
+go to bed early!
+###--------
+###Script:41
+###Mugshot:OfficialNavi
+Crime occurs more
+frequently at night...
+###--------
+###Mugshot:OfficialNavi
+It would be best if
+you jacked out soon.
+###--------
+###Script:50
+###Mugshot:WoodMan
+...Can I help you?
+###--------
+###Mugshot:WoodMan
+You want to
+battle with me?
+###--------
+<positionOptionHorizontal><option><space> Yup  <option><space> Nope!
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:WoodMan
+Is that so...?
+###--------
+###Mugshot:WoodMan
+Always remember to
+have a gentle heart...
+###--------
+###Script:51
+###Mugshot:WoodMan
+You are strong,
+indeed...
+###--------
+###Mugshot:WoodMan
+But,don't let all
+that strength go
+to your head...
+###--------
+###Script:52
+###Mugshot:WoodMan
+That's it! The power
+of Mother Earth!
+###--------
+###Script:53
+###Mugshot:WoodMan
+It's too late to
+regret choosing
+to battle me now...
+###--------
+###Mugshot:WoodMan
+Witness the power
+of Mother Earth!
+###--------
+###Script:54
+###Mugshot:WoodMan
+How unusual... From
+your appearance,
+you,too,seem
+###--------
+###Mugshot:WoodMan
+like someone who
+cherishes and protects
+Mother Earth...
+###--------
+###Mugshot:WoodMan
+Instead of a greeting,
+how about a battle?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:WoodMan
+I see...
+###--------
+###Mugshot:WoodMan
+You bear a
+gentle heart...
+###--------
+###Script:60
+###Mugshot:OfficialNavi
+You've heard of
+the Undernet,right?
+###--------
+###Mugshot:OfficialNavi
+It's the shady
+side of the Net.
+###--------
+###Mugshot:OfficialNavi
+Criminals and
+vicious viruses
+prowl around there.
+###--------
+###Mugshot:OfficialNavi
+Even for us Officials,
+it's a danger zone we
+can't just waltz into...
+###--------
+###Mugshot:OfficialNavi
+But if you want to
+compete in the
+Official Tournament,
+###++++++++
+###Mugshot:OfficialNavi
+there's no avoiding
+that path...
+###--------
+###Script:70
+###Mugshot:SearchMan
+...It looks like you
+want to continue
+to the area ahead.
+###--------
+###Mugshot:SearchMan
+I'll have to check if
+you got the strength to
+survive in that area.
+###--------
+###Mugshot:SearchMan
+If you can't clear
+my test,I can't
+let you pass.
+###--------
+###Mugshot:SearchMan
+Will you take my test?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:SearchMan
+Okay. I'll explain the
+details of the test.
+###--------
+###Mugshot:SearchMan
+I'll be releasing some
+viruses in Internet2...
+###--------
+###Mugshot:SearchMan
+Snipe all of those
+viruses within
+the time limit.
+###--------
+###Mugshot:SearchMan
+If you can do that,
+you pass the test.
+###--------
+###Mugshot:SearchMan
+But starting now,
+until you complete
+the mission,
+###--------
+###Mugshot:SearchMan
+if you jack out
+even once,you fail.
+###--------
+###Mugshot:SearchMan
+...That's all. Now go!
+###--------
+###Script:71
+###Mugshot:SearchMan
+I see...
+###--------
+###Script:72
+###Mugshot:SearchMan
+You want to confirm
+the mission details...?
+###--------
+###Mugshot:SearchMan
+Okay. I'll explain the
+details of the test.
+###--------
+###Mugshot:SearchMan
+I'll be releasing some
+viruses in Internet2...
+###--------
+###Mugshot:SearchMan
+Snipe all of those
+viruses within
+the time limit.
+###--------
+###Mugshot:SearchMan
+If you can do that,
+you pass the test.
+###--------
+###Mugshot:SearchMan
+But starting now,
+until you complete
+the mission,
+###--------
+###Mugshot:SearchMan
+if you jack out
+even once,you fail.
+###--------
+###Mugshot:SearchMan
+...That's all. Now go!
+###--------
+###Script:73
+###Mugshot:SearchMan
+You've defeated all of
+the viruses. All right,
+you pass the test.
+###--------
+###Mugshot:SearchMan
+Press on...
+###--------
+###Script:74
+###Mugshot:SearchMan
+You've failed to snipe
+all of the viruses...
+###--------
+###Mugshot:SearchMan
+Do you want to try
+the test again?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:SearchMan
+Alright then. Head
+back to Internet2
+once again.
+###--------
+###Script:75
+###Mugshot:SearchMan
+Once you've grown
+stronger,try the
+test again.
+###--------

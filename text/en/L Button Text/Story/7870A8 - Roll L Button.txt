@@ -1,0 +1,174 @@
+﻿###TextArchive:7870A8
+## (Make sure to do this file alongside 664E28 - Roll Story Events)
+###Script:10
+###Mugshot:Roll
+Hey <printPlayerNickname>,let's
+explore the Net
+some more!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:11
+###Mugshot:Roll
+Why don't we try the
+Apprentice License
+exam?
+###--------
+###Script:12
+###Mugshot:Roll
+Let's do our best on
+the Apprentice License
+exam!
+###--------
+###Script:13
+###Mugshot:Roll
+Let's go look for
+a "<printChip>"!
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:Roll
+Let's go pick up our
+Apprentice License!
+###--------
+###Script:15
+###Mugshot:Roll
+Great job on the
+Apprentice License
+exam!
+###++++++++
+###Mugshot:Roll
+Wanna take a
+little break?
+###--------
+###Script:16
+###Mugshot:Roll
+I'm kinda curious
+about what's going
+on in Internet3...
+###--------
+###Script:17
+###Mugshot:Roll
+Looks like the Navi
+we beat was behind
+the incident...
+###--------
+###Mugshot:Roll
+Are you worn out?
+Wanna jack out
+for a bit?
+###--------
+###Script:18
+###Mugshot:Roll
+I'm kinda curious
+about what's going
+on in Internet5...
+###--------
+###Script:19
+###Mugshot:Roll
+I'm kinda curious
+about what's going
+on in Internet7...
+###--------
+###Script:20
+###Mugshot:Roll
+I'm kinda curious
+about what's going
+on in Internet9...
+###--------
+###Script:21
+###Mugshot:Roll
+I'm kinda curious
+about what's going
+on in Internet10...
+###--------
+###Script:22
+###Mugshot:Roll
+I'm kinda curious
+about what's going
+on in Internet12...
+###--------
+###Script:23
+###Mugshot:Roll
+Let's go get that
+"MinusKey" back
+from BlackWorks!
+###--------
+###Script:24
+###Mugshot:Roll
+Looks like the
+other Navi has
+the "MinusKey"!
+###--------
+###Script:25
+###Mugshot:Roll
+Let's bring back the
+"MinusKey" to the
+Navi in Internet9!
+###--------
+###Script:26
+###Mugshot:Roll
+Let's go to the
+Official Tournament
+entry desk!
+###--------
+###Script:27
+###Mugshot:Roll
+Let's go to
+the Undernet!
+###--------
+###Mugshot:Roll
+The Navi we're
+after should be
+near a coffin!
+###--------
+###Script:28
+###Mugshot:Roll
+###--------
+###Mugshot:Roll
+<printPlayerNickname>,let's go
+enter the Official
+Tournament!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:29
+###Mugshot:Roll
+The Official Tournament
+is this weekend!
+I can't wait!
+###--------
+###Script:30
+###Mugshot:Roll
+The Official Tournament...
+I'm fired up!
+###--------
+###Script:31
+###Mugshot:Roll
+C'mon! Let's try
+exploring the Net
+even more!
+###--------
+###Script:32
+###Mugshot:Roll
+<printPlayerNickname>,let's go
+take the Official
+Tournament prelims!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:33
+###Mugshot:Roll
+<printPlayerNickname>,let's read
+that mail we just got!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:34
+###Mugshot:Roll
+Once the weekend is
+over,let's go enter
+the Official Tournament!
+###--------
+###Script:35
+###Mugshot:Roll
+The Navi we're
+after should be
+near a coffin!
+###--------

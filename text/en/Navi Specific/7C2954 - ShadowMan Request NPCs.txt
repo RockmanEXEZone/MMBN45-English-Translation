@@ -1,0 +1,905 @@
+﻿###TextArchive:7C2954
+###Script:1
+###Mugshot:ShadowMan
+Mission accomplished...
+I'm returning now...
+###--------
+###Script:2
+###Mugshot:ShadowMan
+Urk...I have failed...
+This is a lifelong
+disgrace!
+###--------
+###Script:10
+###Mugshot:NormNaviYellow
+Hm,I see...
+This country's Net
+is quite well-made.
+###--------
+###Mugshot:NormNaviYellow
+Wait,who are you?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+Huh? An assassin!?
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:11
+###Mugshot:ShadowMan
+You've got shifty
+eyes... You must be
+the target...
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+W-What!?
+###--------
+###Mugshot:NormNaviYellow
+N-No way...
+Did they hire you!?
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:12
+###Mugshot:OfficialNavi
+*huff,huff...*
+I do love me some
+good exercise!
+###--------
+###Mugshot:OfficialNavi
+...Huh?
+W-Who are you!?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:OfficialNavi
+C-Could it be...
+###--------
+###Mugshot:OfficialNavi
+...y-you're a hitman
+from the resistance!?
+###--------
+###Mugshot:OfficialNavi
+I-I'll give you as much
+money as you want!
+P-Please spare me...
+###--------
+###Mugshot:ShadowMan
+Your life is mine!
+###--------
+###Script:13
+###Mugshot:NormNaviYellow
+What? Do ya have
+some business with
+me,sonny?
+##(Talks like an old man)
+###--------
+###Mugshot:NormNaviYellow
+Could it be that
+ya wanna work at
+my company?
+###--------
+###Mugshot:NormNaviYellow
+Tell ya what. I'll
+give ya a nice
+human resources job.
+###--------
+###Mugshot:ShadowMan
+I do not wish to
+become one of your
+underlings...
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+Y-Ya couldn't be an
+assassin hired by the
+vice president!?
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:14
+###Mugshot:NormNaviYellow
+!!
+###--------
+###Mugshot:NormNaviYellow
+Heh,you think you're
+some kinda hitman?
+###--------
+###Mugshot:ShadowMan
+There's no need
+for me to answer.
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:15
+###Mugshot:NaviGirlOrange
+W-What do you want...!?
+###--------
+###Mugshot:ShadowMan
+Someone doesn't want
+the information you
+stole getting out...
+###--------
+###Mugshot:NaviGirlOrange
+N-No way...
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:16
+###Mugshot:NormNaviYellow
+W-W-Who in the
+world are you!?
+###--------
+###Mugshot:ShadowMan
+This reaction...
+You must be the
+target.
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+Rats! If that's how
+it is,bring it on!!
+###--------
+###Mugshot:ShadowMan
+I applaud your will
+to live!
+###--------
+###Mugshot:ShadowMan
+Come,let's have
+a fair fight!
+###--------
+###Script:17
+###Mugshot:ShadowMan
+You...
+###--------
+###Mugshot:HeelNaviPurple
+S-ShadowMan!?
+###--------
+###Mugshot:ShadowMan
+Death to traitors...
+###--------
+###Mugshot:ShadowMan
+Our organization's
+code... Don't tell me
+you've forgotten.
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:18
+###Mugshot:NormNaviYellow
+Who are you...?
+###--------
+###Mugshot:NormNaviYellow
+Ah,you're a Navi from
+my support group?
+###--------
+###Mugshot:NormNaviYellow
+I'll be counting on
+you again for the
+next election!
+###--------
+###Mugshot:ShadowMan
+You are the Navi
+of that politician,
+correct?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+Wha...what!?
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:19
+###Mugshot:NormNaviYellow
+Who are you?
+###--------
+###Mugshot:NormNaviYellow
+I promised my operator
+I'd wait here. Could
+you not talk to me?
+###--------
+###Mugshot:ShadowMan
+Pitiful...
+###--------
+###Mugshot:ShadowMan
+You don't even know
+your life is being
+targeted...
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+N-No way...
+My operator did this?
+###--------
+###Mugshot:NormNaviYellow
+Huh? I can't jack out!
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:20
+###Mugshot:NormNaviPink
+What is it?
+You wanna borrow
+some money?
+###--------
+###Mugshot:NormNaviPink
+Sure,I'll lend you some...
+But I charge a high
+interest rate,y'know?
+###--------
+###Mugshot:ShadowMan
+I see...you're a
+corrupt loaner,just
+as the info said.
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviPink
+Eep!
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:21
+###Mugshot:NormNaviYellow
+Hey,I'm busy doing
+some prep work for
+an event right now.
+###--------
+###Mugshot:ShadowMan
+There's someone who
+doesn't want that
+event to be held...
+###--------
+###Mugshot:NormNaviYellow
+...Huh?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+N-No way...!
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:22
+###Mugshot:NormNaviYellow
+Hey,you look like
+a tough guy...
+Wanna join my gang?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+So you're a hitman huh?
+###--------
+###Mugshot:NormNaviYellow
+Fine! Bring it on!!
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:23
+###Mugshot:OfficialNavi
+Er-hem!
+I'm an Official!
+###--------
+###Mugshot:OfficialNavi
+You're under arrest!
+###--------
+###Mugshot:ShadowMan
+What a poor disguise...
+You would make a
+terrible ninja.
+###--------
+###Mugshot:OfficialNavi
+Y-You know who I am!?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:OfficialNavi
+Curse it all!
+I'll fight 'til the end!
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:24
+###Mugshot:NormNaviYellow
+Mmph...hee hee!
+###--------
+###Mugshot:NormNaviYellow
+I scored a date
+with her next week!
+###--------
+###Mugshot:NormNaviYellow
+It was totally worth
+it beating that jerk
+to the punch!
+###--------
+###Mugshot:NormNaviYellow
+...Hm?
+Do I have something
+on my face?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+B-But why me!?
+###--------
+###Mugshot:ShadowMan
+Why don't you try
+listening to your heart?
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:25
+###Mugshot:HeelNaviBlack
+One,two!
+One,two!
+###--------
+###Mugshot:HeelNaviBlack
+Hey! Doing dance
+lessons here,I am!
+Move it,will you?
+###--------
+###Mugshot:HeelNaviBlack
+Who do you think I am!
+Navi of a world-class
+music producer,I am!
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:HeelNaviBlack
+...Serious,are you!?
+##(Same here)
+###--------
+###Mugshot:ShadowMan
+Serious,I am.
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:26
+###Mugshot:NormNaviYellow
+Oh!
+Did you want me to
+defend you,perhaps?
+###--------
+###Mugshot:NormNaviYellow
+You've come to the
+right man. No matter
+what kind of atrocious
+###--------
+###Mugshot:NormNaviYellow
+crime you committed,
+I'll get you a not guilty
+verdict in a jiffy!
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+W-What are you doing!?
+I-I'll sue you!!
+###--------
+###Mugshot:ShadowMan
+The law holds no
+power over me.
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:27
+###Mugshot:OfficialNavi
+Heh heh heh...
+The way things are
+going,me getting
+###--------
+###Mugshot:OfficialNavi
+into the director's
+seat next term is as
+good as guaranteed...
+###--------
+###Mugshot:ShadowMan
+A power struggle
+is an ugly thing...
+###--------
+###Mugshot:OfficialNavi
+!?
+Hey,who are you!?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:OfficialNavi
+Are you an assassin
+sent by the head
+surgeon!?
+###--------
+###Mugshot:ShadowMan
+There's no need
+for me to answer.
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:28
+###Mugshot:NormNaviYellow
+Bwahahaha! *snort*
+###--------
+###Mugshot:NormNaviYellow
+Just thinking of that
+guy's face when he
+was about to cry...
+###--------
+###Mugshot:NormNaviYellow
+Bwahahaha! *snort*
+###--------
+###Mugshot:ShadowMan
+I see...that is one
+strange laugh,alright.
+###--------
+###Mugshot:NormNaviYellow
+Whuzzat? Who's got
+a strange laugh,huh!?
+###--------
+###Mugshot:ShadowMan
+Who else but you...
+###--------
+###Mugshot:ShadowMan
+I'm here at the
+request of a
+certain somebody...
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+Wha-! Could it be...!?
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:29
+###Mugshot:NormNaviYellow
+The perfect shot!
+This is a real scoop!
+###--------
+###Mugshot:NormNaviYellow
+What'll be my headline?
+###--------
+###Mugshot:ShadowMan
+It appears you've
+been snooping around
+a certain organization.
+###--------
+###Mugshot:NormNaviYellow
+You got that right!
+If there's a good
+story,count me in!
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Mugshot:NormNaviYellow
+W-Wait,what!?
+###--------
+###Script:30
+###Mugshot:NormNaviYellow
+Loves me,loves me not...
+...Eh? Who are you?
+###--------
+###Mugshot:NormNaviYellow
+I'm waiting for someone.
+Can you beat it?
+###--------
+###Mugshot:ShadowMan
+The person you're
+waiting for will not
+be coming...
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviYellow
+W-Why...!?
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:31
+###Mugshot:HeelNaviPurple
+Don't talk to me.
+I'm nervous for
+my next match.
+###--------
+###Mugshot:ShadowMan
+As expected of
+a martial artist...
+###--------
+###Mugshot:ShadowMan
+It looks like you're
+not slacking on your
+daily training.
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:HeelNaviPurple
+You know all that and
+still wanna pick a fight
+with me? You got guts!
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:32
+###Mugshot:HeelNaviPurple
+Hey,buddy!
+Wanna try your luck?
+###--------
+###Mugshot:ShadowMan
+I've found you,
+you con artist...
+###--------
+###Mugshot:HeelNaviPurple
+Who you calling a con!?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:HeelNaviPurple
+Let's see you try!!
+###--------
+###Mugshot:ShadowMan
+Your tricks will not
+work on me...
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:33
+###Mugshot:HeelNaviBlack
+Hehehe... I ordered
+these DarkChips from
+the Undernet. Nice,huh?
+##(Uses "ura" here)
+###--------
+###Mugshot:HeelNaviBlack
+If you act now,I'll
+sell 'em to ya for
+150,000 Zennys.
+###--------
+###Mugshot:ShadowMan
+...These are poorly
+made fakes...
+###--------
+###Mugshot:ShadowMan
+Did you really think
+you could fool me
+with these?
+###--------
+###Mugshot:HeelNaviBlack
+What'd you say!?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:HeelNaviBlack
+W-Wait...!
+###--------
+###Mugshot:HeelNaviBlack
+I-I'm sorry for tryin'
+to sell ya fakes!
+###--------
+###Mugshot:ShadowMan
+Your life is mine...
+###--------
+###Script:34
+###Mugshot:NaviGirlPurple
+Hey,you're a real
+nuisance.
+###--------
+###Mugshot:NaviGirlPurple
+If you don't wanna
+get deleted,how
+'bout you get lost?
+###--------
+###Mugshot:ShadowMan
+So you don't want
+your dealings here
+to be seen...
+###--------
+###Mugshot:NaviGirlPurple
+W-Why do you
+know that!?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NaviGirlPurple
+Tsk!! Guess I don't
+have a choice!
+###--------
+###Mugshot:ShadowMan
+Your life is mine!
+###--------
+###Script:35
+###Mugshot:NormNaviBrown
+Wonder if any
+BattleChips were
+dropped here...
+###--------
+###Mugshot:ShadowMan
+I see...you got rich
+by pawning off the
+chips you found.
+###--------
+###Mugshot:ShadowMan
+You can get a pretty
+Zenny for chips
+from the Undernet.
+###--------
+###Mugshot:NormNaviBrown
+Y-You...who are you!?
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:NormNaviBrown
+W-Whyyy!!
+###--------
+###Mugshot:ShadowMan
+Your life is mine!
+###--------
+###Script:36
+###Mugshot:NormNaviYellow
+...So the program
+that makes up the
+Undernet is...
+###--------
+###Mugshot:NormNaviYellow
+...I see...
+I have to let
+the world know...
+###--------
+###Mugshot:ShadowMan
+You seem excited.
+###--------
+###Mugshot:NormNaviYellow
+W-Who are you!?
+###--------
+###Mugshot:ShadowMan
+You know too much...
+Some things you're
+better off not knowing.
+###--------
+###Mugshot:ShadowMan
+Sorry,but I will have
+you disappear now...
+###--------
+###Mugshot:NormNaviYellow
+Say what!?
+###--------
+###Mugshot:ShadowMan
+Your life is mine!
+###--------
+###Script:37
+###Mugshot:NormNaviYellow
+M-My old man's will
+should be hidden
+somewhere here...
+###--------
+###Mugshot:NormNaviYellow
+Once I have that,his
+inheritance is mine...
+###--------
+###Mugshot:ShadowMan
+I see...you were
+planning to rewrite
+your father's will
+###++++++++
+###Mugshot:ShadowMan
+and make yourself
+the sole heir...
+###--------
+###Mugshot:NormNaviYellow
+A-Are you working
+for my brother?
+###--------
+###Mugshot:ShadowMan
+I don't know about my
+client's background...
+###--------
+###Mugshot:ShadowMan
+My job is just to
+delete you.
+###--------
+###Mugshot:ShadowMan
+I'm not interested
+in where the
+inheritance goes...
+###--------
+###Mugshot:NormNaviYellow
+E-Even though I
+made it this far...
+###--------
+###Mugshot:ShadowMan
+Your life is mine!
+###--------
+###Script:38
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:ShadowMan
+Someone is not happy
+about you being alive.
+###--------
+###Mugshot:NormNaviYellow
+What!?
+###--------
+###Mugshot:NormNaviYellow
+T-Then I was
+tricked...
+###--------
+###Mugshot:NormNaviYellow
+That little...!
+###--------
+###Mugshot:ShadowMan
+Your life is mine!
+###--------
+###Script:39
+###Mugshot:ShadowMan
+...Nothing personal,
+but I will have you
+disappear now.
+###--------
+###Mugshot:HeelNaviPurple
+There you are!!
+###--------
+###Mugshot:ShadowMan
+How did you know I
+would be coming?
+###--------
+###Mugshot:HeelNaviPurple
+I was the one who
+hired you!
+###--------
+###Mugshot:HeelNaviPurple
+You deleted my brother...
+and now you're going
+to pay!!
+###--------
+###Mugshot:ShadowMan
+So that's what this is
+about... But regardless
+of who the client is,
+###--------
+###Mugshot:ShadowMan
+I don't like to leave
+a job unfinished...
+###--------
+###Mugshot:ShadowMan
+Your life is mine!
+###--------
+###Script:40
+###Mugshot:HeelNaviBlack
+Eyyy! Who's dis!?
+###--------
+###Mugshot:HeelNaviBlack
+Mah eyes know!
+I can tell who y'are
+jus' by lookin' atcha!
+###--------
+###Mugshot:HeelNaviBlack
+Yer a Navi sent ta
+finish me off,ain'tcha!?
+###--------
+###Mugshot:ShadowMan
+Hehehe... If you know,
+that means I can
+skip the explanation.
+###--------
+###Mugshot:ShadowMan
+Your life is mine!
+###--------
+###Script:41
+###Mugshot:HeelNaviBlack
+What're you starin'
+at... You're in the
+way! Go on,git!
+###--------
+###Mugshot:ShadowMan
+...Nothing personal,
+but I'll have you
+disappear now.
+###--------
+###Mugshot:ShadowMan
+Someone wants to stop
+the deal about to take
+place here,at all costs.
+###--------
+###Mugshot:HeelNaviBlack
+Interesting!
+If you think you can
+do it,bring it on!
+###--------
+###Mugshot:ShadowMan
+Your life is mine!
+###--------

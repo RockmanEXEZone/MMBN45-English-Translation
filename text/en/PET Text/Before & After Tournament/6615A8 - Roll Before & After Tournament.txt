@@ -1,0 +1,49 @@
+﻿###TextArchive:6615A8
+###Script:1
+We lost...
+This stinks!
+###--------
+But we'll train
+some more and
+get our revenge!
+###--------
+###Script:2
+Teeheehee!
+###--------
+We won,<printPlayerNickname>!
+Yay!!
+###Command:printPlayerNickname
+###--------
+This is the best
+feeling in the
+world!
+###--------
+###Script:10
+<printPlayerNickname>,we
+didn't enter!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+It's finally time!
+Let's do our
+best,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:21
+It's finally time!
+Let's do our
+best,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:22
+It's finally time!
+Let's do our
+best,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:23
+It's finally time!
+Let's do our
+best,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------

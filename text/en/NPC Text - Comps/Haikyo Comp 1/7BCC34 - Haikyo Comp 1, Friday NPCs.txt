@@ -1,0 +1,119 @@
+﻿###TextArchive:7BCC34
+###Script:0
+###Mugshot:NaviGirlOrange
+I wonder who's
+stronger? You or
+my viruses?
+###--------
+###Mugshot:NaviGirlOrange
+I'd sure like to
+find out...
+###--------
+###Mugshot:NaviGirlOrange
+Wanna battle and see?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NaviGirlOrange
+Tsk! Lame!
+###--------
+###Script:1
+###Mugshot:NaviGirlOrange
+Looking forward
+to the results...
+###--------
+###Mugshot:NaviGirlOrange
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:NaviGirlOrange
+Guess you're stronger
+after all. I thought
+they could win...
+###--------
+###Script:3
+###Mugshot:NaviGirlOrange
+I knew it! My
+viruses are the
+strongest after all!
+###--------
+###Mugshot:NaviGirlOrange
+Kya ha ha ha!
+###--------
+###Script:4
+###Mugshot:HeelNaviPurple
+Fight me!!
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+W-Why...!?
+###--------
+###Script:5
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+Execute!
+###--------
+###Script:6
+###Mugshot:HeelNaviPurple
+I've nothing more
+to say... I lost.
+###--------
+###Script:7
+###Mugshot:HeelNaviPurple
+I've nothing more
+to say... You lost.
+###--------
+###Script:8
+###Mugshot:HeelNaviBlack
+Hrrrraaaaahh!!
+Graaaagh!!
+Hiiiyaaah!!
+###--------
+###Mugshot:HeelNaviBlack
+Hmph, you want to
+try battling me?
+###--------
+<positionOptionHorizontal><option><space> Come on!  <option><space> Nope!
+###Command:positionOptionHorizontal width=15
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviBlack
+Running away,huh!?
+###--------
+###Script:9
+###Mugshot:HeelNaviBlack
+Hrrrraaaaahh!!
+Graaaagh!!
+Hiiiyaaah!!
+###--------
+###Script:10
+###Mugshot:HeelNaviBlack
+Hyah! Hyah!
+###--------
+###Mugshot:HeelNaviBlack
+Darn it! You've got
+some good attacks...!
+###--------
+###Script:11
+###Mugshot:HeelNaviBlack
+Hiyaaaaah!
+###--------
+###Mugshot:HeelNaviBlack
+You're full of
+openings!
+###--------

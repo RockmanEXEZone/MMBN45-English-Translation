@@ -1,0 +1,16 @@
+﻿###TextArchive:6D9EC0
+###Script:0
+StdChip
+###--------
+###Script:1
+MegaChip
+###--------
+###Script:2
+GigaChip
+###--------
+###Script:3
+P.A.Memo
+###--------
+###Script:4
+  ??
+###--------

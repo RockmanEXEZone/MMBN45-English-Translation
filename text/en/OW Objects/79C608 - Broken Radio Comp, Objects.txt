@@ -1,0 +1,99 @@
+﻿###TextArchive:79C608
+###Script:0
+Normal Trader (temp)
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+Welcome,to the
+Everyday Tournament!
+###--------
+###Mugshot:NormNaviYellow
+If you're a NetBattler,
+you must be wanting
+to show your power!
+###--------
+###Mugshot:NormNaviYellow
+Will you,too,enter the
+Everyday Tournament,
+###--------
+###Mugshot:NormNaviYellow
+and fight to the best
+of your ability?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+You wanna enter,huh...?
+###--------
+###Mugshot:NormNaviYellow
+･<waitSkip>･<waitSkip>･<waitSkip>Yeaaaaah!
+Let's gooooo!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:NormNaviYellow
+Only one can
+achieve victory!
+###--------
+###Mugshot:NormNaviYellow
+Forget 2nd or 3rd!
+You gotta aim
+for the top!
+###--------
+###Mugshot:NormNaviYellow
+Everyday Tournament,
+begiiiin!
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+Oh yeah...?
+Well,come again.
+###--------
+###Script:4
+###Mugshot:NormNaviYellow
+That concludes this
+Everyday Tournament!
+###--------
+###Mugshot:NormNaviYellow
+Congratulations
+on your victory!
+###--------
+###Mugshot:NormNaviYellow
+Be sure to come back
+and challenge the
+tournament again!
+###--------
+###Mugshot:NormNaviYellow
+It's held the same
+times every day:
+###--------
+###Mugshot:NormNaviYellow
+<regionUS>9:00 AM to 10:00 AM<regionEnd><regionEU>[1px] 9:00 to 10:00<regionEnd>,
+<regionUS>1:00 PM to [1px] 2:00 PM<regionEnd><regionEU>13:00 to 14:00<regionEnd>,
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+###Mugshot:NormNaviYellow
+<regionUS>4:00 PM to [1px] 5:00 PM<regionEnd><regionEU>16:00 to 17:00<regionEnd>,
+<regionUS>8:00 PM to [1px] 9:00 PM<regionEnd><regionEU>20:00 to 21:00<regionEnd>.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------

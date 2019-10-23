@@ -1,0 +1,137 @@
+﻿###TextArchive:6BC344
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+BOOOOOOM!!!
+Gahahah!
+###--------
+<printScheduleBuffer>'s
+gonna be on soon!
+Go watch it now!
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+And once that's
+done,lemme go
+on the Net!
+###--------
+###Script:2
+###--------
+BOOOOOOM!!!
+Gahahah!
+###--------
+Hey,<printPlayerNickname>!
+Time to meet
+with <printScheduleBuffer>!
+###Command:printPlayerNickname
+###Command:printScheduleBuffer
+###--------
+'Course,you ARE
+gonna let me
+fight 'em,right?
+###--------
+###Script:3
+BOOOOOOM!!!
+Gahahah!
+###--------
+It's grub time!
+Let's go pig out!
+###--------
+###Script:4
+BOOOOOOM!!!
+Gahahah!
+###--------
+It's school time!
+Study,study...
+###--------
+Guess I'll polish my
+NapalmBombs while
+I'm waitin' for ya.
+###--------
+###Script:5
+BOOOOOOM!!!
+Gahahah!
+###--------
+It's <printScheduleBuffer>
+time!
+###Command:printScheduleBuffer
+###--------
+###Script:6
+After that...
+###--------
+###Script:21
+###Mugshot:NapalmMan
+BOOOOOOM!!!
+Gahahah!
+###--------
+###Mugshot:NapalmMan
+<printScheduleBuffer>'s
+gonna be on soon!
+Go watch it now!
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+###Mugshot:NapalmMan
+And once that's done,
+lemme go on the Net!
+###--------
+###Script:22
+###Mugshot:NapalmMan
+###--------
+###Mugshot:NapalmMan
+BOOOOOOM!!!
+Gahahah!
+###--------
+###Mugshot:NapalmMan
+Hey,<printPlayerNickname>!
+Time to meet
+with <printScheduleBuffer>!
+###Command:printPlayerNickname
+###Command:printScheduleBuffer
+###--------
+###Mugshot:NapalmMan
+'Course,you ARE
+gonna let me
+fight 'em,right?
+###--------
+###Script:23
+###Mugshot:NapalmMan
+BOOOOOOM!!!
+Gahahah!
+###--------
+###Mugshot:NapalmMan
+It's grub time!
+Let's go pig out!
+###--------
+###Script:24
+###Mugshot:NapalmMan
+BOOOOOOM!!!
+Gahahah!
+###--------
+###Mugshot:NapalmMan
+It's school time!
+Study,study...
+###--------
+###Mugshot:NapalmMan
+Guess I'll polish my
+NapalmBombs while
+I'm waitin' for ya.
+###--------
+###Script:25
+###Mugshot:NapalmMan
+BOOOOOOM!!!
+Gahahah!
+###--------
+###Mugshot:NapalmMan
+It's <printScheduleBuffer> time!
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:NapalmMan
+After that...
+###--------

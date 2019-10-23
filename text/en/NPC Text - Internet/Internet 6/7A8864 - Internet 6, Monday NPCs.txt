@@ -1,0 +1,21 @@
+﻿###TextArchive:7A8864
+###Script:0
+###Mugshot:HeelNaviPurple
+I wonder if there's
+anything good lying
+around here...
+###--------
+###Mugshot:HeelNaviPurple
+Sometimes perfectly
+fine stuff is thrown
+out in the trash.
+###--------
+###Script:1
+###Mugshot:NormNaviPink
+After throwing out the
+garbage,I also tidied
+up inside the PET.
+###--------
+###Mugshot:NormNaviPink
+All spick and span!
+###--------

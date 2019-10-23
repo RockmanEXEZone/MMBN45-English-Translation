@@ -1,0 +1,636 @@
+﻿###TextArchive:6368E8
+###Script:0
+Add     View    Delete  
+###--------
+###Script:2
+
+###--------
+###Script:3
+
+###--------
+###Script:4
+
+###--------
+###Script:5
+<printTextInput>
+###Command:printTextInput
+###--------
+###Script:6
+## Goodwords first, end with '_'
+## analog_
+## analys_
+## analyt_
+## analyz_
+## banal_
+## canal_
+## anal
+## arsen_
+## carse_
+## earse_
+## marse_
+## oarse_
+## parse_
+## arse
+## umbas
+## assai_
+## assau_
+## assem_
+## assen_
+## asser_
+## assess_
+## asset_
+## assig_
+## assis_
+## assiz_
+## assor_
+## assua_
+## assum_
+## assur_
+## bass_
+## cass_
+## gass_
+## hass_
+## lass_
+## mass_
+## nass_
+## pass_
+## rass_
+## sass_
+## tass_
+## vass_
+## yass_
+## ass
+## asz
+## azs
+## dazz_
+## hazz_
+## jazz_
+## nazz_
+## pazz_
+## razz_
+## tazz_
+## zazz_
+## azz
+## binladen
+## boob
+## ttplu
+## cockat_
+## cocked_
+## cocker_
+## cockey_
+## cockil_
+## cockle_
+## cockne_
+## cockpi_
+## cocky_
+## aycock_
+## eacock_
+## odcock_
+## pycock_
+## uncock_
+## ecoci_
+## ecoc
+## gcoc
+## kcoc
+## mecoc
+## mycoc
+## cocc
+## cok
+## acoon_
+## ocoon_
+## ucoon_
+## ycoon_
+## coon
+## cumb_
+## cumen_
+## cumul_
+## cucum_
+## dicum_
+## locum_
+## scum_
+## cum
+## iscum
+## sscum
+## cvm
+## scrap_
+## dildo
+## londik_
+## dik
+## donga_
+## dongle_
+## dingdong_
+## dong
+## douch
+## ejac
+## erecti
+## leafage_
+## fuchs_
+## fuc
+## fuuc
+## fuuu
+## fuk
+## fuuk
+## fuuu
+## fvc
+## fvvc
+## fvvv
+## fvk
+## fvvk
+## heller_
+## hello_
+## phell_
+## shell_
+## hitler
+## horney
+## thorny_
+## jackit
+## jackof
+## japa_
+## jape_
+## japi_
+## japn_
+## jap
+## jerkit
+## kkk
+## bangkok_
+## kocc
+## kock
+## kok
+## mastur
+## niggler
+## nigglet
+## niggle_
+## niggli_
+## nigh_
+## enig_
+## nig
+## prickl_
+## inprick_
+## puss
+## crape_
+## drape_
+## grape_
+## trapez_
+## satan
+## sh it_
+## s hit_
+## shiit
+## shiii
+## zlut
+## slvt
+## zlvt
+## zperm
+## stalin
+## t its_
+## t it's_
+## tit's_
+## titty
+## tittie
+## titz
+## trani
+## trann
+## trany
+## vaging_
+## vagin
+## swank_
+## twank_
+## wank
+## swigger_
+## wigga
+## wigger
+arsehole
+asshole
+bastard
+bitch
+blowjob
+boobs
+clit
+cock
+cumshot
+crap
+cunt
+damn
+dick
+erection
+fag
+fisting
+fuck
+hell
+homo
+horny
+jerkoff
+marijuana
+masturbate
+penis
+piss
+prick
+pussy
+rape
+sex
+shit
+slut
+sperm
+tits
+vagina
+whore
+###--------
+###Script:10
+Is this OK?
+
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:11
+Data entry error.
+###--------
+###Script:20
+Big bro?
+###--------
+###Script:21
+Lil' bro?
+###--------
+###Script:22
+Big sis?
+###--------
+###Script:23
+Lil' sis?
+###--------
+###Script:24
+Friend?
+###--------
+###Script:25
+Fav.food?
+###--------
+###Script:26
+Hobby?
+###--------
+###Script:27
+Dream job?
+###--------
+###Script:28
+Crush?
+###--------
+###Script:29
+Idol?
+###--------
+###Script:30
+Enemy?
+###--------
+###Script:31
+Fav.show?
+###--------
+###Script:32
+Best at?
+###--------
+###Script:33
+Worst at?
+###--------
+###Script:34
+Want a(n)?
+## Wishlist?
+###--------
+###Script:35
+TV show?
+###--------
+###Script:36
+Your name?
+###--------
+###Script:37
+Plans?
+###--------
+###Script:38
+Meet with?
+###--------
+###Script:39
+Event?
+##"Contents of holiday"
+###--------
+###Script:40
+Preschool?
+###--------
+###Script:41
+School?
+###--------
+###Script:42
+Workplace?
+###--------
+###Script:60
+## Change parameters in schedulehack.asm if these are changed.
+TV showMeetEatSchoolOther?????
+## TV show / Promise with friend / Meal / School / Other / ?????
+###--------
+###Script:61
+<printStringBuffer1>Other   
+###Command:printStringBuffer1
+###--------
+###Script:62
+Eat
+###--------
+###Script:63
+School
+###--------
+###Script:64
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:65
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:66
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:67
+<printStringBuffer3>
+###Command:printStringBuffer3
+###--------
+###Script:68
+?????
+###--------
+###Script:69
+Meet 
+## Promise with
+###--------
+###Script:70
+Accepting Navi DataChip
+###--------
+###Script:71
+???
+###--------
+###Script:72
+<printStringBuffer1>          
+###Command:printStringBuffer1
+###--------
+###Script:73
+##My B-day        Annivrsry       Other           
+##My B-day        School          Other           
+My B-day        Other           
+## Anniversary = Founder's Day (for your school)
+###--------
+###Script:74
+My B-day
+###--------
+###Script:75
+##Annivrsry
+School
+## (Founder's Day)
+###--------
+###Script:76
+Error!
+No messages.<wait>
+###Command:wait frames=60
+###--------
+###Script:80
+Trophy          Credits         BugFrags        VS Results      
+## "Battle Results"
+###--------
+###Script:81
+[z] BW            0123456789      
+###--------
+###Script:82
+[Trophy2A][Trophy2B]
+###--------
+###Script:90
+A Navi is currently
+jacked in. The date and
+time cannot be changed.
+###--------
+###Script:91
+Before changing the
+date and time,the
+game must be saved.
+###--------
+Your credits will become
+0[z] and ongoing events
+will be cancelled.
+###--------
+Is this OK?
+
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:92
+Saving game data.
+Do not turn
+off power!<wait>
+###Command:wait frames=1
+###--------
+The save
+failed.
+###--------
+Try again?
+
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:93
+The save
+is complete.
+###--------
+###Script:94
+Data write error.
+The save failed.
+###--------
+Try again?
+
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:96
+Save data will be
+initialized. Is this OK?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:97
+Initializing.
+Do not turn
+off power!<wait>
+###Command:wait frames=60
+###--------
+Initialization
+failed.
+###--------
+Try again?
+
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:98
+Initialization
+complete.
+###--------
+###Script:110
+ AM
+###--------
+###Script:111
+ PM
+###--------
+###Script:112
+Su
+###--------
+###Script:113
+Mo
+###--------
+###Script:114
+Tu
+###--------
+###Script:115
+We
+###--------
+###Script:116
+Th
+###--------
+###Script:117
+Fr
+###--------
+###Script:118
+Sa
+###--------
+###Script:119
+Once
+###--------
+###Script:120
+Daily
+###--------
+###Script:121
+Weekly
+###--------
+###Script:122
+Monthly
+###--------
+###Script:123
+Yearly
+###--------
+###Script:130
+New Year
+###--------
+###Script:131
+AprilFools
+###--------
+###Script:132
+Valentine
+###--------
+###Script:133
+Halloween
+###--------
+###Script:134
+Holiday5
+###--------
+###Script:135
+Holiday6
+###--------
+###Script:136
+Xmas Eve
+###--------
+###Script:137
+Christmas
+###--------
+###Script:138
+NewYrsEve
+###--------
+###Script:140
+## These are probably name placeholders, so they should respect the input lengths.
+!Company
+###--------
+###Script:141
+!Big bro
+###--------
+###Script:142
+!Lil bro
+###--------
+###Script:143
+!Big sis
+###--------
+###Script:144
+!Lil sis
+###--------
+###Script:145
+!Friend
+###--------
+###Script:146
+!Fav.meal
+###--------
+###Script:147
+!Hobby
+###--------
+###Script:148
+!DreamJob
+###--------
+###Script:149
+!Crush
+###--------
+###Script:150
+!Idol
+###--------
+###Script:151
+!Enemy
+###--------
+###Script:152
+!Fav.show
+###--------
+###Script:153
+!P.E.
+###--------
+###Script:154
+!English
+###--------
+###Script:155
+!Wish
+###--------
+###Script:156
+!FreqOpp
+###--------
+###Script:157
+!LostOpp
+###--------
+###Script:158
+!LosOppC
+###--------
+###Script:159
+!WonOpp
+###--------
+###Script:160
+!WonOppC
+###--------
+###Script:161
+!Fav.S1
+###--------
+###Script:162
+!Fav.S2
+###--------
+###Script:163
+!Fav.S3
+###--------
+###Script:164
+!Fav.M
+###--------
+###Script:165
+!Fav.G
+###--------

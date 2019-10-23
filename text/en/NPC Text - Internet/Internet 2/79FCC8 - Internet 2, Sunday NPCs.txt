@@ -1,0 +1,122 @@
+﻿###TextArchive:79FCC8
+###Script:0
+###Mugshot:NaviGirlOrange
+Ahhh... I'm a total
+Net newbie...
+###--------
+###Mugshot:NaviGirlOrange
+B-But I jacked into
+such an open spot!
+###++++++++
+###Mugshot:NaviGirlOrange
+I-I'm so noticeable
+here out in the open!
+It's so embarrassing!!
+###--------
+###Mugshot:NaviGirlOrange
+B-But...
+This is good practice
+for getting used to it!
+###--------
+###Script:1
+###Mugshot:NaviGirlOrange
+Oh no! Now that I
+think about it,
+today is Sunday!
+###--------
+###Mugshot:NaviGirlOrange
+It's my first time
+on the Net,and
+###++++++++
+###Mugshot:NaviGirlOrange
+I'm walking around
+the area on such
+a quiet day...
+###--------
+###Mugshot:NaviGirlOrange
+I-I'm so
+embarrassed!!
+###--------
+###Script:2
+###Mugshot:NaviGirlOrange
+Ah,it's getting late...
+###--------
+###Mugshot:NaviGirlOrange
+I should probably
+call it a day and
+jack out soon.
+###--------
+###Script:30
+###Mugshot:OfficialNavi
+Hmmm...?
+You don't seem like
+the comedic type.
+###--------
+###Mugshot:OfficialNavi
+Operators and Navis
+are at their best when
+they make others laugh!
+###--------
+###Mugshot:OfficialNavi
+If they all acted
+like comedy duos,
+###++++++++
+###Mugshot:OfficialNavi
+then all our problems
+would be gone!
+###--------
+###Script:31
+###Mugshot:OfficialNavi
+I'm part of a comedy
+duo with my operator!
+###--------
+###Mugshot:OfficialNavi
+We're not that famous
+yet,but our new routine
+is gonna hit it big!
+###--------
+###Mugshot:OfficialNavi
+I'm the funny man,
+and my operator is
+the straight man!
+###--------
+###Script:32
+###Mugshot:OfficialNavi
+Someday I...
+I'll become the king
+of the comedy world!!
+###--------
+###Mugshot:OfficialNavi
+I just get the urge to
+shout that when I look
+up at the night sky.
+###--------
+###Script:60
+###Mugshot:PurpleNavi
+My operator sleeps
+during the day and
+works at night.
+###--------
+###Mugshot:PurpleNavi
+So as his Navi,I end
+up sleeping like a
+baby around lunchtime.
+###--------
+###Mugshot:PurpleNavi
+Even on off days,
+life seems to revolve
+around nighttime...
+###--------
+###Script:61
+###Mugshot:PurpleNavi
+Oh,good evening.
+###--------
+###Mugshot:PurpleNavi
+I gotta say,you're
+out on the Net
+pretty late at night.
+###--------
+###Mugshot:PurpleNavi
+Shouldn't your operator
+be sleeping right now?
+###--------

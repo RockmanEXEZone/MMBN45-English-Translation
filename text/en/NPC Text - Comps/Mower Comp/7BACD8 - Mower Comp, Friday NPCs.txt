@@ -1,0 +1,87 @@
+﻿###TextArchive:7BACD8
+###Script:0
+###Mugshot:NormNaviYellow
+I'm tougher than
+that Navi over there!
+Wanna battle and see?
+###--------
+<positionOptionHorizontal><option><space> Okay!  <option><space> Nope!
+###Command:positionOptionHorizontal width=11
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+Seriously!?
+Battle with me
+so you can see!
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Let's do it!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+Look,I lost to you,but
+I'm still tougher than
+that Navi over there...!
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+Uh-huh! Yeah,I'm
+tough! No two
+ways about it!
+###--------
+###Script:4
+###Mugshot:HeelNaviPurple
+I'm way tougher than
+that Navi over there!
+###--------
+###Mugshot:HeelNaviPurple
+Wanna take me on and
+see for yourself?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Well,no need to
+confirm the obvious...
+###--------
+###Script:5
+###Mugshot:HeelNaviPurple
+All right,let's begin...
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+###--------
+###Mugshot:HeelNaviPurple
+Execute!
+###--------
+###Script:6
+###Mugshot:HeelNaviPurple
+Whoa! You're good!
+###--------
+###Mugshot:HeelNaviPurple
+But I'm definitely
+still tougher than
+that Navi over there...
+###--------
+###Script:7
+###Mugshot:HeelNaviPurple
+Harrumph!
+###--------
+###Mugshot:HeelNaviPurple
+Guess my toughness
+has been proven
+once again!
+###--------

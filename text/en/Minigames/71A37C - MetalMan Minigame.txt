@@ -1,0 +1,127 @@
+﻿###TextArchive:71A37C
+###Script:0
+###Mugshot:MetalMan
+It's time to begin
+the training. Ready?
+###--------
+<positionOptionVertical><option><space> Sure
+<positionOptionVertical><option><space> Hear tutorial
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:1
+###Mugshot:MetalMan
+Hm.
+Then,I'll teach
+you how to train.
+###--------
+###Mugshot:MetalMan
+Move me up and down,
+###--------
+###Mugshot:MetalMan
+and destroy all of
+the stone statues
+coming this way.
+###--------
+###Mugshot:MetalMan
+You can fire my
+Buster with the
+B Button.
+###--------
+###Mugshot:MetalMan
+If you charge
+energy by holding
+the B Button,
+###--------
+###Mugshot:MetalMan
+my devastating fist
+will pay the statues
+a visit.
+###--------
+###Mugshot:MetalMan
+The longer you
+charge,
+###--------
+###Mugshot:MetalMan
+the more the range of
+my fist attack widens.
+###--------
+###Mugshot:MetalMan
+This way,you can
+destroy multiple stone
+statues with one hit.
+###--------
+###Mugshot:MetalMan
+The 3 gears at the
+top left display my
+health.
+###--------
+###Mugshot:MetalMan
+If you fail to destroy
+a statue,or collide with
+one,you lose a gear.
+###--------
+###Mugshot:MetalMan
+Lose 3 gears and
+you'll fail the training.
+###--------
+###Mugshot:MetalMan
+Be careful.
+###--------
+###Mugshot:MetalMan
+Sometimes Zennys,
+BugFrags and other
+stuff will appear too.
+###--------
+###Mugshot:MetalMan
+If you can collect them
+without breaking them,
+they're all yours.
+###--------
+###Mugshot:MetalMan
+That's all there
+is to explain.
+Are you prepared?
+###--------
+<positionOptionVertical><option><space> Sure
+<positionOptionVertical><option><space> Hear again
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:2
+0123456789 [z]
+###--------
+###Script:3
+###Mugshot:MetalMan
+You will operate me,
+###--------
+###Mugshot:MetalMan
+and attempt my
+training challenge.
+###--------
+###Mugshot:MetalMan
+Try to make my
+fists quiver from
+this training.
+###--------
+###Mugshot:MetalMan
+It's time to begin
+the training. Ready?
+###--------
+<positionOptionVertical><option><space> Sure
+<positionOptionVertical><option><space> Hear tutorial
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------

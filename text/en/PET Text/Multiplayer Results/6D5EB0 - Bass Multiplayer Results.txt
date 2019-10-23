@@ -1,0 +1,12 @@
+﻿###TextArchive:6D5EB0
+###Script:1
+......
+###--------
+###Script:2
+More... Let me
+fight more...
+###--------
+###Script:3
+This battle
+isn't over yet...
+###--------

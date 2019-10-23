@@ -1,0 +1,418 @@
+﻿###TextArchive:6A3DD0
+###Script:0
+Twinkle twinkle!
+###--------
+With my astrology,
+I can read
+your future!
+###--------
+Twinkle twinkle...
+shooting star!
+###--------
+･<waitSkip>･<waitSkip>･<waitSkip>Pshew!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+Here it is!
+###--------
+Today's
+fortune is･<waitSkip>･<waitSkip>･<waitSkip>
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:1
+Twinkle twinkle!
+###--------
+What will StarMan's
+astrology tell us
+about today?
+###--------
+Twinkle twinkle...
+shooting star!
+###--------
+･<waitSkip>･<waitSkip>･<waitSkip>Pshew!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+Here it is!
+###--------
+Today's
+fortune is･<waitSkip>･<waitSkip>･<waitSkip>
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Script:3
+Shining Star!
+###--------
+What glittering
+luck! It's a
+radiant star
+###++++++++
+that lightens up
+the darkness
+of space!
+###--------
+Sparkling! Your
+money luck is about
+to go way up!
+###--------
+I smell the scent
+of Zennys from
+busting virus...
+###--------
+Today's
+lucky item...
+###--------
+###Script:4
+Red Comet!
+###--------
+A flaming star
+roaring through
+the sky...
+###--------
+Be careful of
+any things
+related to fire!
+###--------
+Today's
+lucky item...
+###--------
+###Script:5
+4th Magnitude
+Star!
+###--------
+A star that only
+shines a little bit.
+###--------
+You won't be able
+to shine very
+brightly today...
+###--------
+But if you polish it
+in your own way,
+you can radiate
+###--------
+a strong light!
+Believe in
+yourself!
+###--------
+Today's
+lucky item...
+###--------
+###Script:6
+Satellite!
+###--------
+A tiny star that
+rotates around
+a big planet!
+###--------
+Good things might
+happen if you stick
+to someone popular!
+###--------
+Get close,but not
+too close that
+it'll bother them!
+###--------
+Today's
+lucky item...
+###--------
+###Script:7
+Shooting Star!
+###--------
+If you've got
+a wish,go for it!
+###--------
+Me,I wish for
+the chip shops to
+have good stuff!
+###--------
+･<waitSkip>･<waitSkip>･<waitSkip>Something
+like that!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+Today's
+lucky item...
+###--------
+###Script:8
+1st Magnitude
+Star!
+###--------
+A dazzlingly
+bright star!
+###--------
+I sense you'll
+become a star
+yourself today!
+###--------
+Today's
+lucky item...
+###--------
+###Script:9
+5th Magnitude
+Star!
+###--------
+It IS shining,
+but it's kind
+of a letdown!
+###--------
+If you try to stand
+out,it might have
+an opposite effect!
+###--------
+Be sure to think
+before you speak!
+###--------
+Today's
+lucky item...
+###--------
+###Script:10
+Man-made
+Satellite!
+###--------
+Truly,science's
+fruit of labor!
+###--------
+I sense some
+high-tech luck
+coming in!
+###--------
+Today's
+lucky item...
+###--------
+###Script:11
+Stardust!
+###--------
+The fragments
+of stars that
+wander space!
+###--------
+Today might bear
+some connection
+to fragments!
+###--------
+Today's
+lucky item...
+###--------
+###Script:12
+2nd Magnitude
+Star!
+###--------
+A star that
+radiates a
+strong light!
+###--------
+Your influence
+is likely to
+go up today!
+###--------
+Just keep
+saying whatever
+comes to mind!
+###--------
+Today's
+lucky item...
+###--------
+###Script:13
+6th Magnitude
+Star...
+###--------
+A dark,just faintly
+glowing star!
+###--------
+I get the feeling
+you won't stand
+out much today.
+###--------
+Today's
+lucky item...
+###--------
+###Script:14
+Meteorite!
+###--------
+It's a bad omen!
+Watch out for
+accidents!
+###--------
+Today's
+lucky item...
+###--------
+###Script:15
+Black Hole...
+###--------
+A terrifying void
+that sucks in light!
+###--------
+Today might be
+a dangerous one.
+###--------
+It'd be best to
+lie low and not
+jack in today...
+###--------
+Today's
+lucky item...
+###--------
+###Script:16
+3rd Magnitude
+Star!
+###--------
+A showy star
+that shines
+brightly!
+###--------
+Your friendships
+are likely
+to deepen!
+###--------
+How about inviting
+your friends
+to do stuff?
+###--------
+Today's
+lucky item...
+###--------
+###Script:17
+Twinkle Star!
+###--------
+Your talents are
+likely to shine
+brightly today.
+###--------
+Why don't you try
+tackling your field
+of expertise?
+###--------
+Today's
+lucky item...
+###--------
+###Script:18
+Starch!
+###--------
+You're likely to
+make some kind
+of mistake today...
+###--------
+If you end up
+disturbing people
+around you,
+###++++++++
+be sure to
+apologize!
+###--------
+Today's
+lucky item...
+###--------
+###Script:20
+Seems like it's in
+an area related to
+the numbers 1-4!
+###--------
+###Script:21
+Seems like it's in
+an area related to
+the numbers 5-8!
+###--------
+###Script:22
+Seems like it's in
+an area related to
+the numbers 9-12!
+###--------
+###Script:23
+I sense it's in
+as area with a
+scary ambience!
+###--------
+###Script:50
+I messed up! I'm
+good at counting
+stars,though!
+###--------
+###Script:51
+We did it!
+###--------
+After giving my
+head a good spin,
+###--------
+I kinda feel like
+I've grown a bit!
+###--------
+###Script:52
+We did it!
+###--------
+...Ah! There's
+something stuck
+inside the drill...
+###--------
+We got
+<printBuffer> Zennys!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:53
+We did it!
+###--------
+...Ah! There's
+something stuck
+inside the drill...
+###--------
+We got
+<printBuffer> BugFrags!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:60
+Oh no...
+We failed!
+###--------
+###Script:61
+We did it!
+Nice operating,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+Hey,wait a sec.
+###--------
+Something fell
+out of the letter...
+......
+###--------
+An "HP Memry"!
+Woohoo!!
+###--------
+###Script:62
+We did it!
+Nice operating,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+Hey,wait a sec.
+###--------
+Something fell
+out of the letter...
+......
+###--------
+<printBuffer> Zennys!
+Woohoo!!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:63
+We did it!
+Nice operating,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+Hey,wait a sec.
+###--------
+Something fell
+out of the letter...
+......
+###--------
+<printBuffer> BugFrags!
+Woohoo!!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------

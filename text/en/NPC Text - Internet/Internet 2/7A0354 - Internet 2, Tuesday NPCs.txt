@@ -1,0 +1,165 @@
+﻿###TextArchive:7A0354
+###Script:10
+###Mugshot:NormNaviPink
+Oh my!! Is what
+she said true?
+###--------
+###Mugshot:NormNaviPink
+After all,lots of people
+are having money
+troubles lately･<wait>･<wait>･
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviPink
+Blah,blah...<wait>
+Blah,blah...
+###Command:wait frames=20
+###--------
+###Script:11
+###Mugshot:NormNaviPink
+Oh my,it's been so
+lively around here
+###++++++++
+###Mugshot:NormNaviPink
+and now it's
+already afternoon!
+###--------
+###Script:12
+###Mugshot:NormNaviPink
+Goodness,the
+evening is drawing
+near,isn't it?
+###--------
+###Mugshot:NormNaviPink
+Shall we jack
+out for today?
+###--------
+###Script:20
+###Mugshot:NormNaviPink
+...That's how it
+went down!
+###++++++++
+###Mugshot:NormNaviPink
+And you know what
+happened to that
+operator after that?
+###--------
+###Mugshot:NormNaviPink
+Both her and her
+Navi got laid off
+from their job!
+###--------
+###Mugshot:NormNaviPink
+Goodness,I just don't
+understand what's been
+going on lately･<wait>･<wait>･
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviPink
+Blah,blah...<wait>
+Blah,blah...
+###Command:wait frames=20
+###--------
+###Script:21
+###Mugshot:NormNaviPink
+Goodness,it's already
+time for a lunch break.
+###--------
+###Mugshot:NormNaviPink
+Well,we're housewives
+so it doesn't really
+apply to us,I suppose...
+###--------
+###Script:22
+###Mugshot:NormNaviPink
+Oh,if I get too caught
+up in conversation
+I'm afraid I'll be late.
+###--------
+###Mugshot:NormNaviPink
+Well then,I suppose
+that's enough
+for today...
+###--------
+###Script:30
+###Mugshot:OfficialNavi
+Good grief!! That
+Black Navi over there
+###--------
+###Mugshot:OfficialNavi
+is giving me
+goosebumps!
+###--------
+###Mugshot:OfficialNavi
+He stands there all
+day making weird faces.
+What is he doing...?
+###--------
+###Script:31
+###Mugshot:OfficialNavi
+There's some cheerful
+sounding voices coming
+from somewhere...
+###--------
+###Mugshot:OfficialNavi
+Most be those old ladies
+chattering away in the
+middle of this area.
+###--------
+###Mugshot:OfficialNavi
+Y'know,in my hometown,
+the women there were
+really somethin' else...
+###--------
+###Script:32
+###Mugshot:OfficialNavi
+The old ladies who
+were in the middle of
+this area jacked out.
+###--------
+###Mugshot:OfficialNavi
+It's become real
+dang quiet now...
+###--------
+###Mugshot:OfficialNavi
+Well then,guess I
+better be gettin'
+home myself...
+###--------
+###Script:40
+###Mugshot:NormNaviYellow
+On my lunch break,
+I always come here.
+###--------
+###Mugshot:NormNaviYellow
+There's a pumped-up
+program here,so I
+get pumped up myself.
+###--------
+###Script:60
+###Mugshot:PurpleNavi
+Because my operator
+only works at night,
+he jacks in late.
+###--------
+###Mugshot:PurpleNavi
+I've never seen
+this area at
+daytime,you know.
+###--------
+###Mugshot:PurpleNavi
+It's probably
+pretty lively,huh?
+###--------
+###Script:61
+###Mugshot:PurpleNavi
+It's rare for Navis to
+be walking around this
+area late at night.
+###--------
+###Mugshot:PurpleNavi
+What kinda job does
+your operator do?
+###--------

@@ -1,0 +1,98 @@
+﻿###TextArchive:66651C
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+<printScheduleBuffer> is
+gonna be on soon!
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+We gotta hurry
+or we'll miss
+the opening!
+###--------
+###Script:2
+Time to meet up
+with <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+I'm lookin'
+forward to
+it too!
+###--------
+###Script:3
+Hey <printPlayerNickname>,
+it's time for
+some grub!
+###Command:printPlayerNickname
+###--------
+###Script:4
+Time to study!
+###--------
+Do your best
+and learn a lot!
+###--------
+###Script:5
+Guts,guts!
+
+###--------
+Time for
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:6
+Also...
+###--------
+###Script:21
+###Mugshot:GutsMan
+<printScheduleBuffer> is
+gonna be on soon!
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+###Mugshot:GutsMan
+We gotta hurry or
+we'll miss the opening!
+###--------
+###Script:22
+###Mugshot:GutsMan
+Time to meet up
+with <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:GutsMan
+I'm lookin' forward
+to it too!
+###--------
+###Script:23
+###Mugshot:GutsMan
+Hey <printPlayerNickname>,it's
+time for some grub!
+###Command:printPlayerNickname
+###--------
+###Script:24
+###Mugshot:GutsMan
+Time to study!
+###--------
+###Mugshot:GutsMan
+Do your best
+and learn a lot!
+###--------
+###Script:25
+###Mugshot:GutsMan
+Guts,guts!
+
+###--------
+###Mugshot:GutsMan
+Time for <printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:GutsMan
+Also...
+###--------

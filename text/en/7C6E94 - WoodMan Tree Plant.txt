@@ -1,0 +1,36 @@
+﻿###TextArchive:7C6E94
+###Script:0
+###Mugshot:WoodMan
+Hm,some cyberplants
+are growing here...
+###--------
+###Mugshot:WoodMan
+Looks like there
+are some nutrients
+in this spot...
+###--------
+###Mugshot:WoodMan
+Shall we plant a
+<printItem> here?
+###Command:printItem buffer=0 item=6
+###--------
+###Script:1
+In an instant,the
+<printItem> grew into
+a large tree!!
+###Command:printItem buffer=0 item=6
+###--------
+###Script:2
+Negative ions flowed
+out of the tree
+###--------
+and wrapped around
+WoodMan!!
+###--------
+###Mugshot:WoodMan
+H-Hoooohh!!
+###--------
+The soothing power of
+the tree increased
+WoodMan's max HP!
+###--------

@@ -1,0 +1,163 @@
+﻿###TextArchive:78B1C0
+###Script:10
+###Mugshot:Bass
+Let's roam the Net...
+###--------
+###Script:11
+###Mugshot:Bass
+Let's do that
+Apprentice License
+exam to kill time...
+###--------
+###Script:12
+###Mugshot:Bass
+Let's go do that
+Apprentice License
+exam...
+###--------
+###Script:13
+###Mugshot:Bass
+We need a
+"<printChip>"?
+...Hmph.
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:Bass
+We should pick up
+this Apprentice
+License thing.
+###--------
+###Script:15
+###Mugshot:Bass
+This Apprentice License
+was a waste of time...
+Let's just jack out.
+###--------
+###Script:16
+###Mugshot:Bass
+What's going on in
+Internet3? This
+could be amusing...
+###--------
+###Script:17
+###Mugshot:Bass
+Looks like that
+Navi we beat was
+the culprit...
+###--------
+###Mugshot:Bass
+At least it wasn't
+boring. ...Let's get
+out of here.
+###--------
+###Script:18
+###Mugshot:Bass
+What's going on in
+Internet5? This
+could be amusing...
+###--------
+###Script:19
+###Mugshot:Bass
+What's going on in
+Internet7? This
+could be amusing...
+###--------
+###Script:20
+###Mugshot:Bass
+What's going on in
+Internet9? This
+could be amusing...
+###--------
+###Script:21
+###Mugshot:Bass
+What's going on in
+Internet10? This
+could be amusing...
+###--------
+###Script:22
+###Mugshot:Bass
+What's going on in
+Internet12? This
+could be amusing...
+###--------
+###Script:23
+###Mugshot:Bass
+So we just need to
+get that "MinusKey"
+back,huh...
+###--------
+###Script:24
+###Mugshot:Bass
+Looks like the
+other Navi has
+the "MinusKey"...
+###--------
+###Script:25
+###Mugshot:Bass
+Let's bring back that
+"MinusKey" to the
+Navi in Internet9...
+###--------
+###Script:26
+###Mugshot:Bass
+Let's go to that
+Official Tournament
+entry desk...
+###--------
+###Script:27
+###Mugshot:Bass
+Let's go to
+the Undernet...
+###++++++++
+###Mugshot:Bass
+That Navi we want
+should be near a
+coffin...
+###--------
+###Script:28
+###Mugshot:Bass
+Let's go enter this
+Official Tournament,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:29
+###Mugshot:Bass
+The Official Tournament
+is this weekend...
+###--------
+###Script:30
+###Mugshot:Bass
+The Official Tournament,
+huh...
+###--------
+###Script:31
+###Mugshot:Bass
+Let's delve deeper
+into the Net...
+###--------
+###Script:32
+###Mugshot:Bass
+Let's go do the
+Official Tournament
+prelims,<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:33
+###Mugshot:Bass
+What was that mail
+we just got...?
+###--------
+###Script:34
+###Mugshot:Bass
+Once the weekend is
+over,let's go enter
+this Official Tournament...
+###--------
+###Script:35
+###Mugshot:Bass
+That Navi we want
+should be near a
+coffin...
+###--------

@@ -1,0 +1,121 @@
+﻿###TextArchive:67CB70
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+It looks like
+<printScheduleBuffer> is
+about to start...
+###Command:printScheduleBuffer
+###--------
+Hurry along if
+you don't want
+to miss it.
+###--------
+###Script:2
+<printPlayerNickname>,it's
+time to meet with
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+Do enjoy yourself.
+###--------
+###Script:3
+It's time to eat.
+###--------
+A healthy mind in
+a healthy body.
+###--------
+###Script:4
+It's time
+for school.
+###--------
+It's good to
+study,but...
+###--------
+You don't gain
+anything from just
+memorizing things.
+###--------
+Be sure to improve
+your understanding
+of the material.
+###--------
+###Script:5
+It's time for
+<printScheduleBuffer>⋯
+###Command:printScheduleBuffer
+###--------
+###Script:6
+Also...
+###--------
+###Script:21
+###Mugshot:ThunderMan
+It looks like
+<printScheduleBuffer> is
+about to start...
+###Command:printScheduleBuffer
+###--------
+###Mugshot:ThunderMan
+Hurry along if you
+don't want to miss it.
+###--------
+###Script:22
+###Mugshot:ThunderMan
+<printPlayerNickname>,it's
+time to meet with
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:ThunderMan
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:ThunderMan
+Do enjoy yourself.
+###--------
+###Script:23
+###Mugshot:ThunderMan
+It's time to eat.
+###--------
+###Mugshot:ThunderMan
+A healthy mind in
+a healthy body.
+###--------
+###Script:24
+###Mugshot:ThunderMan
+It's time for school.
+###--------
+###Mugshot:ThunderMan
+It's good to
+study,but...
+###--------
+###Mugshot:ThunderMan
+You don't gain
+anything from just
+memorizing things.
+###--------
+###Mugshot:ThunderMan
+Be sure to improve
+your understanding
+of the material.
+###--------
+###Script:25
+###Mugshot:ThunderMan
+It's time for
+<printScheduleBuffer>⋯
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:ThunderMan
+Also...
+###--------

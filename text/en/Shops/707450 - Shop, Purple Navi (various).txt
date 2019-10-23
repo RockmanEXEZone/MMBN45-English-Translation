@@ -1,0 +1,58 @@
+﻿###TextArchive:707450
+###Script:0
+###Mugshot:PurpleNavi
+Welcome!
+(R Button:Describe)
+(B Button:Don't buy)
+###--------
+###Script:1
+###Mugshot:PurpleNavi
+How can I help you?
+(R Button:Describe)
+(B Button:Don't buy)
+###--------
+###Script:3
+###Mugshot:PurpleNavi
+Come again!
+###--------
+###Script:4
+###Mugshot:PurpleNavi
+"<printItem>"?
+Are you sure?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printItem buffer=1 item=0
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:5
+###Mugshot:PurpleNavi
+"<printChip>"?
+Are you sure?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printChip buffer=1 chip=0
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:10
+###Mugshot:PurpleNavi
+We're all sold out.
+Thank you so much!
+###--------
+###Script:11
+###Mugshot:PurpleNavi
+"<printNaviCustProgram>"?
+Are you sure?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printNaviCustProgram buffer=1 program=0
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------

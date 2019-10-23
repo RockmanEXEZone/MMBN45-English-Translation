@@ -1,0 +1,90 @@
+﻿###TextArchive:7BE518
+###Script:221
+###Mugshot:HeelNaviBlack
+Come again...
+###--------
+###Script:222
+###Mugshot:HeelNaviBlack
+Sorry, I'm outta
+stock right now...
+###--------
+###Script:223
+###Mugshot:HeelNaviBlack
+Welcome to the
+Black Market...
+###--------
+###Mugshot:HeelNaviBlack
+I'm the merchant
+of darkness...
+###--------
+###Mugshot:HeelNaviBlack
+No matter who ya are...
+If you've got the cash,
+I'll do business with ya...
+###--------
+###Mugshot:HeelNaviBlack
+You buying?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:224
+###Mugshot:HeelNaviBlack
+Welcome to the
+Black Market...
+###--------
+###Mugshot:HeelNaviBlack
+I'm the merchant
+of darkness...
+###--------
+###Mugshot:HeelNaviBlack
+No matter who ya are...
+If you've got the cash,
+I'll do business with ya...
+###--------
+###Mugshot:HeelNaviBlack
+Today's special...
+It's the weekly
+Ladies Day...
+###--------
+###Mugshot:HeelNaviBlack
+Got some sweet
+deals just for gals
+throughout the day!
+###--------
+###Mugshot:HeelNaviBlack
+You buying?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:225
+###Mugshot:HeelNaviBlack
+Yo, welcome to
+the Black Market!
+###--------
+###Mugshot:HeelNaviBlack
+It's your lucky day!
+I'm in a really
+great mood today!
+###--------
+###Mugshot:HeelNaviBlack
+Everything's marked
+down,so buy a ton!
+###--------
+###Mugshot:HeelNaviBlack
+I've got stuff ya can't
+normally get,y'know!?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------

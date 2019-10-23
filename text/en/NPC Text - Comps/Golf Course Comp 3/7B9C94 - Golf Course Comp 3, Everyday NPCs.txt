@@ -1,0 +1,93 @@
+﻿###TextArchive:7B9C94
+###Script:0
+###Mugshot:MrProgGreen
+I'M THE PROGRAM WHO
+MANAGES GOLF COURSE
+CUSTOMER RECORDS.
+###--------
+###Mugshot:MrProgGreen
+I ABSOLUTELY
+CANNOT LEAK ANY
+INFORMATION.
+###--------
+###Mugshot:MrProgGreen
+IT'S A SERIOUS
+RESPONSIBILITY.
+###--------
+###Script:10
+###Mugshot:MrProgGold
+FLOOR COLOR!
+FLOOR COLOR!
+LET'S DYE YOURS!
+###--------
+###Mugshot:MrProgGold
+I'M A HOMEPAGE
+REMODELING PROGRAM!
+###--------
+###Mugshot:MrProgGold
+WANT ME TO CHANGE
+THE COLOR OF YOUR
+HP'S FLOOR?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:MrProgGold
+OH... I SEE...
+###--------
+###Script:11
+###Mugshot:MrProgGold
+THEN, WHAT COLOR
+SHALL WE DYE IT?
+###--------
+<option><space> Blue<spacePx><option><space> Red
+<option><space> Green<spacePx><option><space> Quit
+###Command:option brackets=false left=1 right=1 up=2 down=2
+###Command:space count=1
+###Command:spacePx count=25
+###Command:option brackets=false left=0 right=0 up=3 down=3
+###Command:space count=1
+###Command:option brackets=false left=3 right=3 up=0 down=0
+###Command:space count=1
+###Command:spacePx count=14
+###Command:option brackets=false left=2 right=2 up=1 down=1
+###Command:space count=1
+###--------
+###Script:12
+###Mugshot:MrProgGold
+OK,WITH PLEASURE!
+###--------
+###Mugshot:MrProgGold
+...TADAA!!!
+###--------
+###Mugshot:MrProgGold
+OK! IT'S DONE!
+###--------
+###Script:13
+###Mugshot:MrProgGold
+OK,WITH PLEASURE!
+###--------
+###Mugshot:MrProgGold
+...TADAA!!!
+###--------
+###Mugshot:MrProgGold
+OK! IT'S DONE!
+###--------
+###Script:14
+###Mugshot:MrProgGold
+OK,WITH PLEASURE!
+###--------
+###Mugshot:MrProgGold
+...TADAA!!!
+###--------
+###Mugshot:MrProgGold
+OK! IT'S DONE!
+###--------
+###Script:15
+###Mugshot:MrProgGold
+O-OH... I SEE...
+###--------

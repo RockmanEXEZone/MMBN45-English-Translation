@@ -1,0 +1,318 @@
+﻿###TextArchive:7A9EE4
+###Script:0
+###Mugshot:MrProgGreen
+WELCOME TO THE
+BEAUTIFUL INTERNET7!
+###--------
+###Mugshot:MrProgGreen
+THIS AREA IS KNOWN
+FOR ITS SYMMETRICAL
+TOPOGRAPHY!
+###--------
+###Mugshot:MrProgGreen
+FOLLOWING THE PURPLE
+ROAD WILL LEAD
+YOU TO INTERNET8.
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+INTERNET9 IS
+JUST AHEAD.
+###--------
+###Mugshot:MrProgGreen
+THE AREAS AHEAD
+ARE UNDER OFFICIAL
+NETBATTLER CONTROL!
+###--------
+###Script:2
+###Mugshot:NormNaviPink
+Please don't talk to me!
+I'm in the middle of
+some important training!
+###--------
+###Mugshot:NormNaviPink
+Take this! And this!
+###--------
+###Script:3
+###Mugshot:NaviGirlOrange
+Wow,you're pretty good!
+But I'm not gonna lose!
+###--------
+###Mugshot:NaviGirlOrange
+Yaaaahh!!
+###--------
+###Mugshot:NaviGirlOrange
+C'mon!
+###--------
+###Script:4
+###Mugshot:NormNaviYellow
+This area's filled with
+hot-blooded Navis...
+I'm a lil' scared...
+###--------
+###Script:10
+###Mugshot:NormNaviPink
+Hah...hah...hah...
+###--------
+###Mugshot:NormNaviPink
+Running is the basis
+of all exercise!
+###--------
+###Mugshot:NormNaviPink
+Hah...hah...hah...
+###--------
+###Mugshot:NormNaviPink
+If you don't have
+some business with me,
+###++++++++
+###Mugshot:NormNaviPink
+please don't bother
+me while I'm training!
+###--------
+###Script:11
+###Mugshot:NaviGirlOrange
+Hup! Hup! Hup!
+###--------
+###Mugshot:NaviGirlOrange
+Jump squats!
+###--------
+###Mugshot:NaviGirlOrange
+I'm training up my
+legs to be tough!
+###--------
+###Mugshot:NaviGirlOrange
+No matter how strong
+the attack,I'm gonna
+stand my ground!
+###--------
+###Mugshot:NaviGirlOrange
+Hup! Hup! Hup!
+###--------
+###Script:12
+###Mugshot:NormNaviYellow
+I wonder if my body
+is trained enough...
+###--------
+###Script:20
+###Mugshot:NormNaviPink
+Hah...maybe I worked
+out a bit too much...
+###--------
+###Mugshot:NormNaviPink
+No... Not strong enough.
+I must train until I'm
+just about to collapse.
+###--------
+###Script:21
+###Mugshot:NormNaviBrown
+Hooooh!!
+###--------
+###Mugshot:NormNaviBrown
+Exercising feels great!
+###--------
+###Mugshot:NormNaviBrown
+Hooooh!!
+###--------
+###Script:22
+###Mugshot:PurpleNavi
+I'm giving running
+my best shot!
+###++++++++
+###Mugshot:PurpleNavi
+Perseverance
+leads to success!
+###--------
+###Script:30
+###Mugshot:NormNaviPink
+Gwoooooh...
+...I did it...
+I'm the champ...
+###--------
+###Mugshot:NormNaviPink
+...Oooof...
+Gwoooooh...
+###--------
+###Script:31
+###Mugshot:PurpleNavi
+Ommmm...
+###--------
+###Mugshot:PurpleNavi
+If you focus
+your spirit,
+###++++++++
+###Mugshot:PurpleNavi
+it's possible for
+your body to float
+just a tiny bit...
+###--------
+###Mugshot:PurpleNavi
+Ommmm...
+###--------
+###Script:40
+###Mugshot:ElecMan
+Want to battle me?
+I'll zap you good,
+y'know...
+###--------
+<positionOptionHorizontal><option><space> You're on!  <option><space> No way
+###Command:positionOptionHorizontal width=17
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:ElecMan
+I wanna discharge...
+###--------
+###Script:41
+###Mugshot:ElecMan
+Tsk,was that not
+enough voltage!?
+###--------
+###Script:42
+###Mugshot:ElecMan
+Don't worry,I kept
+my voltage down...
+###--------
+###Script:43
+###Mugshot:ElecMan
+I'll have you taste
+my 1 million volts!
+###--------
+###Mugshot:ElecMan
+Battle routine,set!
+Execute!
+###--------
+###Script:44
+###Mugshot:ElecMan
+Not bad for a copy...
+###--------
+###Mugshot:ElecMan
+But even with my looks,
+you can't match my
+1 million volts!
+###--------
+###Mugshot:ElecMan
+Bring it on! I'll
+show you the REAL
+1 million volts!
+###--------
+<positionOptionHorizontal><option><space> Okay!  <option><space> No!
+###Command:positionOptionHorizontal width=9
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:ElecMan
+So that's all
+you amount to...
+###--------
+###Script:50
+###Mugshot:MrProgGold
+SPARKLE SPARKLE!
+###--------
+###Mugshot:MrProgGold
+I AM A GOLDEN
+PROGRAM!
+###--------
+###Mugshot:MrProgGold
+I'LL RENEW THE CHIPS
+YOU'VE USED VIA THE
+BATTLECHIP GATE...
+###--------
+###Mugshot:MrProgGold
+LET'S DO IT!!
+###--------
+###Mugshot:MrProgGold
+SPARKLE SPARKLE!
+###--------
+###Script:60
+###Mugshot:OfficialNavi
+Hey,your face･<waitSkip>･<waitSkip>･<waitSkip>
+Nah,you don't look
+like a Darkloid.
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:OfficialNavi
+All right.
+Carry on,then.
+###--------
+###Script:61
+###Mugshot:OfficialNavi
+So the Darkloid is
+in the Undernet...
+###--------
+###Script:62
+###Mugshot:OfficialNavi
+Although ShadeMan was
+defeated,his presence
+can still be felt...
+###--------
+###Mugshot:OfficialNavi
+But I don't think
+there's anything
+I can do right now...
+###--------
+###Script:100
+###Mugshot:OfficialNavi
+Some lingering Dark-
+Power was detected
+in this area.
+###--------
+###Mugshot:OfficialNavi
+But it's nothing we
+can use to trace
+it to its source...
+###--------
+###Script:101
+###Mugshot:OfficialNavi
+The analysis of our
+DarkPower records
+confirms that...
+###--------
+###Mugshot:OfficialNavi
+...the Darkloid is very
+likely to be hiding out
+in the Undernet.
+###--------
+###Script:102
+###Mugshot:OfficialNavi
+We know the
+whereabouts
+of the Darkloids,
+###--------
+###Mugshot:OfficialNavi
+but we can't
+make any moves.
+How frustrating...
+###--------
+###Script:103
+###Mugshot:OfficialNavi
+We can't allow the
+Darkloids to continue
+to have their way!
+###--------
+###Mugshot:OfficialNavi
+In the name of the
+Officials,we'll search
+until we smoke 'em out!
+###--------
+###Script:104
+###Mugshot:OfficialNavi
+Yes,yes!
+Everyone already
+has that information!
+###--------
+###Script:105
+###Mugshot:OfficialNavi
+To us Officials,
+the orders from
+above are absolute!
+###--------
+###Mugshot:OfficialNavi
+Without orders,we
+can't make any moves...
+###--------

@@ -1,0 +1,61 @@
+﻿###TextArchive:7AF164
+###Script:0
+###Mugshot:NormNaviBrown
+I oversee the NetSchool
+in this area.
+###--------
+###Mugshot:NormNaviBrown
+The upcoming college
+entry exams are
+relentless...
+###--------
+###Mugshot:NormNaviBrown
+Navis have to study,
+too,or they won't be
+able to make it through.
+###--------
+###Script:10
+###Mugshot:NormNaviYellow
+The best region
+in Electopia to
+catch pollock is...
+###--------
+###Mugshot:NormNaviYellow
+This'll be on the
+test, so make sure
+to remember it!
+###--------
+###Script:11
+###Mugshot:MrProgGreen
+I came to study here,
+and I've learned
+###--------
+###Mugshot:MrProgGreen
+how to speak
+eloquently! See!?
+###--------
+###Script:12
+###Mugshot:PurpleNavi
+Zzzzzzzz...
+###--------
+###Mugshot:PurpleNavi
+*mumble mumble...*
+###--------
+###Mugshot:PurpleNavi
+Walleye pollock...
+###--------
+###Script:13
+###Mugshot:NaviGirlOrange
+Move along!
+###--------
+###Mugshot:NaviGirlOrange
+Don't talk to me!
+I can't hear what
+the teacher's saying!
+###--------
+###Script:14
+###Mugshot:NormNaviPink
+Social studies is tough.
+I can't remember
+anything at all!
+###--------

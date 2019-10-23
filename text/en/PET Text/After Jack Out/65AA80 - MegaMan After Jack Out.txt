@@ -1,0 +1,12 @@
+﻿###TextArchive:65AA80
+###Script:1
+Good job back
+there on the
+Net,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:2
+We got beat...
+Let's do better
+next time!
+###--------

@@ -1,0 +1,34 @@
+﻿###TextArchive:675338
+###Script:1
+<printPlayerNickname>,we
+should train for
+the tournament
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+that's coming up
+this weekend.
+###--------
+The only way to
+raise our chances
+of victory
+###--------
+is through
+daily training.
+###--------
+###Script:2
+Our chances of
+winning today's
+tournament...
+###--------
+...are 99.9%!
+###--------
+###Script:3
+<printPlayerNickname>,we
+found an
+interesting item...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Should we take
+a look at our
+Key Items?
+###--------

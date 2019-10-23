@@ -1,0 +1,688 @@
+﻿###TextArchive:6999F4
+###Script:1
+It's super fun
+if you can talk
+about the Net
+###--------
+with other people
+at home,drip!
+###--------
+<printPlayerNickname>,do
+you have a
+big bro,drip?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Drip,drip!
+What's his name?
+###--------
+###Script:2
+Oh OK,drip.
+###--------
+###Script:3
+It's super fun
+if you can talk
+about the Net
+###--------
+with other people
+at home,drip!
+###--------
+<printPlayerNickname>,do
+you have a
+little bro,drip?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Drip,drip!
+What's his name?
+###--------
+###Script:4
+Oh OK,drip.
+###--------
+###Script:5
+It's super fun
+if you can talk
+about the Net
+###--------
+with other people
+at home,drip!
+###--------
+<printPlayerNickname>,do
+you have a
+big sis,drip?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Well? Well?
+Tell me,drip!
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Drip,drip!
+What's her name?
+###--------
+###Script:6
+Oh OK,drip.
+###--------
+###Script:7
+It's super fun
+if you can talk
+about the Net
+###--------
+with other people
+at home,drip!
+###--------
+<printPlayerNickname>,do
+you have a
+little sis,drip?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Drip,drip!
+What's her name?
+###--------
+###Script:8
+Oh OK,drip.
+###--------
+###Script:9
+If you wanna
+get strong,
+###--------
+you need some
+good battle
+techniques. Drip!
+###--------
+<printPlayerNickname>,let's
+get some info from
+a close friend!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+We'll battle them
+a whole bunch
+###++++++++
+and learn all their
+techniques,drip!
+###--------
+###Script:11
+I really love
+watermelon,
+###--------
+but you can't
+get it on the
+Net,drip...
+###--------
+By the way,
+<printPlayerNickname>,
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+what's your
+favorite food,drip?
+###--------
+###Script:13
+My eyes hurt from
+looking at the
+library,drip...
+###--------
+I wanna go for
+a swim for a
+change of pace!
+###--------
+Swimming is my
+hobby,drip!
+###--------
+My breaststroke
+is second to none!
+###--------
+...By the way,drip.
+What's your
+hobby,<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+All of a sudden,
+I really wanna
+know,drip!
+###--------
+###Script:15
+Drip...battling
+tires me out!
+###--------
+I know,drip!
+###++++++++
+Let's talk about
+things other than
+battling sometimes!
+###--------
+...Let's see,drip...
+###--------
+<printPlayerNickname>,what're
+you dreaming to be
+in the future,drip?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I'm sure your
+dream is as vast
+as the Pacific!
+###--------
+###Script:17
+I don't like
+mails that are
+so stiff,drip.
+###--------
+I prefer mail
+that's more
+free-flowing...
+###--------
+Isn't it fun getting
+mail from someone
+you like,drip?
+###--------
+...Actually,drip.
+<printPlayerNickname>,you've
+never told me
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+the name of
+the person you
+like,drip!
+###--------
+It'll be our
+secret,drip!
+###--------
+You don't wanna?
+###--------
+C'mon,drip!
+Don't say that!
+Let's hear it!
+###--------
+###Script:19
+I don't like
+mails that are
+so stiff,drip.
+###--------
+I prefer mail
+that's more
+free-flowing...
+###--------
+Isn't it fun getting
+mail from someone
+you like,drip?
+###--------
+...Actually,drip.
+<printPlayerNickname>,you've
+never told me
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+the name of
+the person you
+like,drip!
+###--------
+It'll be our
+secret,drip!
+###--------
+You don't wanna?
+###--------
+C'mon,drip!
+Don't say that!
+Let's hear it!
+###--------
+###Script:21
+I like filling up
+the library,but
+more than that,
+###--------
+I wanna learn
+more about you,
+<printPlayerNickname>,drip!
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+...Let's see,drip...
+###--------
+<printPlayerNickname>,who do
+you look up to?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:23
+I don't like
+mails that are
+so stiff,drip.
+###--------
+It'd be bad if I
+got mail from
+someone I disliked...
+###--------
+Drip...ah,I know...
+###--------
+<printPlayerNickname>,tell
+me who you
+dislike,drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:25
+I'm a little
+tuckered out,drip.
+###--------
+...Ah,I just
+remembered.
+###--------
+There was a really
+interesting show on
+TV recently,drip.
+###--------
+It was called
+"Visit Electopia's
+ Natural Springs!"
+###--------
+<printPlayerNickname>,do
+you know any
+interesting shows?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:27
+I'm always
+interested in
+what's going on
+###--------
+on the Net,drip.
+But to be honest,
+I've also been
+###--------
+really interested
+in studying,drip!
+###--------
+Did you know I'm
+way good at social
+studies,drip?
+###--------
+...I wish I could
+say something
+like that!
+###--------
+<printPlayerNickname>,what
+subject are you
+good at,drip?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:29
+I'm always
+interested in
+what's going on
+###--------
+on the Net,drip.
+But to be honest,
+I've also been
+###--------
+really interested
+in studying,drip!
+###--------
+Did you know?
+I'm real bad
+at history,drip...
+###--------
+...I wish I could
+say something
+like that!
+###--------
+<printPlayerNickname>,what
+subject are you
+bad at,drip?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:31
+Right now I really
+want a shower set
+for NetNavis,drip!
+###--------
+Wouldn't it be nice
+if that was the
+tournament prize?
+###--------
+If it was,I
+could try a
+lot harder,drip!
+###--------
+By the way,
+<printPlayerNickname>,
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+is there something
+you really want
+right now,drip?
+###--------
+###Script:32
+All the chip names
+in the library
+fascinate me,drip!
+###--------
+...You know,all those
+names made me
+think of something!
+###--------
+<printPlayerNickname>,what's
+the name of your
+preschool,drip?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:33
+All the chip names
+in the library
+fascinate me,drip!
+###--------
+...You know,all those
+names made me
+think of something!
+###--------
+<printPlayerNickname>,what's
+the name of your
+school,drip?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:34
+All the chip names
+in the library
+fascinate me,drip!
+###--------
+...You know,all those
+names made me
+think of something!
+###--------
+<printPlayerNickname>,what's
+the name of your
+company,drip?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:40
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:41
+Do you have
+another big bro?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:42
+Oh OK,drip.
+###--------
+###Script:43
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:44
+Do you have
+another little bro?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:45
+Oh OK,drip.
+###--------
+###Script:46
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:47
+Do you have
+another big sis?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:48
+Oh OK,drip.
+###--------
+###Script:49
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:50
+Do you have
+another little sis?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:51
+Oh OK,drip.
+###--------
+###Script:52
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+<printStringBuffer3>
+###Command:printStringBuffer3
+###--------
+###Script:53
+Do you have other
+friends,drip?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:54
+Oh OK,drip.
+###--------
+###Script:55
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:56
+Do you have any
+other hobbies,drip?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:57
+Oh OK,drip.
+###--------
+###Script:58
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:59
+Do you like any
+other TV shows?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:60
+Oh OK,drip.
+###--------
+###Script:61
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:62
+Do you want any
+other things,drip?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+Oh OK,drip.
+###--------
+###Script:80
+You've got
+a big bro?
+That's nice,drip!
+###--------
+###Script:81
+I want a little
+bro too,drip!
+###--------
+###Script:82
+I'd love to have
+a big sis too,drip!
+###--------
+###Script:83
+If I had a little
+sis...I'd cherish
+her a lot,drip!
+###--------
+###Script:84
+Let me meet
+your friend
+next time,drip!
+###--------
+###Script:85
+*drool...*
+###--------
+Just hearing the
+name is enough to
+make me drool,drip!
+###--------
+###Script:86
+I didn't think you
+were someone with
+that kind of hobby...
+###--------
+###Script:87
+It's so nice to
+have a dream,drip!
+###--------
+###Script:88
+Drip,drip,drip!
+###--------
+I heard that!
+I heard that!
+###--------
+Drip,drip,drip!
+###--------
+###Script:89
+What did that
+person do,drip?
+###--------
+I've never heard
+of them,drip...
+......
+###--------
+###Script:90
+Is that right,drip?
+###++++++++
+I guess there
+are all kinds of
+different people.
+###--------
+###Script:91
+Does that show
+cover any natural
+springs,drip?
+###--------
+###Script:92
+Drip!
+###--------
+I know about
+that subject too!
+###--------
+That makes me
+happy,drip!
+###--------
+###Script:93
+Drip!
+###--------
+I know about
+that subject too!
+###--------
+That makes me
+happy,drip!
+###--------
+###Script:94
+Is that right?
+###--------
+It would be great
+if you could
+get one,drip!
+###--------
+###Script:95
+That name's easy
+to remember,drip!
+###--------
+I only need to
+hear it once,drip.
+I won't forget!
+###--------

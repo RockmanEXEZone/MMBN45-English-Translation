@@ -1,0 +1,124 @@
+﻿###TextArchive:6B613C
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+......
+
+###--------
+<printScheduleBuffer> will
+commence soon.
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+It is not good to
+watch too much TV!
+###--------
+###Script:2
+......
+It is time to meet
+with 
+###--------
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+Now then,let us
+be on our way!
+###--------
+###Script:3
+......
+It is time
+for a meal.
+###--------
+Now,let us head
+to the mess hall!
+###--------
+###Script:4
+<printPlayerNickname>,it is
+time for you to
+head to school.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Put everything
+you have into it!
+###--------
+###Script:5
+<printPlayerNickname>,
+it is time for
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:6
+Furthermore...
+###--------
+###Script:21
+###Mugshot:KnightMan
+......
+
+###--------
+###Mugshot:KnightMan
+<printScheduleBuffer> will
+commence soon.
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+###Mugshot:KnightMan
+It is not good to
+watch too much TV!
+###--------
+###Script:22
+###Mugshot:KnightMan
+......
+It is time to meet
+with 
+###--------
+###Mugshot:KnightMan
+<printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:KnightMan
+Now then,let us
+be on our way!
+###--------
+###Script:23
+###Mugshot:KnightMan
+......
+It is time
+for a meal.
+###--------
+###Mugshot:KnightMan
+Now,let us head
+to the mess hall!
+###--------
+###Script:24
+###Mugshot:KnightMan
+<printPlayerNickname>,it is
+time for you to
+head to school.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:KnightMan
+Put everything
+you have into it!
+###--------
+###Script:25
+###Mugshot:KnightMan
+<printPlayerNickname>,it is time
+for 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:KnightMan
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:KnightMan
+Furthermore...
+###--------

@@ -1,0 +1,47 @@
+﻿###TextArchive:6886F0
+###Script:1
+W-We lost!
+B-But it wasn't
+my fault!!
+###--------
+I was just battling
+according to my
+victory formulas...
+###--------
+There are no
+mistakes in my
+calculations!
+###--------
+###Script:2
+We did it! I solved
+the equation of
+victory!
+###--------
+That win was
+fully calculated!
+###--------
+###Script:10
+We're not entered,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:20
+Let's do our best,
+but we should
+avoid injuries!
+###--------
+###Script:21
+Let's do our best,
+but we should
+avoid injuries!
+###--------
+###Script:22
+Let's do our best,
+but we should
+avoid injuries!
+###--------
+###Script:23
+Let's do our best,
+but we should
+avoid injuries!
+###--------

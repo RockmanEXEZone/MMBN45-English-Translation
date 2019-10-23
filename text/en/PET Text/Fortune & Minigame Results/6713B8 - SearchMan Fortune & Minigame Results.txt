@@ -1,0 +1,59 @@
+﻿###TextArchive:6713B8
+###Script:0
+Temp message
+###--------
+###Script:70
+<printPlayerNickname>,my
+utmost apologies...
+###Command:printPlayerNickname capitalizeFirst=true
+###++++++++
+I did not predict
+this could happen.
+###--------
+###Script:71
+Mission complete.
+###--------
+Our training just
+now made me
+realize something...
+###--------
+I feel like
+I've reached
+a new level.
+###--------
+###Script:72
+Mission complete.
+###--------
+Our training just
+now made me
+realize something...
+###--------
+...Incoming transfer
+from the army!
+###--------
+Looks like it's our
+reward for comple-
+ting the training...
+###--------
+We've received
+<printBuffer> Zennys.
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+###Script:73
+Mission complete.
+###--------
+Our training just
+now made me
+realize something...
+###--------
+...Incoming transfer
+from the army!
+###--------
+Looks like it's our
+reward for comple-
+ting the training...
+###--------
+We've received
+<printBuffer> BugFrags.
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------

@@ -1,0 +1,166 @@
+﻿###TextArchive:788198
+###Script:10
+###Mugshot:ThunderMan
+Let's try to explore
+more of the Net...
+###--------
+###Script:11
+###Mugshot:ThunderMan
+Let's go take the
+Apprentice License
+exam...
+###--------
+###Script:12
+###Mugshot:ThunderMan
+Let's try to pass
+this Apprentice
+License exam...
+###--------
+###Script:13
+###Mugshot:ThunderMan
+Let's go get
+a "<printChip>"...
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:ThunderMan
+Let's go get our
+Apprentice License...
+###--------
+###Script:15
+###Mugshot:ThunderMan
+Good work on the
+Apprentice License
+exam!
+###++++++++
+###Mugshot:ThunderMan
+Do you want to
+jack out for now?
+###--------
+###Script:16
+###Mugshot:ThunderMan
+Let's see what
+is happening in
+Internet3...
+###--------
+###Script:17
+###Mugshot:ThunderMan
+It seems that Navi
+we beat was causing
+the incident...
+###--------
+###Mugshot:ThunderMan
+You must be worn
+out... Want to jack
+out for now?
+###--------
+###Script:18
+###Mugshot:ThunderMan
+Let's see what
+is happening in
+Internet5...
+###--------
+###Script:19
+###Mugshot:ThunderMan
+Let's see what
+is happening in
+Internet7...
+###--------
+###Script:20
+###Mugshot:ThunderMan
+Let's see what
+is happening in
+Internet9...
+###--------
+###Script:21
+###Mugshot:ThunderMan
+Let's see what
+is happening in
+Internet10...
+###--------
+###Script:22
+###Mugshot:ThunderMan
+Let's see what
+is happening in
+Internet12...
+###--------
+###Script:23
+###Mugshot:ThunderMan
+Let's recover the
+"MinusKey" from
+the BlackWorks...
+###--------
+###Script:24
+###Mugshot:ThunderMan
+It seems the other
+Navi has the
+"MinusKey"...
+###--------
+###Script:25
+###Mugshot:ThunderMan
+Let's return the
+"MinusKey" to the
+Navi in Internet9.
+###--------
+###Script:26
+###Mugshot:ThunderMan
+Let's head to the
+Official Tournament
+entry desk...
+###--------
+###Script:27
+###Mugshot:ThunderMan
+Let's head into
+the Undernet...
+###++++++++
+###Mugshot:ThunderMan
+The Navi we're
+after should be
+near a coffin...
+###--------
+###Script:28
+###Mugshot:ThunderMan
+Let's go enter the
+Official Tournament.
+###--------
+###Script:29
+###Mugshot:ThunderMan
+The Official Tournament
+is this weekend.
+Let's aim for victory...
+###--------
+###Script:30
+###Mugshot:ThunderMan
+The Official Tournament...
+Let's aim for victory.
+###--------
+###Script:31
+###Mugshot:ThunderMan
+Let's delve even
+deeper into the Net...
+###--------
+###Script:32
+###Mugshot:ThunderMan
+Let's go take the
+Official Tournament
+prelims,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:33
+###Mugshot:ThunderMan
+<printPlayerNickname>,you still
+have that unread mail...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:34
+###Mugshot:ThunderMan
+Once the weekend is
+over,let's go enter
+the Official Tournament.
+###--------
+###Script:35
+###Mugshot:ThunderMan
+The Navi we're
+after should be
+near a coffin...
+###--------

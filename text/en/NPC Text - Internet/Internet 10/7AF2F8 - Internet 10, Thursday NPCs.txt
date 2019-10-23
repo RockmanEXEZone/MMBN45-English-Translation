@@ -1,0 +1,24 @@
+﻿###TextArchive:7AF2F8
+###Script:0
+###Mugshot:OfficialNavi
+There's a meeting today
+for the Official Navis
+stationed in this area.
+###--------
+###Script:1
+###Mugshot:OfficialNavi
+What can we do to
+stifle the recent
+rise in NetCrime...?
+###--------
+###Script:2
+###Mugshot:OfficialNavi
+In the end,the
+anonymity of the
+Net is a problem...
+###--------
+###Mugshot:OfficialNavi
+We have no choice
+but to rely on each
+individual's morals...
+###--------

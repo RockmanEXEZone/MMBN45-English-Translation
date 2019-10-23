@@ -1,0 +1,8 @@
+###TextArchive:78B804
+###Script:0
+###Mugshot:ThunderMan
+A sinister aura fills
+the air here. Be on
+your guard,<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------

@@ -1,0 +1,142 @@
+﻿###TextArchive:701C94
+###Script:0
+ Anna     Greetings
+###--------
+###Script:1
+ RollieK  Entry exam
+###--------
+###Script:2
+ Nobuhige RE:Entry exam
+###--------
+###Script:3
+ Saru     RE:Entry exam
+###--------
+###Script:4
+ Mochi    On weekdays⋯
+###--------
+###Script:5
+ Robinson RE:On weekday
+###--------
+###Script:6
+ Chuny    Hot Tuesday
+###--------
+###Script:7
+ Chuny    Results in⋯
+###--------
+###Script:8
+ BBS1  08 XXXXXXXXXXXXX
+###--------
+###Script:9
+ BBS1  09 XXXXXXXXXXXXX
+###--------
+###Script:10
+ BBS1  0A XXXXXXXXXXXXX
+###--------
+###Script:11
+ BBS1  0B XXXXXXXXXXXXX
+###--------
+###Script:12
+ BBS1  0C XXXXXXXXXXXXX
+###--------
+###Script:13
+ BBS1  0D XXXXXXXXXXXXX
+###--------
+###Script:14
+ BBS1  0E XXXXXXXXXXXXX
+###--------
+###Script:15
+ It'sHon! Dangerous⋯
+###--------
+###Script:16
+ Takitake RE:Dangerous⋯
+###--------
+###Script:17
+ Strapped Berserk Navis
+###--------
+###Script:18
+ Wolf     Next tournmnt
+###--------
+###Script:19
+ Kengo    RE:Next tourn
+###--------
+###Script:20
+ Tesshin  Nice2meetcha!
+###--------
+###Script:21
+ Tesshin  Why!?
+###--------
+###Script:22
+ Yuki     RE:Why!?
+###--------
+###Script:23
+ Tesshin  Thanks!
+###--------
+###Script:24
+ Strapped Juicy info
+###--------
+###Script:25
+ Macky    Juicy info 2
+###--------
+###Script:26
+ Koppe    Go on,laugh!
+###--------
+###Script:27
+ Koetsu   Juicy info 3
+###--------
+###Script:28
+ BBS1  1C XXXXXXXXXXXXX
+###--------
+###Script:29
+ BBS1  1D XXXXXXXXXXXXX
+###--------
+###Script:30
+ BBS1  1E XXXXXXXXXXXXX
+###--------
+###Script:31
+ BBS1  1F XXXXXXXXXXXXX
+###--------
+###Script:32
+ BBS1  20 XXXXXXXXXXXXX
+###--------
+###Script:33
+ BBS1  21 XXXXXXXXXXXXX
+###--------
+###Script:34
+ BBS1  22 XXXXXXXXXXXXX
+###--------
+###Script:35
+ BBS1  23 XXXXXXXXXXXXX
+###--------
+###Script:36
+ BBS1  24 XXXXXXXXXXXXX
+###--------
+###Script:37
+ BBS1  25 XXXXXXXXXXXXX
+###--------
+###Script:38
+ BBS1  26 XXXXXXXXXXXXX
+###--------
+###Script:39
+ BBS1  27 XXXXXXXXXXXXX
+###--------
+###Script:40
+ BBS1  28 XXXXXXXXXXXXX
+###--------
+###Script:41
+ BBS1  29 XXXXXXXXXXXXX
+###--------
+###Script:42
+ BBS1  2A XXXXXXXXXXXXX
+###--------
+###Script:43
+ BBS1  2B XXXXXXXXXXXXX
+###--------
+###Script:44
+ BBS1  2C XXXXXXXXXXXXX
+###--------
+###Script:45
+ BBS1  2D XXXXXXXXXXXXX
+###--------
+###Script:46
+ BBS1  2E XXXXXXXXXXXXX
+###--------

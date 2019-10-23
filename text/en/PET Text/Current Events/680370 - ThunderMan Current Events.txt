@@ -1,0 +1,28 @@
+﻿###TextArchive:680370
+###Script:1
+How about we
+polish our skills
+on the Net
+###--------
+for this weekend's
+tournament?
+###--------
+###Script:2
+The participants
+of today's
+tournament...
+###--------
+will tremble before
+my frightening
+thunder...
+###--------
+###Script:3
+Hm... We have
+some sort of
+interesting item...
+###--------
+<printPlayerNickname>,why
+don't you check
+our Key Items...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------

@@ -1,0 +1,35 @@
+﻿###TextArchive:7BA660
+###Script:0
+###Mugshot:NormNaviPink
+Why,hello there!
+Would you care to
+battle my viruses?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviPink
+Oh me,oh my...
+How boring...
+###--------
+###Script:1
+###Mugshot:NormNaviPink
+Let us begin!
+###--------
+###Mugshot:NormNaviPink
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:NormNaviPink
+G-Goodness!
+How vexing!
+###--------
+###Script:3
+###Mugshot:NormNaviPink
+Oh ho ho ho ho!
+###--------

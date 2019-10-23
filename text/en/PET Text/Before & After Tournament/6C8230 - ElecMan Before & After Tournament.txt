@@ -1,0 +1,41 @@
+﻿###TextArchive:6C8230
+###Script:1
+Tsk...I messed up.
+But the next time...
+###--------
+###Script:2
+We did it...
+###--------
+Now I'm all
+charged up for
+our next battle!
+###--------
+###Script:10
+<printPlayerNickname>,we're
+not entered.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+If we're doing
+this,let's go all
+the way,<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:21
+If we're doing
+this,let's go all
+the way,<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:22
+If we're doing
+this,let's go all
+the way,<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Script:23
+If we're doing
+this,let's go all
+the way,<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------

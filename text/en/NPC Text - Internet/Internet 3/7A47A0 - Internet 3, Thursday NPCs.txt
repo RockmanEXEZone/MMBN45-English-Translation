@@ -1,0 +1,121 @@
+﻿###TextArchive:7A47A0
+###Script:30
+###Mugshot:NormNaviYellow
+I always get wiped
+out in round 1 of
+the tournament...
+###--------
+###Mugshot:NormNaviYellow
+Not this time though!
+After intense training,
+I've been reborn!
+###--------
+###Mugshot:NormNaviYellow
+This time,I'll be
+victorious for sure!
+###--------
+###Mugshot:NormNaviYellow
+...So I say every
+week...but I've
+never actually won...
+###--------
+###Script:31
+###Mugshot:NormNaviYellow
+Every day I've done
+nothing but train hard.
+I'm so exhausted.
+###--------
+###Mugshot:NormNaviYellow
+Now,I need to
+rest for a bit...
+###--------
+###Script:32
+###Mugshot:NormNaviYellow
+Hiyaaah! Haaaah!
+My motivation is
+at 120%!
+###--------
+###Mugshot:NormNaviYellow
+Tomorrow,it's more
+training for this
+weekend's tournament!
+###--------
+###Script:70
+###Mugshot:NormNaviBrown
+You know how this
+area has a plaza
+smack in the center?
+###--------
+###Mugshot:NormNaviBrown
+On the weekends,
+it's bustling with
+all sorts of Navis.
+###--------
+###Mugshot:NormNaviBrown
+There are shops too,
+so sometimes I go there
+for a bit of fun myself.
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Oh!!
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"During the week days,
+ when the plaza is quiet,
+ it sure is lonely."
+###--------
+###Script:71
+###Mugshot:NormNaviBrown
+Ah,right.
+###--------
+###Mugshot:NormNaviBrown
+That reminds me...
+On Saturday and
+Sunday evenings,
+###--------
+###Mugshot:NormNaviBrown
+a program couple
+comes to the plaza...
+###--------
+###Mugshot:NormNaviBrown
+Hohoho!
+Youth is great!
+###++++++++
+###Mugshot:NormNaviBrown
+I'd like to fall in
+love for the first
+time again,too!
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Eh!?
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"Back when I was young,
+ I was rather popular,
+ with all the ladies."
+###--------
+###Script:90
+###Mugshot:NormNaviPink
+Greetings! Isn't
+it a pleasant day?
+###--------
+###Mugshot:NormNaviPink
+That said,the green
+Navi over there is
+quite the annoyance.
+###--------
+###Mugshot:NormNaviPink
+I just want to
+spend my lunchtime
+in peace...
+###--------

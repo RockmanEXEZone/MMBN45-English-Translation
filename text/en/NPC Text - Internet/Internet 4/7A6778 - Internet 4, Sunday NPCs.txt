@@ -1,0 +1,23 @@
+﻿###TextArchive:7A6778
+###Script:0
+###Mugshot:HeelNaviBlack
+Hrm...
+I see that you are
+quite the prodigy.
+###--------
+###Mugshot:HeelNaviBlack
+Soon,your name will
+echo throughout the
+Net like thunder.
+###--------
+###Script:1
+###Mugshot:HeelNaviBlack
+Hrmmm...I can feel it!
+A strong force
+sleeps within you!
+###--------
+###Mugshot:HeelNaviBlack
+The power you hold
+is the real thing.
+This,I am sure of.
+###--------

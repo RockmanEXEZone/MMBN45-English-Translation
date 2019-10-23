@@ -1,0 +1,7 @@
+﻿###TextArchive:65AF54
+###Script:1
+Jack in!
+MegaMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

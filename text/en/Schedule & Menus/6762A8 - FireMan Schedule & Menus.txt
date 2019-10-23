@@ -1,0 +1,329 @@
+﻿###TextArchive:6762A8
+###Script:0
+###Mugshot:FireMan
+Today is 
+###--------
+###Mugshot:FireMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------
+###Mugshot:FireMan
+<printBuffer>.
+Whaddaya wanna do?
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------
+###Script:1
+###Mugshot:FireMan
+Schedule something
+for which day?
+###--------
+###Script:2
+###Mugshot:FireMan
+What to register?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:3
+###Mugshot:FireMan
+Hey...that day already
+passed,ya know?
+###--------
+###Script:4
+###Mugshot:FireMan
+You can't register
+any more.
+###--------
+###Mugshot:FireMan
+To add more,delete
+some existing plans
+first.
+###--------
+###Script:5
+###Mugshot:FireMan
+What to delete?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:6
+###Mugshot:FireMan
+Check plans for
+which day?
+###--------
+###Script:7
+###Mugshot:FireMan
+What to register?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:8
+###Mugshot:FireMan
+What to delete?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:10
+###Mugshot:FireMan
+These are your
+things, <printPlayerNickname>.
+<spacePx><option><space> Check Key Items
+###Command:printPlayerNickname
+###Command:spacePx count=8
+###Command:option brackets=false left=0 right=0 up=0 down=0
+###Command:space count=1
+###--------
+###Script:20
+###Mugshot:FireMan
+From what time?
+###--------
+###Script:21
+###Mugshot:FireMan
+How frequent?
+###--------
+###Script:22
+###Mugshot:FireMan
+What are the details?
+###--------
+###Script:23
+###Mugshot:FireMan
+Meet with whom?
+###--------
+###Script:24
+###Mugshot:FireMan
+This look good?
+
+
+###--------
+###Mugshot:FireMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:25
+###Mugshot:FireMan
+<printPlayerNickname>,
+you got plans at
+that time already.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:30
+###Mugshot:FireMan
+I'll overwrite 'em,
+sound good?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:31
+###Mugshot:FireMan
+What kind of holiday?
+###--------
+###Script:32
+###Mugshot:FireMan
+Register where?
+###--------
+###Script:33
+###Mugshot:FireMan
+Sound good?
+
+
+###--------
+###Mugshot:FireMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:40
+###Mugshot:FireMan
+Transfer SubChips
+to me here!
+###--------
+###Script:41
+###Mugshot:FireMan
+Change my
+equipment here!
+###--------
+###Script:42
+###Mugshot:FireMan
+Check the
+Data Library here!
+###--------
+###Script:43
+###Mugshot:FireMan
+Check your
+mail here!
+###--------
+###Script:44
+###Mugshot:FireMan
+Check your
+Key Items here!
+###--------
+###Script:45
+###Mugshot:FireMan
+Save your
+progress here!
+###--------
+###Script:50
+###Mugshot:FireMan
+<printBuffer>:
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:FireMan
+<printBuffer>
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Mugshot:FireMan
+<printScheduleBuffer> 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:FireMan
+<printScheduleBuffer>
+ 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:FireMan
+"<printScheduleBuffer>"
+will be deleted.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:FireMan
+Sound good?
+
+
+###--------
+###Mugshot:FireMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:FireMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:51
+###Mugshot:FireMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Mugshot:FireMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:FireMan
+<printBuffer> 
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:FireMan
+(<printScheduleBuffer>)
+ 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:FireMan
+"<printScheduleBuffer>"
+will be deleted.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:FireMan
+Sound good?
+
+
+###--------
+###Mugshot:FireMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:FireMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:52
+###Mugshot:FireMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:FireMan
+<printBuffer>
+ 
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:FireMan
+"<printScheduleBuffer>"
+will be deleted.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:FireMan
+Sound good?
+
+
+###--------
+###Mugshot:FireMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:FireMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:62
+###Mugshot:FireMan
+Attempt the SniprTrn?
+
+
+###--------
+###Mugshot:FireMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+###Mugshot:FireMan
+･･････
+Looks like we can't
+do that right now.
+###--------

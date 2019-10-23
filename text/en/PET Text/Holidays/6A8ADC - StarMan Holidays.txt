@@ -1,0 +1,163 @@
+﻿###TextArchive:6A8ADC
+###Script:1
+Hey,
+Happy New Year!
+###--------
+Last night the
+sky was filled
+###--------
+###--------
+with even more
+stars than usual!
+###--------
+###Script:2
+Alright! Today is
+April Fools' Day!
+###--------
+I'm always down
+for some mischief!
+###--------
+###--------
+Who're we
+pranking first?
+###--------
+###Script:3
+Today is...
+Valentine's Day!
+###--------
+Last night I
+wished upon a
+shooting star
+###--------
+that you'd
+get plenty of
+chocolates!
+###--------
+###Script:4
+Today is...
+Valentine's Day!
+###--------
+Last night I
+wished upon a
+shooting star
+###--------
+that you'd
+get plenty of
+chocolates!
+###--------
+###Script:5
+Tonight is
+Halloween!
+###--------
+Hey,<printPlayerNickname>!
+Trick or treat!
+###Command:printPlayerNickname
+###--------
+Just kidding!
+But when you've
+collected a bunch
+###++++++++
+of candy,doesn't
+it look just like
+a cluster of stars?
+###++++++++
+I wonder if the
+stars in the sky
+taste good,too?
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+Ah,tonight is
+Christmas Eve!
+###--------
+It's nice to have
+a white Christmas
+with lots of snow,
+###--------
+but even better
+is when the sky
+is full of stars!
+###--------
+On a clear
+winter night,
+###--------
+you can see
+the stars
+really well!
+###--------
+###Script:9
+Merry Christmas!
+###--------
+How'd you like
+the starry sky
+last night?
+###--------
+Did you get a
+good look at the
+Winter Triangle?
+###--------
+The Big Dipper
+is real pretty
+as well!
+###--------
+...Oh,can't forget!
+###--------
+...The North Star's
+shine is a sight
+to behold,too!
+###--------
+###Script:10
+Today's
+December 31st,
+New Year's Eve!
+###--------
+Tonight is the last
+look you get of this
+year's night sky!
+###--------
+When the clock hits
+12,it'll be last
+year's night sky!
+###--------
+###Script:11
+Haaaappy
+Birthdaaaaaay!!
+###--------
+Lots of good things
+on the horizon
+this year,too!
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------
+###Script:18
+What's more...it's
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------

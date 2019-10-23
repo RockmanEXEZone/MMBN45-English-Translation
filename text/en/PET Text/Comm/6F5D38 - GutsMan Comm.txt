@@ -1,0 +1,147 @@
+﻿###TextArchive:6F5D38
+###Script:0
+What will you do?
+###--------
+###Script:15
+MegaMan BN4.5
+Real Operation
+battle mode.
+###--------
+###Script:16
+MegaMan BN4
+with Chip Gate
+battle mode.
+###--------
+###Script:17
+1 round decides
+the winner.
+Have fun!
+###--------
+###Script:18
+First to win 2 out
+of 3 rounds will
+be the champ!
+###--------
+###Script:19
+Both players use
+the BattleChip Gate
+in this mode.
+###--------
+###Script:20
+Neither player uses
+the BattleChip Gate
+in this mode.
+###--------
+###Script:30
+Your friend
+isn't ready.
+Hold on...
+###--------
+###Script:31
+Communication
+error... Check the
+Game Link cable.
+###--------
+###Script:33
+Let's battle!
+###--------
+###Script:34
+Both players use
+the BattleChip Gate
+in this mode.
+###--------
+Make sure both
+the Game Link
+cable and the
+###--------
+BattleChip Gate
+are connected!
+###--------
+###Script:35
+Neither player uses
+the BattleChip Gate
+in this mode.
+###--------
+Disconnect the
+BattleChip Gate
+and try again.
+###--------
+###Script:36
+Preparing
+communication.
+Hold on...
+###--------
+###Script:37
+This mode is for
+battling MegaMan
+Battle Network 4.
+###--------
+Make sure your
+friend has
+MegaMan BN4.
+###--------
+###Script:40
+They sure had
+guts! But we
+managed to win!
+###--------
+###Script:41
+We crushed 'em!
+Way to go!
+###--------
+###Script:45
+We lost,but it
+was close! We'll
+win next time!
+###--------
+###Script:46
+W-We got beat...
+They were too
+strong... Bummer.
+###--------
+###Script:50
+A draw...so we
+didn't lose! We'll
+get 'em next time!
+###--------
+###Script:51
+Communication
+error... Check the
+Game Link cable.
+###--------
+###Script:55
+This mode is Single
+Battle with the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode
+as your friend.
+###--------
+###Script:56
+This mode is Single
+Battle without the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode
+as your friend.
+###--------
+###Script:57
+This mode is Triple
+Battle with the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode
+as your friend.
+###--------
+###Script:58
+This mode is Triple
+Battle without the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode
+as your friend.
+###--------

@@ -1,0 +1,446 @@
+﻿###TextArchive:6DD9AC
+###Script:0
+Thank you for your
+recent purchase
+of a PET.
+###--------
+From all of us
+here at I.P.C.,
+###--------
+we hope you will
+enjoy daily life
+with your NetNavi.
+###--------
+Starting today,
+you are officially
+a NetBattler!
+###--------
+Your PET is set
+up to be able to
+###--------
+connect to the
+Internet right
+out of the box.
+###--------
+All over the Net,
+you can find entry
+desks for the
+###--------
+heated NetBattle
+tournaments held
+during the weekends.
+###--------
+You can sign up
+for tournaments
+on weekdays.
+###--------
+Entries are
+accepted from
+<regionUS>6 AM<regionEnd><regionEU>6:00<regionEnd> to midnight.
+###Command:regionUS
+###Command:regionEnd
+###Command:regionEU
+###Command:regionEnd
+###--------
+After signing up,the
+tournament is held
+the next weekend.
+###--------
+There are 3 levels
+of tournaments
+being held.
+###--------
+Namely...
+###--------
+Silver Tournament,
+Gold Tournament,and
+Official Tournament.
+###--------
+All NetBattlers
+share the same
+aspiration:
+###--------
+To win the Official
+Tournament,the most
+prestigious of all.
+###--------
+Think you have
+what it takes?
+###--------
+Do your best & aim
+for victory in the
+Official Tournament!
+###--------
+But even though
+the Internet is full
+of fun things to do,
+###--------
+please make sure
+to remain cautious.
+###--------
+Recently,it has
+been reported that
+terrible NetNavis
+###--------
+called Darkloids
+have appeared
+on the Net.
+###--------
+Take care and you'll
+have a great time
+as a NetBattler!
+###--------
+###Script:1
+To all Official
+NetBattlers:
+###--------
+This is an ongoing
+investigation.
+###--------
+We have found traces
+of Darkloid activity
+in Internet7,
+###--------
+but it seems like the
+Darkloid itself is
+still at large.
+###--------
+It appears to have
+moved to a deeper
+part of the Net.
+###--------
+We will inform you
+as soon as we find
+further information.
+###--------
+That is all.
+###--------
+###Script:2
+Regarding the
+previous mail...
+###--------
+Due to unauthorized
+access to the server
+by Darkloids,
+###--------
+the previous mail
+may have been sent
+to the public.
+###--------
+Details are still
+being worked out,
+but be careful
+###--------
+that any further
+information is not
+leaked to civilians.
+###--------
+Moving along...
+###--------
+According to our
+intel,there is a
+high probability
+###--------
+that the Darkloid
+is hiding out in
+the Undernet.
+###--------
+Seems it's slipped
+past Official-
+controlled areas.
+###--------
+The Undernet is the
+home turf of denizens
+of the dark.
+###--------
+Do not rush in
+carelessly,or they
+may retaliate!
+###--------
+We recommend you
+exercise caution in
+your investigation.
+###--------
+That is all.
+###--------
+###Script:3
+We have received
+information that
+###--------
+one of the Darkloids,
+ShadeMan,has been
+deleted
+###--------
+by the winner of
+the recent Official
+Tournament.
+###--------
+However,he may
+be revived with
+the DarkPower.
+###--------
+Be sure to
+stay vigilant.
+###--------
+Furthermore,there
+is an increasing
+probability that
+###--------
+there is another
+Darkloid lurking in
+"that" area.
+###--------
+It appears there
+is something in the
+depths of that area
+###++++++++
+that is attracting
+DarkPower...
+###--------
+However,even for
+an Official,setting
+foot in that area
+###--------
+is like asking
+to be deleted.
+###--------
+Remain on standby
+until HQ gives us
+the order.
+###--------
+That is all.
+###--------
+###Script:8
+Mail News: Issue 1
+"Beware of TopMan!"
+###--------
+Recent reports from
+Internet3 indicate
+###--------
+that a Navi called
+TopMan is currently
+running rampant.
+###--------
+There is a chance
+this is the work
+of Darkloids.
+###--------
+Watch out when you
+walk around the edge
+of deserted areas.
+###--------
+We urge you to be
+careful!
+###--------
+This mail was sent to
+all Apprentice Net-
+Battlers nationwide.
+###--------
+###Script:9
+Mail News: Issue 2
+"Darkloids'
+ Secret Plan!?"
+###--------
+We previously warned
+you about TopMan
+going out of control,
+###--------
+but it looks like he
+was subdued by some
+astute NetBattler!
+###--------
+According to the
+Officials' research,
+###--------
+TopMan may have
+been hacked by
+the Darkloids.
+###--------
+And now,we are
+receiving news that
+another berserk Navi
+###--------
+is popping up in
+Internet5,due to the
+Darkloids' handiwork.
+###--------
+Don't be reckless
+and try to challenge
+them to a NetBattle!
+###--------
+###Script:10
+Mail News: Issue 3
+"The Mysterious
+ Operator!"
+###--------
+Amazing! We've
+heard news that the
+rampaging SparkMan
+###--------
+has been defeated
+by a mysterious
+operator!
+###--------
+Officials are still
+trying to confirm the
+operator's identity.
+###--------
+Meanwhile,incidents
+have been occurring
+in Internet7.
+###--------
+Navis are being
+ensnared in some
+kind of brown tape.
+###--------
+Please continue to
+stay vigilant!
+###--------
+###Script:11
+Mail News: Issue 4
+"The Mysterious
+ Operator Revealed!"
+###--------
+The mysterious
+operator strikes
+again! This time,
+###--------
+they beat VideoMan,
+who was terrorizing
+Internet7!
+###--------
+As a result of our
+investigations,
+###--------
+the identity of the
+mysterious operator
+has become clear!
+###--------
+The operator's name
+is <printPlayerName>!
+###Command:printPlayerName
+###--------
+Thank you,
+<printPlayerName>!
+###Command:printPlayerName
+###--------
+On another topic,
+in Internet9...
+###--------
+Reports have come
+in that a flame-
+spewing Navi has
+###--------
+popped up and is
+causing havoc!
+###--------
+It looks like all
+this chaos is
+another incident
+###--------
+caused by the
+Darkloids' hacking!
+###--------
+Please be extremely
+careful!
+###--------
+###Script:12
+Mail News: Issue 5
+"A Striking
+ Incident!"
+###--------
+Once again,it's
+been reported
+that <printPlayerName>
+###Command:printPlayerName
+###--------
+has resolved the
+threat,taking down
+the rampaging
+###--------
+BurnMan in
+Internet9!
+###--------
+While this incident
+was resolved,there
+is no time to rest...
+###--------
+There have been
+reports coming from
+Internet10 that
+###--------
+civilian Navis are
+being assaulted by a
+sword-wielding Navi!
+###--------
+This must be another
+case of Navis being
+hacked by Darkloids!
+###--------
+Please continue to
+exercise caution!
+###--------
+###Script:13
+Mail News: Issue 6
+"A Frozen World!"
+###--------
+The culprit behind
+the assaults in
+Internet10 turned
+###--------
+out to be KendoMan.
+Once again,<printPlayerName>
+put a stop to it!
+###Command:printPlayerName
+###--------
+But now,according
+to sources from
+Internet12,
+###--------
+a devastating
+blizzard is
+tormenting Navis!
+###--------
+The air is below
+-40 degrees!
+###--------
+Regular Navis can't
+take these freezing
+temperatures!
+###--------
+If you are in
+Internet12,
+do be careful!
+###--------
+###Script:14
+To <printPlayerName>:
+###Command:printPlayerName
+###--------
+This is the Official
+NetBattlers HQ.
+###--------
+We are aware that
+you have solved
+numerous NetCrimes.
+###--------
+The Officials are
+truly grateful for
+your assistance.
+###--------
+We have decided
+your skills show that
+you are capable,
+###--------
+and you qualify to
+enter the Official
+Tournament.
+###--------
+Entries for the
+Official Tournament
+###--------
+are being accepted
+in Internet9.
+###--------
+Will you accept
+the challenge?
+###--------

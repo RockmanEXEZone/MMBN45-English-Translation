@@ -1,0 +1,328 @@
+###TextArchive:6A9970
+###Script:0
+###Mugshot:ShadowMan
+Today is 
+###--------
+###Mugshot:ShadowMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------
+###Mugshot:ShadowMan
+<printBuffer>.
+Need my assistance...?
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------
+###Script:1
+###Mugshot:ShadowMan
+Schedule something
+for which day?
+###--------
+###Script:2
+###Mugshot:ShadowMan
+What to register?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:3
+###Mugshot:ShadowMan
+That day has
+already passed...
+###--------
+###Script:4
+###Mugshot:ShadowMan
+You can't register
+any more...
+###--------
+###Mugshot:ShadowMan
+To add more,delete
+some existing plans
+first.
+###--------
+###Script:5
+###Mugshot:ShadowMan
+What to delete?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:6
+###Mugshot:ShadowMan
+Check plans for
+which day?
+###--------
+###Script:7
+###Mugshot:ShadowMan
+What to register?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:8
+###Mugshot:ShadowMan
+What to delete?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:10
+###Mugshot:ShadowMan
+These are your
+things, <printPlayerNickname>.
+<spacePx><option><space> Check Key Items
+###Command:printPlayerNickname
+###Command:spacePx count=8
+###Command:option brackets=false left=0 right=0 up=0 down=0
+###Command:space count=1
+###--------
+###Script:20
+###Mugshot:ShadowMan
+From what time?
+###--------
+###Script:21
+###Mugshot:ShadowMan
+How frequent?
+###--------
+###Script:22
+###Mugshot:ShadowMan
+What are the details?
+###--------
+###Script:23
+###Mugshot:ShadowMan
+Meet with whom?
+###--------
+###Script:24
+###Mugshot:ShadowMan
+Is this acceptable?
+
+
+###--------
+###Mugshot:ShadowMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:25
+###Mugshot:ShadowMan
+<printPlayerNickname>,
+you have plans at
+that time already.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:30
+###Mugshot:ShadowMan
+I'll overwrite them...
+...Agreed?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:31
+###Mugshot:ShadowMan
+What sort of holiday?
+###--------
+###Script:32
+###Mugshot:ShadowMan
+Register where?
+###--------
+###Script:33
+###Mugshot:ShadowMan
+Is this acceptable?
+
+
+###--------
+###Mugshot:ShadowMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:40
+###Mugshot:ShadowMan
+Transfer SubChips
+to me here.
+###--------
+###Script:41
+###Mugshot:ShadowMan
+Change my
+equipment here.
+###--------
+###Script:42
+###Mugshot:ShadowMan
+Check the
+Data Library here.
+###--------
+###Script:43
+###Mugshot:ShadowMan
+Check your
+mail here.
+###--------
+###Script:44
+###Mugshot:ShadowMan
+Check your
+Key Items here.
+###--------
+###Script:45
+###Mugshot:ShadowMan
+Save your
+progress here.
+###--------
+###Script:50
+###Mugshot:ShadowMan
+<printBuffer>:
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:ShadowMan
+<printBuffer>
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Mugshot:ShadowMan
+<printScheduleBuffer> 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:ShadowMan
+<printScheduleBuffer>
+ 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:ShadowMan
+"<printScheduleBuffer>"
+will be deleted...
+###Command:printScheduleBuffer
+###--------
+###Mugshot:ShadowMan
+Is that acceptable?
+
+
+###--------
+###Mugshot:ShadowMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:ShadowMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:51
+###Mugshot:ShadowMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Mugshot:ShadowMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:ShadowMan
+<printBuffer> 
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:ShadowMan
+(<printScheduleBuffer>)
+ 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:ShadowMan
+"<printScheduleBuffer>"
+will be deleted...
+###Command:printScheduleBuffer
+###--------
+###Mugshot:ShadowMan
+Is that acceptable?
+
+
+###--------
+###Mugshot:ShadowMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:ShadowMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:52
+###Mugshot:ShadowMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:ShadowMan
+<printBuffer>
+ 
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:ShadowMan
+"<printScheduleBuffer>"
+will be deleted...
+###Command:printScheduleBuffer
+###--------
+###Mugshot:ShadowMan
+Is that acceptable?
+
+
+###--------
+###Mugshot:ShadowMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:ShadowMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:62
+###Mugshot:ShadowMan
+Attempt the SniprTrn?
+
+
+###--------
+###Mugshot:ShadowMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+###Mugshot:ShadowMan
+Looks like we cannot
+do that right now...
+###--------

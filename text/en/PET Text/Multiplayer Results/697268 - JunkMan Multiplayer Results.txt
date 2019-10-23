@@ -1,0 +1,19 @@
+﻿###TextArchive:697268
+###Script:1
+Are you feeling
+weary...?
+###--------
+Your operating was
+a bit lackluster...
+###--------
+###Script:2
+<printPlayerNickname>,you
+look chipper...
+I can tell...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:3
+W-We didn't win but
+didn't lose either...
+Fine with me!
+###--------

@@ -1,0 +1,62 @@
+﻿###TextArchive:6E1A48
+###Script:60
+Edit the
+ChipFolder.
+###--------
+###Script:61
+Please assign
+a weapon for
+the R Button.
+###--------
+###Script:62
+Please assign
+a weapon for
+the L Button.
+###--------
+###Script:63
+<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padZeros=false padLeft=true
+###--------
+###Script:70
+###Mugshot:SearchMan
+You don't have
+<printBuffer> chips yet.
+###Command:printBuffer buffer=1 minLength=1 padZeros=false padLeft=false
+###--------
+###Mugshot:SearchMan
+Want to quit?
+
+###--------
+###Mugshot:SearchMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:71
+###Mugshot:SearchMan
+You can only have 3
+of the same chip.
+###--------
+###Script:72
+###Mugshot:SearchMan
+You can only have 1
+of the same MegaChip.
+###--------
+###Script:73
+###Mugshot:SearchMan
+You can only have 1
+of the same GigaChip.
+###--------
+###Script:74
+###Mugshot:SearchMan
+You can only have
+5 MegaChips.
+###--------
+###Script:75
+###Mugshot:SearchMan
+You can only have
+1 GigaChip.
+###--------

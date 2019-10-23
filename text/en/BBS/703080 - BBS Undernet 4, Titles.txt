@@ -1,0 +1,142 @@
+﻿###TextArchive:703080
+###Script:0
+ NO-NAME  Greetings!!!
+###--------
+###Script:1
+ NO-NAME  What gives?
+###--------
+###Script:2
+ NO-NAME  RE:What gives
+###--------
+###Script:3
+ NO-NAME  The reason
+###--------
+###Script:4
+ NO-NAME  A coffin
+###--------
+###Script:5
+ NO-NAME  Hey! Listen!
+###--------
+###Script:6
+ NO-NAME  ???
+###--------
+###Script:7
+ NO-NAME  Could it be?
+###--------
+###Script:8
+ NO-NAME  Collector
+###--------
+###Script:9
+ NO-NAME  Upstaged!
+###--------
+###Script:10
+ NO-NAME  Initiation
+###--------
+###Script:11
+ NO-NAME  Dark lingers
+###--------
+###Script:12
+ NO-NAME  Endless world
+###--------
+###Script:13
+ BBS3  0D XXXXXXXXXXXXX
+###--------
+###Script:14
+ BBS3  0E XXXXXXXXXXXXX
+###--------
+###Script:15
+ BBS3  0F XXXXXXXXXXXXX
+###--------
+###Script:16
+ BBS3  10 XXXXXXXXXXXXX
+###--------
+###Script:17
+ BBS3  11 XXXXXXXXXXXXX
+###--------
+###Script:18
+ BBS3  12 XXXXXXXXXXXXX
+###--------
+###Script:19
+ BBS3  13 XXXXXXXXXXXXX
+###--------
+###Script:20
+ BBS3  14 XXXXXXXXXXXXX
+###--------
+###Script:21
+ BBS3  15 XXXXXXXXXXXXX
+###--------
+###Script:22
+ BBS3  16 XXXXXXXXXXXXX
+###--------
+###Script:23
+ BBS3  17 XXXXXXXXXXXXX
+###--------
+###Script:24
+ BBS3  18 XXXXXXXXXXXXX
+###--------
+###Script:25
+ BBS3  19 XXXXXXXXXXXXX
+###--------
+###Script:26
+ BBS3  1A XXXXXXXXXXXXX
+###--------
+###Script:27
+ BBS3  1B XXXXXXXXXXXXX
+###--------
+###Script:28
+ BBS3  1C XXXXXXXXXXXXX
+###--------
+###Script:29
+ BBS3  1D XXXXXXXXXXXXX
+###--------
+###Script:30
+ BBS3  1E XXXXXXXXXXXXX
+###--------
+###Script:31
+ BBS3  1F XXXXXXXXXXXXX
+###--------
+###Script:32
+ BBS3  20 XXXXXXXXXXXXX
+###--------
+###Script:33
+ BBS3  21 XXXXXXXXXXXXX
+###--------
+###Script:34
+ BBS3  22 XXXXXXXXXXXXX
+###--------
+###Script:35
+ BBS3  23 XXXXXXXXXXXXX
+###--------
+###Script:36
+ BBS3  24 XXXXXXXXXXXXX
+###--------
+###Script:37
+ BBS3  25 XXXXXXXXXXXXX
+###--------
+###Script:38
+ BBS3  26 XXXXXXXXXXXXX
+###--------
+###Script:39
+ BBS3  27 XXXXXXXXXXXXX
+###--------
+###Script:40
+ BBS3  28 XXXXXXXXXXXXX
+###--------
+###Script:41
+ BBS3  29 XXXXXXXXXXXXX
+###--------
+###Script:42
+ BBS3  2A XXXXXXXXXXXXX
+###--------
+###Script:43
+ BBS3  2B XXXXXXXXXXXXX
+###--------
+###Script:44
+ BBS3  2C XXXXXXXXXXXXX
+###--------
+###Script:45
+ BBS3  2D XXXXXXXXXXXXX
+###--------
+###Script:46
+ BBS3  2E XXXXXXXXXXXXX
+###--------

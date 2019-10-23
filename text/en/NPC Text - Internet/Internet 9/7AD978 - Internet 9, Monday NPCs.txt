@@ -1,0 +1,28 @@
+﻿###TextArchive:7AD978
+###Script:0
+###Mugshot:PurpleNavi
+I need to go to
+Internet11 and
+take out the trash.
+###--------
+###Mugshot:PurpleNavi
+...It's such a
+pain,though.
+Maybe next week...
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Since there's a police
+station in this area,
+security is very tight!
+###--------
+###Mugshot:NormNaviYellow
+I can always come
+onto the Net with
+peace of mind!
+###--------
+###Mugshot:NormNaviYellow
+...Though I say that,
+I only really come
+here on Mondays.
+###--------

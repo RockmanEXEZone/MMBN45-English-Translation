@@ -1,0 +1,139 @@
+﻿###TextArchive:6648D0
+###Script:1
+Ah,
+Happy New Year!
+###--------
+Hehe!
+Let's make it
+another good one!
+###--------
+###Script:2
+Today is
+April Fools' Day!
+###--------
+You'd better
+watch out today!
+You never know
+###++++++++
+when someone
+might play a
+prank on you!
+###--------
+###Script:3
+Yahoo!
+###++++++++
+It's finally
+Valentine's Day!
+###--------
+Are you going
+to send someone
+a letter?
+###++++++++
+Kyaaah!
+I'm so nervous!
+###--------
+###Script:4
+Yahoo!
+###--------
+It's finally
+Valentine's Day!
+###--------
+Are you going
+to send someone
+a letter?
+###--------
+Kyaaah!
+I'm so nervous!
+###--------
+###Script:5
+Tonight is
+Halloween!
+###--------
+Hey,what kinda
+costume are you
+gonna be wearing?
+###--------
+Tell me,tell me!
+###--------
+###--------
+###--------
+C'mon! This is
+the perfect day
+to show off!
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+Jingle Bells,
+Jingle Bells!
+###--------
+Tonight's
+Christmas Eve!
+###--------
+Seeing all the
+colorful lights
+in town,
+###--------
+and everyone's
+smiling faces...
+###--------
+This has to be
+my favorite day
+of the year!
+###--------
+###Script:9
+Merry Christmas!!
+###--------
+Did Santa visit
+last night?
+###--------
+I can't wait to see
+what he brought!
+###--------
+###Script:10
+Tonight's
+New Year's Eve!
+###++++++++
+It's already
+the last day
+of the year!
+###--------
+Tomorrow,it'll be
+a different year!
+Isn't that crazy?
+###--------
+###Script:11
+###--------
+Happy Birthday
+to you!!
+###--------
+I hope you'll have
+a great day today!
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+###Script:17
+Today's
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And...
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------

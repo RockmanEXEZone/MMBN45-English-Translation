@@ -1,0 +1,22 @@
+﻿###TextArchive:7ADCA4
+###Script:0
+###Mugshot:NormNaviYellow
+That reminds me. On
+Friday,there's a battle
+rally in Internet12...
+###--------
+###Mugshot:NormNaviYellow
+I'm gonna go for a
+clean sweep this time!
+###--------
+###Script:1
+###Mugshot:HeelNaviPurple
+If you asked me
+what I look forward
+to every week...
+###--------
+###Mugshot:HeelNaviPurple
+I guess it's the battle
+rally on Friday and
+the weekend tournament.
+###--------

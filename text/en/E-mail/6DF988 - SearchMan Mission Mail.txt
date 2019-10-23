@@ -1,0 +1,550 @@
+﻿###TextArchive:6DF988
+###Script:32
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to arrest several
+DarkChip buyers.
+###--------
+The DarkChip buyers
+were last spotted
+in Internet1.
+###--------
+Get there ASAP!
+###--------
+This is the first
+step in ridding the
+world of DarkChips.
+###--------
+You're the only
+ones we can count
+on. Good luck.
+###--------
+###Script:33
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to delete viruses.
+###--------
+According to intel
+we've received,
+###--------
+there has been a
+sudden mass outbreak
+in Internet2.
+###--------
+Get there ASAP!
+###--------
+The Sharo Army
+cannot permit
+failure!
+###--------
+Good luck.
+###--------
+###Script:34
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to delete viruses.
+###--------
+It appears that
+Underworld Navis
+have scattered
+###--------
+viruses in Internet3.
+The place is in
+complete chaos.
+###--------
+Get there ASAP!
+###--------
+The Sharo Army
+cannot permit
+failure!
+###--------
+Good luck.
+###--------
+###Script:35
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to find and arrest
+the culprits behind
+###--------
+a chip robbery,
+hiding out somewhere
+in Internet4.
+###--------
+They plan to
+circulate the
+rare stolen chips
+###--------
+in the Underworld.
+We must prevent
+this at all costs.
+###--------
+Strangely,we've
+been unable to
+confirm their
+###--------
+appearances. What
+could this mean...?
+###--------
+Failure is not an
+option. Good luck.
+###--------
+###Script:36
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to delete viruses.
+###--------
+According to intel
+we've received,
+###--------
+there has been a
+sudden mass outbreak
+in Internet4.
+###--------
+Get there ASAP!
+###--------
+The Sharo Army
+cannot permit
+failure!
+###--------
+Good luck.
+###--------
+###Script:37
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission
+is to investigate a
+suspected group of
+###--------
+chip robbers,known
+as the "Getters".
+###--------
+According to
+our intel,they've
+been cornered
+###--------
+in Internet5.
+Be warned,they are
+masters of disguise.
+###--------
+Ordinary Navis
+cannot see through
+their deception.
+###--------
+You're the only
+ones we can count
+on. Good luck.
+###--------
+###Script:38
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to find and arrest
+hacker Navis
+###--------
+and recapture
+stolen weapons
+development data.
+###--------
+A group of hackers
+has breached the
+army's mainframe.
+###--------
+We've managed
+to stop the data
+leakage,but
+###--------
+there's a good
+chance that weapons
+data was stolen.
+###--------
+We have confirmation
+that the hackers are
+hiding in Internet6,
+###--------
+but we've been
+unable to confirm
+their appearances.
+###--------
+Failure is not an
+option! Good luck.
+###--------
+###Script:39
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to delete viruses.
+###--------
+According to intel
+we've received,
+###--------
+there has been a
+sudden mass outbreak
+in Internet6.
+###--------
+Get there ASAP!
+###--------
+Failure is not an
+option! Good luck.
+###--------
+###Script:40
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to delete viruses.
+###--------
+The Undernet virus
+research lab has
+spread viruses
+###--------
+in Internet7 as part
+of an experiment.
+###--------
+Delete the viruses
+at once before they
+cause serious harm!
+###--------
+Failure is not an
+option! Good luck.
+###--------
+###Script:41
+This is the Sharo
+Army military HQ.
+###--------
+Multiple civilian
+Navis in Internet8
+have been infected
+###--------
+with viruses. Your
+new mission is to
+safeguard the Navis
+###--------
+and programs that
+have been infected
+by the viruses.
+###--------
+The identity of
+the virus is still
+unknown,but it
+###--------
+appears that the
+infected Navis
+are running amok.
+###--------
+We have to stop this
+before the public
+is put in danger.
+###--------
+This mission is a
+race against time!
+Good luck.
+###--------
+###Script:42
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to delete viruses.
+###--------
+It's been reported
+that the Navi of the
+goodwill ambassador
+###--------
+of a certain country
+is scheduled to visit
+Internet9 today.
+###--------
+However,we've
+received reports
+that extremist Navis
+###--------
+have spread viruses
+to delete the
+ambassador's Navi.
+###--------
+Get there ASAP!
+###--------
+The pride of
+our army rests
+on this mission.
+###--------
+Failure is not an
+option! Good luck.
+###--------
+###Script:43
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to capture Navis
+carrying bombs.
+###--------
+We got a threat
+from extremist
+Underworld Navis
+###--------
+planning to detonate
+explosives in
+Internet10. At this
+###--------
+rate,there will be a
+catastrophe. Prevent
+this at all costs.
+###--------
+The pride of the
+Sharo Army depends
+###--------
+on whether you
+can resolve this
+situation. Good luck.
+###--------
+###Script:44
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to find and arrest
+a group of criminals
+###--------
+responsible for
+serial arson.
+###--------
+We had cornered
+the arsonists
+in Internet11,
+###--------
+but they turned
+the tables on us.
+###--------
+Now,our men
+have been
+captured instead.
+###--------
+Somehow,we've been
+unable to confirm
+their appearances.
+###--------
+You,however,should
+be able to see
+right through them.
+###--------
+Failure is not an
+option. Good luck.
+###--------
+###Script:45
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to delete viruses.
+###--------
+According to intel
+we've received,
+###--------
+there has been a
+sudden mass outbreak
+in Internet11.
+###--------
+Get there ASAP!
+###--------
+The Sharo Army
+cannot permit
+failure!
+###--------
+Good luck.
+###--------
+###Script:46
+This is the Sharo
+Army military HQ.
+###--------
+Multiple civilian
+Navis in Internet12
+have been infected
+###--------
+with viruses. Your
+new mission is to
+safeguard the Navis
+###--------
+and programs that
+have been infected
+by the viruses.
+###--------
+The identity of
+the virus is still
+unknown,but it
+###--------
+appears that the
+infected Navis
+are running amok.
+###--------
+We have to stop this
+before the public
+is put in danger.
+###--------
+This mission is a
+race against time!
+Good luck.
+###--------
+###Script:47
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission
+is to delete
+Undernet viruses.
+###--------
+They've escaped
+from SciLab
+during analysis.
+###--------
+Currently,they have
+captured Undernet1.
+###--------
+If word of these
+powerful viruses
+gets out,
+###--------
+it would likely
+plunge the world
+into a crisis.
+###--------
+Get there ASAP!
+###--------
+The Sharo Army
+cannot permit
+failure!
+###--------
+Good luck.
+###--------
+###Script:48
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to arrest several
+disguised Navis
+###--------
+and to secure
+confidential data
+###--------
+that has been
+stolen from SciLab.
+###--------
+We had cornered
+the culprits
+in Undernet2,
+###--------
+but it seems they
+managed to cleverly
+disguise themselves.
+###--------
+Even the Officials
+are having trouble
+with their disguises.
+###--------
+Ordinary Navis
+cannot see through
+their deception.
+###--------
+You're the only
+ones we can count
+on. Good luck.
+###--------
+###Script:49
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to delete viruses.
+###--------
+According to intel
+we've received,
+###--------
+there has been a
+sudden mass outbreak
+in Undernet2.
+###--------
+Get there ASAP!
+###--------
+The Sharo Army
+cannot permit
+failure!
+###--------
+Good luck.
+###--------
+###Script:50
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to delete viruses.
+###--------
+It looks like the
+Darkloids had
+set up a device
+###--------
+that released
+viruses all over
+Undernet3.
+###--------
+We've succeeded
+in destroying
+the device,
+###--------
+but the released
+viruses are more
+than we can handle.
+###--------
+Delete those
+viruses before
+they can run wild.
+###--------
+Get there ASAP!
+###--------
+The Sharo Army
+cannot permit
+failure!
+###--------
+Good luck.
+###--------
+###Script:51
+This is the Sharo
+Army military HQ.
+###--------
+Your new mission is
+to safeguard Navis
+infected by viruses.
+###--------
+Multiple civilian
+Navis in Undernet3
+have been infected.
+###--------
+The identity of
+the virus is still
+unknown,but it
+###--------
+appears that the
+infected Navis
+are running amok.
+###--------
+We have to stop this
+before the public
+is put in danger.
+###--------
+This mission is a
+race against time!
+Good luck.
+###--------

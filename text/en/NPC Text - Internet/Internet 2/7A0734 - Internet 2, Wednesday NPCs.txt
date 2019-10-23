@@ -1,0 +1,138 @@
+﻿###TextArchive:7A0734
+###Script:0
+###Mugshot:NaviGirlOrange
+Ah,h-hi there...
+Good day...
+###--------
+###Mugshot:NaviGirlOrange
+I'm a Navi who's
+still new to the Net...
+###--------
+###Mugshot:NaviGirlOrange
+I'm not really used to
+it yet,so I don't know
+what to talk about...
+###--------
+###Script:1
+###Mugshot:NaviGirlOrange
+Ah,h-hi there...
+Good evening...
+###--------
+###Mugshot:NaviGirlOrange
+I'm a Navi who's
+still new to the Net...
+###--------
+###Mugshot:NaviGirlOrange
+I'm not really used to
+it yet,so I don't know
+what to talk about...
+###--------
+###Script:2
+###Mugshot:NaviGirlOrange
+Oh,it's already this
+late? Guess it's about
+time for me to jack out...
+###--------
+###Mugshot:NaviGirlOrange
+Ahh... I wasn't able
+to chat with other
+Navis that much today.
+###--------
+###Mugshot:NaviGirlOrange
+I'm such a coward!!
+###--------
+###Script:10
+###Mugshot:NormNaviPink
+My goodness!
+Surely you jest!
+###--------
+###Mugshot:NormNaviPink
+But it's just like you
+to have your eye on
+the onion shortage!
+###--------
+###Mugshot:NormNaviPink
+Well,in the first
+place,the onion
+shortage･<wait>･<wait>･
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviPink
+Blah,blah...<wait>
+Blah,blah...
+###Command:wait frames=20
+###--------
+###Script:11
+###Mugshot:NormNaviPink
+My word!
+It's already noon!
+###--------
+###Mugshot:NormNaviPink
+As you grow older,you
+become more aware of
+how quickly time passes...
+###--------
+###Script:12
+###Mugshot:NormNaviPink
+Oh my,this is trouble!
+It's already past
+5 o'clock!
+###--------
+###Mugshot:NormNaviPink
+On Wednesdays,my
+operator's husband
+returns home early.
+###--------
+###Mugshot:NormNaviPink
+We should jack
+out now.
+###--------
+###Script:20
+###Mugshot:NormNaviPink
+So,about our
+earlier discussion,
+###++++++++
+###Mugshot:NormNaviPink
+do you like that
+lawyer Navi?
+###--------
+###Mugshot:NormNaviPink
+If you go any further,
+you'll end up having
+an affair...
+###++++++++
+###Mugshot:NormNaviPink
+Just kidding!
+Ahaha!
+###--------
+###Script:21
+###Mugshot:NormNaviPink
+Oh my,it's already
+afternoon?
+###--------
+###Mugshot:NormNaviPink
+I say,time sure flies!
+###--------
+###Script:22
+###Mugshot:NormNaviPink
+Oh goodness!!
+It's already
+past 5 o'clock!
+###--------
+###Mugshot:NormNaviPink
+Well,that's enough
+for today...
+Until tomorrow then!
+###--------
+###Script:40
+###Mugshot:NormNaviYellow
+Every day I look
+forward to coming here
+during my lunch break.
+###--------
+###Mugshot:NormNaviYellow
+Seeing this Mr.Prog
+motivates me to do my
+best in the afternoon!
+###--------

@@ -1,0 +1,109 @@
+﻿###TextArchive:7BD240
+###Script:0
+###Mugshot:HeelNaviPurple
+Yo yo,wanna
+battle me?
+###--------
+<positionOptionHorizontal><option><space> Yeah!  <option><space> Nope!
+###Command:positionOptionHorizontal width=11
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Man, you're just
+a big chicken!
+###--------
+###Script:1
+###Mugshot:HeelNaviPurple
+Aight...
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:HeelNaviPurple
+...I got wiped...
+###--------
+###Script:3
+###Mugshot:HeelNaviPurple
+You're pretty good...
+But you ain't as
+good as me.
+###--------
+###Script:4
+###Mugshot:HeelNaviPurple
+You look strong!
+Wanna battle me?
+###--------
+###Mugshot:HeelNaviPurple
+I'm tired of
+battling with the
+other guys here!
+###--------
+###Mugshot:HeelNaviPurple
+How 'bout it!?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+You can't be weak-
+hearted when it
+comes to battling!
+###--------
+###Script:5
+###Mugshot:HeelNaviPurple
+I don't know how
+to hold back,
+###--------
+###Mugshot:HeelNaviPurple
+so you better
+be ready!
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+Execute!
+###--------
+###Script:6
+###Mugshot:HeelNaviPurple
+Whoa!
+You're strong!
+###--------
+###Script:7
+###Mugshot:HeelNaviPurple
+Did I overdo it
+a little?
+###--------
+###Script:8
+###Mugshot:HeelNaviBlack
+YOU. BATTLE WITH ME.
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviBlack
+......
+###--------
+###Script:9
+###Mugshot:HeelNaviBlack
+.........
+###--------
+###Script:10
+###Mugshot:HeelNaviBlack
+*creeeeeaaak...*
+###--------
+###Script:11
+###Mugshot:HeelNaviBlack
+HA. HA. HA. HA. HA.
+###--------

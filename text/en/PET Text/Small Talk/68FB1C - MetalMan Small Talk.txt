@@ -1,0 +1,1041 @@
+﻿###TextArchive:68FB1C
+###Script:0
+Error!
+Put info in
+the form!
+###--------
+###Script:1
+When it comes
+down to it,
+the only things
+###++++++++
+you can rely on
+are your fists
+and your chips...
+###--------
+That's what they
+say at <printSchool>
+too,right?
+###Command:printSchool capitalizeFirst=false
+###--------
+###Script:2
+With my fists,
+combined with
+plenty of chips,
+###++++++++
+I have the
+strength of at
+least 100 people...
+###--------
+And if we add
+your experiences
+at <printSchool>,
+###Command:printSchool capitalizeFirst=false
+###++++++++
+that strength
+easily exceeds
+a thousand...
+###--------
+###Script:3
+If you've got the
+time,look through
+the Data Library.
+###--------
+Self-improvement
+is important...
+For my fists,too.
+###--------
+At <printSchool>,it's
+also considered
+a necessary skill...
+###Command:printSchool capitalizeFirst=false
+###--------
+###Script:5
+Whenever you're
+out on the Net,
+###++++++++
+you end up wanting
+to battle someone
+before you know it.
+###--------
+I saw a Navi
+with a brawny
+look earlier.
+###--------
+Wasn't that
+<printOlderBro>'s Navi?
+###Command:printOlderBro capitalizeFirst=false
+###--------
+###Script:6
+...Another peaceful
+day on the Net.
+###--------
+But I can't afford
+to ease up on my
+daily training...
+###--------
+I need to make my
+fists stronger than
+anyone else's!
+###--------
+I think <printYoungerBro>
+would probably say
+the same thing...
+###Command:printYoungerBro capitalizeFirst=false
+###--------
+###Script:7
+The Net is
+incredibly vast...
+###--------
+Why not use all
+that space for
+some jogging?
+###--------
+Doesn't <printOlderSis>
+do that too?
+###Command:printOlderSis capitalizeFirst=false
+###--------
+###Script:8
+I wanted to stay
+on the Net a little
+longer,<printPlayerNickname>⋯
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+After all...the Net
+is the best place
+to hone my fists.
+###--------
+I often see
+<printYoungerSis>'s Navi
+out training,too.
+###Command:printYoungerSis capitalizeFirst=false
+###--------
+###Script:9
+The word "duel"
+makes my fists itch
+for some reason.
+###--------
+Do me a favor,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Can you ask
+<printFriend> for
+a Network Duel?
+###Command:printFriend capitalizeFirst=false
+###--------
+###Script:10
+There's no better
+training than
+real combat...
+###--------
+I'd recommend
+having Network
+Duels in all kinds
+###++++++++
+of different places.
+###--------
+For starters,why
+don't we challenge
+<printFriend>?
+###Command:printFriend capitalizeFirst=false
+###--------
+###Script:11
+Let me ask you
+something about
+Network Duels...
+###--------
+How many friends
+have you made
+from them?
+###--------
+I was thinking of
+finding a friend to
+clash fists with.
+###--------
+Why don't we
+begin by inviting
+<printFriend>'s Navi?
+###Command:printFriend capitalizeFirst=false
+###--------
+###Script:13
+Proper nutrition
+is very important
+after training.
+###--------
+The ingredients
+in <printFavFood>
+###Command:printFavFood capitalizeFirst=false
+###++++++++
+make your body
+as tough as iron.
+###--------
+Be sure to eat
+it regularly...
+###--------
+###Script:14
+After working up a
+sweat on the Net,
+why not try this?
+###--------
+The all-new
+"<printFavFood>"!
+In stores now!
+###Command:printFavFood capitalizeFirst=false
+###--------
+......
+Somehow,that
+turned into an ad...
+###--------
+###Script:15
+When you feel like
+you're about to
+collapse from your
+###--------
+harsh training...
+Try picturing
+<printFavFood>,
+###Command:printFavFood capitalizeFirst=false
+###--------
+and you'll feel the
+strength return
+to your fists.
+###--------
+###Script:17
+If there was a
+training exercise
+###++++++++
+where you shatter
+every single chip...
+###--------
+Just how many
+punches would you
+have to throw?
+###--------
+More than when
+you do <printHobby>,
+that's for sure...
+###Command:printHobby capitalizeFirst=false
+###--------
+###Script:18
+Filling the Data
+Library fills me
+with strength.
+###--------
+I think gaining
+experience with
+<printHobby>
+###Command:printHobby capitalizeFirst=false
+###++++++++
+would fill you with
+strength as well...
+###--------
+And then...channel
+all your strength
+into your fists!
+###--------
+###Script:19
+There's so many
+different kinds of
+chips out there...
+###--------
+It's enough to
+make a guy
+clench his fists.
+###--------
+Seems like there's
+just as many kinds
+of <printHobby>,too...
+###Command:printHobby capitalizeFirst=false
+###--------
+No matter how many
+fists I'd have,it
+wouldn't be enough...
+###--------
+###Script:21
+Training hard,
+because you
+have a dream...
+###--------
+...And then,
+making the dream
+come true,
+###++++++++
+thanks to all of
+your training...
+###--------
+That's the
+cycle of growth
+for everyone.
+###--------
+You should cherish
+your dream of
+###++++++++
+becoming a<printDream>
+<printDream>,
+<printPlayerNickname>.
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:22
+The tournament...
+###--------
+...is a gathering
+place for all
+those battlers
+###++++++++
+who want to be
+the strongest
+of them all.
+###--------
+But only a handful
+have made that
+dream come true.
+###--------
+Is the road
+to becoming
+###++++++++
+a<printDream> <printDream>
+also that steep?
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:23
+That reminds me...
+At the tournament,
+###--------
+there was a real
+<printDream> there,
+apparently.
+###Command:printDream capitalizeFirst=false
+###--------
+You must've felt
+your fists tingle
+too,right?
+###--------
+###Script:25
+The PET feels
+glowing hot...
+###--------
+It's like a hot
+spring in here...
+Or molten iron...
+###--------
+...I don't suppose...
+###--------
+you're thinking
+about <printCrush>
+right now?
+###Command:printCrush capitalizeFirst=false
+###--------
+###Script:26
+Lately we've been
+doing nothing but
+checking our mail...
+###--------
+Is reading mail
+your idea of train-
+ing? Or maybe...
+###--------
+you're just waiting
+for love mail
+from <printCrush>?
+###Command:printCrush capitalizeFirst=false
+###--------
+###Script:27
+If,by some chance,
+we receive mail
+from <printCrush>⋯
+###Command:printCrush capitalizeFirst=false
+###--------
+Clench it in your
+fists and thrust
+it to the sky,
+###--------
+and show your
+joy with all of
+your might!!
+###--------
+###Script:29
+How would you feel
+if you got mail
+from <printPlayerEnemy>?
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+Would you be
+disappointed?
+###++++++++
+You know,like when
+the hot springs
+are only lukewarm.
+###--------
+###Script:30
+Mail is a good
+way to say how
+you truly feel.
+###--------
+......
+So? How about
+it,<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Why don't you tell
+<printPlayerEnemy> how
+you truly feel...
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+###Script:31
+You know,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Some say...a fist
+says more than
+a thousand words.
+###--------
+Why don't you give
+<printPlayerEnemy> a good
+thwack sometime?
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+###Script:33
+I don't watch
+TV much...
+###--------
+Time is best spent
+training,after all.
+###--------
+But I ended up
+getting hooked
+on <printFavShow>⋯
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:34
+That moment
+your fists clash
+###++++++++
+with your
+opponent's,and
+the sparks fly...
+###--------
+Just seeing it gets
+my heart racing...
+###--------
+It's like the climax
+of <printFavShow>⋯
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:35
+If you want to heal
+your weariness
+after a battle...
+###--------
+I'd suggest visiting
+that new hot spring
+###--------
+that they showed
+in <printFavShow>.
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:37
+...If you have lots
+of chips,all your
+worries disappear...
+###--------
+When <printIdol>
+is by your side,
+it's just like that.
+###Command:printIdol capitalizeFirst=false
+###--------
+###Script:38
+Having tons of
+chips...isn't it
+pure bliss?
+###--------
+For me,having so
+many hot springs
+I want to go to
+###++++++++
+is true happiness.
+###--------
+It's like what
+<printIdol>
+once said...
+###Command:printIdol capitalizeFirst=false
+###--------
+You can never
+have too many
+of anything.
+###--------
+###Script:39
+Each chip you
+have is a
+precious memory.
+###--------
+Every scar on my
+fists is a precious
+memory,too...
+###--------
+Treasure those
+memories forever.
+###--------
+That's something
+<printIdol> once
+said...
+###Command:printIdol capitalizeFirst=false
+###--------
+###Script:41
+If you want to
+win NetBattles,
+###--------
+you shouldn't just
+train your fists,
+but your mind,too...
+###--------
+Don't neglect
+your <printBestSubject>⋯
+###Command:printBestSubject capitalizeFirst=false
+###--------
+###Script:42
+On the Net,strive
+to have confidence
+in yourself.
+###--------
+Approach a Net-
+Battle just as you
+would <printBestSubject>.
+###Command:printBestSubject capitalizeFirst=false
+###--------
+###Script:43
+I believe
+in myself...
+###--------
+Steely confidence
+is sure to bring
+you victory.
+###--------
+The same goes
+for your strength
+in <printBestSubject>⋯
+###Command:printBestSubject capitalizeFirst=false
+###--------
+Believe that your
+power can take
+you anywhere!
+###--------
+###Script:45
+If I skip training
+even once,my fists
+itch right away!
+###--------
+Seems like you
+skip <printWorstSubject> a
+bit too much,too.
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+Doesn't it make
+your fists itch?
+###--------
+###Script:46
+The roads of the
+Net are the same
+as <printWorstSubject>⋯
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+At times,things
+become complicated,
+and you get lost.
+###--------
+Beware...even your
+training won't help
+you if you get lost!
+###--------
+###Script:47
+I'd actually
+like to train
+a little more...
+###--------
+But if you say
+you want to
+study <printWorstSubject>
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+right now,then who
+am I to disagree?
+###--------
+###Script:49
+After breaking
+a sweat in the
+tournament,
+###--------
+I want nothing
+more than soak in
+the hot springs...
+###--------
+Nnnnrgh!!
+###--------
+This feeling just
+won't go away...
+###--------
+It's just like
+wanting a<printWish>
+<printWish>,huh...
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+###Script:50
+I could clench
+my fists so hard
+they'll bleed,
+###--------
+that's how much
+I want to conquer
+the tournaments!
+###--------
+Unless an operator
+feels that way too,
+###++++++++
+there's no way
+they can be
+victorious.
+###--------
+It's vital to have
+the same longing
+for a<printWish> <printWish>!
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+###Script:51
+My fists exist
+solely to grasp
+the things I want...
+###--------
+Fists that lose
+that goal are just
+dangerous weapons...
+###--------
+Never,ever forget
+your longing for
+a<printWish> <printWish>!
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+###Script:53
+Don't we have any
+mail that would
+make my fists itch?
+###--------
+I eagerly await
+a challenge
+from <printMostFrequentOpponent>!
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+###Script:54
+If I were to
+challenge <printMostFrequentOpponent>
+to a battle...
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+I'd gather power in
+my fists,then send
+the mail flying!
+###--------
+At that point,
+the battle's
+already begun...
+###--------
+###Script:55
+It's frustrating
+when you send mail,
+###++++++++
+and don't get
+a response.
+###--------
+It just drains
+the power from
+your fists...
+###--------
+I think <printMostFrequentOpponent>
+would definitely
+respond,though.
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+They may be our
+rival,but they're
+a good person...
+###--------
+###Script:57
+<printLostToOpponent> is one
+tough customer...
+###Command:printLostToOpponent capitalizeFirst=true
+###--------
+Frontal attacks
+just don't work.
+###--------
+Whenever I
+throw a punch...
+Swing and a miss!
+###--------
+###Script:58
+On today's
+training menu is...
+###--------
+breaking 100
+field panels.
+###--------
+<printLostToOpponent> would
+knock it out
+in no time flat...
+###Command:printLostToOpponent capitalizeFirst=true
+###++++++++
+I won't lose
+to them!
+###--------
+###Script:59
+I'm strong enough
+to handle any
+equipment...
+###--------
+Go ahead and pick
+something like
+hard,heavy steel!
+###--------
+Else there's no
+way we'll beat
+<printLostToOpponent>⋯
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+###Script:61
+<printMostLostToOpponent> and
+that <printMostLostToOpponentsChip>
+of theirs...
+###Command:printMostLostToOpponent capitalizeFirst=true
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+They swing it
+around like it's
+their own fist...
+###--------
+We mustn't give
+in! Let's get to
+training right away!
+###--------
+###Script:62
+Editing your
+folder can be
+a real puzzle...
+###--------
+Do you choose the
+chips that you're
+good with?
+###++++++++
+Or chips that are
+strong against
+your opponent?
+###--------
+Me? I choose the
+chips that go best
+with my fists!!
+###--------
+I bet that's how
+<printMostLostToOpponent> got to
+choose <printMostLostToOpponentsChip>.
+###Command:printMostLostToOpponent capitalizeFirst=false
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+###Script:63
+My equipment
+is only built
+for offense.
+###--------
+If my opponent
+pulls out a<printMostLostToOpponentsChip>
+<printMostLostToOpponentsChip>⋯
+###Command:printMostLostToOpponentsChip printN=true
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+I can't do anything
+but clench my fists
+and endure it...
+###--------
+###Script:65
+Even just watching
+others battle can
+prove beneficial.
+###--------
+Pay attention to
+the way they
+clench their fists...
+###--------
+Why don't we try
+that next time we
+battle <printDefeatedOpponent>?
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:66
+Our VS Results
+say we're in good
+shape lately.
+###--------
+Seems like when
+we're facing
+<printDefeatedOpponent>,
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+my fists grow
+especially strong...
+###--------
+###Script:67
+It's like steel...
+So stiff,so rigid...
+###--------
+Oh,I'm talking
+about the way
+<printDefeatedOpponent> moves.
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+Movement like that
+is just asking for
+a knuckle sandwich...
+###--------
+###Script:69
+If you don't have
+nerves of steel,
+###--------
+you won't be able
+to master using
+<printMostDefeatedOpponentsChip>.
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+Seems like
+<printMostDefeatedOpponent> still has
+a long way to go...
+###Command:printMostDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:70
+<printMostDefeatedOpponent> still
+hasn't mastered
+using <printMostDefeatedOpponentsChip>.
+###Command:printMostDefeatedOpponent capitalizeFirst=true
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+Feels like they
+have a couple
+gears loose...
+###--------
+How about I give
+them one of my
+gears to make up?
+###--------
+...S-Sorry...
+That wasn't
+like me...
+###--------
+###Script:71
+Even though they
+use <printMostDefeatedOpponentsChip>⋯
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+<printMostDefeatedOpponent>'s
+attacks have no
+weight to them.
+###Command:printMostDefeatedOpponent capitalizeFirst=true
+###--------
+Seems their way
+of putting power
+behind their fists
+###++++++++
+doesn't quite
+cut it...
+###--------
+###Script:73
+Keep in mind
+<printFavStandardChip1>'s
+chip info.
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+Beat 'em to
+the punch with
+<printFavStandardChip1>,
+###Command:printFavStandardChip1 capitalizeFirst=false
+###++++++++
+then finish 'em
+off with my fists.
+###--------
+How's that for
+a strategy?
+###--------
+###Script:74
+Looks like you
+got captivated
+by <printFavStandardChip1>.
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+I get captivated
+by my own fists
+sometimes...
+###--------
+In the end,it means
+your daily training
+is paying off.
+###--------
+###Script:75
+<printFavStandardChip1> feels
+great to use.
+###Command:printFavStandardChip1 capitalizeFirst=true
+###--------
+It's like that nice
+feeling when you go
+into a hot spring!
+###--------
+###Script:77
+<printFavStandardChip2> might
+be plain,but
+don't dismiss it...
+###Command:printFavStandardChip2 capitalizeFirst=true
+###--------
+When it joins
+together with
+other chips,
+###--------
+it can really
+kick the fight
+into high gear...
+###--------
+###Script:78
+<printFavStandardChip2>'s great
+balance is just
+perfect...
+###Command:printFavStandardChip2 capitalizeFirst=true
+###--------
+For a hot spring,
+the perfect
+temperature
+###++++++++
+is also not too
+hot,but not
+lukewarm,either...
+###--------
+...What am I
+even saying?
+###--------
+###Script:79
+<printFavStandardChip2> seems
+like it smells
+of hot springs...
+###Command:printFavStandardChip2 capitalizeFirst=true
+###--------
+So I've always
+wanted to equip it...
+###--------
+###Script:81
+<printFavStandardChip3> is hard
+to use,so it's
+worth training.
+###Command:printFavStandardChip3 capitalizeFirst=true
+###--------
+The more you
+strike iron,the
+tougher it becomes.
+###--------
+That's the kind
+of chip <printFavStandardChip3>
+is,too...
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+###Script:82
+Even though
+I'm a Navi...
+###--------
+My shoulder feel
+so stiff after too
+much fists training...
+###--------
+Could you use
+<printFavStandardChip3> on me?
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+I have a feeling it
+can get rid of my
+shoulder stiffness.
+###--------
+Just like soaking
+in a hot spring...
+###--------
+###Script:83
+<printFavStandardChip3>'s power
+is lacking,but...
+###Command:printFavStandardChip3 capitalizeFirst=true
+###--------
+I think it looks
+pretty fancy...
+###--------
+Almost like
+polished steel...
+###--------
+###Script:85
+Using <printFavMegaChip>
+gets me fired up...
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+So fired up,I just
+want to punch
+right through
+###++++++++
+the field panels
+with my fist...
+###--------
+###Script:86
+I want one more
+copy of <printFavMegaChip>⋯
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+Can't we trade
+someone for this
+hot springs ticket?
+###--------
+###Script:87
+<printFavMegaChip> is a
+chip you can use
+in any situation.
+###Command:printFavMegaChip capitalizeFirst=true
+###--------
+It's flexible,just
+like molten iron...
+###--------
+###Script:89
+Be careful of how
+you use <printFavGigaChip>⋯
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+Based on how you
+use it,it can be a
+powerful weapon...
+###--------
+Just like my fists...
+###--------
+###Script:90
+I know a good
+hot spring.
+###--------
+Want to go there
+next time?
+###--------
+If you asked me
+how good it is...
+###--------
+Hm,it's about on
+the same level
+as <printFavGigaChip>.
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+###Script:91
+<printFavGigaChip> is power-
+ful,but it's not
+good to overuse it.
+###Command:printFavGigaChip capitalizeFirst=true
+###--------
+It might even
+wreck my fists...
+###--------

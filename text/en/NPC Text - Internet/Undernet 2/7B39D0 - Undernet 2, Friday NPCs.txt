@@ -1,0 +1,96 @@
+﻿###TextArchive:7B39D0
+###Script:0
+###Mugshot:HeelNaviBlack
+Did you come from
+the surface?
+###--------
+###Mugshot:HeelNaviBlack
+How about it?
+Wanna play for a bit?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way
+###Command:positionOptionHorizontal width=11
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviBlack
+That's just like a
+surface dweller...
+###--------
+###Script:1
+###Mugshot:HeelNaviBlack
+I'll play with ya!
+But we're gonna use
+the Undernet rules!
+###--------
+###Mugshot:HeelNaviBlack
+Battle routine,set!
+Execute!
+###--------
+###Script:2
+###Mugshot:HeelNaviBlack
+T-There's no way
+anyone this strong
+is from the surface!
+###--------
+###Script:3
+###Mugshot:HeelNaviBlack
+How's that?
+Playing Undernet
+style is fun,huh?
+###--------
+###Script:4
+###Mugshot:HeelNaviPurple
+*sniff sniff...*
+Me smell
+someone strong...
+###--------
+###Mugshot:HeelNaviPurple
+Hey,you. You're
+quite the hotshot,
+aren't you?
+###--------
+###Mugshot:HeelNaviPurple
+Me can tell from
+your smell...
+###--------
+###Mugshot:HeelNaviPurple
+Won't you have
+a battle with me?
+###--------
+<positionOptionHorizontal><option><space> Alright!  <option><space> No way
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+He who fights and runs
+away,lives to fight
+another day...is that it?
+###--------
+###Script:5
+###Mugshot:HeelNaviPurple
+Here me come...
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine,set!
+Execute!
+###--------
+###Script:6
+###Mugshot:HeelNaviPurple
+Seems like my
+nose wasn't wrong...
+###--------
+###Script:7
+###Mugshot:HeelNaviPurple
+And here me thought
+you'd be stronger...
+###--------
+###Mugshot:HeelNaviPurple
+But it looks like
+me had it wrong...
+###--------

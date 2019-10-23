@@ -1,0 +1,27 @@
+﻿###TextArchive:7B0488
+###Script:0
+###Mugshot:NormNaviPink
+Today is Ladies Day!
+What should I buy
+today?
+###--------
+###Mugshot:NormNaviPink
+You know real shopping
+is done with cash!
+###--------
+###Mugshot:NormNaviPink
+Trading BugFrags and
+stuff just doesn't
+feel like shopping!
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+Agh,it's so clammy!
+What's with this crazy
+high humidity today?
+###--------
+###Mugshot:NormNaviYellow
+Is it because of
+all the Aqua-based
+viruses?
+###--------

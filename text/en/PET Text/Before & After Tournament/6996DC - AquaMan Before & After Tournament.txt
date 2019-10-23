@@ -1,0 +1,50 @@
+﻿###TextArchive:6996DC
+###Script:1
+Drip,driiiip...
+We lost...
+###--------
+But I won't let
+this get me
+down,drip!
+###--------
+I'm not going
+to cry until
+we win,drip!!
+###--------
+###Script:2
+<printPlayerNickname>,we
+did it,drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Drip,drip...
+I'm so happy!
+###--------
+###Script:10
+<printPlayerNickname>,we're
+not entered,drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+<printPlayerNickname>,we're
+in it so let's
+win it,drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:21
+<printPlayerNickname>,we're
+in it so let's
+win it,drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:22
+<printPlayerNickname>,we're
+in it so let's
+win it,drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:23
+<printPlayerNickname>,we're
+in it so let's
+win it,drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------

@@ -1,0 +1,96 @@
+﻿###TextArchive:7AF3E8
+###Script:0
+###Mugshot:NaviGirlOrange
+Hey,you!
+Wanna have a
+battle with me!?
+###--------
+###Mugshot:NaviGirlOrange
+...So I'd like to say,
+but I'm actually sort
+of bad at battling...
+###--------
+###Mugshot:NaviGirlOrange
+So how about a
+match with some
+viruses I raised?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No way!
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NaviGirlOrange
+I guess raising
+viruses is kind of
+a weird hobby,huh...
+###--------
+###Script:1
+###Mugshot:NaviGirlOrange
+Here we go!
+###--------
+###Mugshot:NaviGirlOrange
+Give it your all,
+my cuties!
+###--------
+###Mugshot:NaviGirlOrange
+Battle routine,set!
+###--------
+###Mugshot:NaviGirlOrange
+Execute!
+###--------
+###Script:2
+###Mugshot:NaviGirlOrange
+Aww,I lost!
+You're really strong!
+###--------
+###Script:3
+###Mugshot:NaviGirlOrange
+Yeah! Hooray!
+###--------
+###Mugshot:NaviGirlOrange
+So,what'd you think
+of my viruses?
+Pretty strong,right?
+###--------
+###Script:10
+###Mugshot:OfficialNavi
+You see,water is...
+###--------
+###Mugshot:OfficialNavi
+two hydrogen atoms
+bonded with one
+oxygen atom...
+###--------
+###Script:11
+###Mugshot:NormNaviYellow
+Hmm,hmm...
+###--------
+###Script:12
+###Mugshot:PurpleNavi
+Zzzzzz...
+Zzzzzz...
+###--------
+###Script:13
+###Mugshot:NaviGirlOrange
+See that Navi dozing
+off over there?
+###--------
+###Mugshot:NaviGirlOrange
+Even though he always
+sleeps during class,his
+grades are the best!
+###--------
+###Mugshot:NaviGirlOrange
+Could it be that he's
+learning in his sleep?
+###--------
+###Script:14
+###Mugshot:NormNaviPink
+Hmph...
+###--------
+###Mugshot:NormNaviPink
+Everyone knows that...
+###--------

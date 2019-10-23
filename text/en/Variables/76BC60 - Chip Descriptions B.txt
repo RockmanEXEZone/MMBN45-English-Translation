@@ -1,0 +1,379 @@
+﻿###TextArchive:76BC60
+###Script:0
+WoodTowr
+pierce in
+enmy area
+###--------
+###Script:1
+Tops hit
+3 panels
+ahead
+###--------
+###Script:2
+Tops hit
+3 panels
+ahead
+###--------
+###Script:3
+Tops hit
+3 panels
+ahead
+###--------
+###Script:4
+CrshNoise
+attck all
+direction
+###--------
+###Script:5
+CrshNoise
+attck all
+direction
+###--------
+###Script:6
+CrshNoise
+attck all
+direction
+###--------
+###Script:7
+3-way
+burnr fry
+2 ahead!
+###--------
+###Script:8
+3-way
+burnr fry
+2 ahead!
+###--------
+###Script:9
+3-way
+burnr fry
+2 ahead!
+###--------
+###Script:10
+Freeze &
+slide all
+objects!
+###--------
+###Script:11
+Freeze &
+slide all
+objects!
+###--------
+###Script:12
+Freeze &
+slide all
+objects!
+###--------
+###Script:13
+SparkWave
+blinds
+enemy!
+###--------
+###Script:14
+SparkWave
+blinds
+enemy!
+###--------
+###Script:15
+SparkWave
+blinds
+enemy!
+###--------
+###Script:16
+A laser
+pierces
+thru row!
+###--------
+###Script:17
+A laser
+pierces
+thru row!
+###--------
+###Script:18
+A laser
+pierces
+thru row!
+###--------
+###Script:19
+Kendo hit
+frnt enmy
+3 times
+###--------
+###Script:20
+Kendo hit
+frnt enmy
+3 times
+###--------
+###Script:21
+Kendo hit
+frnt enmy
+3 times
+###--------
+###Script:22
+Tape reel
+spins 2.5
+sq ahead
+###--------
+###Script:23
+Tape reel
+spins 2.5
+sq ahead
+###--------
+###Script:24
+Tape reel
+spins 2.5
+sq ahead
+###--------
+###Script:25
+## Stick close to the targeted enemy and attack!
+Chase the
+enemy and
+attack!
+###--------
+###Script:26
+Briefly
+fire many
+Cannons
+###--------
+###Script:27
+Briefly
+thrw many
+CannBalls
+###--------
+###Script:28
+Briefly
+slsh many
+LongSwrds
+###--------
+###Script:29
+Temporary
+Fire chip
+dmg +40
+###--------
+###Script:30
+Temporary
+Elec chip
+dmg +40
+###--------
+###Script:31
+Temporary
+Aqua chip
+dmg ×2!
+###--------
+###Script:32
+Temporary
+Wood chip
+dmg ×2!
+###--------
+###Script:33
+## Turn your own HP into attack power to strengthen your buster
+Power up
+Buster w/
+own HP
+###--------
+###Script:34
+## Charge all of your power and unleash an ultimate attack!
+Charge up
+ultimate
+attack!
+###--------
+###Script:45
+Buster
+rake wide
+enmy area
+###--------
+###Script:46
+3-stage
+sword atk
+arnd enmy
+###--------
+###Script:47
+Make
+enemy
+buggy!
+###--------
+###Script:48
+RedSun
+bombards
+3 ahead
+###--------
+###Script:49
+Enmy chip
+is no use
+while red
+###--------
+###Script:50
+A ring
+that hits
+4 times
+###--------
+###Script:51
+Holy shot
+sucks in
+HolyPanl!
+###--------
+###Script:52
+A dark
+barrier
+regenrate
+###--------
+###Script:53
+BlueMoon
+drains
+3 ahead
+###--------
+###Script:54
+Atk enemy
+w/ Gospel
+power!
+###--------
+###Script:64
+Fused atk
+from dark
+fallers!
+###--------
+###Script:65
+Attcks w/
+spreading
+fireball!
+###--------
+###Script:66
+Attcks w/
+spreading
+bubbles!
+###--------
+###Script:67
+Giga lvl
+cannon
+attack!
+###--------
+###Script:68
+Giga lvl
+cannon
+attack!
+###--------
+###Script:69
+Giga lvl
+cannon
+attack!
+###--------
+###Script:70
+3-shot
+piercing
+WideSht
+###--------
+###Script:71
+3-shot
+piercing
+WideSht
+###--------
+###Script:72
+3-shot
+piercing
+WideSht
+###--------
+###Script:73
+Flames
+burn in
+a cross!
+###--------
+###Script:74
+Flames
+burn in
+a cross!
+###--------
+###Script:75
+Flames
+burn in
+a cross!
+###--------
+###Script:76
+3 boome-
+rang atk
+enemies
+###--------
+###Script:77
+3 boome-
+rang atk
+enemies
+###--------
+###Script:78
+3 boome-
+rang atk
+enemies
+###--------
+###Script:79
+Numerous
+fangs up
+and down
+###--------
+###Script:80
+Numerous
+fangs up
+and down
+###--------
+###Script:81
+Numerous
+fangs up
+and down
+###--------
+###Script:82
+Reflect
+hockey
+attack
+###--------
+###Script:83
+Reflect
+hockey
+attack
+###--------
+###Script:84
+Reflect
+hockey
+attack
+###--------
+###Script:85
+Magnet
+pulls and
+shoks all
+###--------
+###Script:86
+Magnet
+pulls and
+shoks all
+###--------
+###Script:87
+Magnet
+pulls and
+shoks all
+###--------
+###Script:88
+Slices
+2sq wide
+3sq vrtcl
+###--------
+###Script:89
+Places a
+PileDrvr
+to attack
+###--------
+###Script:90
+Set Giga
+TimeBomb
+somewhere
+###--------
+###Script:91
+Places a
+poisoned
+Pharaoh
+###--------
+###Script:92
+Bodyguard
+throws
+ninjastar
+###--------
+###Script:93
+Secondary
+explosion
+after hit
+###--------

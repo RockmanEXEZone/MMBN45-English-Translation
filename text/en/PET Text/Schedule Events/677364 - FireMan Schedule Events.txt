@@ -1,0 +1,154 @@
+﻿###TextArchive:677364
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+Hey,<printPlayerNickname>,
+
+###Command:printPlayerNickname
+###--------
+<printScheduleBuffer> is
+gonna be on soon!
+###Command:printScheduleBuffer
+###--------
+Let's fire
+up the TV!
+###--------
+###Script:2
+Shoot,that's right!
+Time to meet
+with 
+###--------
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+Geez.
+Can't believe
+I almost forgot.
+###--------
+###Script:3
+Time to
+chow down!!
+###--------
+Farmers worked
+hard to grow all
+that food,ya know!
+###--------
+So show some
+thanks and finish
+your plate!
+###--------
+###Script:4
+Time for school,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+I'm sure ya got
+better things to
+do than study,
+###--------
+like scouring the
+Net with me!
+###--------
+But for now,ya
+better study hard!
+###--------
+###Script:5
+It's time for
+
+###--------
+<printScheduleBuffer>,
+<printPlayerNickname>!
+###Command:printScheduleBuffer
+###Command:printPlayerNickname
+###--------
+Let's burn it up!
+###--------
+###Script:6
+After that...
+###--------
+###Script:21
+###Mugshot:FireMan
+Hey,<printPlayerNickname>,
+
+###Command:printPlayerNickname
+###--------
+###Mugshot:FireMan
+<printScheduleBuffer> is
+gonna be on soon!
+###Command:printScheduleBuffer
+###--------
+###Mugshot:FireMan
+Let's fire up the TV!
+###--------
+###Script:22
+###Mugshot:FireMan
+Shoot,that's right!
+Time to meet
+with 
+###--------
+###Mugshot:FireMan
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Mugshot:FireMan
+Geez.
+Can't believe
+I almost forgot.
+###--------
+###Script:23
+###Mugshot:FireMan
+Time to chow down!!
+###--------
+###Mugshot:FireMan
+Farmers worked
+hard to grow all
+that food,ya know!
+###--------
+###Mugshot:FireMan
+So show some thanks
+and finish your plate!
+###--------
+###Script:24
+###Mugshot:FireMan
+Time for school,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Mugshot:FireMan
+I'm sure ya got
+better things to
+do than study,
+###--------
+###Mugshot:FireMan
+like scouring the
+Net with me!
+###--------
+###Mugshot:FireMan
+But for now,ya
+better study hard!
+###--------
+###Script:25
+###Mugshot:FireMan
+It's time for
+
+###--------
+###Mugshot:FireMan
+<printScheduleBuffer>,
+<printPlayerNickname>!
+###Command:printScheduleBuffer
+###Command:printPlayerNickname
+###--------
+###Mugshot:FireMan
+Let's burn it up!
+###--------
+###Script:26
+###Mugshot:FireMan
+After that...
+###--------

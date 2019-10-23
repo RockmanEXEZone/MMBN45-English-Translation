@@ -1,0 +1,36 @@
+﻿###TextArchive:6CDBC8
+###Script:1
+⋯<printPlayerNickname>,it's
+almost time for...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:2
+"<printScheduleBuffer>"
+###Command:printScheduleBuffer
+###--------
+###Script:3
+Time to shine.
+###--------
+###Script:10
+Today's
+schedule is...
+###--------
+Seems it's empty.
+###--------
+###Script:11
+At <printBuffer>:
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+<printBuffer>
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+<printScheduleBuffer>,
+
+###Command:printScheduleBuffer
+###--------
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:12
+That's all.
+###--------

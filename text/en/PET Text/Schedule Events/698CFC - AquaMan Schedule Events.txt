@@ -1,0 +1,157 @@
+﻿###TextArchive:698CFC
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+Drip,<waitSkip>drip,<waitSkip>drip...<waitSkip>
+Driiiip!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+<printScheduleBuffer> is
+gonna be on soon!
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+Let's watch it
+together,drip!
+###--------
+###Script:2
+Drip,<waitSkip>drip,<waitSkip>drip...<waitSkip>
+Driiiip!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+Time to meet
+with <printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+Take me with
+you too,drip!
+###--------
+###Script:3
+Drip,<waitSkip>drip,<waitSkip>drip...<waitSkip>
+Driiiip!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+Time for food!
+Eat up while
+it's hot,drip!
+###--------
+###Script:4
+Drip,<waitSkip>drip,<waitSkip>drip...<waitSkip>
+Driiiip!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+Time for school!
+Do your best,drip!
+###--------
+###Script:5
+Drip,<waitSkip>drip,<waitSkip>drip...<waitSkip>
+Driiiip!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+<printPlayerNickname>,
+it's time for
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>,drip!
+###Command:printScheduleBuffer
+###--------
+###Script:6
+Um,after that...
+###--------
+###Script:21
+###Mugshot:AquaMan
+Drip,<waitSkip>drip,<waitSkip>drip...<waitSkip>
+Driiiip!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:AquaMan
+<printScheduleBuffer> is
+gonna be on soon!
+###Command:printScheduleBuffer capitalizeFirst=true
+###--------
+###Mugshot:AquaMan
+Let's watch it
+together,drip!
+###--------
+###Script:22
+###Mugshot:AquaMan
+Drip,<waitSkip>drip,<waitSkip>drip...<waitSkip>
+Driiiip!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:AquaMan
+Time to meet
+with <printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Mugshot:AquaMan
+Take me with
+you too,drip!
+###--------
+###Script:23
+###Mugshot:AquaMan
+Drip,<waitSkip>drip,<waitSkip>drip...<waitSkip>
+Driiiip!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:AquaMan
+Time for food!
+Eat up while
+it's hot,drip!
+###--------
+###Script:24
+###Mugshot:AquaMan
+Drip,<waitSkip>drip,<waitSkip>drip...<waitSkip>
+Driiiip!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:AquaMan
+Time for school!
+Do your best,drip!
+###--------
+###Script:25
+###Mugshot:AquaMan
+Drip,<waitSkip>drip,<waitSkip>drip...<waitSkip>
+Driiiip!
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:AquaMan
+<printPlayerNickname>,it's time
+for 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:AquaMan
+<printScheduleBuffer>,drip!
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:AquaMan
+Um,after that...
+###--------

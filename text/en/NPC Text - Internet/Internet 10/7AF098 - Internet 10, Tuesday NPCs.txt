@@ -1,0 +1,27 @@
+﻿###TextArchive:7AF098
+###Script:0
+###Mugshot:OfficialNavi
+*glance,glance...*
+###--------
+###Mugshot:OfficialNavi
+No vicious criminals
+around today...
+###--------
+###Mugshot:OfficialNavi
+This area is close
+to the Undernet,
+###++++++++
+###Mugshot:OfficialNavi
+so I have to put
+extra care into
+patrolling here...
+###--------
+###Script:1
+###Mugshot:OfficialNavi
+Since there's a
+school in this area,
+###++++++++
+###Mugshot:OfficialNavi
+order has to be
+strictly maintained.
+###--------

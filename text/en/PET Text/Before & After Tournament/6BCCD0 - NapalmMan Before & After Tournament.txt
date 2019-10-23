@@ -1,0 +1,48 @@
+﻿###TextArchive:6BCCD0
+###Script:1
+W-What in blazes!?
+###--------
+Even with all my
+massive firepower...
+###--------
+N-N-N-No way!
+I can't
+accept this!!
+###--------
+###Script:2
+Ya see!?
+Now that's what
+I call firepower!
+###--------
+Wood,steel,
+I don't care!
+Bring it on!
+###--------
+I'll burn it
+all to ashes!
+###--------
+###Script:10
+We ain't entered,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:20
+Finally,it's time...
+I'm gonna blow
+'em all away!!
+###--------
+###Script:21
+Finally,it's time...
+I'm gonna blow
+'em all away!!
+###--------
+###Script:22
+Finally,it's time...
+I'm gonna blow
+'em all away!!
+###--------
+###Script:23
+Finally,it's time...
+I'm gonna blow
+'em all away!!
+###--------

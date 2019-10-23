@@ -1,0 +1,20 @@
+﻿###TextArchive:6B5A70
+###Script:1
+I am KnightMan.
+###--------
+I hereby swear
+my loyalty to my
+master,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:2
+It has been
+a while...
+###--------
+Even when I am
+not by your side,
+###--------
+my loyalty to you
+never falters.
+......
+###--------

@@ -1,0 +1,236 @@
+﻿###TextArchive:704368
+## Note: Messages here use regular wide text box, but seem to be limited to
+## 14 characters per line in accordance with the original box from BN3.
+###Script:0
+###Mugshot:MegaMan
+Looks like
+there's a new
+post!
+###--------
+###Script:1
+###Mugshot:MegaMan
+There aren't
+any messages.
+###--------
+###Script:10
+###Mugshot:Roll
+Looks like
+there's a new
+post!
+###--------
+###Script:11
+###Mugshot:GutsMan
+Looks like
+there's a new
+post!
+###--------
+###Script:12
+###Mugshot:WindMan
+It looks like
+there's a new
+post...
+###--------
+###Script:13
+###Mugshot:SearchMan
+It seems
+there's a new
+post...
+###--------
+###Script:14
+###Mugshot:FireMan
+Looks like
+there's a new
+post.
+###--------
+###Script:15
+###Mugshot:ThunderMan
+It appears
+there's a new
+post...
+###--------
+###Script:16
+###Mugshot:ProtoMan
+It seems
+there's a new
+post...
+###--------
+###Script:17
+###Mugshot:NumberMan
+It looks like
+there's a new
+post.
+###--------
+###Script:18
+###Mugshot:MetalMan
+Looks like
+there's a new
+post...
+###--------
+###Script:19
+###Mugshot:JunkMan
+L-Looks like
+there's a new
+post...
+###--------
+###Script:20
+###Mugshot:AquaMan
+Looks like
+there's a new
+post,drip!
+###--------
+###Script:21
+###Mugshot:WoodMan
+It looks like
+there's a new
+post...
+###--------
+###Script:22
+###Mugshot:StarMan
+Looks like
+there's a new
+post!
+###--------
+###Script:23
+###Mugshot:ShadowMan
+It appears
+there's a new
+post...
+###--------
+###Script:24
+###Mugshot:KnightMan
+It seems
+there is a new
+post!
+###--------
+###Script:25
+###Mugshot:NapalmMan
+Looks like
+there's a new
+post!
+###--------
+###Script:26
+###Mugshot:IceMan
+It looks like
+there's a new
+post!
+###--------
+###Script:27
+###Mugshot:ElecMan
+Looks like
+there's a new
+post...
+###--------
+###Script:28
+###Mugshot:PlantMan
+Looks like
+there's a new
+post...
+###--------
+###Script:29
+###Mugshot:Bass
+Looks like
+there's a new
+post...
+###--------
+###Script:30
+###Mugshot:Roll
+There aren't
+any messages.
+###--------
+###Script:31
+###Mugshot:GutsMan
+There aren't
+any messages.
+###--------
+###Script:32
+###Mugshot:WindMan
+There are no
+messages...
+###--------
+###Script:33
+###Mugshot:SearchMan
+There are no
+messages.
+###--------
+###Script:34
+###Mugshot:FireMan
+There ain't
+any messages.
+###--------
+###Script:35
+###Mugshot:ThunderMan
+There are no
+messages...
+###--------
+###Script:36
+###Mugshot:ProtoMan
+There are no
+messages.
+###--------
+###Script:37
+###Mugshot:NumberMan
+There aren't
+any messages.
+###--------
+###Script:38
+###Mugshot:MetalMan
+There aren't
+any messages...
+###--------
+###Script:39
+###Mugshot:JunkMan
+T-There aren't
+any messages.
+###--------
+###Script:40
+###Mugshot:AquaMan
+There aren't
+any messages,
+drip.
+###--------
+###Script:41
+###Mugshot:WoodMan
+There are no
+messages...
+###--------
+###Script:42
+###Mugshot:StarMan
+There aren't
+any messages.
+###--------
+###Script:43
+###Mugshot:ShadowMan
+There aren't
+any messages.
+###--------
+###Script:44
+###Mugshot:KnightMan
+There are no
+messages.
+###--------
+###Script:45
+###Mugshot:NapalmMan
+There ain't
+any messages.
+###--------
+###Script:46
+###Mugshot:IceMan
+There aren't
+any messages...
+###--------
+###Script:47
+###Mugshot:ElecMan
+There aren't
+any messages.
+###--------
+###Script:48
+###Mugshot:PlantMan
+There aren't
+any messages...
+###--------
+###Script:49
+###Mugshot:Bass
+Hmph...
+There aren't
+any messages...
+###--------

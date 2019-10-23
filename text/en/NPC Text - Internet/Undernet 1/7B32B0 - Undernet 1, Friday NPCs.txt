@@ -1,0 +1,77 @@
+﻿###TextArchive:7B32B0
+###Script:0
+###Mugshot:HeelNaviPurple
+Gehehe...
+Wanna battle me...?
+###--------
+<positionOptionHorizontal><option><space> Okay!  <option><space> No way
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Hehehe...
+That so...?
+###--------
+###Script:1
+###Mugshot:HeelNaviPurple
+Gehehehe...
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine!!
+Set!!!
+###--------
+###Mugshot:HeelNaviPurple
+Execute!!
+###--------
+###Script:2
+###Mugshot:HeelNaviPurple
+I thought I'd teach
+you the terror of
+the Undernet...
+###--------
+###Mugshot:HeelNaviPurple
+Hehehe...
+###--------
+###Mugshot:HeelNaviPurple
+Looks like there
+was nothing I could
+teach you after all.
+###--------
+###Script:3
+###Mugshot:HeelNaviPurple
+Gehehe... See...?
+This is the terror
+of the Undernet.
+###--------
+###Script:4
+###Mugshot:HeelNaviPurple
+...Wanna...
+...Fight...?
+###--------
+<positionOptionHorizontal><option><space> Okay!  <option><space> No way
+###Command:positionOptionHorizontal width=12
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Fine...
+###--------
+###Script:5
+###Mugshot:HeelNaviPurple
+...B-R-S-E!
+###--------
+###Script:6
+###Mugshot:HeelNaviPurple
+...I lost the battle,
+but I'll win the war...
+###--------
+###Script:7
+###Mugshot:HeelNaviPurple
+...Now you see the
+power of the Undernet!
+###--------

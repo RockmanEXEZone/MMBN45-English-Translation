@@ -1,0 +1,257 @@
+﻿###TextArchive:79E890
+###Script:0
+###Mugshot:MrProgGreen
+THE COMPANY I WORKED
+FOR WENT BUST,
+###++++++++
+###Mugshot:MrProgGreen
+SO I'M JOB-HUNTING
+EVERY DAY...
+###--------
+###Mugshot:MrProgGreen
+IS THERE EVEN A
+TOMORROW FOR
+SOMEONE LIKE ME...?
+###--------
+###Mugshot:MrProgGreen
+⋯
+###--------
+###Mugshot:MrProgGreen
+NO,THERE DEFINITELY
+IS! I'LL DEFINITELY
+HAVE MY TOMORROW!
+###--------
+###Mugshot:MrProgGreen
+OTHERWISE,IT MEANS
+I'M DYING! I REFUSE
+TO DIE! I'M ALIIIIVE!!
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+A NEW DAY MEANS
+A NEW CHANCE TO
+FIND A JOB,RIGHT!?
+###--------
+###Mugshot:MrProgGreen
+I JUST KNOW IT!!
+TODAY'S GOING TO END
+###++++++++
+###Mugshot:MrProgGreen
+WITHOUT ME FINDING
+MY DESTINY,EITHER!!
+###--------
+###Mugshot:MrProgGreen
+I BET YOU THINK...
+###--------
+###Mugshot:MrProgGreen
+I BET YOU THINK
+IT'S FUNNY I DON'T
+HAVE A JOB,HUH!?
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+IT'S ALREADY NOON...
+TIME IS FLYING
+FOR SOME REASON...
+###--------
+###Mugshot:MrProgGreen
+I HAVE NOTHING
+TO DO,AFTER ALL...
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+I'M NOT GOING TO
+FIND A NEW JOB
+TODAY,EITHER...
+###--------
+###Mugshot:MrProgGreen
+WELL, WHATEVER!
+I'M SURE I'LL FIND
+ONE NEXT WEEK!
+###--------
+###Mugshot:MrProgGreen
+I'M JUST GOING
+HOME FOR THE DAY!
+###--------
+###Script:10
+###Mugshot:NormNaviYellow
+Friday is battle day!
+Will you battle with me?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+No? That's too bad...
+###--------
+###Script:11
+###Mugshot:NormNaviYellow
+Then let's begin!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+Execute!
+###--------
+###Script:12
+###Mugshot:NormNaviYellow
+Argh!
+You got me!
+###--------
+###Mugshot:NormNaviYellow
+You sure are strong!
+###--------
+###Script:13
+###Mugshot:NormNaviYellow
+Alright!
+###--------
+###Mugshot:NormNaviYellow
+That was a good
+battle! Let's do
+it again sometime!
+###--------
+###Script:20
+###Mugshot:PurpleNavi
+Everyone always lets
+their guards down
+on the weekend,
+###--------
+###Mugshot:PurpleNavi
+so people get caught
+up in all kinds of
+unexpected trouble...
+###--------
+###Mugshot:PurpleNavi
+As the keeper of
+this area's peace,
+###--------
+###Mugshot:PurpleNavi
+one of my jobs
+is to make sure
+everyone is alert!
+###--------
+###Script:21
+###Mugshot:PurpleNavi
+At last,it's Friday!
+###--------
+###Mugshot:PurpleNavi
+One more day,and I
+can say no incidents
+occurred this week.
+###--------
+###Mugshot:PurpleNavi
+I won't let my
+guard down until
+the very end!
+###--------
+###Script:22
+###Mugshot:PurpleNavi
+A lot of people have
+the day off tomorrow,
+###--------
+###Mugshot:PurpleNavi
+so they grow impatient
+around lunchtime.
+###--------
+###Mugshot:PurpleNavi
+As the person in
+charge of security,
+I need to stay sharp!
+###--------
+###Script:23
+###Mugshot:PurpleNavi
+Looks like this week
+is going to end without
+any big incidents.
+###--------
+###Mugshot:PurpleNavi
+Oops...I shouldn't
+let my guard down
+just yet.
+###--------
+###Script:24
+###Mugshot:PurpleNavi
+I'm often told I
+lecture people
+too much...
+###--------
+###Mugshot:PurpleNavi
+Well,my job is making
+sure everyone is safe,
+###--------
+###Mugshot:PurpleNavi
+so I end up doing it
+without even realizing.
+###--------
+###Script:30
+###Mugshot:NormNaviPink
+My operator's
+darling is a world-
+class programmer!
+###--------
+###Mugshot:NormNaviPink
+He's so very nice
+and family-oriented!
+###--------
+###Mugshot:NormNaviPink
+The two of them are
+always lovey-dovey!
+###--------
+###Script:31
+###Mugshot:NormNaviPink
+My operator is super
+busy around this time!
+###--------
+###Mugshot:NormNaviPink
+I'd like to help
+her out,but I'm
+only a Navi...
+###--------
+###Mugshot:NormNaviPink
+So I'm just taking
+it easy here!
+###--------
+###Script:32
+###Mugshot:NormNaviPink
+My operator is so
+busy worrying where
+to go on her day off,
+###--------
+###Mugshot:NormNaviPink
+that she forgot to
+go pick up her kids...
+###--------
+###Mugshot:NormNaviPink
+Well...compared to my
+operator,those kids
+are quite responsible,
+###--------
+###Mugshot:NormNaviPink
+so in reality there's
+no need to worry...
+###--------
+###Script:80
+###Mugshot:NaviGirlOrange
+I just need to make it
+through work today!
+Tomorrow's my day off!
+###--------
+###Mugshot:NaviGirlOrange
+Ever since my lunch
+break,I haven't been
+able to sit still!
+###--------
+###Script:90
+###Mugshot:HeelNaviPurple
+*yawn*⋯
+Just can't help getting
+tired around noon!
+###--------
+###Mugshot:HeelNaviPurple
+And it's Friday on
+top of that. This
+week's been grueling...
+###--------

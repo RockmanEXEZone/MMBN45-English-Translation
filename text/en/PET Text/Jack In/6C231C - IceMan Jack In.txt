@@ -1,0 +1,7 @@
+﻿###TextArchive:6C231C
+###Script:1
+Jack in!
+IceMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------

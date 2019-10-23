@@ -1,0 +1,37 @@
+﻿###TextArchive:6C2D3C
+###Script:1
+Ah,that's right!
+In just a bit,
+it's time for...
+###--------
+###Script:2
+"<printScheduleBuffer>"
+###Command:printScheduleBuffer
+###--------
+###Script:3
+Don't forget!
+###--------
+###Script:10
+Today's
+schedule is...
+###--------
+It sure
+looks empty.
+###--------
+###Script:11
+At <printBuffer>:
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+<printBuffer>
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+<printScheduleBuffer>,
+
+###Command:printScheduleBuffer
+###--------
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:12
+That's all!
+###--------

@@ -1,0 +1,30 @@
+﻿###TextArchive:685B7C
+###Script:1
+At last... the
+tournament is
+this weekend.
+###--------
+Let's polish our
+skills for the
+real thing.
+###--------
+###Script:2
+<printPlayerNickname>,the
+tournament
+is today.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Since we're
+entering,let's
+make sure we win.
+###--------
+###Script:3
+<printPlayerNickname>,we've
+picked up an
+interesting item.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I suggest we
+take a look at
+our Key Items.
+###--------

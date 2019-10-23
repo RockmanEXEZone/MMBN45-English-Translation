@@ -1,0 +1,927 @@
+﻿###TextArchive:673770
+###Script:0
+Error!
+Put info in
+the form!
+###--------
+###Script:1
+According to my
+calculations,
+###--------
+the possibility
+that someone
+at <printSchool>
+###Command:printSchool capitalizeFirst=false
+###--------
+has more chips
+than us is
+extremely high.
+###--------
+###Script:2
+<printPlayerNickname>,please
+let me accompany
+you to <printSchool>.
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printSchool capitalizeFirst=false
+###--------
+I'm interested
+in finding out
+###--------
+what kinds of
+chips other
+NetBattlers use.
+###--------
+###Script:3
+Why not try some
+battles with people
+at <printSchool>,
+###Command:printSchool capitalizeFirst=false
+###--------
+where you each
+put your Battle-
+Chips on the line?
+###--------
+###Script:4
+According to my
+information,when
+it comes to who
+###--------
+has the most chips
+among everyone
+at <printSchool>⋯
+###Command:printSchool capitalizeFirst=false
+###++++++++
+You place 3rd,
+<printPlayerNickname>.
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:5
+Stay on your
+guard,<printPlayerNickname>.
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+I continue to sense
+a strong presence
+on the Net...
+###--------
+Should we inform
+<printOlderBro> as well?
+###Command:printOlderBro capitalizeFirst=false
+###--------
+###Script:6
+<printPlayerNickname>,
+I have a report!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I've calculated
+the probability
+###++++++++
+of encountering
+viruses on the Net.
+###--------
+Let's inform
+<printYoungerBro> as well!
+###Command:printYoungerBro capitalizeFirst=false
+###--------
+###Script:7
+Net recon is
+a vital part...
+###--------
+of planning out a
+proper strategy.
+###--------
+Let's ask
+<printOlderSis> to be
+our advisor.
+###Command:printOlderSis capitalizeFirst=false
+###--------
+###Script:8
+It's true,there
+are a lot of
+Navis on the Net.
+###--------
+Keep your eyes
+open,<printPlayerNickname>.
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+You never know
+where an enemy
+might be hiding.
+###--------
+Let's urge
+<printYoungerSis> to be
+careful as well.
+###Command:printYoungerSis capitalizeFirst=false
+###--------
+###Script:9
+For a sniper,I'd
+say communication
+is crucial.
+###--------
+It's difficult to
+gauge whether
+###++++++++
+we should prioritize
+<printFriend>,though...
+###Command:printFriend capitalizeFirst=false
+###--------
+###Script:10
+When you're having
+a Network Duel
+against <printFriend>,
+###Command:printFriend capitalizeFirst=false
+###--------
+make sure to mind
+your manners!
+###--------
+You wouldn't want
+your relationship
+to become strained.
+###--------
+###Script:11
+Is it true that a
+Network Duel is all
+but guaranteed to...
+###--------
+improve relations
+between you and
+your opponent?
+###--------
+Is that how you
+and <printFriend>
+became close,too?
+###Command:printFriend capitalizeFirst=false
+###--------
+That's not how our
+missions usually go...
+###--------
+###Script:13
+After you finish
+up on the Net,
+###++++++++
+I'd advise giving
+yourself proper
+nutrition.
+###--------
+How about having
+some <printFavFood>?
+###Command:printFavFood capitalizeFirst=false
+###--------
+###Script:14
+Even during a
+mission,we often
+eat <printFavFood>.
+###Command:printFavFood capitalizeFirst=false
+###--------
+After all,it's
+packed full of
+essential nutrients.
+###--------
+###Script:15
+I'll search the
+Net right away,
+###--------
+for info on the
+world's tastiest
+<printFavFood>!
+###Command:printFavFood capitalizeFirst=false
+###--------
+###Script:17
+<printPlayerNickname>,whenever
+you're doing
+<printHobby>⋯
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printHobby capitalizeFirst=false
+###--------
+your eyes shine
+with a bright glow.
+###--------
+It's just like a
+sniper aiming
+at their mark.
+###--------
+###Script:18
+<printHobby> is just
+like our missions.
+###Command:printHobby capitalizeFirst=true
+###--------
+The part where you
+line up your aim
+is fairly similar.
+###--------
+###Script:19
+Time just slips
+away when you're
+doing <printHobby>⋯
+###Command:printHobby capitalizeFirst=false
+###--------
+That won't fly
+during a mission,
+though...
+###--------
+###Script:21
+It's important
+to set goals.
+###--------
+If you don't pick a
+clear target,sniping
+will be difficult.
+###--------
+Treat becoming a<printDream>
+<printDream> with
+the same care.
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:22
+When sniping,you
+have to line up
+your shot properly.
+###--------
+Aiming to become a<printDream>
+<printDream> boils
+down to the same.
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:23
+The kinds of Battle-
+Chips you can use
+are innumerable,
+###--------
+but you can't
+let that distract
+you in battle.
+###--------
+Being open for
+even a second
+can be fatal.
+###--------
+Exercise caution
+when aiming to be
+a<printDream> <printDream>,too.
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:25
+Our next
+target will be...
+###--------
+<printCrush>'s
+heart.
+###Command:printCrush capitalizeFirst=false
+###--------
+This mission will
+be more important
+than any before it.
+###--------
+###Script:26
+Standby for my
+report on our
+present situation...
+###--------
+There is a
+possibility that
+<printCrush>
+###Command:printCrush capitalizeFirst=false
+###--------
+is interested in
+you,<printPlayerNickname>!
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+But,ultimately,
+it's only a
+possibility...
+###--------
+###Script:27
+Red alert! We have
+an emergency!!
+###--------
+<printCrush> just
+looked this way!
+###Command:printCrush capitalizeFirst=true
+###--------
+...My bad.
+Seems like I mixed
+up the intel.
+###--------
+###Script:29
+You don't seem
+to exchange a lot
+###--------
+of mail with
+<printPlayerEnemy>,
+<printPlayerNickname>.
+###Command:printPlayerEnemy capitalizeFirst=false
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+I think it'd be
+better to communi-
+cate more often.
+###--------
+Going it alone can
+spell doom for you
+during a mission...
+###--------
+###Script:30
+Mail is the best
+way to transmit
+reliable intel.
+###--------
+Why not send
+some mail to
+<printPlayerEnemy>⋯
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+and clear up any
+misunderstandings
+between you two?
+###--------
+###Script:31
+Teamwork is of
+vital importance
+in the army.
+###--------
+Why don't you
+send <printPlayerEnemy>
+some mail and
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+strengthen your
+teamwork?
+###--------
+###Script:33
+My reconnaissance
+has revealed...
+###--------
+That <printFavShow>
+is currently a hit
+in the living room.
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:34
+I don't think it's
+good to watch
+too much TV.
+###--------
+But if it's
+<printFavShow>⋯
+I guess it's fine.
+###Command:printFavShow capitalizeFirst=false
+###--------
+###Script:35
+Gathering as much
+intel as you can
+is highly beneficial.
+###--------
+<printFavShow> is a
+precious source
+of information,
+###Command:printFavShow capitalizeFirst=true
+###--------
+so let's tune in
+every week.
+###--------
+###Script:37
+If we have trouble
+completing our
+mission,
+###--------
+let's ask
+<printIdol> for
+assistance.
+###Command:printIdol capitalizeFirst=false
+###--------
+They may be able
+to do something
+to help us.
+###--------
+###Script:38
+There's something
+different about
+<printIdol>'s eyes.
+###Command:printIdol capitalizeFirst=false
+###--------
+They've got the
+eyes of a sniper;
+###--------
+with a wide field
+of vision that
+sees everything...
+###--------
+###Script:39
+It seems like
+<printIdol>'s
+teachings
+###Command:printIdol capitalizeFirst=false
+###++++++++
+will come in handy
+during battle.
+###--------
+Let's be sure
+to thank them
+next time.
+###--------
+###Script:41
+If the results
+of my recon
+are correct...
+###--------
+Your <printBestSubject>
+abilities are
+###Command:printBestSubject capitalizeFirst=false
+###--------
+second to none on
+the Net,<printPlayerNickname>.
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:42
+What snipers need
+is concentration
+and a steady aim.
+###--------
+In other words,the
+same essentials
+as <printBestSubject>.
+###Command:printBestSubject capitalizeFirst=false
+###--------
+###Script:43
+<printPlayerNickname>,viruses
+may attack on
+the Net,but...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+with <printBestSubject>
+abilities like yours,
+###Command:printBestSubject capitalizeFirst=false
+###--------
+we have nothing
+to fear.
+###--------
+###Script:45
+If you have things
+you're bad at,
+###--------
+this may lead
+to complications
+during missions.
+###--------
+Might be a good
+idea to master
+<printWorstSubject>
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+while you still
+have the time...
+###--------
+###Script:46
+Finding the enemy's
+weaknesses is the
+core of any mission.
+###--------
+Watch out with
+your <printWorstSubject>,
+<printPlayerNickname>.
+###Command:printWorstSubject capitalizeFirst=false
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+###Script:47
+Everyone hides
+their weaknesses
+on the Net.
+###--------
+Having your weak-
+ness exposed can
+be fatal,after all!
+###--------
+So do all you can,
+<printPlayerNickname>,to stop
+your enemies
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+from discovering
+your <printWorstSubject>
+weakness...
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+###Script:49
+What'll be the
+target for our
+next mission?
+###--------
+Conquer more
+tournaments,or find
+a<printWish> <printWish>?
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+###Script:50
+My calculations
+indicate there are
+about as many
+###--------
+people aiming
+to conquer the
+tournament,
+###--------
+as there are
+people who want
+a<printWish> <printWish>.
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+But unlike them,
+WE actually have
+a shot at victory...
+###--------
+###Script:51
+Just like trying
+to conquer the
+tournament...
+###--------
+The mission of
+obtaining a<printWish>
+<printWish>
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+is no straight-
+forward matter.
+###--------
+The rest is all up
+to the strength
+of your passion.
+###--------
+###Script:53
+Even if we're
+facing someone like
+<printMostFrequentOpponent>'s Navi...
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+My aim will never
+lose focus.
+###--------
+###Script:54
+My scan of
+<printMostFrequentOpponent> reveals
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+that their Net-
+Battle strategies
+are formidable.
+###--------
+I'd expect no less
+from our rival.
+###--------
+###Script:55
+Collecting data
+on opponents is a
+specialty of mine...
+###--------
+I'll begin gathering
+info on <printMostFrequentOpponent>.
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+###Script:57
+It appears that
+<printLostToOpponent> excels at
+detecting enemies.
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+We need to be
+careful not to give
+away our position...
+###--------
+###Script:58
+Whenever we
+battle <printLostToOpponent>⋯
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+it feels like
+my predictions
+never work out.
+###--------
+I might have to
+restart my scan...
+###--------
+###Script:59
+When we battle
+with <printLostToOpponent>,
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+my lock-on always
+ends up missing.
+###--------
+Could it be that
+they can predict
+our actions?
+###--------
+###Script:61
+<printMostLostToOpponent>'s usage
+of <printMostLostToOpponentsChip> seems
+very impressive.
+###Command:printMostLostToOpponent capitalizeFirst=true
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+###--------
+In order for
+us to use this
+as reference...
+###--------
+I'd like to
+begin my scan
+immediately.
+###--------
+###Script:62
+My probe into
+the secret to
+<printMostLostToOpponent>'s power...
+###Command:printMostLostToOpponent capitalizeFirst=false
+###--------
+concludes that it's
+mainly due to their
+<printMostLostToOpponentsChip> chip.
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+It might do us
+good to try
+using it as well.
+###--------
+###Script:63
+<printMostLostToOpponent>'s Navi
+has no openings
+I can lock-on to...
+###Command:printMostLostToOpponent capitalizeFirst=true
+###--------
+Now that's a role
+model any battler
+can look up to.
+###--------
+They may be our
+rival,but I have
+to admire them.
+###--------
+###Script:65
+There's no need
+to run a scan on
+<printDefeatedOpponent>'s Navi...
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+A glance was all it
+took for me to spot
+their weakness.
+###--------
+###Script:66
+According to
+my scan of
+<printDefeatedOpponent>'s Navi...
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+They're still
+just a rookie.
+###--------
+It'd be good to
+suggest they do
+more Network Duels.
+###--------
+###Script:67
+We shouldn't
+take <printDefeatedOpponent>
+for granted.
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+It's not uncommon
+that a NetBattle
+###--------
+takes a turn for
+the unexpected...
+###--------
+###Script:69
+Based on my
+analysis of our
+Network Duels...
+###--------
+it seems like
+not many Navis
+use <printMostDefeatedOpponentsChip>.
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+###Script:70
+Using equipment
+that's well-suited
+for you is
+###--------
+a fast track
+to completing
+your mission.
+###--------
+It seems <printMostDefeatedOpponentsChip>
+doesn't suit
+<printMostDefeatedOpponent> that well.
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###Command:printMostDefeatedOpponent capitalizeFirst=false
+###--------
+The data in our
+battle records
+makes that clear...
+###--------
+###Script:71
+Analysis of our
+Network Duels
+seems to indicate...
+###--------
+the outcome of a
+battle hinges on
+<printMostDefeatedOpponentsChip>'s usage.
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+Maybe we ought
+to report this to
+<printMostDefeatedOpponent> as well...
+###Command:printMostDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:73
+<printFavStandardChip1> is
+indispensable
+in our missions.
+###Command:printFavStandardChip1 capitalizeFirst=true
+###--------
+Please make sure
+to always have it
+in our ChipFolder.
+###--------
+###Script:74
+Use <printFavStandardChip1> to
+stop the enemy in
+their tracks,then
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+lock-on right away!
+That's a ticket
+to victory.
+###--------
+###Script:75
+There's something
+assuring about
+using <printFavStandardChip1>⋯
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+It's got a feeling
+like no other chip.
+###--------
+Maybe it can be
+useful for boosting
+our morale.
+###--------
+###Script:77
+According to my
+scan,battlers that
+use <printFavStandardChip2>⋯
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+are not
+very common.
+###--------
+Personally,I'm
+partial to it,
+though...
+###--------
+###Script:78
+<printFavStandardChip2> is
+somewhat
+inconspicuous...
+###Command:printFavStandardChip2 capitalizeFirst=true
+###--------
+but that sort of
+chips is valuable
+during missions.
+###--------
+###Script:79
+While browsing
+through the
+Data Library...
+###--------
+For some reason,
+<printFavStandardChip2> seems
+to stick out.
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+We'll need to
+do further
+investigation...
+###--------
+###Script:81
+For some reason,
+while running a
+scan on enemies...
+###--------
+<printFavStandardChip3> popped
+into my mind,
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+but I don't yet
+understand the
+reason...
+###--------
+I'll report back
+promptly after
+I investigate.
+###--------
+###Script:82
+Trying to use
+<printFavStandardChip3> seems
+to be difficult.
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+It might even
+compromise your
+calculations...
+###--------
+###Script:83
+Going by the
+results of my
+investigation...
+###--------
+Hard to say how
+well <printFavStandardChip3> can
+support my sniping.
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+###Script:85
+According to
+my analysis
+of <printFavMegaChip>⋯
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+It's the key chip
+in raising our
+chances of victory.
+###--------
+Let's plan out our
+mission with this
+data in mind.
+###--------
+###Script:86
+<printFavMegaChip> is simple
+to use and really
+packs a punch.
+###Command:printFavMegaChip capitalizeFirst=true
+###--------
+Certainly something
+we could use in
+all of our missions...
+###--------
+It's a chip that
+can be deployed
+in any situation.
+###--------
+###Script:87
+When the mission
+is critical...
+###--------
+it would be a good
+time to bring out
+<printFavMegaChip>.
+###Command:printFavMegaChip capitalizeFirst=false
+###--------
+It can eliminate
+your enemies all
+at once,after all...
+###--------
+###Script:89
+<printFavGigaChip> is
+too powerful,
+###Command:printFavGigaChip capitalizeFirst=true
+###--------
+sometimes it
+even causes
+errors in my aim.
+###--------
+Caution is advised...
+###--------
+###Script:90
+<printFavGigaChip>'s power
+is out of this world.
+###Command:printFavGigaChip capitalizeFirst=true
+###--------
+Exercise caution
+when you handle it...
+There's no telling
+###--------
+what kind of
+collateral damage
+it could cause...
+###--------
+###Script:91
+There are a lot
+of BattleChips out
+there,but it's
+###--------
+clear <printFavGigaChip>'s
+power surpasses
+all the others.
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+No need for any
+further analysis!
+###--------

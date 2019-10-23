@@ -1,0 +1,59 @@
+﻿###TextArchive:6770B8
+###Script:0
+Temp message
+###--------
+###Script:70
+N-Ngaaah!!
+###--------
+What did I do!?
+Shoot,I'll get my
+revenge next time!
+###--------
+###Script:71
+Heh,that
+was nothin'!
+###--------
+For some reason,
+###--------
+I feel like there's
+power surging
+inside of me!!
+###--------
+###Script:72
+Heh,that
+was nothin'!
+###--------
+Hey,we got some
+kinda transferal!
+###--------
+Looks like it's
+from the army...
+###--------
+Whoa! There's
+<printBuffer> Zennys
+in here!!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+Dunno what that
+was for,but
+I'll take it!
+###--------
+###Script:73
+Heh,that
+was nothin'!
+###--------
+Hey,we got some
+kinda transferal!
+###--------
+Looks like it's
+from the army...
+###--------
+Whoa! There's
+<printBuffer> BugFrags
+in here!!
+###Command:printBuffer buffer=3 minLength=0 padZeros=false padLeft=false
+###--------
+Dunno what that
+was for,but
+I'll take it!
+###--------

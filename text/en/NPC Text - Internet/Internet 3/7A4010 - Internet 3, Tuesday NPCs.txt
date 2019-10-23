@@ -1,0 +1,149 @@
+﻿###TextArchive:7A4010
+###Script:30
+###Mugshot:NormNaviYellow
+HYA!!
+###--------
+###Mugshot:NormNaviYellow
+HYA!!
+###--------
+###Mugshot:NormNaviYellow
+HYA!!
+###--------
+###Mugshot:NormNaviYellow
+HYAH!! HYAH!!
+###--------
+###Mugshot:NormNaviYellow
+Sorry,
+but could you
+not bother me?
+###--------
+###Mugshot:NormNaviYellow
+I'm training for this
+weekend's tournament.
+And right now,
+###--------
+###Mugshot:NormNaviYellow
+I'm doing the most
+rigorous,soul-crushing
+training regime.
+###--------
+###Script:31
+###Mugshot:NormNaviYellow
+Gwwaaaaaahh!!
+Running full steam
+from dawn till dusk!
+###--------
+###Mugshot:NormNaviYellow
+I've got my eye
+on that tournament
+championship,
+###--------
+###Mugshot:NormNaviYellow
+so another day of
+training begins!
+Haaaaaaahhh!!
+###--------
+###Script:32
+###Mugshot:NormNaviYellow
+*huff,puff*
+Even with a goal like
+winning the tournament,
+###--------
+###Mugshot:NormNaviYellow
+I should be careful
+not to overdo it...
+###--------
+###Mugshot:NormNaviYellow
+Time to take a break
+and grab some lunch.
+###--------
+###Script:33
+###Mugshot:NormNaviYellow
+Hehehe...I'm getting
+stronger every day!
+###--------
+###Mugshot:NormNaviYellow
+...But it might be bad
+if I got TOO strong.
+Let's call it a day.
+###--------
+###Script:70
+###Mugshot:NormNaviBrown
+Both myself and my
+operator are getting
+on in years,you know.
+###--------
+###Mugshot:NormNaviBrown
+I'd rather avoid any
+battles with viruses...
+So tiring...
+###--------
+###Mugshot:NormNaviBrown
+But there's just
+no escaping it
+on the Net...
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Hah!!
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"As you get older,
+ battles with viruses will
+ start getting tougher."
+###--------
+###Script:71
+###Mugshot:NormNaviBrown
+I ran into a virus
+yesterday,you see...
+###--------
+###Mugshot:NormNaviBrown
+I wasn't able to
+escape,so I tried
+throwing a MiniBomb...
+###--------
+###Mugshot:NormNaviBrown
+But just as I was
+about to,my back
+went and ooooh...!
+###++++++++
+###Mugshot:NormNaviBrown
+I guess I'm just
+too old now.
+###--------
+###Mugshot:NormNaviBrown
+･<wait>･<wait>･<wait>Ho!!
+I've come up
+with a haiku!
+###Command:wait frames=20
+###Command:wait frames=20
+###Command:wait frames=20
+###--------
+###Mugshot:NormNaviBrown
+"I wanted to toss
+ a MiniBomb at my foe,
+ but my back gave out."
+###--------
+###Script:90
+###Mugshot:NormNaviPink
+Oh,hello.
+Greetings.
+###--------
+###Mugshot:NormNaviPink
+During calm lunchtimes,
+I come to this
+serene location
+###++++++++
+###Mugshot:NormNaviPink
+to indulge myself
+in poetry.
+###--------
+###Mugshot:NormNaviPink
+Looking at you...
+All of this must go
+over your head,no?
+###--------

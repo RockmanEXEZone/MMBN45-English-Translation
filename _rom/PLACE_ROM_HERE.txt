@@ -1,0 +1,20 @@
+Place a ROM with the following name in this folder:
+
+Rockman EXE45 - Real Operation (J).gba
+
+
+It should match the following information:
+
+Rockman EXE4.5: Real Operation (Japan)
+CRC32	A646601B
+MD5	0F82BB24585C9EC64E99394C9D316315
+SHA1	F89EF4CA8EC1823EB75FA184F2D0F9E66CC78A59
+
+
+The following is also supported. Note that the generated ROM will be different.
+(Includes Wii U Virtual Console changes.)
+
+Rockman EXE4.5: Real Operation (Japan)(Wii U Virtual Console)
+CRC32	9AD45607
+MD5	97C3B138B9797675DFB2135118347992
+SHA1	6EFCD1F8EF84F6F90F265A33CA3D469FB6C41E7F

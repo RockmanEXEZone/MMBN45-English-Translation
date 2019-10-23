@@ -1,0 +1,56 @@
+###TextArchive:766060
+###Script:0
+DOUBLE DELETE!
+###--------
+###Script:1
+TRIPLE DELETE!
+###--------
+###Script:2
+VS
+###--------
+###Script:3
+TIME UP!
+###--------
+###Script:4
+    1   
+###--------
+###Script:5
+    2   
+###--------
+###Script:6
+    3   
+###--------
+###Script:7
+    4   
+###--------
+###Script:8
+    5   
+###--------
+###Script:9
+    6   
+###--------
+###Script:10
+    7   
+###--------
+###Script:11
+    8   
+###--------
+###Script:12
+    9   
+###--------
+###Script:13
+   10   
+###--------
+###Script:14
+ COUNTER HIT! 
+###--------
+###Script:15
+LEFT <printBuffer> 
+###Command:printBuffer buffer=0 minLength=2 padZeros=false padLeft=true
+###--------
+###Script:16
+LEFT  0 
+###--------
+###Script:17
+SHUFFLE! 
+###--------

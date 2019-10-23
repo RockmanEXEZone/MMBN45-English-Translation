@@ -1,0 +1,153 @@
+﻿###TextArchive:6A2184
+###Script:1
+Happy...New Year!
+###--------
+###--------
+O Mother Earth!
+Let this be another
+healthy year!
+###--------
+###--------
+I'll be counting on
+you,too,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:2
+Today is
+April Fools' Day.
+###--------
+Say,<printPlayerNickname>.
+What type of tree
+fits in your hand?
+###Command:printPlayerNickname
+###--------
+The answer is...
+###--------
+...A palm tree!
+###++++++++
+...Perhaps that
+one was a bit
+too a-corny...
+###--------
+###Script:3
+Today is
+February 14th...
+Valentine's Day.
+###--------
+You know,chocolate
+is made from seeds
+called "cocoa".
+###--------
+Before you eat
+chocolates,don't
+just thank the
+###++++++++
+person who gave
+them to you... Thank
+the Earth as well.
+###--------
+###Script:4
+Today is
+February 14th...
+Valentine's Day.
+###--------
+You know,chocolate
+is made from seeds
+called "cocoa".
+###--------
+Before you eat
+chocolates,don't
+just thank the
+###++++++++
+person who gave
+them to you... Thank
+the Earth as well.
+###--------
+###Script:5
+Tonight is
+Halloween.
+###--------
+Are you carving
+a jack-o'-lantern
+today?
+###++++++++
+Pumpkins are
+one of nature's
+many blessings...
+###++++++++
+Be sure to give
+your thanks
+to the Earth.
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve.
+###--------
+N-No...
+Don't look at
+me like that!
+###--------
+I will not be a
+Christmas tree
+for you!
+###--------
+###Script:9
+Merry Christmas.
+###--------
+Did Santa Claus
+visit your place
+last night?
+###--------
+###Script:10
+Tonight is
+New Year's Eve.
+###--------
+Do you have any
+New Year's
+resolutions?
+###--------
+As for me...
+###--------
+I wouldn't
+mind getting a
+little slimmer...
+###--------
+###Script:11
+Today is your
+birthday,isn't it?
+###--------
+Hah! Of course,
+there's no way
+I had forgotten!
+###--------
+Congratulations!
+###--------
+###Script:12
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And...
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------

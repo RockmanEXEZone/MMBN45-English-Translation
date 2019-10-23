@@ -1,0 +1,572 @@
+﻿###TextArchive:7B09F4
+###Script:0
+###Mugshot:HeelNaviPurple
+Hey you! Who the
+heck're you!?
+###--------
+###Mugshot:HeelNaviPurple
+Nothin' personal,but
+I ain't just lettin'
+you walk right in!
+###--------
+###Mugshot:HeelNaviPurple
+If you still wanna
+get in here...
+###--------
+###Mugshot:HeelNaviPurple
+You're gonna have
+to go through me!
+###--------
+###Mugshot:HeelNaviPurple
+Graaaaaaah!!
+###--------
+###Script:1
+###Mugshot:HeelNaviPurple
+Huh? Who're you?
+###--------
+###Mugshot:HeelNaviPurple
+Don't you know what
+kinda place this is?
+###--------
+###Mugshot:HeelNaviPurple
+This is the hideout
+of the BlackWorks!
+###--------
+###Mugshot:HeelNaviPurple
+An organization even
+more terrifying than
+the Undernet!
+###--------
+###Mugshot:HeelNaviPurple
+Now that you know,
+I can't let you
+leave here alive!
+###--------
+###Mugshot:HeelNaviPurple
+Kyahahahahah!!
+###--------
+###Script:2
+###Mugshot:HeelNaviPurple
+Uh...?
+###--------
+###Mugshot:HeelNaviPurple
+Gwaaahhhh...
+Gruuuhhhh...
+###--------
+###Mugshot:HeelNaviPurple
+Kzzzzzttt...
+###--------
+###Mugshot:HeelNaviPurple
+De-De-DELEEETEEE!!
+###--------
+###Script:3
+###Mugshot:HeelNaviBlack
+Well done getting
+this far...
+###--------
+###Mugshot:HeelNaviBlack
+You must be pretty
+strong to be able to
+defeat my comrades...
+###--------
+###Mugshot:HeelNaviBlack
+Are you with
+the Officials?
+###--------
+###Mugshot:HeelNaviBlack
+Doesn't matter...
+###--------
+###Mugshot:HeelNaviBlack
+You have no hopes
+of stopping our...
+###--------
+###Mugshot:HeelNaviBlack
+...Official Tournament
+sabotage plan!!
+###--------
+###Mugshot:HeelNaviBlack
+Hraaaaaaah!!
+###--------
+###Script:4
+###Mugshot:HeelNaviBlack
+Argh...
+###--------
+###Mugshot:HeelNaviBlack
+S-Such power...
+I can't believe you
+were able to beat me...
+###--------
+###Mugshot:HeelNaviBlack
+I-It's all over...
+My BlackWorks...
+･･････
+###--------
+###Mugshot:HeelNaviBlack
+Hey,you...
+I got a favor,
+so hear me out...
+###--------
+###Mugshot:HeelNaviBlack
+My little bro is
+in Internet10...
+###--------
+###Mugshot:HeelNaviBlack
+Please...
+...Stop him.
+###--------
+###Script:5
+###Mugshot:HeelNaviBlack
+S-Such power...
+I can't believe you
+were able to beat me...
+###--------
+###Mugshot:HeelNaviBlack
+...W-What!?
+You beat my
+little bro,too!?
+###--------
+###Mugshot:HeelNaviBlack
+I-It's all over...
+My BlackWorks...
+･･････
+###--------
+###Mugshot:HeelNaviBlack
+Here,take this...
+###--------
+###Mugshot:HeelNaviBlack
+It's what we
+stole from the
+Official Center.
+###--------
+<printCurrentNavi> got:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=11
+###--------
+###Mugshot:HeelNaviBlack
+We'll mend our ways
+from here on out...
+###--------
+###Script:6
+###Mugshot:HeelNaviBlack
+Please...
+Stop my brother
+in Internet10!
+###--------
+###Mugshot:HeelNaviBlack
+I'm begging you!
+###--------
+###Script:7
+###Mugshot:HeelNaviBlack
+What possessed
+me to do something
+like that...?
+###--------
+###Mugshot:HeelNaviBlack
+Thinking back,we were
+just a bunch of fools...
+###--------
+###Mugshot:HeelNaviBlack
+From now on,we're
+going to work hard
+and train so that
+###--------
+###Mugshot:HeelNaviBlack
+maybe one day, we
+can enter the Official
+Tournament for real.
+###--------
+###Script:10
+###Mugshot:MrProgGreen
+HEYA!
+###--------
+###Mugshot:MrProgGreen
+THIS IS INTERNET11!
+THE PATH FROM HERE
+LEADS TO INTERNET12!
+###--------
+###Script:11
+###Mugshot:OfficialNavi
+There is a section
+of this area that
+can only be accessed
+###--------
+###Mugshot:OfficialNavi
+by going through
+Internet12 from
+Internet10.
+###--------
+###Script:12
+###Mugshot:NaviGirlOrange
+Morning!!
+And what a
+nice one it is!
+###--------
+###Mugshot:NaviGirlOrange
+In the real world,
+you wouldn't dream of
+greeting strangers.
+###--------
+###Mugshot:NaviGirlOrange
+But on the Net,it's
+like second nature!
+###--------
+###Script:13
+###Mugshot:NormNaviYellow
+This is just
+a rumor,but...
+###++++++++
+###Mugshot:NormNaviYellow
+Apparently,if you
+want to enter the
+Official Tournament,
+###--------
+###Mugshot:NormNaviYellow
+you have to defeat
+a ferocious Navi that
+sleeps in the Undernet!
+###--------
+###Script:20
+###Mugshot:OfficialNavi
+Internet12 is beyond
+here. It's connected
+to the Undernet.
+###--------
+###Mugshot:OfficialNavi
+By patrolling all the
+areas connected to
+the Undernet,
+###--------
+###Mugshot:OfficialNavi
+we make sure criminals
+and powerful viruses
+don't sneak out.
+###--------
+###Script:21
+###Mugshot:NaviGirlOrange
+Official Navis are
+always patrolling
+these parts.
+###--------
+###Mugshot:NaviGirlOrange
+So you know it's
+always safe!
+###--------
+###Script:30
+###Mugshot:OfficialNavi
+Make sure to jack
+out before it
+gets too late!
+###--------
+###Script:31
+###Mugshot:HeelNaviPurple
+So,night has fallen...
+###--------
+###Mugshot:HeelNaviPurple
+But it's not like
+I'm up to something
+shady or anything...
+###--------
+###Mugshot:HeelNaviPurple
+You'd have to be
+real dense to
+try something
+###++++++++
+###Mugshot:HeelNaviPurple
+with all of these
+Officials around.
+###--------
+###Script:40
+###Mugshot:OfficialNavi
+That scary-looking
+Navi loitering
+over there...
+###--------
+###Mugshot:OfficialNavi
+Suspicious...
+###--------
+###Script:41
+###Mugshot:HeelNaviPurple
+What're you starin'
+at? I'm just picking
+up some litter.
+###--------
+###Mugshot:HeelNaviPurple
+It's a nighttime
+hobby of mine,okay!?
+###--------
+###Script:50
+###Mugshot:SearchMan
+That look in your eyes...
+Are you challenging
+me to a battle?
+###--------
+<positionOptionHorizontal><option><space> Yessir!  <option><space> No sir!
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:SearchMan
+You narrowly escaped
+deletion just now...
+###--------
+###Script:51
+###Mugshot:SearchMan
+I-Impossible! My
+strategy was supposed
+to be airtight...!
+###--------
+###Script:52
+###Mugshot:SearchMan
+Mission complete...
+###--------
+###Mugshot:SearchMan
+All according to plan.
+###--------
+###Script:53
+###Mugshot:KnightMan
+Who goes there...?
+###--------
+###Mugshot:KnightMan
+Do you wish to
+challenge me to
+a duel,perhaps?
+###--------
+<positionOptionHorizontal><option><space> Indeed!  <option><space> Nay!
+###Command:positionOptionHorizontal width=13
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+...Very well.
+###--------
+###Script:54
+###Mugshot:KnightMan
+Y-You are
+strong,indeed...!
+###--------
+###Mugshot:KnightMan
+By my code of honor,
+I humbly accept this
+defeat.
+###--------
+###Mugshot:KnightMan
+However,it shall not
+end the same way in
+our next encounter!
+###--------
+###Script:55
+###Mugshot:KnightMan
+You challenged me,
+despite knowing the
+difference in power.
+###--------
+###Mugshot:KnightMan
+Your courage
+is admirable!
+###--------
+###Mugshot:KnightMan
+However,you will
+not last long with
+such recklessness...
+###--------
+###Script:56
+###Mugshot:SearchMan
+Target,locked on...
+###--------
+###Mugshot:SearchMan
+Battle routine,set!
+Execute!
+###--------
+###Script:57
+###Mugshot:KnightMan
+I shall not hold back!
+###--------
+###Mugshot:KnightMan
+Battle routine,set!
+Execute!
+###--------
+###Script:58
+###Mugshot:SearchMan
+That getup...
+Are you trying
+to provoke me?
+###--------
+<positionOptionHorizontal><option><space> Yessir!  <option><space> No sir!
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:SearchMan
+You narrowly escaped
+deletion just now...
+###--------
+###Script:59
+###Mugshot:KnightMan
+Mmmph!
+What is with that
+appearance!?
+###--------
+###Mugshot:KnightMan
+Surely,that is not me!
+I am NOT that fat!
+###--------
+###Mugshot:KnightMan
+Insulting a knight
+will not be forgiven!
+###--------
+###Mugshot:KnightMan
+I challenge thee!
+###--------
+<positionOptionHorizontal><option><space> En garde!  <option><space> Sorry!
+###Command:positionOptionHorizontal width=16
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:KnightMan
+Hmph!
+###--------
+###Mugshot:KnightMan
+If you are truly sorry,
+do not come dressed
+like that to begin with!
+###--------
+###Script:60
+###Mugshot:IceMan
+You wanna move on?
+###--------
+###Mugshot:IceMan
+Then I'd like your
+operator to help me!
+###--------
+###Mugshot:IceMan
+I'm trying to
+get rid of these
+frozen viruses,
+###--------
+###Mugshot:IceMan
+but I'm not doing
+too well on my own...
+###--------
+###Mugshot:IceMan
+But,if your operator
+can help me out,
+###--------
+###Mugshot:IceMan
+I'll open the
+way for you!
+###--------
+###Mugshot:IceMan
+Will you help me?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:IceMan
+Let's get to
+work then!
+###--------
+###Script:61
+###Mugshot:IceMan
+I did it!
+Thanks to you,I could
+delete all the viruses!
+###--------
+###Mugshot:IceMan
+As promised!
+I'll clear the path!
+###--------
+###Mugshot:IceMan
+Thanks a lot!
+###--------
+###Script:62
+###Mugshot:IceMan
+Boooooo...
+###--------
+###Mugshot:IceMan
+That was uncool!
+I'm not letting you
+pass for that!
+###--------
+###Script:63
+###Mugshot:IceMan
+Awww...
+Don't say that...
+###--------
+###Script:221
+###Mugshot:NormNaviYellow
+Come again soon!
+###--------
+###Script:222
+###Mugshot:NormNaviYellow
+Sorry,
+I'm all sold out.
+###--------
+###Script:223
+###Mugshot:NormNaviYellow
+I'm a NetDealer.
+Wanna see my stuff?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:224
+###Mugshot:NormNaviYellow
+I'm a NetDealer.
+Today's the weekly
+Ladies Day!
+###--------
+###Mugshot:NormNaviYellow
+I've got some sweet
+deals just for girls
+throughout the day!
+###--------
+###Mugshot:NormNaviYellow
+Wanna see my stuff!?
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:225
+###Mugshot:NormNaviYellow
+Hey,welcome!
+I'm a NetDealer!
+###--------
+###Mugshot:NormNaviYellow
+You're in luck!
+I'm in such a
+good mood today,
+###--------
+###Mugshot:NormNaviYellow
+everything has been
+marked down! Buy as
+much as you want!
+###--------
+###Mugshot:NormNaviYellow
+I've got stuff you
+can't normally get!!
+<positionOptionHorizontal><option><space> Sure  <option><space> No,thanks
+###Command:positionOptionHorizontal width=14
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------

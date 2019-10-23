@@ -1,0 +1,330 @@
+﻿###TextArchive:79E148
+###Script:0
+###Mugshot:MrProgGreen
+A PROGRAM IS A
+PROGRAM BECAUSE IT
+HAS A JOB TO DO,HUH...
+###--------
+###Mugshot:MrProgGreen
+A JOBLESS PROGRAM
+LIKE ME CAN'T EVEN
+BE CALLED A PROGRAM.
+###--------
+###Mugshot:MrProgGreen
+SO THEN,I'M･<wait>･<wait>･<wait>
+###Command:wait frames=10
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Mugshot:MrProgGreen
+WHAT EXACTLY AM I!?
+###--------
+###Mugshot:MrProgGreen
+AM I JUST SOME
+GREEN THING!?
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+I'M ALL REFRESHED
+AFTER LAZING ABOUT
+YESTERDAY!
+###--------
+###Mugshot:MrProgGreen
+TODAY,I'M GOING
+TO WORK HARD AND
+FIND A NEW JOB!
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+IT'S NOON,SO MAYBE
+I SHOULD TAKE A
+LITTLE BREAK...
+###--------
+###Mugshot:MrProgGreen
+THOUGH,FOR A
+PROGRAM WITHOUT
+A JOB LIKE ME,
+###--------
+###Mugshot:MrProgGreen
+EVERY DAY IS KIND OF
+LIKE ONE BIG BREAK.
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+*SIGH*
+###--------
+###Mugshot:MrProgGreen
+I GUESS ANOTHER
+DAY HAS GONE BY,
+###--------
+###Mugshot:MrProgGreen
+AND I STILL HAVEN'T
+FOUND A NEW JOB...
+###--------
+###Script:20
+###Mugshot:PurpleNavi
+Today's Thursday,right?
+Everyone starts to
+feel tired by now...
+###--------
+###Mugshot:PurpleNavi
+But not me! I'll work
+diligently to keep the
+peace in this area!
+###--------
+###Mugshot:PurpleNavi
+I'm not feeling
+tired at all!
+###--------
+###Mugshot:PurpleNavi
+My stamina knows no
+bounds,so this job
+is perfect for me!
+###--------
+###Script:21
+###Mugshot:PurpleNavi
+Jack in complete!
+###--------
+###Mugshot:PurpleNavi
+And now,I'll continue
+to tirelessly protect
+this area today!
+###--------
+###Script:22
+###Mugshot:PurpleNavi
+Everyone's enjoying
+their lunch break.
+###--------
+###Mugshot:PurpleNavi
+I'll keep a watchful
+eye and ensure no
+incidents occur!
+###--------
+###Script:23
+###Mugshot:PurpleNavi
+It looks like today
+is going to end
+peacefully.
+###--------
+###Mugshot:PurpleNavi
+Tomorrow is Friday...
+The final day of
+the workweek.
+###--------
+###Mugshot:PurpleNavi
+This area's security
+rests in my hands,
+###++++++++
+###Mugshot:PurpleNavi
+so I can't let
+my guard down.
+###--------
+###Script:24
+###Mugshot:PurpleNavi
+Phew...
+Tomorrow is
+Friday,isn't it?
+###--------
+###Mugshot:PurpleNavi
+Time to jack out
+and rest up.
+###--------
+###Mugshot:PurpleNavi
+I need to be
+ready for the
+last day of work.
+###--------
+###Script:30
+###Mugshot:NormNaviPink
+My operator is
+a mommy!
+###--------
+###Mugshot:NormNaviPink
+She puts a lot of
+effort into her meals!
+###--------
+###Mugshot:NormNaviPink
+Her family is always
+happy,because she gives
+them so much love!
+###--------
+###Script:31
+###Mugshot:NormNaviPink
+That old Navi exercises
+here every day. He's
+really something,huh?
+###--------
+###Mugshot:NormNaviPink
+My operator and I are
+both hopeless when it
+comes to exercise,
+###--------
+###Mugshot:NormNaviPink
+so I kind of
+admire him...
+###--------
+###Script:32
+###Mugshot:NormNaviPink
+Oh my,it's time for my
+operator's cute little
+angel to come home!
+###--------
+###Mugshot:NormNaviPink
+I have to hurry up
+and jack out!
+###--------
+###Script:40
+###Mugshot:HeelNaviPurple
+I've been assigned
+the duty of night
+guard for this area!
+###--------
+###Mugshot:HeelNaviPurple
+I'll make sure this
+area's quiet nights,
+stay quiet!
+###--------
+###Mugshot:HeelNaviPurple
+No need to worry!
+This area is safe
+for travel!
+###--------
+###Script:41
+###Mugshot:HeelNaviPurple
+Hey,you got some
+business being here
+this late at night!?
+###--------
+###Mugshot:HeelNaviPurple
+This may be a fairly
+peaceful area,
+###++++++++
+###Mugshot:HeelNaviPurple
+but it's a dangerous
+time to be walking
+around!
+###--------
+###Mugshot:HeelNaviPurple
+Be careful!
+###--------
+###Script:50
+###Mugshot:NormNaviBrown
+Awriiiiight!!
+###--------
+###Mugshot:NormNaviBrown
+This old-timer's here
+to do some bustin'!
+###--------
+###Mugshot:NormNaviBrown
+As long as I'm
+jacked in here,
+###++++++++
+###Mugshot:NormNaviBrown
+I ain't lettin' these
+blasted viruses
+do as they please!
+###--------
+###Script:60
+###Mugshot:NormNaviYellow
+C'mon,gimme a break!
+###--------
+###Mugshot:NormNaviYellow
+It's just me! There's
+no need to use that
+kind of chip,is there?
+###--------
+###Mugshot:NormNaviPink
+Huh? But I haven't
+used any chips...
+###--------
+###Mugshot:NormNaviYellow
+Oh, sorry...
+My head feels
+all jumbled up,
+###--------
+###Mugshot:NormNaviYellow
+so I thought I was
+under the effect of
+your "Discord"...
+###--------
+###Mugshot:NormNaviYellow
+But maybe I was
+under the effect of
+your charm instead?
+###--------
+###Script:61
+###Mugshot:NormNaviYellow
+If we were to
+NetBattle each
+other,
+###++++++++
+###Mugshot:NormNaviYellow
+you wouldn't even
+need any chips.
+###--------
+###Mugshot:NormNaviPink
+Oh? Why is that?
+###--------
+###Mugshot:NormNaviYellow
+Because your beauty
+is such a powerful
+attack of itself...
+###--------
+###Mugshot:NormNaviYellow
+Since the day we
+met,my heart's been
+reduced to mush!
+###--------
+###Script:70
+###Mugshot:NormNaviPink
+You've caused a bug
+to form within me...
+###--------
+###Mugshot:NormNaviPink
+That bug's name?
+"Love"...
+###--------
+###Mugshot:NormNaviPink
+Whenever I think of
+you,it's like I lose
+sight of myself.
+###--------
+###Script:71
+###Mugshot:NormNaviPink
+If you were a chip,
+you'd be "Blinder"...
+###--------
+###Mugshot:NormNaviPink
+Your radiance just
+blinds my eyes...
+###--------
+###Script:80
+###Mugshot:NaviGirlOrange
+It's Thursday,right?
+###--------
+###Mugshot:NaviGirlOrange
+No wonder there are
+so many Wood-based
+viruses out today.
+###--------
+###Mugshot:NaviGirlOrange
+Ugh, I'm bad with
+Wood enemies...
+###--------
+###Mugshot:NaviGirlOrange
+I think I'll just find
+a quiet area to hide
+at lunchtime...
+###--------
+###Script:90
+###Mugshot:HeelNaviPurple
+It's lunchtime!
+###--------
+###Mugshot:HeelNaviPurple
+Like the Mr.Prog at
+the entrance says,
+###--------
+###Mugshot:HeelNaviPurple
+I'm gonna chill out
+and take it easy!
+###--------

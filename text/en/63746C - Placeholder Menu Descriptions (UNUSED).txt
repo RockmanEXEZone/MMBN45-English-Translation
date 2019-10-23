@@ -1,0 +1,25 @@
+﻿###TextArchive:63746C
+###Script:0
+Transfer SubChip
+data to your Navi.
+###--------
+###Script:1
+Check the
+Data Library.
+###--------
+###Script:2
+Change your
+Navi's equipment.
+###--------
+###Script:3
+Check your
+E-Mail.
+###--------
+###Script:4
+Check your
+Key Items.
+###--------
+###Script:5
+Save progress
+up to this point.
+###--------

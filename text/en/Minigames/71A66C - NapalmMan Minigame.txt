@@ -1,0 +1,1017 @@
+﻿###TextArchive:71A66C
+###Script:0
+###Mugshot:NapalmMan
+I'll teach ya the
+basics of operation!
+###--------
+###Mugshot:NapalmMan
+In the middle of
+the screen is the
+Napalm Sight.
+###--------
+###Mugshot:NapalmMan
+Use the +Control Pad
+to move it so that the
+target's in range.
+###--------
+###Mugshot:NapalmMan
+Then launch a FireBomb
+with the A Button!
+###--------
+###Mugshot:NapalmMan
+You can hit multiple
+targets with one shot!
+###--------
+###Mugshot:NapalmMan
+Use the B Button
+with the +Control Pad
+###++++++++
+###Mugshot:NapalmMan
+to move the
+Napalm Sight faster.
+###--------
+###Mugshot:NapalmMan
+When the NapalmGauge
+at the bottom of the
+screen is filled,
+###--------
+###Mugshot:NapalmMan
+you can prepare
+the NapalmBomb
+with the R Button!
+###--------
+###Mugshot:NapalmMan
+When you press
+the A Button,the
+NapalmBomb will fire.
+###--------
+###Mugshot:NapalmMan
+It'll take out all of
+the targets on the
+screen in one shot!
+###--------
+###Mugshot:NapalmMan
+It can destroy
+anything,after all!
+What a rush!
+###--------
+###Mugshot:NapalmMan
+Once you've fired it,
+the NapalmGauge will
+reset to 0,though.
+###--------
+###Mugshot:NapalmMan
+The NapalmGauge
+fills over time,
+###--------
+###Mugshot:NapalmMan
+so don't worry
+about it!
+Fire at will!
+###--------
+###Mugshot:NapalmMan
+That's the end
+of my operation
+instructions.
+###--------
+###Script:1
+<positionOptionVertical><option><space> Start job
+<positionOptionVertical><option><space> Explain controls
+<positionOptionVertical><option><space> Explain job
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=12
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Script:2
+###Mugshot:NapalmMan
+Got it!
+I've confirmed
+the job details.
+###--------
+###Mugshot:NapalmMan
+We're starting
+the job!
+###--------
+###Script:3
+###Mugshot:NapalmMan
+Not enough!
+I haven't wrecked
+nearly enough!
+###--------
+###Mugshot:NapalmMan
+What a boring job...
+###--------
+###Mugshot:NapalmMan
+This stuff's way
+too simple for us!
+###--------
+###Mugshot:NapalmMan
+You think so too,right?
+###--------
+###Script:4
+###Mugshot:NapalmMan
+For someone like me,
+that was a breeze!
+###--------
+###Mugshot:NapalmMan
+Well... I guess you
+did pretty good,too!
+###--------
+###Mugshot:NapalmMan
+Heh heh! We make
+a good team,huh?
+Let's keep it up!
+###--------
+###Script:5
+###Mugshot:NapalmMan
+Tsk... That job was
+a pain in the...
+###--------
+###Mugshot:NapalmMan
+Well,we did it,so
+that's good,right?
+###--------
+###Mugshot:NapalmMan
+I'm counting on you
+for our next job!
+###--------
+###Script:6
+###Mugshot:NapalmMan
+This doesn't get me
+fired up at all!
+###--------
+###Mugshot:NapalmMan
+We gotta make sure
+to succeed next time!
+###--------
+###Mugshot:NapalmMan
+Or else I'm not gonna
+be worthy of the name
+"NapalmMan" anymore!
+###--------
+###Script:7
+Another fine job!
+###--------
+###--------
+Good thing we can
+count on you to
+get this stuff done.
+###--------
+Here. It's your
+reward.
+###--------
+###Mugshot:NapalmMan
+Tsk... As always,this
+ain't enough,but I
+guess I'll deal with it...
+###--------
+###Script:8
+###Mugshot:NapalmMan
+Hey,this is the area
+for the job! What
+do ya wanna do?
+###--------
+<positionOptionVertical><option><space> Get it done
+<positionOptionVertical><option><space> Not right now
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=10
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:11
+Another fine job!
+###--------
+Good thing we can
+count on you to
+get this stuff done.
+###--------
+Here. It's your
+reward.
+###--------
+###Mugshot:NapalmMan
+Tsk... As always, this
+ain't enough, but I
+guess I'll deal with it...
+###--------
+NapalmMan got:
+"HP Memry"!!!
+###--------
+###Script:12
+Another fine job!
+###--------
+Good thing we can
+count on you to
+get this stuff done.
+###--------
+Here. It's your
+reward.
+###--------
+###Mugshot:NapalmMan
+Tsk... As always, this
+ain't enough, but I
+guess I'll deal with it...
+###--------
+NapalmMan got:
+"<printBuffer> Zennys"!!!
+###Command:printBuffer buffer=3 minLength=1 padZeros=false padLeft=true
+###--------
+###Script:13
+Another fine job!
+###--------
+Good thing we can
+count on you to
+get this stuff done.
+###--------
+Here. It's your
+reward.
+###--------
+###Mugshot:NapalmMan
+Tsk... As always, this
+ain't enough, but I
+guess I'll deal with it...
+###--------
+NapalmMan got
+<printBuffer> BugFrags!!!
+###Command:printBuffer buffer=3 minLength=1 padZeros=false padLeft=true
+###--------
+###Script:14
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are some
+viruses that were
+mistakenly spread here.
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 40 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They'll report it,and
+the Officials will come!
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:15
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are a new
+type of virus SciLab
+is experimenting with.
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 40 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They'll report it,and
+the Officials will come!
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:16
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are some
+viruses that are
+infesting the place.
+###--------
+###Mugshot:NapalmMan
+They're chasing off
+all of the Black Market
+dealer's customers.
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 40 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+If we mess up and hit
+one of the Black
+Market's customers,
+###--------
+###Mugshot:NapalmMan
+our client's gonna
+give us an earful!
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:17
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are
+all of the viruses
+in this area.
+###--------
+###Mugshot:NapalmMan
+This job came from
+a student studying
+for his exams.
+###--------
+###Mugshot:NapalmMan
+Says he wants to
+delete the viruses to
+blow off some steam.
+###--------
+###Mugshot:NapalmMan
+I kinda feel sorry
+for the viruses!
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 40 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They'll report it,and
+the Officials will come!
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:18
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are viruses
+that escaped from an
+Undernet research lab.
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 45 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+Apparently,they're
+actually the lab workers.
+###--------
+###Mugshot:NapalmMan
+If we take out one of
+our client's coworkers,
+it'll be pretty bad...
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:19
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are
+all of the viruses
+in this area.
+###--------
+###Mugshot:NapalmMan
+Apparently, the
+DarkGuild's boss
+is in a bad mood.
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 45 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They're Undernet Navis.
+Seems they're here
+to cheer up the boss.
+###--------
+###Mugshot:NapalmMan
+If we take out one of
+our client's henchmen,
+it'll be pretty bad...
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:20
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are
+all of the viruses
+in this area.
+###--------
+###Mugshot:NapalmMan
+Seems they contain
+some top secret
+Underworld data...
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 45 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They'll report it,and
+the Officials will come!
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:21
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are
+all of the viruses
+in this area.
+###--------
+###Mugshot:NapalmMan
+Apparently our
+client wants to
+post on a BBS,
+###--------
+###Mugshot:NapalmMan
+but these viruses
+are in their way.
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 45 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They'll report it,and
+the Officials will come!
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:22
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are
+all of the viruses
+in this area.
+###--------
+###Mugshot:NapalmMan
+Seems our client
+wants the data
+that the viruses
+###--------
+###Mugshot:NapalmMan
+leave behind after
+being deleted.
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 50 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They'll report it,and
+the Officials will come!
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:23
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are
+all of the viruses
+in this area.
+###--------
+###Mugshot:NapalmMan
+Seems our client
+wants to meet with
+the boss of the
+###--------
+###Mugshot:NapalmMan
+legendary UnderMafia,
+but these viruses
+are in their way.
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 50 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They'll report it,and
+the Officials will come!
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:24
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are
+all of the viruses
+in this area.
+###--------
+###Mugshot:NapalmMan
+Seems our client is
+a virus fanatic from
+the Undernet,and
+###--------
+###Mugshot:NapalmMan
+he's got beef with
+another virus fanatic
+from the surface.
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 50 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They'll report it,and
+the Officials will come!
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:25
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are
+all of the viruses
+in this area.
+###--------
+###Mugshot:NapalmMan
+Our client is an
+Undernet smuggler.
+###--------
+###Mugshot:NapalmMan
+Apparently the viruses
+are getting in the way
+of delivering his goods.
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 50 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They'll report it,and
+the Officials will come!
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Mugshot:NapalmMan
+Man,what does he
+mean by "goods"?
+I gotta know!
+###--------
+###Script:26
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are
+all of the viruses
+in this area.
+###--------
+###Mugshot:NapalmMan
+They're search
+programs meant to
+track down the Guild.
+###--------
+###Mugshot:NapalmMan
+The programs are
+disguised as viruses.
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 55 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They're members
+of the DarkGuild.
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:27
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+This is the champion-
+ship round of a virus
+deleting contest.
+###--------
+###Mugshot:NapalmMan
+Seems if we blow
+up 55 viruses,we
+win the contest!
+###--------
+###Mugshot:NapalmMan
+Should be a piece of
+cake for us,right?
+###--------
+###Mugshot:NapalmMan
+The time limit is
+60 seconds.
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They're judges
+for the contest.
+###--------
+###Mugshot:NapalmMan
+If we take out one
+of the judges,we'll
+lose 5 seconds!
+###--------
+###Script:28
+###Mugshot:NapalmMan
+I've finished
+downloading the
+job data!
+###--------
+###Mugshot:NapalmMan
+The targets are
+all of the viruses
+in this area.
+###--------
+###Mugshot:NapalmMan
+Seems like due to
+these viruses,
+###--------
+###Mugshot:NapalmMan
+Navis won't go near
+the DarkGuild...
+###--------
+###Mugshot:NapalmMan
+I've confirmed from
+the data that there
+are 55 targets.
+###--------
+###Mugshot:NapalmMan
+Let's get a move on
+and finish the job
+within 60 seconds!
+###--------
+###Mugshot:NapalmMan
+And don't attack any
+of the civilian Navis
+walking around!
+###--------
+###Mugshot:NapalmMan
+They're Undernet Navis.
+They also came here
+to delete the viruses.
+###--------
+###Mugshot:NapalmMan
+If we take out one of
+our client's henchmen,
+it'll be pretty bad...
+###--------
+###Mugshot:NapalmMan
+If we hit one,we'll
+lose 5 seconds of
+time to finish the job!
+###--------
+###Script:29
+###Mugshot:NapalmMan
+Whoops!
+I accidentally
+spread around
+###--------
+###Mugshot:NapalmMan
+a buncha viruses
+in this area!
+###--------
+###Mugshot:NapalmMan
+Let's take 'em out
+with style using the
+NapalmProgram!
+###--------
+###Script:30
+###Mugshot:NapalmMan
+I spread around 40
+viruses in this area!
+###--------
+###Mugshot:NapalmMan
+The time limit is
+60 seconds.
+###--------
+###Mugshot:NapalmMan
+Before time runs out,
+###--------
+###Mugshot:NapalmMan
+take 'em all out
+with style!
+###--------
+###Mugshot:NapalmMan
+If you can't pull
+that off,I can't
+approve of you!
+###--------
+###Mugshot:NapalmMan
+And if you get
+a civilian Navi
+wrapped up in this,
+###--------
+###Mugshot:NapalmMan
+I'll take 5 seconds
+off of the time limit!
+###--------
+###Mugshot:NapalmMan
+If you're too slow, the
+Officials will show up!
+###--------
+###Script:31
+###Mugshot:NapalmMan
+I spread around 55
+viruses in this area!
+###--------
+###Mugshot:NapalmMan
+The time limit is
+60 seconds.
+###--------
+###Mugshot:NapalmMan
+Before time runs out,
+###--------
+###Mugshot:NapalmMan
+take 'em all out
+with style!
+###--------
+###Mugshot:NapalmMan
+If you can't pull
+that off,I can't
+approve of you!
+###--------
+###Mugshot:NapalmMan
+And if you get
+a civilian Navi
+wrapped up in this,
+###--------
+###Mugshot:NapalmMan
+I'll take 5 seconds
+off of the time limit!
+###--------
+###Mugshot:NapalmMan
+If you're too slow, the
+Officials will show up!
+###--------
+###Script:32
+<positionOptionVertical><option><space> Start wrecking
+<positionOptionVertical><option><space> How to operate
+<positionOptionVertical><option><space> Explain wrecking
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=2 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=0
+###Command:space count=1
+###--------
+###Script:33
+###Mugshot:NapalmMan
+Okay! I'm countin'
+on you to give me
+a good show!
+###--------
+###Mugshot:NapalmMan
+NapalmProgram <wait>START!
+###Command:wait frames=50
+###--------
+###Script:34
+###Mugshot:NapalmMan
+Awriiiiiight! You
+cleared it with style!
+Not too shabby!
+###--------
+###Script:35
+###Mugshot:NapalmMan
+Terrible,terrible!
+###--------
+###Mugshot:NapalmMan
+That ain't gonna
+cut it!
+###--------
+###Mugshot:NapalmMan
+I'm not gettin'
+into this at all!
+###--------

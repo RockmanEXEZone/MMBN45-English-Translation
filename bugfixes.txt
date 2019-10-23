@@ -1,0 +1,175 @@
+The following glitches have been fixed in the MMBN4.5 translation as well as the
+Japanese Update Patch.
+
+
+
+Fixed an issue where time-sensitive NPCs checked the world update time rather
+than the current time when determining when to spawn. Since world updates
+normally only occur at 6 AM and 6 PM, if you jacked into the Net in the morning
+then waited until the afternoon, for example, certain Navis would still say
+"Good morning".
+
+Added a feature where certain time-sensitive NPCs now jack out when their time
+is up, and the next NPC for the new time slot will jack in instead.
+
+Fixed Everyday Tournament spectators jacking out when you advance the time to
+the next Everyday Tournament time slot.
+
+The BBS in Undernet 4 now has "Under BBS" as the label. This label existed in
+EXE4.5 already, but was unused.
+
+The maximum year you can enter is now 2099 (originally it was 2050).
+
+Fixed a crash that occurs when you press A+B on the same frame in the E-Mail
+screen.
+
+Fixed a crash that can randomly occur during screen transitions when you have
+any events listed in your schedule.
+
+Fixed a number of chips causing freezes or lag in certain emulators.
+
+Fixed a crash that occurs when you enter any area with a grown WoodMan tree in
+it while the Real-Time Clock is not working.
+
+Fixed a very minor graphical glitch that occurs for 1 frame at the top of the
+screen while the text input window scrolls out of view when inputting text via
+the Mr. Progs on your HomePage.
+
+Fixed the Chip Trader not using blue or red color when you draw a MegaChip or
+GigaChip.
+
+In the Set Time screen, the day of the month now auto-adjusts when you change
+the month or year. For example, setting the date to 31 March then changing the
+month to April will change the day number to 30 rather than leaving it at 31
+like in the originalgame.
+
+Removed a "Navi appear" SFX that plays at the end of using the GutPunch chip, to
+bring it in line with all other summon chips.
+
+Fixed the game internally thinking the year is 2001 when you play on 1/1/2000
+between 12 AM and 6 AM.
+
+Fixed a glitch where the game would always only select 1 of the 2 possible
+tournament finalist candidates. This made it impossible to fight, for instance,
+ProtoMan in the Official Tournament as many Navis.
+
+Fixed a glitch where win rates for NPC Navis in tournaments were not set
+correctly. This would cause certain Navis to have inconsistent win rates against
+one another, e.g. depending on which Navi was on the left and right. The new
+rates should be more consistent with developer intent.
+
+Fixed a glitch where you could clip out of bounds by picking up the purple
+mystery data in Golf Course Comp 2 from the north side. The mystery data has
+been moved slightly to avoid this.
+
+Fixed a glitch where you could clip out of bounds by picking up the purple
+mystery data in Internet 9 from the north side. The mystery data has been moved
+slightly to avoid this.
+
+Fixed playable Bass's Shooting Buster not having an animation. It now uses the
+same Shooting Buster animation as his boss version, and uses his winding down
+animation once it's done. The positions for the shot effects are also adjusted.
+
+Fixed Bass XX using the wrong palette for his afterimages when he moves.
+
+Added a special check for VideoMan's video tapes to the Navi's movement AI, this
+prevents the design flaw where if you have distance not set to 5, they move
+randomly until they step into the back column, at which point they stop moving
+entirely.
+
+Fixed a glitch where boss Bass's cloak would appear backwards after being
+Counter Hit during the second hit of Dark Arm Blade.
+
+Fixed a glitch where boss Bass's afterimages while moving would appear backwards
+after being Counter Hit during the third hit of Dark Arm Blade.
+
+Fixed a glitch where boss ShadowMan's AntiNavi trap did not deallocate objects
+once it was done, causing certain summon chips to no longer work after he uses
+it. In addition to this, ShadowMan now uses his proper warp-out animation while
+using AntiNavi, rather than using the generic "purple blob" warp-out.
+
+Fixed a glitch where if boss ShadowMan stole a player's Roll chip using his
+AntiNavi trap, it would never target the player. Now, the stolen Roll chip
+damages the player as it should.
+
+Fixed boss ProtoMan's sword attacks coming out before his animation. Now, his
+attacks use the same timings as MMBN5.
+
+Fixed ProtoMan and DeltaRay's sword slashes coming out before ProtoMan's
+animation. Now, the chips use the same timings as MMBN5. However, the overall
+length of the attack is unchanged for compatibility reasons.
+
+Fixed ProtoMan Omega having a red sword hilt despite the rest of his sprite
+being orange. Now, his sword hilt is orange as well.
+
+ElecMan's Dash Elec Sword attack now has a yellow sword slash effect to indicate
+that it does Elec damage.
+
+Fixed a glitch where the hitboxes of BurnMan's Heat Chaser flames were being
+removed if a screen-dimming chip was used while the flames were out. Now, the
+flames properly continue to be active until their sprite disappears.
+
+Fixed a glitch where BurnMan's Heat Chaser hitboxes reference the wrong parent
+object if you destroy the Heat Chaser with a Breaking attack as it's firing,
+then spawn a new hitbox with a different attack.
+
+Fixed a glitch where the game was not properly checking 6 o'clock time
+boundaries for world updates due to using a 30-hour extended time system
+internally.
+
+Fixed a glitch where certain summon NaviChips would spawn without attached
+sprites in certain battles with many enemies present. For instance, the Bass
+chip would spawn him without his cloak.
+
+Fixed a glitch where VideoMan's Stock Footage attack was not paused during
+screen-dimming chips.
+
+Fixed a glitch where SearchMan would sometimes receive missions for areas he
+doesn't have access to yet. (Note that this can happen for ProtoMan/ShadowMan,
+but for those Navis it's by design.)
+
+Fixed a glitch where ProtoMan and ShadowMan could never receive mission #2 as
+the first random mission.
+
+Fixed WindMan's minigame Mr. Prog respawning when you switch to a Navi you
+haven't used before.
+
+Fixed WindMan's minigame Mr. Prog spawning checking the tournament progress of
+your current Navi rather than WindMan's progress. This could cause a Mr. Prog to
+be spawned that WindMan shouldn't have access to yet, and if he does its
+minigame, he will permanently miss the HP Memory that the Mr. Prog would
+normally give.
+
+For imported Japanese save files, repeated WindMan minigame Mr. Progs will now
+give any HP Memories that were missed before.
+
+Fixed placeholder numbers showing for 1 frame during fade-in for Equipment, Mail
+and Comm menus.
+
+Removed a graphical error in the Equipment screen during fade-in where it would
+show the L Button equipment name on the R Button for 1 frame.
+
+Added a delay to world updates if a battle just ended; this prevents an issue
+where the Navi you just fought has despawned, but they still talk via a text
+box.
+
+Remove unnecessary proximity spawn property from static NPCs, this stops some
+roadblock Navis from being invisible if you saved next to them.
+
+Fixed a corner block in Undernet 3 having the wrong wall type.
+
+Made the HeelNavi in ElecStoveComp Everyday Tournament not level up after
+beating the Silver Tournament, just like NormalNavi as he no longer matches his
+mugshot after it.
+
+Fixed GutsMan vs GutsMan freefight changing into an AquaMan fight.
+
+Fixed the wrong area music being played when you cancel a Mission or Wrecking
+Job as SearchMan or NapalmMan that takes place in an Undernet area.
+
+Fixed the MB for Lightning2 and Lightning3 chips (taken from MMBN4).
+
+Fixed folder editor ID sort not matching library order for BurnMan chips.
+
+Fixed a number of behind-the-scenes glitches that did not affect gameplay at
+all, but will reduce error logs in emulators.

@@ -1,0 +1,117 @@
+﻿###TextArchive:65E438
+###Script:1
+Happy New Year!
+Let's make it
+another good one!
+###--------
+###--------
+This is the time
+for New Year's
+resolutions,right?
+###--------
+What are your
+goals for
+this year?
+###--------
+###Script:2
+Today is
+April Fools' Day!
+###--------
+You know,the best
+part of any prank
+###++++++++
+is when everyone
+can laugh together
+in the end!
+###--------
+###Script:3
+Today is
+Valentine's Day!
+###++++++++
+Wonder if you'll
+get a letter from
+your Valentine?
+###--------
+I bet you're
+nervous!
+###--------
+###Script:4
+Today is
+Valentine's Day!
+###++++++++
+Wonder if you'll
+get a letter from
+your Valentine?
+###--------
+I bet you're
+nervous!
+###--------
+###Script:5
+Tonight is
+Halloween!
+###--------
+Hey,let's carve
+a jack-o'-lantern
+today!
+###++++++++
+Maybe I'll make
+one in the shape
+of my Navi symbol?
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve!
+###++++++++
+Are you having
+a fancy dinner
+tonight?
+###--------
+I hope Santa
+visits,too!
+###--------
+###Script:9
+Merry Christmas!
+###--------
+It's Christmas
+today! The eve is
+more lively,though!
+###--------
+###Script:10
+Tonight is
+New Year's Eve...
+###++++++++
+The year is
+already coming
+to an end.
+###--------
+We gotta make
+sure everything
+is tidy!
+###--------
+###Script:11
+Happy Birthday!
+###--------
+Today marks a new
+beginning for you!
+###--------
+###Script:12
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And...
+"<printScheduleBuffer>"!
+###Command:printScheduleBuffer
+###--------

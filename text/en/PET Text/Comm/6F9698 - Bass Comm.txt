@@ -1,0 +1,148 @@
+﻿###TextArchive:6F9698
+###Script:0
+...What will you do?
+###--------
+###Script:15
+MegaMan BN4.5
+Real Operation
+battle mode.
+###--------
+###Script:16
+MegaMan BN4
+with Chip Gate
+battle mode.
+###--------
+###Script:17
+1 round decides the
+winner. I thirst
+for destruction...
+###--------
+###Script:18
+3 rounds... First
+to win 2 will be
+the champion.
+###--------
+###Script:19
+Both players use
+the BattleChip Gate
+in this mode.
+###--------
+###Script:20
+Neither player uses
+the BattleChip Gate
+in this mode.
+###--------
+###Script:30
+Your opponent
+isn't ready.
+Hold on...
+###--------
+###Script:31
+Communication
+error... Check the
+Game Link cable.
+###--------
+###Script:33
+Let's battle!
+###--------
+###Script:34
+Both players use
+the BattleChip Gate
+in this mode.
+###--------
+Make sure both
+the Game Link
+cable and the
+###--------
+BattleChip Gate
+are connected.
+###--------
+###Script:35
+Neither player uses
+the BattleChip Gate
+in this mode.
+###--------
+Disconnect the
+BattleChip Gate
+and try again.
+###--------
+###Script:36
+Preparing
+communication.
+Hold on...
+###--------
+###Script:37
+This mode is for
+battling MegaMan
+Battle Network 4.
+###--------
+Make sure your
+opponent has
+MegaMan BN4.
+###--------
+###Script:40
+Finally... If you
+want to control me,
+work on your skill...
+###--------
+###Script:41
+We won... I suppose
+you did a decent
+job for once.
+###--------
+###Script:45
+I can't still my
+destructive thirst
+with you...
+###--------
+###Script:46
+Hmph... In the end,
+this is all you
+humans can do.
+###--------
+###Script:50
+Why battle if you
+don't win... Work
+on your skills.
+###--------
+###Script:51
+Communication
+error... Check the
+Game Link cable.
+###--------
+###Script:55
+This mode is Single
+Battle with the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode as
+your opponent.
+###--------
+###Script:56
+This mode is Single
+Battle without the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode as
+your opponent.
+###--------
+###Script:57
+This mode is Triple
+Battle with the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode as
+your opponent.
+###--------
+###Script:58
+This mode is Triple
+Battle without the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode as
+your opponent.
+###--------

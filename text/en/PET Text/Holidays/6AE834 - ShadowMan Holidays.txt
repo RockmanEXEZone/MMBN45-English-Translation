@@ -1,0 +1,142 @@
+﻿###TextArchive:6AE834
+###Script:1
+Happy New Year.
+###--------
+That might seem
+funny,coming
+from me,but...
+###--------
+New Year's
+greetings are an
+age-old tradition.
+###++++++++
+You should make
+time to do them...
+###--------
+###Script:2
+Today is
+April Fools' Day...
+###--------
+For a ninja,the
+art of misdirection
+is indispensable.
+###--------
+It's time to show
+everyone our
+tricks,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:3
+Today is that
+age-old holiday,
+Valentine's Day...
+###--------
+People give letters
+to those they like
+###++++++++
+to express
+their feelings...
+###--------
+It's kind of
+charming in
+its own way...
+###--------
+###Script:5
+Tonight is
+Halloween...
+###--------
+It seems many
+people are wearing
+disguises today...
+###--------
+###--------
+I didn't know there
+were this many
+ninjas around...
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve...
+###--------
+It's said Santa
+Claus visits in
+the dead of night...
+###--------
+Is he some sort
+of ninja too...?
+###--------
+###Script:9
+Today is
+Christmas.
+###--------
+Did Santa Claus
+visit last night...?
+###--------
+I didn't even
+sense his
+presence...
+###--------
+###Script:10
+Tonight is
+New Year's Eve...
+###++++++++
+Another year
+draws to a close...
+###--------
+But no fireworks
+for me. Draws too
+much attention...
+###--------
+###Script:11
+It's your
+birthday today...
+###--------
+My congratulations
+to you...
+###--------
+With a greater age
+comes greater
+responsibility...
+###--------
+Even though it's
+your birthday,
+###--------
+you shouldn't
+just spend it
+lollygagging...
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>"⋯
+###Command:printScheduleBuffer
+###--------
+###Script:18
+Furthermore,it's
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------

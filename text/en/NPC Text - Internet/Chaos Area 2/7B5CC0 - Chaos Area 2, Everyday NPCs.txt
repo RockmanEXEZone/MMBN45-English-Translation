@@ -1,0 +1,307 @@
+﻿###TextArchive:7B5CC0
+###Script:0
+###Mugshot:IceMan
+You wanna move on?
+###--------
+###Mugshot:IceMan
+Then I'd like your
+operator to help me!
+###--------
+###Mugshot:IceMan
+I'm trying to
+get rid of these
+frozen viruses,
+###--------
+###Mugshot:IceMan
+but I'm not doing
+too well on my own...
+###--------
+###Mugshot:IceMan
+But,if your operator
+can help me out,
+###--------
+###Mugshot:IceMan
+I'll open the
+way for you!
+###--------
+###Mugshot:IceMan
+Will you help me?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:IceMan
+Let's get to
+work then!
+###--------
+###Script:1
+###Mugshot:IceMan
+I did it!
+Thanks to you,I could
+delete all the viruses!
+###--------
+###Mugshot:IceMan
+As promised!
+I'll clear the path!
+###--------
+###Mugshot:IceMan
+Thanks a lot!
+###--------
+###Script:2
+###Mugshot:IceMan
+Boooooo...
+###--------
+###Mugshot:IceMan
+That was uncool!
+I'm not letting you
+pass for that!
+###--------
+###Script:3
+###Mugshot:IceMan
+Awww...
+Don't say that...
+###--------
+###Script:10
+###Mugshot:NapalmMan
+...Hey,you wanna
+pass through here!?
+###--------
+###Mugshot:NapalmMan
+Well,I only open
+the way to folks
+I like,ya know.
+###--------
+###Mugshot:NapalmMan
+If you wanna
+get through,
+###++++++++
+###Mugshot:NapalmMan
+ya gotta do what
+I say to make me
+like you!
+###--------
+###Mugshot:NapalmMan
+So how about it?
+Wanna give it a go?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NapalmMan
+Heh heh...
+What shall I get
+you to do for me...
+###--------
+###Mugshot:NapalmMan
+Let's see...
+...Yeah, that'll do.
+###--------
+###Mugshot:NapalmMan
+I'm gonna scatter
+some viruses in
+Undernet2.
+###--------
+###Mugshot:NapalmMan
+You gotta blast all
+those viruses within
+the time limit.
+###--------
+###Mugshot:NapalmMan
+Make sure you take
+'em out with a BANG!
+###--------
+###Mugshot:NapalmMan
+I'll lend you my
+NapalmProgram...
+###--------
+###Mugshot:NapalmMan
+One more thing--
+don't even think
+about jacking out
+###--------
+###Mugshot:NapalmMan
+until you've defeated
+the viruses I scattered.
+###--------
+###Mugshot:NapalmMan
+I hate cowards who avoid
+walking through the Net
+cuz of scary viruses.
+###--------
+###Mugshot:NapalmMan
+If you jack out even
+once, I ain't gonna
+let ya through here.
+###--------
+###Mugshot:NapalmMan
+Put on a good
+show for me!
+###--------
+###Script:11
+###Mugshot:NapalmMan
+Okay,in that case
+ya can go look
+for another path!
+###--------
+###Script:12
+###Mugshot:NapalmMan
+What? Did ya forget
+something already?
+###--------
+###Mugshot:NapalmMan
+Guess it's no use...
+I'll explain it
+to you again!
+###--------
+###Mugshot:NapalmMan
+I'm gonna scatter
+some viruses in
+Undernet2.
+###--------
+###Mugshot:NapalmMan
+You gotta blast all
+those viruses within
+the time limit.
+###--------
+###Mugshot:NapalmMan
+One more thing--
+don't even think
+about jacking out
+###--------
+###Mugshot:NapalmMan
+until you've defeated
+the viruses I scattered.
+###--------
+###Mugshot:NapalmMan
+I hate cowards who avoid
+walking around the Net
+cuz of scary viruses.
+###--------
+###Mugshot:NapalmMan
+If you jack out even
+once, I ain't gonna
+let ya through here.
+###--------
+###Mugshot:NapalmMan
+Put on a good
+show for me!
+###--------
+###Script:13
+###Mugshot:NapalmMan
+I was watching you
+blast away those
+viruses in Undernet2!
+###--------
+###Mugshot:NapalmMan
+Not bad, not bad!
+Ya did pretty well!
+###--------
+###Mugshot:NapalmMan
+I like you...
+So you can pass!
+###--------
+###Script:14
+###Mugshot:NapalmMan
+You don't expect me to
+let you through with
+that botch job,do ya!?
+###--------
+###Mugshot:NapalmMan
+You gonna try again?
+###--------
+###Mugshot:NapalmMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NapalmMan
+Alright, then get
+back out there!
+###--------
+###Script:15
+###Mugshot:NapalmMan
+Okay,in that case
+ya can go look
+for another path!
+###--------
+###Script:20
+###Mugshot:WindMan
+You wish to proceed?
+###--------
+###Mugshot:WindMan
+Then,I shall
+perform a test,
+###++++++++
+###Mugshot:WindMan
+to see if you
+are worthy of
+advancing ahead...
+###--------
+###Mugshot:WindMan
+However,this test is
+not for you. It is
+for your operator...
+###--------
+###Mugshot:WindMan
+Operator,you must
+operate me and
+rouse a wind!
+###--------
+###Mugshot:WindMan
+If you can rouse a
+wind that impresses me,
+I shall let you pass.
+###--------
+###Mugshot:WindMan
+What say you...?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:WindMan
+Good...
+In that case,let us
+begin immediately...
+###--------
+###Mugshot:WindMan
+Here we go!!
+###--------
+###Script:21
+###Mugshot:WindMan
+H-Hmmm!!
+Quite remarkable.
+###--------
+###Mugshot:WindMan
+It takes a
+commendable person
+to impress me...
+###--------
+###Mugshot:WindMan
+Very well,
+you may pass...
+###--------
+###Script:22
+###Mugshot:WindMan
+That level of skill
+cannot rouse a wind
+that can impress me.
+###--------
+###Script:23
+###Mugshot:WindMan
+...Hm,I see...
+###--------

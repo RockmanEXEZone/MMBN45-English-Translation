@@ -1,0 +1,8 @@
+﻿###TextArchive:78B878
+###Script:0
+###Mugshot:ProtoMan
+Massive levels of
+DarkPower here...
+Stay alert,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------

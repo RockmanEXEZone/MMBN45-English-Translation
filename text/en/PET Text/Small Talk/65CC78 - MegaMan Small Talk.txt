@@ -1,0 +1,818 @@
+﻿###TextArchive:65CC78
+###Script:0
+Error!
+Put info in
+the form!
+###--------
+###Script:1
+Let's do our best
+to collect lots of
+chips,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+By the way,
+I wonder if
+there's anyone
+###--------
+at <printSchool>
+with a lot of chips?
+###Command:printSchool
+###--------
+###Script:2
+Collecting chips
+is tough,isn't it?
+###--------
+Let's get every-
+one at <printSchool>
+to help us!
+###Command:printSchool
+###--------
+###Script:3
+The person who
+has the best chips
+at <printSchool>⋯
+###Command:printSchool
+###--------
+It's you,right,
+<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:5
+Being on the Net
+was really fun!
+###--------
+How about we
+invite <printOlderBro>
+to go with us,too?
+###Command:printOlderBro
+###--------
+###Script:6
+There sure are
+a lot of viruses
+on the Net.
+###--------
+Hey,between
+<printPlayerNickname> and
+<printYoungerBro>,
+###Command:printPlayerNickname
+###Command:printYoungerBro
+###--------
+which of you is
+better at busting
+viruses?
+###--------
+It's gotta
+be <printPlayerNickname>,
+of course!
+###Command:printPlayerNickname
+###--------
+###Script:7
+I'd like to
+see <printOlderSis>'s
+operating sometime.
+###Command:printOlderSis
+###--------
+You can really
+tell the differences
+between siblings
+###++++++++
+in the way that
+they operate!
+###--------
+###Script:8
+Hey,since we've
+jacked out,
+###--------
+how about we
+go play outside
+with <printYoungerSis>?
+###Command:printYoungerSis
+###--------
+###Script:9
+You and <printFriend>
+sure are close!
+###Command:printFriend
+###--------
+You think I could
+become close
+with them too?
+###--------
+Maybe I'll try
+sending them a
+greeting message!
+###--------
+###Script:10
+I wonder what
+<printFriend> is up
+to right now?
+###Command:printFriend
+###--------
+Let's send them
+a message asking
+"What's up?"
+###--------
+###Script:11
+Hey <printPlayerNickname>,
+###Command:printPlayerNickname
+###--------
+would you say
+<printFriend> is your
+best friend?
+###Command:printFriend
+###--------
+If so,you should
+ask them for
+advice via mail!
+###--------
+###Script:13
+After running
+around on the Net,
+I'm pretty hungry!
+###--------
+<printFavFood> is
+pretty tasty,
+isn't it,<printPlayerNickname>?
+###Command:printFavFood capitalizeFirst=true
+###Command:printPlayerNickname
+###--------
+Right now,I could
+really go for some!
+###--------
+###Script:14
+After exhausting
+yourself by running
+around and battling,
+###--------
+eating <printFavFood>
+is the best!
+###Command:printFavFood
+###--------
+###Script:15
+Even if you take
+damage in battle,
+###--------
+eating <printFavFood>
+will make you feel
+better right away!
+###Command:printFavFood
+###--------
+At least,that's
+what I think!
+###--------
+###Script:17
+Hey <printPlayerNickname>,
+your hobby is
+<printHobby>,right?
+###Command:printPlayerNickname
+###Command:printHobby
+###--------
+That's pretty
+interesting! I can
+get behind that!
+###--------
+###Script:18
+Let's never stop
+collecting chips
+###--------
+and doing
+<printHobby>!
+###Command:printHobby
+###--------
+###Script:19
+Today,rather than
+collecting chips,
+###--------
+I'm kinda in
+the mood for
+<printHobby>!
+###Command:printHobby
+###--------
+###Script:21
+Getting experience
+by fighting in
+the tournaments
+###--------
+would be really
+useful for becoming
+a<printDream> <printDream>!
+###Command:printDream printN=true
+###Command:printDream
+###--------
+###Script:22
+Winning tournaments
+is cool,but...
+###--------
+being a<printDream>
+<printDream> is
+cool too!
+###Command:printDream printN=true
+###Command:printDream
+###--------
+###Script:23
+Good job! Do you
+want to rest for
+a little bit?
+###--------
+You'll need to
+study to become a<printDream>
+<printDream>,right?
+###Command:printDream printN=true
+###Command:printDream
+###--------
+###Script:25
+Be honest!
+You really like
+<printCrush>,right?
+###Command:printCrush
+###--------
+How about sending
+them a mail?
+###--------
+###Script:26
+Hey <printPlayerNickname>,I
+bet you sometimes
+think to yourself,
+###Command:printPlayerNickname
+###--------
+"Wonder if I'll
+get a mail from
+<printCrush>",huh?
+###Command:printCrush
+###--------
+###Script:27
+<printPlayerNickname>,are
+things going well
+with <printCrush>?
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printCrush
+###--------
+Just like battling,
+it's important to
+give love your all!
+###--------
+How about sending
+them a mail?
+###--------
+###Script:29
+Hey <printPlayerNickname>,
+I know this
+is sudden,but...
+###Command:printPlayerNickname
+###--------
+why don't you
+try sending mail
+to <printPlayerEnemy>?
+###Command:printPlayerEnemy
+###--------
+If you get to know
+each other,maybe
+you'll get along!
+###--------
+###Script:30
+<printPlayerNickname>,even
+if you dislike
+<printPlayerEnemy>,
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printPlayerEnemy
+###--------
+you might
+discover some
+of their charms
+###++++++++
+if you exchange
+mail!
+###--------
+###Script:31
+E-Mail is great!
+With mail,you
+can say things
+###--------
+to people that you
+normally couldn't
+face to face!
+###--------
+I'm sure you'll be
+able to connect
+with <printPlayerEnemy>!
+###Command:printPlayerEnemy
+###--------
+###Script:33
+Since we're done
+battling,let's take
+a little break!
+###--------
+That reminds me!
+<printFavShow> is
+riveting,huh?
+###Command:printFavShow capitalizeFirst=true
+###--------
+Everybody will
+be talking about
+it tomorrow,
+###++++++++
+so make sure
+you watch it!
+###--------
+###Script:34
+Say,<printPlayerNickname>,
+<printFavShow> is
+surprisingly useful
+###Command:printPlayerNickname
+###Command:printFavShow
+###--------
+for learning about
+battling,isn't it?
+###--------
+I kinda want
+to watch it for
+reference later!
+###--------
+###Script:35
+On the days that
+<printFavShow> airs,
+you get all
+###Command:printFavShow
+###--------
+excited and that
+makes you operate
+better,right?
+###--------
+###Script:37
+Looking at the Data
+Library reminds me
+of <printIdol>!
+###Command:printIdol
+###--------
+Oh,you don't
+agree...?
+###--------
+###Script:38
+I'd like to have
+<printIdol> show
+me their library!
+###Command:printIdol
+###--------
+Have they shown it
+to you,<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:39
+There are many
+different ways
+to collect chips,
+###--------
+but I wonder just
+how <printIdol>
+collected theirs?
+###Command:printIdol
+###--------
+I'm dying to know!
+###--------
+###Script:41
+Being on the Net
+was really fun!
+###--------
+Let's battle a lot
+and improve our
+busting technique!
+###--------
+Unlike <printBestSubject>,
+busting technique
+###Command:printBestSubject
+###--------
+isn't something
+that they'll teach
+you in school!
+###--------
+###Script:42
+Your operating was
+pretty good today!
+I wonder if your
+###--------
+<printBestSubject> skill
+could take it
+even further?
+###Command:printBestSubject
+###--------
+###Script:43
+Actually,aren't
+you going to study
+<printBestSubject> today?
+###Command:printBestSubject
+###--------
+###Script:45
+Being on the Net
+was really fun!
+###--------
+For all the time we
+spent on the Net,
+###--------
+make sure to study
+just as long!
+###--------
+Especially your
+<printWorstSubject>!
+###Command:printWorstSubject
+###--------
+###Script:46
+I'm a bit tired out
+from running all
+over the Net...
+###--------
+I'm going to
+rest for a
+bit,<printPlayerNickname>,
+###Command:printPlayerNickname
+###--------
+so why don't you
+study <printWorstSubject>
+or something?
+###Command:printWorstSubject
+###--------
+###Script:47
+By the way,aren't
+you going to study
+<printWorstSubject> today?
+###Command:printWorstSubject
+###--------
+###Script:49
+Good job,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+If only the prize
+for winning the
+tournament was
+###--------
+a<printWish> <printWish>.
+That'd be great!
+###Command:printWish printN=true
+###Command:printWish
+###--------
+###Script:50
+Good job,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+You did really well
+in the tournament
+this time!
+###--------
+As for your
+reward,it's...
+a<printWish> <printWish>!!
+###Command:printWish printN=true
+###Command:printWish
+###--------
+...Would be nice if I
+could do that,huh?
+###--------
+###Script:51
+Whew! That was
+some great
+battling...
+###--------
+Hey,for a
+change of pace,
+###--------
+want to go to a<printWish>
+<printWish> store?
+###Command:printWish printN=true
+###Command:printWish
+###--------
+###Script:53
+I've been thinking...
+You could say
+###--------
+<printPlayerNickname> and
+<printMostFrequentOpponent> are
+rivals,huh?
+###Command:printPlayerNickname
+###Command:printMostFrequentOpponent
+###--------
+It's kinda like the
+relationship I have
+with ProtoMan!
+###--------
+###Script:54
+Friendship deepens
+through battling!
+###--------
+That's what
+I think!
+###--------
+For example,you
+and <printMostFrequentOpponent>
+###Command:printMostFrequentOpponent
+###--------
+definitely have
+a deep bond
+of friendship!
+###--------
+###Script:55
+I want to NetBattle
+with <printMostFrequentOpponent>!
+###Command:printMostFrequentOpponent
+###--------
+<printPlayerNickname>,don't
+you want to
+battle them,too?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:57
+<printLostToOpponent>'s
+fighting style has
+no weaknesses...
+###Command:printLostToOpponent capitalizeFirst=true
+###--------
+Maybe our
+equipment is the
+deciding factor?
+###--------
+###Script:58
+About that match
+against <printLostToOpponent>⋯
+###Command:printLostToOpponent
+###--------
+Maybe we should
+use defensive
+equipment?
+###--------
+###Script:59
+<printPlayerNickname>,let's
+work on a
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+strategy combining
+chips & equipment,
+###--------
+and then challenge
+<printLostToOpponent> again!
+###Command:printLostToOpponent
+###--------
+###Script:61
+The equipment
+currently on
+the R Button...
+###--------
+I think it has
+good affinity
+with <printMostLostToOpponentsChip>.
+###Command:printMostLostToOpponentsChip
+###--------
+###Script:62
+<printMostLostToOpponentsChip> is a
+pretty handy chip
+in NetBattles!
+###Command:printMostLostToOpponentsChip
+###--------
+It works well
+with defensive
+equipment!
+###--------
+###Script:63
+Make your opponent
+hesitate by using
+your R Button
+###--------
+attack,and then
+hit 'em with
+<printMostLostToOpponentsChip>!
+###Command:printMostLostToOpponentsChip
+###--------
+That's a strategy
+I just thought up.
+What do you think?
+###--------
+###Script:65
+There are Net-
+Battlers of all
+kinds in the world,
+###--------
+but <printDefeatedOpponent>
+isn't someone I'll
+ever lose to!
+###Command:printDefeatedOpponent
+###--------
+Although,taking that
+for granted could
+be your downfall!
+###--------
+<printDefeatedOpponent> could be
+doing some intense
+training right now!
+###Command:printDefeatedOpponent capitalizeFirst=true
+###--------
+###Script:66
+...Oh,that
+reminds me!
+###--------
+<printDefeatedOpponent>'s fighting
+style has a lot
+of holes in it!
+###Command:printDefeatedOpponent capitalizeFirst=true
+###--------
+Give them
+some advice
+about battling!
+###--------
+###Script:67
+Slot in timing is
+really important
+for operating well!
+###--------
+With bad timing,an
+easy battle could
+become unwinnable...
+###--------
+Especially
+<printDefeatedOpponent>'s timing
+is pretty rough.
+###Command:printDefeatedOpponent
+###--------
+###Script:69
+I just thought of
+this while messing
+with my equipment...
+###--------
+Do you have a<printMostDefeatedOpponentsChip>
+<printMostDefeatedOpponentsChip> chip?
+###Command:printMostDefeatedOpponentsChip printN=true
+###Command:printMostDefeatedOpponentsChip
+###--------
+It's a good chip,
+but timing it right
+is difficult.
+###--------
+Huh? You don't
+have any trouble
+with it?
+###--------
+Just what I'd
+expect from
+you,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:70
+If you're up
+against an opponent
+who uses <printMostDefeatedOpponentsChip>
+###Command:printMostDefeatedOpponentsChip
+###--------
+a lot,just tighten
+your defenses with
+your equipment.
+###--------
+That makes it a
+lot less scary,
+don't you think?
+###--------
+###Script:71
+<printMostDefeatedOpponentsChip> can be
+pretty effective
+in battle,
+###Command:printMostDefeatedOpponentsChip
+###--------
+but it all depends
+on your timing
+and equipment.
+###--------
+###Script:73
+Did you discover
+a new combo
+###++++++++
+when you used
+<printFavStandardChip1> earlier?
+###Command:printFavStandardChip1
+###--------
+###Script:74
+Even with Standard
+Chips,depending on
+the combination,
+###--------
+they can be as
+powerful as a
+Program Advance.
+###--------
+So if you use
+<printFavStandardChip1> properly...
+###Command:printFavStandardChip1
+###--------
+###Script:75
+If you use
+<printFavStandardChip1> well,
+###Command:printFavStandardChip1
+###--------
+then no matter the
+opponent,it'll have
+good results,huh?
+###--------
+###Script:77
+<printFavStandardChip2> is a
+great chip,too!
+###Command:printFavStandardChip2
+###--------
+Why? It's just
+really cool!
+###--------
+###Script:78
+It really stings
+when <printFavStandardChip2>
+misses!
+###Command:printFavStandardChip2
+###--------
+###Script:79
+Since <printFavStandardChip2>
+is a chip that
+you use often,
+###Command:printFavStandardChip2
+###--------
+you need to use it
+when your opponent
+###++++++++
+can't tell what
+you're up to!
+###--------
+###Script:81
+<printFavStandardChip3> is a
+staple chip in your
+folder,isn't it?
+###Command:printFavStandardChip3
+###--------
+###Script:82
+It's like,whenever
+you use it... No,
+that's not it...
+###--------
+It's kind of tricky
+to explain why
+I like <printFavStandardChip3>.
+###Command:printFavStandardChip3
+###--------
+###Script:83
+When a NetBattle
+goes on for
+a long time,
+###--------
+and the final thing
+left in the folder
+is <printFavStandardChip3>,
+###Command:printFavStandardChip3
+###--------
+I feel happy
+and sad at
+the same time...
+###--------
+I just get this
+feeling that I
+can't describe!
+###--------
+###Script:85
+You gotta use
+<printFavMegaChip> if you
+really wanna win!
+###Command:printFavMegaChip
+###--------
+###Script:86
+<printFavMegaChip> is a chip
+you keep ready
+until the end,
+###Command:printFavMegaChip
+###--------
+and then you
+get that "Now!"
+feeling! So good!
+###--------
+###Script:87
+My fighting style
+and <printFavMegaChip>
+###Command:printFavMegaChip
+###--------
+have pretty good
+compatibility,
+I think!
+###--------
+###Script:89
+You know,<printFavGigaChip>
+is incredibly
+powerful,but...
+###Command:printFavGigaChip
+###--------
+Whenever you use
+it,I get hit with a
+big knockback too.
+###--------
+###Script:90
+It sure feels good
+to win by a hair
+with <printFavGigaChip>!
+###Command:printFavGigaChip
+###--------
+###Script:91
+Using <printFavGigaChip>
+is all well
+and good,but...
+###Command:printFavGigaChip
+###--------
+Imagining what
+it's like to get
+hit by it... Yikes.
+###--------

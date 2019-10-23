@@ -1,0 +1,44 @@
+﻿###TextArchive:671F24
+###Script:1
+The mission
+was a failure...
+###--------
+But my calculations
+predicted a 99%
+chance of victory...
+###--------
+Was there a flaw
+in our plan...?!
+###--------
+We should rethink
+our strategy for
+the next time...
+###--------
+###Script:2
+Mission complete.
+###--------
+Everything went
+exactly according
+to plan.
+###--------
+###Script:10
+<printPlayerNickname>,we're
+not entered.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:20
+Target: victory...
+...Lock-on!
+###--------
+###Script:21
+Target: victory...
+...Lock-on!
+###--------
+###Script:22
+Target: victory...
+...Lock-on!
+###--------
+###Script:23
+Target: victory...
+...Lock-on!
+###--------

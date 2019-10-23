@@ -1,0 +1,32 @@
+﻿###TextArchive:6A207C
+###Script:1
+The weekend
+tournament is
+approaching...
+###--------
+We must ensure we
+are in peak form
+for the matches.
+###--------
+###Script:2
+The day of the
+tournament is
+finally here...
+###--------
+If we use what we
+learned from our
+daily training,
+###--------
+victory should
+be within reach.
+Just keep calm.
+###--------
+###Script:3
+We found an
+interesting looking
+item,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+Let's have a look
+at our Key Items...
+###--------

@@ -1,0 +1,161 @@
+﻿###TextArchive:78A420
+###Script:10
+###Mugshot:NapalmMan
+Let's go check out
+the Net,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:11
+###Mugshot:NapalmMan
+The Apprentice License
+exam...? Might as well!
+###--------
+###Script:12
+###Mugshot:NapalmMan
+The Apprentice License
+exam...? That's a
+piece of cake!
+###--------
+###Script:13
+###Mugshot:NapalmMan
+C'mon! We gotta
+find a "<printChip>"!
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:NapalmMan
+Alright! Let's get that
+Apprentice License!
+###--------
+###Script:15
+###Mugshot:NapalmMan
+Nice work on the
+Apprentice License
+exam!
+###++++++++
+###Mugshot:NapalmMan
+Wanna rest for a bit?
+###--------
+###Script:16
+###Mugshot:NapalmMan
+Let's go see what's
+goin' on in Internet3...
+###--------
+###Script:17
+###Mugshot:NapalmMan
+Guess that Navi we
+beat was the one
+causing all that...
+###--------
+###Mugshot:NapalmMan
+You tired?
+We can jack out for
+now if you want.
+###--------
+###Script:18
+###Mugshot:NapalmMan
+Let's go see what's
+goin' on in Internet5...
+###--------
+###Script:19
+###Mugshot:NapalmMan
+Let's go see what's
+goin' on in Internet7...
+###--------
+###Script:20
+###Mugshot:NapalmMan
+Let's go see what's
+goin' on in Internet9...
+###--------
+###Script:21
+###Mugshot:NapalmMan
+Let's go see what's
+goin' on in Internet10...
+###--------
+###Script:22
+###Mugshot:NapalmMan
+Let's go see what's
+goin' on in Internet12...
+###--------
+###Script:23
+###Mugshot:NapalmMan
+Let's go grab that
+"MinusKey" from those
+BlackWorks guys!
+###--------
+###Script:24
+###Mugshot:NapalmMan
+Looks like that
+other Navi's got
+the "MinusKey"!
+###--------
+###Script:25
+###Mugshot:NapalmMan
+Guess we should take
+back the MinusKey to
+the Navi in Internet9.
+###--------
+###Script:26
+###Mugshot:NapalmMan
+Let's get to the
+Official Tournament
+entry desk!
+###--------
+###Script:27
+###Mugshot:NapalmMan
+Let's go to
+the Undernet!
+###++++++++
+###Mugshot:NapalmMan
+That Navi we're
+after should be
+near a coffin...
+###--------
+###Script:28
+###Mugshot:NapalmMan
+<printPlayerNickname>,let's go
+enter that Official
+Tournament!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:29
+###Mugshot:NapalmMan
+The Official Tournament
+is this weekend! I'm
+gonna blow 'em all away...
+###--------
+###Script:30
+###Mugshot:NapalmMan
+Let burn 'em up in
+the Official Tournament!
+###--------
+###Script:31
+###Mugshot:NapalmMan
+I haven't blasted
+enough yet... Let's
+keep exploring!!
+###--------
+###Script:32
+###Mugshot:NapalmMan
+Let's go do the
+Official Tournament
+prelims,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:33
+###Mugshot:NapalmMan
+C'mon,let's read that
+mail we just got!
+###--------
+###Script:34
+###Mugshot:NapalmMan
+Once the weekend is
+over,let's go enter
+that Official Tournament!
+###--------
+###Script:35
+###Mugshot:NapalmMan
+That Navi we're
+after should be
+near a coffin...
+###--------

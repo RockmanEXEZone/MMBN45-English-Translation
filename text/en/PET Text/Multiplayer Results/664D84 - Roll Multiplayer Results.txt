@@ -1,0 +1,16 @@
+﻿###TextArchive:664D84
+###Script:1
+Aww,we lost...
+Next time,let's
+make sure we win!
+###--------
+###Script:2
+Yay! <printPlayerNickname>,
+nice operating!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:3
+We'll settle the
+score for sure
+next time!
+###--------

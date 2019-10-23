@@ -1,0 +1,85 @@
+﻿###TextArchive:7994EC
+###Script:0
+<printCurrentNavi> used:
+"<printItem>"!!!
+###Command:printCurrentNavi
+###Command:printItem buffer=0 item=5
+###--------
+###Script:1
+A large stump is
+blocking the path...
+###--------
+###Script:2
+If you want to
+go through here,
+###--------
+please show your
+"<printItem>"⋯
+(10,000 Zennys + tax)
+###Command:printItem buffer=0 item=8
+###--------
+Signed,the
+administrator.
+###--------
+###Script:5
+A cyber gate on the
+path blocks your entry!
+###--------
+###Script:6
+"PassTokn"
+confirmed...
+###--------
+Please go through...
+###--------
+###Script:7
+###Mugshot:WoodMan
+My fellow inhabitant
+of this great Earth...
+###--------
+###Mugshot:WoodMan
+Clear the path!
+###--------
+###Script:8
+###Mugshot:PlantMan
+Nighty-night,
+little stump...
+###--------
+###Mugshot:PlantMan
+Listen to my lullaby...
+###--------
+###Mugshot:PlantMan
+La-la-la,la,la-la...
+Lalalalala,la,la...
+###--------
+###Script:9
+###Mugshot:FireMan
+Tsk,what an
+annoying stump.
+......
+###--------
+###Mugshot:FireMan
+I'll just have to
+put it to the torch!
+###--------
+###Mugshot:FireMan
+Take this! FireArm!!!
+###--------
+###Script:10
+###Mugshot:NapalmMan
+Don't think for a
+second this tiny stump
+is gonna get in my way!
+###--------
+###Mugshot:NapalmMan
+C'mon!
+BUUUURN!
+###--------
+###Script:11
+Solemnly,the stump
+returned to the earth!
+###--------
+###Script:12
+Engulfed in flames,
+the stump burned
+to ashes!
+###--------

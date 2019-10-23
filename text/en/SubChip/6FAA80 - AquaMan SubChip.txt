@@ -1,0 +1,37 @@
+﻿###TextArchive:6FAA80
+###Script:6
+###Mugshot:AquaMan
+It's OK,drip!
+We don't need
+to use it now.
+###--------
+###Script:7
+###Mugshot:AquaMan
+You want to use
+"<printItem>",drip?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:printItem buffer=1 item=0
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:11
+###Mugshot:AquaMan
+You're using
+"<printItem>" now,drip.
+###Command:printItem buffer=1 item=0
+###--------
+###Script:12
+###Mugshot:AquaMan
+There isn't
+any locked
+data,drip!
+###--------
+###Script:13
+###Mugshot:AquaMan
+No viruses
+around here
+yet,drip!
+###--------

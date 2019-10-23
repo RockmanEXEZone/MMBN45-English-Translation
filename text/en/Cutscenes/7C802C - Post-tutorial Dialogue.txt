@@ -1,0 +1,235 @@
+﻿###TextArchive:7C802C
+###Script:0
+###Mugshot:MegaMan
+Good job,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Mugshot:MegaMan
+Alright,let's go
+on ahead!
+###--------
+###Script:1
+###Mugshot:Roll
+Nice job!
+###--------
+###Mugshot:Roll
+With this,your virus
+busting is good to
+go,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Mugshot:Roll
+Alright,let's go
+on ahead!
+###--------
+###Script:2
+###Mugshot:GutsMan
+Great work,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Mugshot:GutsMan
+Bring 'em on!
+We can take any virus!
+###--------
+###Mugshot:GutsMan
+Let's get goin'!
+###--------
+###Script:3
+###Mugshot:WindMan
+Looks like you have a
+good grasp of the ABC's
+of virus busting⋯
+###--------
+###Mugshot:WindMan
+Now then,let's proceed⋯
+###--------
+###Script:4
+###Mugshot:SearchMan
+Mission complete.
+###--------
+###Mugshot:SearchMan
+Good work,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Mugshot:SearchMan
+Now,let's march on.
+###--------
+###Script:5
+###Mugshot:FireMan
+You can do it
+if ya try!
+###--------
+###Mugshot:FireMan
+Now that you know
+the basics of battle,
+let's get goin'!
+###--------
+###Script:6
+###Mugshot:ThunderMan
+Good operating⋯
+Now you just need to
+gain some experience⋯
+###--------
+###Mugshot:ThunderMan
+Let's try proceeding
+ahead.
+###--------
+###Script:7
+###Mugshot:ProtoMan
+Good work,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Mugshot:ProtoMan
+Now,let's proceed.
+###--------
+###Script:8
+###Mugshot:NumberMan
+A perfect score!
+###--------
+###Mugshot:NumberMan
+Your operating is good!
+The viruses around here
+should pose no problem.
+###--------
+###Mugshot:NumberMan
+Now,shall we get going?
+###--------
+###Script:9
+###Mugshot:MetalMan
+Hm,your operating
+will do.
+###--------
+###Mugshot:MetalMan
+I'm counting on you
+to keep it up.
+###--------
+###Script:10
+###Mugshot:JunkMan
+Good job,<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Mugshot:JunkMan
+That was pretty good!
+W-What a relief⋯
+###--------
+###Mugshot:JunkMan
+L-Let's go on ahead⋯
+###--------
+###Script:11
+###Mugshot:AquaMan
+Good job,drip!
+With operating like that,
+###--------
+###Mugshot:AquaMan
+the viruses around here
+won't be able to lay a
+finger on us,drip!
+###--------
+###Mugshot:AquaMan
+Let's get going,drip!
+###--------
+###Script:12
+###Mugshot:WoodMan
+Nice operating.
+###--------
+###Mugshot:WoodMan
+Don't lose sense of
+that feeling⋯
+###--------
+###Mugshot:WoodMan
+Let's go on ahead.
+###--------
+###Script:13
+###Mugshot:StarMan
+Great work,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Mugshot:StarMan
+Looks like you've got
+the hang of battling!
+###--------
+###Mugshot:StarMan
+Okay! Let's be off!
+###--------
+###Script:14
+###Mugshot:ShadowMan
+⋯Your operating was
+decent. This is how
+ninjas train every day⋯
+###--------
+###Mugshot:ShadowMan
+You should keep up
+your training from
+here on out.
+###--------
+###Mugshot:ShadowMan
+Now then,let us depart⋯
+###--------
+###Script:15
+###Mugshot:KnightMan
+Splendid!
+###--------
+###Mugshot:KnightMan
+That was some
+exceptional operating!
+###--------
+###Mugshot:KnightMan
+Continue your training
+and hone your skills!
+###--------
+###Mugshot:KnightMan
+Now,let us advance!
+###--------
+###Script:16
+###Mugshot:NapalmMan
+What a letdown⋯
+Let's go to an area
+with stronger viruses.
+###--------
+###Script:17
+###Mugshot:IceMan
+Great job!
+###--------
+###Mugshot:IceMan
+With this,you should
+be able to handle
+battles no problem!
+###--------
+###Mugshot:IceMan
+Alright,let's go!
+###--------
+###Script:18
+###Mugshot:ElecMan
+Your operating skills
+are adequate⋯
+###--------
+###Mugshot:ElecMan
+I think we'll get
+along just fine.
+###--------
+###Mugshot:ElecMan
+So,how about we
+go on ahead?
+###--------
+###Script:19
+###Mugshot:PlantMan
+That was some
+exquisite operating⋯
+###--------
+###Mugshot:PlantMan
+As we head further
+into the Net,
+###--------
+###Mugshot:PlantMan
+let's see your
+talents really
+come into bloom!
+###--------
+###Script:20
+###Mugshot:Bass
+Hmph,it's passable⋯
+###--------
+###Mugshot:Bass
+⋯Let's go.
+###--------

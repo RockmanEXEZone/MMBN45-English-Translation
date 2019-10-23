@@ -1,0 +1,181 @@
+﻿###TextArchive:79EE9C
+###Script:0
+###Mugshot:MrProgGreen
+IT'S SATURDAY
+TODAY,HUH...
+###--------
+###Mugshot:MrProgGreen
+DOESN'T REALLY
+MATTER WHAT
+DAY IT IS,
+###++++++++
+###Mugshot:MrProgGreen
+SINCE I DON'T HAVE
+A JOB ANYWAY...
+###--------
+###Mugshot:MrProgGreen
+EVERY DAY IS LIKE A
+SATURDAY... IT FEELS
+KIND OF EMPTY.
+###--------
+###Mugshot:MrProgGreen
+...WHEW...
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+I GET UP EARLY ON
+SATURDAY MORNINGS
+NO MATTER WHAT!
+###--------
+###Mugshot:MrProgGreen
+BECAUSE THERE'S A
+LOT OF CARTOONS I
+NEED TO WATCH!
+###--------
+###Mugshot:MrProgGreen
+AHH...
+TODAY WAS ANOTHER
+PERFECT MORNING!
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+AHH...
+###--------
+###Mugshot:MrProgGreen
+IT'S SO PEACEFUL...
+###--------
+###Mugshot:MrProgGreen
+JUST...ANOTHER...
+PEACEFUL...DAY...
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+LET'S SEE...MAYBE
+I'LL JACK OUT SOON...
+###--------
+###Script:30
+###Mugshot:NormNaviPink
+It's Saturday!
+###--------
+###Mugshot:NormNaviPink
+My operator's family
+is taking it easy
+at home.
+###--------
+###Mugshot:NormNaviPink
+Her little angel
+makes such a lovely
+face while napping.
+###--------
+###Script:40
+###Mugshot:HeelNaviPurple
+Patrolling this
+area at night is
+my part-time job!
+###--------
+###Mugshot:HeelNaviPurple
+I'll keep this area
+safe at night,even if
+it costs me my life!
+###--------
+###Script:41
+###Mugshot:HeelNaviPurple
+Anyway...
+###--------
+###Mugshot:HeelNaviPurple
+That lovey-dovey
+couple over there
+such is an eyesore!
+###--------
+###Mugshot:HeelNaviPurple
+A boy and a girl
+like that should
+be more...
+###--------
+###Mugshot:HeelNaviPurple
+Blah,blah...<wait>
+Blah,blah...
+###Command:wait frames=20
+###--------
+###Script:42
+###Mugshot:HeelNaviPurple
+That couple has
+finally jacked out.
+###--------
+###Mugshot:HeelNaviPurple
+Now I can finally
+concentrate on my job!
+###--------
+###Script:60
+###Mugshot:NormNaviYellow
+Geez,I'm beat...
+###--------
+###Mugshot:NormNaviYellow
+Your operator must
+have slotted in
+"AreaGrab"...
+###--------
+###Mugshot:NormNaviPink
+Huh?
+What do you mean?
+###--------
+###Mugshot:NormNaviYellow
+All areas of my mind
+have been changed
+to thoughts of you!!
+###--------
+###Script:61
+###Mugshot:NormNaviYellow
+The Net sure is dark
+this late at night...
+###--------
+###Mugshot:NormNaviYellow
+But as long as you're
+jacked in,I don't need
+a light or anything...
+###--------
+###Mugshot:NormNaviYellow
+Because to me,
+your beauty is
+blindingly bright!
+###--------
+###Script:70
+###Mugshot:NormNaviPink
+You're such an
+awful,awful thief...
+###--------
+###Mugshot:NormNaviPink
+Why's that?
+Because you've gone
+and stolen my heart.
+###--------
+###Mugshot:NormNaviYellow
+I've certainly done
+something inexcusable...
+Should I return it?
+###--------
+###Mugshot:NormNaviPink
+No,I'll entrust
+it to you... From
+now until eternity...
+###--------
+###Script:71
+###Mugshot:NormNaviPink
+Hey,do you like me!?
+###--------
+###Mugshot:NormNaviYellow
+Of course!!
+###--------
+###Mugshot:NormNaviPink
+How much do
+you like me!?
+###--------
+###Mugshot:NormNaviYellow
+Let's see...
+If we're talking
+in chips...
+###--------
+###Mugshot:NormNaviYellow
+About 100...no,
+1000 GigaChips!!!
+###--------

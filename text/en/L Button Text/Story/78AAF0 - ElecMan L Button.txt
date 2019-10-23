@@ -1,0 +1,168 @@
+﻿###TextArchive:78AAF0
+###Script:10
+###Mugshot:ElecMan
+For now,let's just
+explore the Net...
+###--------
+###Script:11
+###Mugshot:ElecMan
+An Apprentice
+License exam...?
+Let's go take it.
+###--------
+###Script:12
+###Mugshot:ElecMan
+Let's go do this
+Apprentice License
+exam...
+###--------
+###Script:13
+###Mugshot:ElecMan
+Let's go find
+a "<printChip>".
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:ElecMan
+Let's go pick up that
+Apprentice License.
+###--------
+###Script:15
+###Mugshot:ElecMan
+We managed to get an
+Apprentice License...
+###++++++++
+###Mugshot:ElecMan
+Want to take a break?
+###--------
+###Script:16
+###Mugshot:ElecMan
+I'm curious about
+what's happening
+in Internet3...
+###--------
+###Script:17
+###Mugshot:ElecMan
+Seems that Navi
+we beat was behind
+the incident...
+###--------
+###Mugshot:ElecMan
+For now,do you want
+to jack out...?
+###--------
+###Script:18
+###Mugshot:ElecMan
+I'm curious about
+what's happening
+in Internet5...
+###--------
+###Script:19
+###Mugshot:ElecMan
+I'm curious about
+what's happening
+in Internet7...
+###--------
+###Script:20
+###Mugshot:ElecMan
+I'm curious about
+what's happening
+in Internet9...
+###--------
+###Script:21
+###Mugshot:ElecMan
+I'm curious about
+what's happening
+in Internet10...
+###--------
+###Script:22
+###Mugshot:ElecMan
+I'm curious about
+what's happening
+in Internet12...
+###--------
+###Script:23
+###Mugshot:ElecMan
+Let's get the
+"MinusKey" back
+from BlackWorks...
+###--------
+###Script:24
+###Mugshot:ElecMan
+Seems the other Navi
+has the "MinusKey"...
+###--------
+###Script:25
+###Mugshot:ElecMan
+Let's bring back the
+"MinusKey" to the
+Navi in Internet9.
+###--------
+###Script:26
+###Mugshot:ElecMan
+Let's go to the
+Official Tournament
+entry desk...
+###--------
+###Script:27
+###Mugshot:ElecMan
+Let's go to
+the Undernet.
+###++++++++
+###Mugshot:ElecMan
+The Navi we're
+after should be
+near a coffin...
+###--------
+###Script:28
+###Mugshot:ElecMan
+Let's go enter the
+Official Tournament,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:29
+###Mugshot:ElecMan
+The Official Tournament
+is this weekend.
+###++++++++
+###Mugshot:ElecMan
+I'll show them my
+power at maximum!
+###--------
+###Script:30
+###Mugshot:ElecMan
+The Official Tournament...
+...Just the name is
+enough to stun one.
+###--------
+###Script:31
+###Mugshot:ElecMan
+Let's explore every
+corner of the Net...
+###--------
+###Script:32
+###Mugshot:ElecMan
+Let's go take the
+Official Tournament
+prelims,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Script:33
+###Mugshot:ElecMan
+<printPlayerNickname>,let's read
+the mail we just got.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:34
+###Mugshot:ElecMan
+Once the weekend is
+over,let's go enter
+the Official Tournament...
+###--------
+###Script:35
+###Mugshot:ElecMan
+The Navi we're
+after should be
+near a coffin...
+###--------

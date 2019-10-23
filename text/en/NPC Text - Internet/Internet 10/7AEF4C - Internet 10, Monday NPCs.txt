@@ -1,0 +1,52 @@
+﻿###TextArchive:7AEF4C
+###Script:0
+###Mugshot:NormNaviYellow
+Ugh...
+I hate Mondays...
+What a pain...
+###--------
+###Script:1
+###Mugshot:NaviGirlOrange
+My operator's a
+beautician,so they
+have today off.
+###--------
+###Mugshot:NaviGirlOrange
+But it didn't line
+up well with our
+friends' days off,
+###++++++++
+###Mugshot:NaviGirlOrange
+so it's a
+little lonely.
+###--------
+###Script:10
+###Mugshot:NormNaviBrown
+And because of that...
+...Therefore...
+###--------
+###Mugshot:NormNaviBrown
+In other words,
+when you add 3,
+you get 5.
+###--------
+###Script:11
+###Mugshot:NormNaviYellow
+Right,right...
+I see what you mean!
+###--------
+###Script:12
+###Mugshot:PurpleNavi
+Zzzzzzz...
+###--------
+###Script:13
+###Mugshot:NaviGirlOrange
+Hey,don't bother
+me while I'm
+trying to study!
+###--------
+###Script:14
+###Mugshot:NormNaviPink
+Ahhhhhhh!
+I don't get it at all!
+###--------

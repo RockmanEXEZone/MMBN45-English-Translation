@@ -1,0 +1,74 @@
+﻿###TextArchive:799314
+###Script:0
+"<printItem>" confirmed.
+###Command:printItem buffer=0 item=0
+###--------
+Please enter
+and proceed...
+###--------
+###Script:1
+A large boulder is
+blocking the path...
+###--------
+###Script:2
+A magnificent "<printItem>".
+You feel awestruck
+by its presence...
+###Command:printItem buffer=0 item=7
+###--------
+###Script:3
+It's a large tree...
+Even the Cyberworld
+needs a little green.
+###--------
+###Script:4
+###Mugshot:GutsMan
+Yee-haaaw!
+A rock like this is no
+match for GutsMan!
+###--------
+###Mugshot:GutsMan
+GutsPunch!
+###--------
+###Script:5
+###Mugshot:MetalMan
+This pebble...
+###--------
+###Mugshot:MetalMan
+MetalFist!
+HMPH!
+###--------
+###Script:6
+###Mugshot:KnightMan
+This rock is
+a nuisance.
+###--------
+###Mugshot:KnightMan
+I shall shatter
+it with my flail!
+###--------
+###Mugshot:KnightMan
+HOOOOHHHH!
+###--------
+###Script:7
+The boulder blocking
+the path shattered
+to pieces!
+###--------
+###Script:8
+This is the
+Apprentice Net-
+Battler exam center.
+###--------
+Beyond here is
+the exam center's
+admin area.
+###--------
+Those who do not
+have an "<printItem>"
+may not enter.
+###Command:printItem buffer=0 item=0
+###--------
+###Script:10
+It's a BBS.
+###--------

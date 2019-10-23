@@ -1,0 +1,33 @@
+﻿###TextArchive:7A9BA0
+###Script:0
+###Mugshot:NaviGirlOrange
+What...? No!
+###--------
+###Mugshot:HeelNaviPurple
+C'mon,please!
+###--------
+###Script:1
+###Mugshot:HeelNaviPurple
+Girls get to buy
+cheap today,right?
+###--------
+###Mugshot:HeelNaviPurple
+I'm begging you!
+Buy stuff for me,too!
+###--------
+###Mugshot:NaviGirlOrange
+Why do I have to go
+shopping for you!?
+###--------
+###Mugshot:HeelNaviPurple
+C-Come on,please!
+###--------
+###Script:2
+###Mugshot:NormNaviPink
+The chip shop in
+Internet8 was
+pretty good!
+###--------
+###Mugshot:NormNaviPink
+La-la-la...
+###--------

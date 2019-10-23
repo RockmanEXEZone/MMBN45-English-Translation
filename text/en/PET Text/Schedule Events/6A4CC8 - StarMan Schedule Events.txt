@@ -1,0 +1,131 @@
+﻿###TextArchive:6A4CC8
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+Ding ding!
+###--------
+<printPlayerNickname>,
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer> is
+gonna start soon!
+###Command:printScheduleBuffer
+###--------
+To the TV!
+Forward march!
+###--------
+###Script:2
+Ding ding!
+###--------
+Time to meet
+with <printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+C'mon,don't keep
+them waiting!
+###--------
+###Script:3
+Ding ding!
+###--------
+Time for a snack!
+###--------
+Just so you know,
+don't eat too many
+starchy foods!
+###--------
+###Script:4
+Ding ding!
+###--------
+Time for school!
+Do your best,okay?
+###--------
+I'll just watch
+for shooting stars
+while you're busy!
+###--------
+###Script:5
+Ding ding!
+###--------
+Time for
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:6
+Also,also...
+###--------
+###Script:21
+###Mugshot:StarMan
+Ding ding!
+###--------
+###Mugshot:StarMan
+<printPlayerNickname>,
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:StarMan
+<printScheduleBuffer> is
+gonna start soon!
+###Command:printScheduleBuffer
+###--------
+###Mugshot:StarMan
+To the TV!
+Forward march!
+###--------
+###Script:22
+###Mugshot:StarMan
+Ding ding!
+###--------
+###Mugshot:StarMan
+Time to meet
+with <printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Mugshot:StarMan
+C'mon,don't keep
+them waiting!
+###--------
+###Script:23
+###Mugshot:StarMan
+Ding ding!
+###--------
+###Mugshot:StarMan
+Time for a snack!
+###--------
+###Mugshot:StarMan
+Just so you know,
+don't eat too many
+starchy foods!
+###--------
+###Script:24
+###Mugshot:StarMan
+Ding ding!
+###--------
+###Mugshot:StarMan
+Time for school!
+Do your best,okay?
+###--------
+###Mugshot:StarMan
+I'll just watch
+for shooting stars
+while you're busy!
+###--------
+###Script:25
+###Mugshot:StarMan
+Ding ding!
+###--------
+###Mugshot:StarMan
+Time for <printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:StarMan
+Also,also...
+###--------

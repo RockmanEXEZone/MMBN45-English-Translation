@@ -1,0 +1,238 @@
+﻿###TextArchive:79D108
+###Script:0
+###Mugshot:MrProgGreen
+MY COMPANY WENT
+UNDER,SO I'M LOOK-
+ING FOR NEW WORK.
+###--------
+###Mugshot:MrProgGreen
+THE MR.PROG
+WITHOUT A JOB･<wait>･<wait>･
+###Command:wait frames=10
+###Command:wait frames=10
+###--------
+###Mugshot:MrProgGreen
+THAT'S NOT THE
+KIND OF PROGRAM I
+WANNA BE KNOWN AS!
+###--------
+###Mugshot:MrProgGreen
+NOOOO WAY!!
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+ALRIGHT,GOTTA DO
+MY BEST AND FIND
+A NEW JOB TODAY...
+###--------
+###Mugshot:MrProgGreen
+NOTHING'S WORSE
+THAN A PROGRAM
+OUT OF WORK.
+###--------
+###Script:2
+###Mugshot:MrProgGreen
+IT GETS PRETTY
+LIVELY HERE AT
+LUNCHTIME,
+###--------
+###Mugshot:MrProgGreen
+SINCE IT'S BREAK
+TIME FOR EVERYONE
+HARD AT WORK.
+###--------
+###Mugshot:MrProgGreen
+BUT ME? I DON'T
+EVEN HAVE WORK...
+###++++++++
+###Mugshot:MrProgGreen
+I FEEL LIKE
+CRAWLING UNDER
+A ROCK...
+###--------
+###Script:3
+###Mugshot:MrProgGreen
+*SIGH*
+###--------
+###Mugshot:MrProgGreen
+IN THE END,
+I DIDN'T FIND A
+JOB TODAY EITHER...
+###--------
+###Mugshot:MrProgGreen
+I THINK I'LL JUST
+CALL IT QUITS
+TODAY AND JACK OUT.
+###--------
+###Script:20
+###Mugshot:PurpleNavi
+My job is to
+patrol this area!
+My operator and I
+###--------
+###Mugshot:PurpleNavi
+devote all our power
+to keeping the
+peace on the Net!
+###--------
+###Script:21
+###Mugshot:PurpleNavi
+Now,let's do our
+best,for the sake
+of the Net's peace!
+###--------
+###Script:22
+###Mugshot:PurpleNavi
+It's lunchtime!
+###--------
+###Mugshot:PurpleNavi
+Whoops!
+I can't go on break!
+###--------
+###Mugshot:PurpleNavi
+You never know what
+might happen at a
+busy time like this!
+###--------
+###Script:23
+###Mugshot:PurpleNavi
+Gee,it's that
+time already?
+###--------
+###Mugshot:PurpleNavi
+Looks like my shift's
+just about over.
+###--------
+###Script:24
+###Mugshot:PurpleNavi
+Good evening to you.
+I'm the security Navi
+for this area.
+###--------
+###Mugshot:PurpleNavi
+It's a relief
+nothing happened
+the whole day.
+###--------
+###Mugshot:PurpleNavi
+I don't know what I'd
+do if there was trouble
+this early in the week!
+###--------
+###Script:30
+###Mugshot:NormNaviPink
+My operator is a
+cute,young mommy!
+###--------
+###Mugshot:NormNaviPink
+She's blessed with a
+darling husband and
+three lovely children,
+###--------
+###Mugshot:NormNaviPink
+and they live each day
+in their happy home with
+a smile on their faces!
+###--------
+###Script:31
+###Mugshot:NormNaviPink
+That old man exercises
+here every day,
+without fail.
+###--------
+###Mugshot:NormNaviPink
+He's so inspiring...
+I could never be
+like him.
+###--------
+###Script:32
+###Mugshot:NormNaviPink
+Oh my!
+We'll be late!
+###--------
+###Mugshot:NormNaviPink
+It's time for my
+operator to pick
+up her beautiful,
+###--------
+###Mugshot:NormNaviPink
+wonderful child
+from preschool!
+###--------
+###Mugshot:NormNaviPink
+My dear operator!
+Let's go greet
+your little angel!
+###--------
+###Script:40
+###Mugshot:HeelNaviPurple
+I'm the Navi in
+charge of the
+night patrol!
+###--------
+###Mugshot:HeelNaviPurple
+If anyone dares to
+commit evil deeds under
+the veil of night...
+###--------
+###Mugshot:HeelNaviPurple
+they'll get a taste
+of my killer technique,
+the Galactica Punch!!
+###--------
+###Script:41
+###Mugshot:HeelNaviPurple
+Hey,walking alone
+this late is terribly
+dangerous,you know!
+###--------
+###Mugshot:HeelNaviPurple
+It's the dead
+of night!
+###--------
+###Mugshot:HeelNaviPurple
+You ought to be
+at home right
+now,resting!
+###--------
+###Script:50
+###Mugshot:NormNaviBrown
+Huzzah!!
+###--------
+###Mugshot:NormNaviBrown
+Now's the time to
+bust some viruses!
+###--------
+###Mugshot:NormNaviBrown
+Awright! Come at me,
+wherever you are!!
+###--------
+###Script:80
+###Mugshot:NaviGirlOrange
+OK,time for a
+lunch break!
+###--------
+###Mugshot:NaviGirlOrange
+Me and my operator
+are always so
+hard at work,
+###--------
+###Mugshot:NaviGirlOrange
+so we NEED this
+break time!
+###--------
+###Script:90
+###Mugshot:HeelNaviPurple
+Wheeew...
+Finally lunchtime.
+###--------
+###Mugshot:HeelNaviPurple
+My operator works
+as a carpenter...
+Y'know,physical labor.
+###--------
+###Mugshot:HeelNaviPurple
+That's why it's so
+important for us to
+have a break like this.
+###--------

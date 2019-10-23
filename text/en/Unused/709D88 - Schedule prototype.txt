@@ -1,0 +1,34 @@
+﻿###TextArchive:709D88
+###Script:0
+Lan,what should
+we do today?
+###--------
+###Script:10
+###Mugshot:MegaMan
+It's been warm
+recently.
+###--------
+###Script:11
+Schedule something
+for which day?
+###--------
+###Script:12
+Register what?
+<option><space> From save point
+<option><space> Start game <printBuffer>
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------
+###Script:14
+###Mugshot:MegaMan
+<option><space> From save point
+<option><space> Start game <printBuffer>
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------

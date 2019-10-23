@@ -1,0 +1,239 @@
+﻿###TextArchive:7B5328
+###Script:0
+###Mugshot:NumberMan
+You want to proceed
+past this point?
+###--------
+###Mugshot:NumberMan
+I'll test your
+mathematical skills.
+###--------
+###Mugshot:NumberMan
+If I'm convinced of
+your prowess, I'll
+allow you to pass.
+###--------
+###Mugshot:NumberMan
+Shall we?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NumberMan
+Then, let's begin!
+###--------
+###Script:1
+###Mugshot:NumberMan
+Y-You did it...
+###--------
+###Mugshot:NumberMan
+Very well...
+I'll clear the
+path for you.
+###--------
+###Script:2
+###Mugshot:NumberMan
+You haven't
+studied enough!
+###--------
+###Mugshot:NumberMan
+Try again at the
+re-examination!
+###--------
+###Script:3
+###Mugshot:NumberMan
+I see...
+###--------
+###Script:5
+###Mugshot:MetalMan
+If you want to pass,
+show me your operator's
+true strength...
+###--------
+###Mugshot:MetalMan
+No matter how powerful
+the Navi,a weak
+operator is no good...
+###--------
+###Mugshot:MetalMan
+Here's the deal.
+I'll have your
+operator operate me.
+###--------
+###Mugshot:MetalMan
+If your operator
+can make my
+fists tremble,
+###--------
+###Mugshot:MetalMan
+then I'll let
+you pass.
+###--------
+###Mugshot:MetalMan
+...Will you try?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:MetalMan
+Operator,I hope
+you're prepared.
+Begin!
+###--------
+###Script:6
+###Mugshot:MetalMan
+...That was some
+fine operating...
+###--------
+###Mugshot:MetalMan
+It's been some time
+since my fists have
+trembled like this...
+###--------
+###Script:7
+###Mugshot:MetalMan
+Operator,you'd do
+well to refine your
+skills and come back.
+###--------
+###Script:8
+###Mugshot:MetalMan
+...I see.
+###--------
+###Script:10
+###Mugshot:SearchMan
+...It looks like you
+want to continue
+to the area ahead.
+###--------
+###Mugshot:SearchMan
+I'll have to check if
+you got the strength to
+survive in that area.
+###--------
+###Mugshot:SearchMan
+If you can't clear
+my test,I can't
+let you pass.
+###--------
+###Mugshot:SearchMan
+Will you take my test?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:SearchMan
+Okay. I'll explain the
+details of the test.
+###--------
+###Mugshot:SearchMan
+I'll be releasing some
+viruses in Internet7...
+###--------
+###Mugshot:SearchMan
+Snipe all of those
+viruses within
+the time limit.
+###--------
+###Mugshot:SearchMan
+If you can do that,
+you pass the test.
+###--------
+###Mugshot:SearchMan
+But starting now,
+until you complete
+the mission,
+###--------
+###Mugshot:SearchMan
+if you jack out
+even once,you fail.
+###--------
+###Mugshot:SearchMan
+...That's all. Now go!
+###--------
+###Script:11
+###Mugshot:SearchMan
+I see...
+###--------
+###Script:12
+###Mugshot:SearchMan
+You want to confirm
+the mission details...?
+###--------
+###Mugshot:SearchMan
+Okay. I'll explain the
+details of the test.
+###--------
+###Mugshot:SearchMan
+I'll be releasing some
+viruses in Internet7...
+###--------
+###Mugshot:SearchMan
+Snipe all of those
+viruses within
+the time limit.
+###--------
+###Mugshot:SearchMan
+If you can do that,
+you pass the test.
+###--------
+###Mugshot:SearchMan
+But starting now,
+until you complete
+the mission,
+###--------
+###Mugshot:SearchMan
+if you jack out
+even once,you fail.
+###--------
+###Mugshot:SearchMan
+...That's all. Now go!
+###--------
+###Script:13
+###Mugshot:SearchMan
+You've defeated all of
+the viruses. All right,
+you pass the test.
+###--------
+###Mugshot:SearchMan
+Press on...
+###--------
+###Script:14
+###Mugshot:SearchMan
+You've failed to snipe
+all of the viruses...
+###--------
+###Mugshot:SearchMan
+Do you want to try
+the test again?
+###--------
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:SearchMan
+Alright then. Head
+back to Internet7
+once again.
+###--------
+###Script:15
+###Mugshot:SearchMan
+Once you've grown
+stronger,try the
+test again.
+###--------

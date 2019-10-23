@@ -1,0 +1,117 @@
+﻿###TextArchive:7A7FC4
+###Script:0
+###Mugshot:NormNaviYellow
+Today is Friday:
+AKA,Battle Day!
+###--------
+###Mugshot:NormNaviYellow
+How about it?
+Will you have a
+NetBattle with me!?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:NormNaviYellow
+I see...
+That's too bad.
+###--------
+###Script:1
+###Mugshot:NormNaviYellow
+OK! Let's do this!
+###--------
+###Mugshot:NormNaviYellow
+Battle routine,set!
+###--------
+###Mugshot:NormNaviYellow
+Execute!
+###--------
+###Script:2
+###Mugshot:NormNaviYellow
+Hyah!
+###--------
+###Mugshot:NormNaviYellow
+Man,you're tough!
+I'm flabbergasted!
+###--------
+###Script:3
+###Mugshot:NormNaviYellow
+Huh? What's wrong?
+Are you feeling OK?
+###--------
+###Script:4
+###Mugshot:NormNaviYellow
+...A battle?
+###--------
+###Mugshot:NormNaviYellow
+I don't think I
+could beat you
+###++++++++
+###Mugshot:NormNaviYellow
+even if I tried
+countless times.
+I'll pass...
+###--------
+###Script:5
+###Mugshot:HeelNaviPurple
+Hey,you over there...
+Wanna battle?
+###--------
+<positionOptionHorizontal><option><space> Sure  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:HeelNaviPurple
+Tsk,coward!
+###--------
+###Script:6
+###Mugshot:HeelNaviPurple
+Then,get ready...
+###--------
+###Mugshot:HeelNaviPurple
+Battle routine...
+Seeeet!
+###--------
+###Mugshot:HeelNaviPurple
+Execuuuute!!!
+###--------
+###Script:7
+###Mugshot:HeelNaviPurple
+You... You're good...
+###--------
+###Mugshot:HeelNaviPurple
+...Gah!
+###--------
+###Script:8
+###Mugshot:HeelNaviPurple
+Looks like you're
+no match for me!
+###--------
+###Mugshot:HeelNaviPurple
+Hahaha!!
+###--------
+###Script:9
+###Mugshot:HeelNaviPurple
+What...? If it's a
+battle you want,
+###++++++++
+###Mugshot:HeelNaviPurple
+I'm not doin' it...
+I don't feel so
+good right now.
+###--------
+###Script:10
+###Mugshot:NaviGirlOrange
+I don't do battles.
+###--------
+###Mugshot:NaviGirlOrange
+It's like,painful,
+y'know!
+###--------

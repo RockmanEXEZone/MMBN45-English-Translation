@@ -1,0 +1,3614 @@
+﻿###TextArchive:6EAD18
+###Script:0
+###Mugshot:Ribitta
+And the champions,whose
+passion shone through
+fierce battles...
+###--------
+###Mugshot:Ribitta
+Are none other than
+<printPlayerName> & <printEnemy>!
+###Command:printPlayerName
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Mugshot:Ribitta
+Now! Let's move
+right along with the
+award ceremony!
+###--------
+###Mugshot:MrProgGold
+<printPlayerName> & <printEnemy>!
+Congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Mugshot:MrProgGold
+You've shown us
+your burning spirits...
+Well done!
+###--------
+###Mugshot:MrProgGold
+And as proof of
+your achievement,
+###--------
+###Mugshot:MrProgGold
+I present you with
+this "<printItem>"!
+###Command:printItem buffer=0 item=2
+###--------
+###Mugshot:MrProgGold
+<wait>
+###Command:wait frames=60
+###--------
+###Mugshot:MrProgGold
+This lets you pass
+through various Net
+areas! I'm jealous!
+###--------
+###Mugshot:Ribitta
+Congrats! Here's
+your lucky chance:
+the BattleChip Roulette!
+###--------
+###Script:1
+###Mugshot:Ribitta
+And the champions,whose
+passion shone through
+many intense battles...
+###--------
+###Mugshot:Ribitta
+Are none other than
+<printPlayerName> & <printEnemy>!
+###Command:printPlayerName
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Mugshot:Ribitta
+Now! Let's move
+on to the award
+ceremony!
+###--------
+###Mugshot:MrProgGold
+<printPlayerName> & <printEnemy>!
+Congraaaatulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Mugshot:MrProgGold
+You've shown us
+your excellent
+teamwork...
+###--------
+###Mugshot:MrProgGold
+Well done!
+###--------
+###Mugshot:MrProgGold
+And as proof of
+your achievement,
+###--------
+###Mugshot:MrProgGold
+I present you with
+this "<printItem>"!
+###Command:printItem buffer=0 item=3
+###--------
+###Mugshot:MrProgGold
+<wait>
+###Command:wait frames=60
+###--------
+###Mugshot:MrProgGold
+This lets you pass
+through various Net
+areas! Fantastic!
+###--------
+###Mugshot:Ribitta
+Congraaats! Here's
+your lucky chance:
+the BattleChip Roulette!
+###--------
+###Script:2
+###Mugshot:Ribitta
+And the champions,whose
+passion shone through
+world-class battles...
+###--------
+###Mugshot:Ribitta
+Are none other than
+<printPlayerName> & <printEnemy>!
+###Command:printPlayerName
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Mugshot:Ribitta
+Now! Let's move
+on to the award
+ceremony!
+###--------
+###Mugshot:MrProgGold
+<printPlayerName> & <printEnemy>!
+Congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Mugshot:MrProgGold
+You've shown us
+your incredible
+techniques
+###--------
+###Mugshot:MrProgGold
+and your amazing
+synergy...
+###--------
+###Mugshot:MrProgGold
+Well done!
+###--------
+###Mugshot:MrProgGold
+And I present you with
+this "<printItem>"!
+###Command:printItem buffer=0 item=4
+###--------
+###Mugshot:MrProgGold
+<wait>
+###Command:wait frames=60
+###--------
+###Mugshot:MrProgGold
+This certifies your
+position as the
+strongest NetBattler!
+###--------
+###Mugshot:Ribitta
+Congraaaaats! Here's
+your lucky chance:
+the BattleChip Roulette!
+###--------
+###Script:3
+###Mugshot:Bass
+Unbelievable...
+For me to lose...!
+###++++++++
+###Mugshot:Bass
+Is this the power of
+a Navi and operator
+working together...!?
+###--------
+###Script:4
+###Mugshot:Ribitta
+The winners of this
+Everyday Tournament
+are...
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printEnemy>!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Mugshot:Ribitta
+As for your
+prize,you two,
+###--------
+###Mugshot:Ribitta
+you will receive
+a "<printItem>"!
+###Command:printItem buffer=0 item=19
+###--------
+###Mugshot:Ribitta
+This ticket is a
+fantastic item that
+allows you to
+###--------
+###Mugshot:Ribitta
+pass through a
+compatible cyberdoor
+one time only!
+###--------
+###Mugshot:Ribitta
+However, once you
+jack out, the door
+you've opened with
+###--------
+###Mugshot:Ribitta
+this ticket will close
+again,so be careful!
+###--------
+###Mugshot:Ribitta
+And here's your
+lucky chance: the
+BattleChip Roulette!
+###--------
+###Script:5
+Rnk:Silv
+###--------
+###Script:6
+Rnk:Gold
+###--------
+###Script:8
+Rnk:Undr
+###--------
+###Script:9
+No.<printBuffer>
+###Command:printBuffer buffer=0 minLength=4 padZeros=true padLeft=true
+###--------
+###Script:10
+To <printShortString>
+###Command:printShortString
+###--------
+###Script:11
+###Mugshot:Ribitta
+The winners of this
+Everyday Tournament
+are...
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printEnemy>!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Mugshot:Ribitta
+Congratulations!
+###--------
+###Mugshot:Ribitta
+And here's your
+lucky chance:
+the BattleChip Roulette!
+###--------
+###Script:12
+###Mugshot:Ribitta
+The winners of this
+Everyday Tournament
+are...
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printEnemy>!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Mugshot:Ribitta
+As for your
+prize,you two,
+###--------
+###Mugshot:Ribitta
+you will receive
+a "<printItem>"!
+###Command:printItem buffer=0 item=20
+###--------
+###Mugshot:Ribitta
+This ticket is a
+fantastic item that
+allows you to
+###--------
+###Mugshot:Ribitta
+pass through a
+compatible cyberdoor
+one time only!
+###--------
+###Mugshot:Ribitta
+However, once you
+jack out, the door
+you've opened with
+###--------
+###Mugshot:Ribitta
+this ticket will close
+again,so be careful!
+###--------
+###Mugshot:Ribitta
+And here's your
+lucky chance:
+the BattleChip Roulette!
+###--------
+###Script:15
+###Mugshot:Ribitta
+OK! Start the
+BattleChip Roulette!
+###--------
+###Script:16
+###Mugshot:Ribitta
+Press the A Button
+whenever you like!
+###--------
+###Script:17
+###Mugshot:Ribitta
+You've won <printChip>!
+Aw, so close!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:18
+You won <printChip>!
+Well,better luck
+next time!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:19
+You won <printChip>!
+Hmm,not too bad!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:20
+You won <printChip>!
+That's pretty good!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:21
+You won <printChip>!
+Wow,amazing luck!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:22
+Give it up for
+our winners,
+###--------
+<printPlayerName> & <printEnemy>!
+Congratulations!!
+###Command:printPlayerName
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Script:25
+###Mugshot:MegaMan
+...That's right.
+###--------
+###Mugshot:MegaMan
+I probably couldn't
+have won with just
+my own power...
+###--------
+###Mugshot:MegaMan
+But by becoming one
+with <printPlayerNickname>,
+###Command:printPlayerNickname
+###--------
+###Mugshot:MegaMan
+I'm able to get
+stronger and stronger!
+###--------
+###Script:26
+###Mugshot:Roll
+Yeah! When I'm
+with <printPlayerNickname>,
+###Command:printPlayerNickname
+###--------
+###Mugshot:Roll
+then there's
+nothing to fear!
+###--------
+###Script:27
+###Mugshot:GutsMan
+Yeeee-haaaaww!
+###--------
+###Mugshot:GutsMan
+<printPlayerNickname>'s guts
+are the source of
+GutsMan's power!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:GutsMan
+Having operators is
+what makes Navis
+become stronger!
+###--------
+###Script:28
+###Mugshot:WindMan
+Exactly...
+###--------
+###Mugshot:WindMan
+My operator,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Mugshot:WindMan
+Their operating
+stirred up my heart,
+###--------
+###Mugshot:WindMan
+and gave me a
+stronger wind...
+A stronger power...
+###--------
+###Script:29
+###Mugshot:SearchMan
+･･････
+###--------
+###Mugshot:SearchMan
+When a Navi and an
+operator join forces,
+###++++++++
+###Mugshot:SearchMan
+their abilities are
+greatly enhanced...
+###--------
+###Mugshot:SearchMan
+The stronger the trust,
+the more limitless
+possibilities are born...
+###--------
+###Mugshot:SearchMan
+Maybe you don't
+understand that...
+###--------
+###Script:30
+###Mugshot:FireMan
+There's no way
+you'd get it...
+###--------
+###Mugshot:FireMan
+An operator's fighting
+spirit is what lights the
+flame in a Navi's heart!
+###--------
+###Script:31
+###Mugshot:ThunderMan
+Bass,you are always
+fighting alone.
+###--------
+###Mugshot:ThunderMan
+But we are
+fighting as two...
+###--------
+###Mugshot:ThunderMan
+There's no way you
+would be able to win...
+###--------
+###Script:32
+###Mugshot:ProtoMan
+What determines a
+Navi's true strength...
+###--------
+###Mugshot:ProtoMan
+It's not their chips
+or programs.
+###--------
+###Mugshot:ProtoMan
+No...it's the bond
+with their operator.
+###--------
+###Mugshot:ProtoMan
+If you had an operator
+you could trust,
+###--------
+###Mugshot:ProtoMan
+maybe the result of
+our battle would have
+been different.
+###--------
+###Script:33
+###Mugshot:NumberMan
+Exactly!
+###--------
+###Mugshot:NumberMan
+This victory was the
+result of combining my
+mathematical genius
+###--------
+###Mugshot:NumberMan
+with <printPlayerNickname>'s
+operating skills!
+###Command:printPlayerNickname
+###--------
+###Script:34
+###Mugshot:MetalMan
+...I don't know if
+you'll understand
+or not,but...
+###--------
+###Mugshot:MetalMan
+My operator's
+passionate feelings
+###--------
+###Mugshot:MetalMan
+are what put the
+power in my fists.
+###--------
+###Script:35
+###Mugshot:JunkMan
+B-Back when I
+didn't have an
+operator,I didn't
+###--------
+###Mugshot:JunkMan
+understand it at all...
+B-But now,I can
+say it clearly...
+###--------
+###Mugshot:JunkMan
+With an operator,a
+Navi can show its
+true strength...
+###--------
+###Mugshot:JunkMan
+I-Isn't that right...
+<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:36
+###Mugshot:AquaMan
+Yeah,drip!
+###--------
+###Mugshot:AquaMan
+As long as I have
+<printPlayerNickname> with me,
+###Command:printPlayerNickname
+###--------
+###Mugshot:AquaMan
+there's no way
+I'd lose to someone
+like you,drip!
+###--------
+###Script:37
+###Mugshot:WoodMan
+Just like how
+plants will not grow
+without the sun,
+###--------
+###Mugshot:WoodMan
+Navis,too,will not
+grow stronger without
+an operator...
+###--------
+###Mugshot:WoodMan
+Perhaps one day you
+may understand...
+###--------
+###Script:38
+###Mugshot:MegaMan
+There's no way
+you'd get it...
+###--------
+###Mugshot:MegaMan
+An operator's fighting
+spirit is what lights the
+flame in a Navi's heart!
+###--------
+###Script:39
+###Mugshot:MegaMan
+There's no way
+you'd get it...
+###--------
+###Mugshot:MegaMan
+An operator's fighting
+spirit is what lights the
+flame in a Navi's heart!
+###--------
+###Script:40
+###Mugshot:StarMan
+Exactly!
+###--------
+###Mugshot:StarMan
+Being with <printPlayerNickname>
+makes me stronger!
+###Command:printPlayerNickname
+###--------
+###Mugshot:StarMan
+My friendship
+with <printPlayerNickname>
+###Command:printPlayerNickname
+###--------
+###Mugshot:StarMan
+is the starlight
+that guides me!
+###--------
+###Script:41
+###Mugshot:ShadowMan
+...Hmph.
+###--------
+###Mugshot:ShadowMan
+I have no need of
+an operator to
+win my battles...
+###--------
+###Mugshot:ShadowMan
+Blame your own
+inexperience,for that
+is why you lost today...
+###--------
+###Mugshot:ShadowMan
+But you know,
+having an operator...
+###--------
+###Mugshot:ShadowMan
+...It's not so bad.
+###--------
+###Script:42
+###Mugshot:KnightMan
+Do you not
+understand!?
+###--------
+###Mugshot:KnightMan
+It is <printPlayerNickname>
+who made me the
+knight I am today!
+###Command:printPlayerNickname
+###--------
+###Mugshot:KnightMan
+These two chivalrous
+knights have brought
+you your defeat!
+###--------
+###Script:43
+###Mugshot:NapalmMan
+...Huh?
+###--------
+###Mugshot:NapalmMan
+An operator's got
+nothin' to do with it!
+###--------
+###Mugshot:NapalmMan
+Well,<printPlayerNickname>
+did help me out
+a little bit!
+###Command:printPlayerNickname
+###--------
+###Mugshot:NapalmMan
+If you quit bein' so
+stubborn and got
+yerself an operator
+###--------
+###Mugshot:NapalmMan
+too,maybe ya'd get
+even stronger than
+you are now?
+###--------
+###Script:44
+###Mugshot:IceMan
+That's right!
+###--------
+###Mugshot:IceMan
+I-I'm not that strong...
+###--------
+###Mugshot:IceMan
+But I won because
+I had <printPlayerNickname>
+with me!
+###Command:printPlayerNickname
+###--------
+###Script:45
+###Mugshot:ElecMan
+Hmph,if I had to
+think of something...
+###--------
+###Mugshot:ElecMan
+At first,I didn't
+like humans either,
+###--------
+###Mugshot:ElecMan
+but after meeting
+<printPlayerNickname>,I changed
+my mind a bit...
+###Command:printPlayerNickname
+###--------
+###Mugshot:ElecMan
+Operators are what
+power us Navis...
+###--------
+###Script:46
+###Mugshot:PlantMan
+Well,that might
+be the case...
+###--------
+###Mugshot:PlantMan
+Like a plant that
+receives nutrients
+from the Earth
+###++++++++
+###Mugshot:PlantMan
+and blooms into
+a beautiful flower,
+###--------
+###Mugshot:PlantMan
+it seems I'm
+receiving power
+from <printPlayerNickname>,too.
+###Command:printPlayerNickname
+###--------
+###Script:47
+###Mugshot:Bass
+...Hmph. I can fight
+just fine without
+an operator.
+###--------
+###Script:48
+###Mugshot:Bass
+Remember this...
+I will be the one
+to defeat you!
+###++++++++
+###Mugshot:Bass
+You'd better make
+sure you survive
+until then!
+###--------
+###Mugshot:HeelNaviBlack
+I can't believe you
+defeated Bass...
+###--------
+###Mugshot:HeelNaviBlack
+You are the true
+UnderKing!
+###--------
+###Mugshot:HeelNaviBlack
+Here's the Under
+BattleChip Roulette,
+for the UnderKing only!
+###--------
+###Script:50
+###Mugshot:HeelNaviBlack
+Here we go!
+Start the Under
+BattleChip Roulette!
+###--------
+###Script:51
+###Mugshot:HeelNaviBlack
+Press the A Button
+whenever you like...
+###--------
+###Script:52
+###Mugshot:HeelNaviBlack
+You won <printChip>!
+...Terrible.
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:53
+You won <printChip>!
+Could be better...
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:54
+You won <printChip>!
+Hm,not bad...
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:55
+You won <printChip>!
+Hey,not too shabby!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:56
+You won <printChip>!
+That's awesome!
+###Command:printChip buffer=1 chip=0
+###--------
+###Script:57
+...Let's hear it
+for our winners,
+###--------
+<printPlayerName> & <printEnemy>!
+Congrats!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Script:60
+###Mugshot:Ribitta
+After countless hard-
+fought battles,
+###++++++++
+###Mugshot:Ribitta
+the Navi that stands
+at the peak of
+the Officials is...
+###--------
+###Script:61
+###Mugshot:Ribitta
+<printPlayerName>'s Navi,
+<printEnemy>!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Script:62
+###Mugshot:Ribitta
+And now,it's time
+to award the trophy!
+###--------
+###Script:63
+###Mugshot:Ribitta
+<printPlayerName> & <printEnemy>!
+Congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printEnemy buffer=2 enemy=0
+###--------
+###Script:65
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:MegaMan
+T-Thanks...
+###--------
+###Mugshot:Ribitta
+In your opinion, what
+was the reason for
+your victory?
+###--------
+###Mugshot:MegaMan
+With my power alone,
+there's no way
+I would've won...
+###--------
+###Mugshot:MegaMan
+The reason I was able
+to win was because
+I met an operator
+###--------
+###Mugshot:MegaMan
+who I could trust in
+from the bottom of
+my heart...<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Mugshot:MegaMan
+## Cuts to script 90
+<printPlayerNickname>,I'll ask your
+mom to make your
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:MegaMan
+favorite <printFavFood>
+for dinner tonight!
+###Command:printFavFood
+###--------
+###Mugshot:Ribitta
+Those two sure seem
+to get along well!
+###--------
+###Mugshot:Ribitta
+It looks the secret to
+their strength was
+their friendship!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:MegaMan
+T-Thank you!
+###--------
+###Script:66
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:Roll
+<printPlayerNickname>!
+We did it,we did it!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:Ribitta
+How do you feel the
+tournament went?
+###--------
+###Mugshot:Ribitta
+Please tell us your
+thoughts!
+###--------
+###Mugshot:Roll
+Um,all the Navis we
+fought were really
+strong,
+###--------
+###Mugshot:Roll
+and I wasn't all that
+confident I could win...
+###--------
+###Mugshot:Roll
+but I worked together
+with <printPlayerNickname> and
+somehow,we won!
+###Command:printPlayerNickname
+###--------
+###Mugshot:Roll
+I'm so happy!
+###--------
+###Mugshot:Roll
+## Cuts to script 91
+<printPlayerNickname>, we have
+to tell <printCrush>!
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printCrush
+###--------
+###Mugshot:Ribitta
+That person you
+just mentioned...
+Could it be...?
+###--------
+###Mugshot:Roll
+That's the person
+<printPlayerNickname> is in
+love with!!
+###Command:printPlayerNickname
+###--------
+###Mugshot:Ribitta
+T-This is a real
+bombshell!
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi> has suddenly
+revealed her
+operator's crush!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+This cheerfulness
+might be the secret
+to their strength!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:Roll
+Thank you very much!
+###--------
+###Mugshot:Roll
+Sorry, <printPlayerNickname>!
+Teehee!
+###Command:printPlayerNickname
+###--------
+###Script:67
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:GutsMan
+W-W-We really did it!
+*baaaawl!*
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi> can't even
+seem to express his
+feelings!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Now then, <printCurrentNavi>,
+how was the
+tournament?
+###Command:printCurrentNavi
+###--------
+###Mugshot:GutsMan
+Guts, guts!
+###--------
+###Mugshot:GutsMan
+I feel like we
+just barely won
+all of the battles!
+###--------
+###Mugshot:GutsMan
+I kept making mistakes
+over and over in
+every battle,
+###--------
+###Mugshot:GutsMan
+but <printPlayerNickname> picked
+up the slack and
+helped me out!
+###Command:printPlayerNickname
+###--------
+###Mugshot:GutsMan
+*baaaawl!*
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi> is crying
+manly tears just
+remembering it!
+###Command:printCurrentNavi
+###--------
+###Mugshot:GutsMan
+## Cuts to script 92
+<printPlayerNickname>,together
+we're gonna be the
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:GutsMan
+strongest NetBattlers
+at <printSchool>!
+###Command:printSchool
+###--------
+###Mugshot:GutsMan
+No way there're any
+battlers at <printSchool>
+better than <printPlayerNickname>!
+###Command:printSchool
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:Ribitta
+I see...
+Looks like <printPlayerName>
+###Command:printPlayerName
+###--------
+###Mugshot:Ribitta
+has rivals aplenty!
+###--------
+###Mugshot:Ribitta
+It seems their
+strength comes from
+a constant rivalry!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:GutsMan
+Thanks a lot!
+*baaaawl!*
+###--------
+###Script:68
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:WindMan
+･･････
+###--------
+###Mugshot:Ribitta
+It appears that
+<printCurrentNavi> is a
+Navi of few words!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+S-So anyway...as
+you've just won the
+Official Tournament,
+###--------
+###Mugshot:Ribitta
+please tell us your
+thoughts!
+###--------
+###Mugshot:WindMan
+A nice wind was blowing.
+That's all...
+###--------
+###Mugshot:WindMan
+Had the wind taken
+a different course,
+###++++++++
+###Mugshot:WindMan
+perhaps we would
+have lost...
+###--------
+###Mugshot:Ribitta
+The course...of the wind?
+###--------
+###Mugshot:WindMan
+It seemed like the
+winds were about to
+change many times,
+###--------
+###Mugshot:WindMan
+but with <printPlayerNickname>
+standing firm,we were
+able to keep the flow.
+###Command:printPlayerNickname
+###--------
+###Mugshot:WindMan
+## Cuts to script 93
+You've worked hard,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Mugshot:WindMan
+Might I suggest you
+take a breather with
+some <printHobby>⋯?
+###Command:printHobby
+###--------
+###Mugshot:Ribitta
+Hmm,he's a bit...
+How should I say it...
+Not very Navi-like...
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi> seems
+a bit hard to
+get along with,
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+but perhaps,in this
+aloofness lies the
+key to their victory!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:WindMan
+...Hm.
+###--------
+###Script:69
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:SearchMan
+･･････
+###--------
+###Mugshot:Ribitta
+Is something wrong?
+###--------
+###Mugshot:Ribitta
+･････････
+Could it be...you're
+embarrassed!?
+###--------
+###Mugshot:SearchMan
+N-No way!
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi>'s cheeks are
+turning a little red!
+Yep,he's nervous!
+###Command:printCurrentNavi
+###--------
+###Mugshot:SearchMan
+T-That's...not true!
+###--------
+###Mugshot:Ribitta
+So <printCurrentNavi>,
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+what was your most
+difficult match in
+this tournament?
+###--------
+###Mugshot:SearchMan
+Everything went all
+according to my and
+<printPlayerNickname>'s plans.
+###Command:printPlayerNickname
+###--------
+###Mugshot:SearchMan
+I just stuck to the
+plan perfectly.
+###--------
+###Mugshot:SearchMan
+We'd already accounted
+for some irregularities...
+###--------
+###Mugshot:SearchMan
+I don't remember any
+of the battles being
+particularly difficult.
+###--------
+###Mugshot:SearchMan
+## Cuts to script 94
+...More importantly,
+your operating was
+splendid,<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Mugshot:SearchMan
+If we keep moving
+at this pace,I'm
+sure we'll bring your
+###--------
+###Mugshot:SearchMan
+dream of becoming
+a<printDream> <printDream> to
+fruition as well.
+###Command:printDream printN=true
+###Command:printDream
+###--------
+###Mugshot:Ribitta
+As expected of a
+soldier-type Navi,
+###--------
+###Mugshot:Ribitta
+he's blunt with his
+answers but holds his
+operator in high regard.
+###--------
+###Mugshot:Ribitta
+I can see the secret
+to their strength
+###++++++++
+###Mugshot:Ribitta
+in this hierarchical
+relationship!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Is there any last
+thing you want to say?
+###--------
+###Mugshot:SearchMan
+･<waitSkip>･<waitSkip>･<waitSkip>*ahem!*
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:SearchMan
+Mission complete!
+###--------
+###Script:70
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:FireMan
+Thanks for the support,
+FireMan fans all over
+the country!
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi>, you're
+always burning hot,
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+but which round of the
+tournament would you
+say was the hottest?
+###--------
+###Mugshot:FireMan
+Let's see...
+All of them got
+pretty heated!
+###--------
+###Mugshot:FireMan
+But if I had to
+choose, it'd have
+to be the finals!
+###--------
+###Mugshot:FireMan
+My operator <printPlayerNickname>
+got pretty fired up too!
+###Command:printPlayerNickname
+###--------
+###Mugshot:FireMan
+Didn't ya, <printPlayerNickname>!?
+###Command:printPlayerNickname
+###--------
+###Mugshot:Ribitta
+I see...
+###--------
+###Mugshot:Ribitta
+But, didn't you feel
+the pressure during
+the finals?
+###--------
+###Mugshot:FireMan
+## Cuts to script 95
+Heh! Pressure?
+I didn't feel a bit!
+###--------
+###Mugshot:FireMan
+My operator's
+always battlin' with
+<printFriend>,ya know?
+###Command:printFriend
+###--------
+###Mugshot:FireMan
+Compared to that,
+this ain't nothin'!
+###--------
+###Mugshot:FireMan
+Those guys always
+light us up!
+###--------
+###Mugshot:Ribitta
+I see! There's always
+a strong enemy in the
+winner's shadow,huh?
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:FireMan
+Yeeeaaah!!
+This is burnin' hoooot!
+###--------
+###Script:71
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:ThunderMan
+･････････
+###--------
+###Mugshot:Ribitta
+U-Um...congratulations.
+###--------
+###Mugshot:ThunderMan
+...Thanks.
+###--------
+###Mugshot:Ribitta
+Did you think this
+tournament was
+difficult?
+###--------
+###Mugshot:ThunderMan
+I'll admit we found
+ourselves in a pinch
+several times...
+###--------
+###Mugshot:ThunderMan
+However, my operator
+worked hard.
+###--------
+###Mugshot:ThunderMan
+<printPlayerNickname> is a
+proud warrior.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:ThunderMan
+## Cuts to script 96
+You really did well,
+<printPlayerNickname>.
+###Command:printPlayerNickname
+###--------
+###Mugshot:ThunderMan
+I shall contact your
+parents and ask them
+###--------
+###Mugshot:ThunderMan
+to give you
+a<printWish> <printWish>⋯
+###Command:printWish printN=true
+###Command:printWish
+###--------
+###Mugshot:Ribitta
+I see...
+###--------
+###Mugshot:Ribitta
+Behind the strictness,
+I also hear a certain
+gentleness!
+###--------
+###Mugshot:Ribitta
+Somehow, I can feel the
+bonds between you two
+from this one exchange!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:ThunderMan
+Glory unto you,
+proud warrior!
+###--------
+###Script:72
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:ProtoMan
+It's all <printPlayerNickname>'s
+victory.
+###Command:printPlayerNickname
+###--------
+###Mugshot:ProtoMan
+Without <printPlayerNickname>'s
+operating,we
+wouldn't have won.
+###Command:printPlayerNickname
+###--------
+###Mugshot:ProtoMan
+## Cuts to script 97
+<printPlayerNickname>'s prowess
+in <printBestSubject> came in
+handy in our battles.
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printBestSubject
+###--------
+###Mugshot:ProtoMan
+Now,if you studied
+<printWorstSubject> a
+little more,
+###Command:printWorstSubject
+###--------
+###Mugshot:ProtoMan
+I think your operating
+might reach even
+further heights.
+###--------
+###Mugshot:Ribitta
+It looks like if you
+grasp your operator's
+strengths and
+###--------
+###Mugshot:Ribitta
+weaknesses,you'll be
+able to manifest
+your full power!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:ProtoMan
+Now,let's go,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Mugshot:ProtoMan
+New missions await us!
+###--------
+###Script:73
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:NumberMan
+Ahhhh... W-What
+should I say in this
+kind of situation!?
+###--------
+###Mugshot:Ribitta
+Let's see... How about
+you tell us why you
+think you won?
+###--------
+###Mugshot:NumberMan
+Right, OK...
+###--------
+###Mugshot:NumberMan
+<printPlayerNickname>'s operating
+was probably why
+we won...
+###Command:printPlayerNickname capitalizeFirst=true
+###++++++++
+###Mugshot:NumberMan
+But...more importantly,
+###--------
+###Mugshot:NumberMan
+this was a victory
+for my superior
+intellect,wasn't it!?
+###--------
+###Mugshot:NumberMan
+I was quite confident
+in our victory!
+###--------
+###Mugshot:NumberMan
+## Cuts to script 98
+<printPlayerNickname>,from now
+on,just leave the
+battling to me!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:NumberMan
+You just sit back
+and eat some
+<printFavFood>!
+###Command:printFavFood
+###--------
+###Mugshot:NumberMan
+Wahahahahaha!
+###--------
+###Mugshot:NumberMan
+･<waitSkip>･<waitSkip>･<waitSkip>Wait,you're
+changing Navis!?
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:NumberMan
+D-Don't say that!
+###--------
+###Mugshot:NumberMan
+I-I was just trying
+to show off a little!
+###--------
+###Mugshot:Ribitta
+Hmm, I'm not sure
+how a Navi like this
+was able to win,
+###--------
+###Mugshot:Ribitta
+but it's a fact
+that they did!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:NumberMan
+H-Hey,<printPlayerNickname>,
+your operating was
+the best!
+###Command:printPlayerNickname
+###--------
+###Mugshot:NumberMan
+So please don't
+say that you're
+changing Navis!!
+###--------
+###Script:74
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+What an overwhelmingly
+powerful victory!
+Tell us your thoughts!
+###--------
+###Mugshot:MetalMan
+My fists are capable
+of destroying anything...
+Combined with
+###--------
+###Mugshot:MetalMan
+<printPlayerNickname>'s operating,
+this was the natural
+result...
+###Command:printPlayerNickname
+###--------
+###Mugshot:Ribitta
+Such amazing confidence!
+###--------
+###Mugshot:Ribitta
+There's no doubt
+the reason you won
+###--------
+###Mugshot:Ribitta
+lies in that unwavering
+confidence!
+###--------
+###Mugshot:Ribitta
+Now, <printCurrentNavi>, do
+you have anything to
+say to <printPlayerName>?
+###Command:printCurrentNavi
+###Command:printPlayerName
+###--------
+###Mugshot:MetalMan
+## Cuts to script 99
+You must be worn
+out,<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Mugshot:MetalMan
+Relax and do some
+<printHobby>.
+###Command:printHobby
+###--------
+###Mugshot:MetalMan
+And after that,join
+me in my training...
+###--------
+###Mugshot:Ribitta
+As expected...
+he's just won the
+Official Tournament,
+###--------
+###Mugshot:Ribitta
+but he wants to
+train even more!
+###--------
+###Mugshot:Ribitta
+I can't help but
+feel it's a bit
+of a nuisance,
+###--------
+###Mugshot:Ribitta
+but please try your
+best, operator!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:MetalMan
+My fists are already
+starting to tingle!
+###--------
+###Script:75
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Congratulations!
+###--------
+###Mugshot:JunkMan
+I-I was able to win!
+###--------
+###Mugshot:JunkMan
+Will...will I become
+famous?
+###--------
+###Mugshot:Ribitta
+What are you saying?
+Winning this tournament
+###--------
+###Mugshot:Ribitta
+is the aspiration of
+NetBattlers nationwide!
+###--------
+###Mugshot:JunkMan
+A-Aspiration!?
+T-They look up to me?
+###--------
+###Mugshot:JunkMan
+I-I...A-A-Ahh... I-I'm
+getting too excited...
+I-I-I-I...Aaaahh!!
+###--------
+###Mugshot:Ribitta
+C-C-Calm down!
+Please, calm down!
+###--------
+###Mugshot:Ribitta
+OK, pull yourself
+together and let's
+continue the interview!
+###--------
+###Mugshot:Ribitta
+You won due to the
+outstanding teamwork
+between you and your
+###--------
+###Mugshot:Ribitta
+operator, but what's
+the secret to that
+teamwork!?
+###--------
+###Mugshot:JunkMan
+I-I love <printPlayerNickname>,
+that's all!
+###Command:printPlayerNickname
+###--------
+###Mugshot:JunkMan
+## Cuts to script 100
+But, <printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Mugshot:JunkMan
+only has eyes for
+<printCrush>⋯
+###Command:printCrush
+###--------
+###Mugshot:JunkMan
+I-I'm a little jealous...
+###--------
+###Mugshot:JunkMan
+But when we're battling,
+I get <printPlayerNickname> all
+to myself!
+###Command:printPlayerNickname
+###--------
+###Mugshot:Ribitta
+I see! So the secret
+to you two's strength
+is your... Or rather...
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi>'s deep
+affection!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Please get along well
+from here on out, too!
+###--------
+###Mugshot:JunkMan
+Yes, I'll do my best!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Script:76
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:AquaMan
+Drip, drip!
+I'm so happy, drip!
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi> is showing
+us a cute fist pump!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Now then,<printCurrentNavi>,
+which part of
+the tournament
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+left the strongest
+impression on you?
+###--------
+###Mugshot:AquaMan
+Um, the finals, drip!
+###--------
+###Mugshot:AquaMan
+There were moments
+where I made
+some mistakes,
+###--------
+###Mugshot:AquaMan
+but then <printPlayerNickname>
+helped me out, drip!
+###Command:printPlayerNickname
+###--------
+###Mugshot:AquaMan
+Our friendship grew
+even stronger through
+this tournament!
+###--------
+###Mugshot:AquaMan
+<printPlayerNickname>, I had
+a lot of fun,drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:Ribitta
+What a lovely sight!
+###--------
+###Mugshot:Ribitta
+Nobody could attack
+such a cute Navi
+for real!
+###--------
+###Mugshot:AquaMan
+Ah, right, drip!
+###--------
+###Mugshot:AquaMan
+## Cuts to script 101
+<printFavShow> is on
+today, isn't it, drip!?
+###Command:printFavShow capitalizeFirst=true
+###--------
+###Mugshot:Ribitta
+Ah, that's rather
+serious!
+###--------
+###Mugshot:Ribitta
+If you don't hurry,
+<printFavShow>
+might start!
+###Command:printFavShow
+###--------
+###Mugshot:Ribitta
+Let's quickly wrap
+up our interview
+with the champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:AquaMan
+Drip, drip!!
+###--------
+###Script:77
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Congratulations!
+###--------
+###Mugshot:WoodMan
+Hm, thank you!
+###--------
+###Mugshot:WoodMan
+This was all thanks
+to Mother Earth's
+guidance,
+###--------
+###Mugshot:WoodMan
+and to <printPlayerNickname>'s
+operating as well.
+###Command:printPlayerNickname
+###--------
+###Mugshot:Ribitta
+It sounds like <printCurrentNavi>
+is a kind-hearted Navi
+that loves nature!
+###Command:printCurrentNavi
+###--------
+###Mugshot:WoodMan
+Indeed. Those who
+love nature are in
+turn protected by
+###--------
+###Mugshot:WoodMan
+its great power...
+Isn't that right,
+<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Mugshot:WoodMan
+Ribitta, make sure
+you treat nature
+well, too.
+###--------
+###Mugshot:Ribitta
+Y-Yes, I'll keep
+that in mind...
+###--------
+###Mugshot:WoodMan
+By the way,
+<printPlayerNickname>,
+###Command:printPlayerNickname
+###--------
+###Mugshot:WoodMan
+## Cuts to script 102
+I'm sure <printPlayerEnemy>
+will be quite jealous
+of our victory.
+###Command:printPlayerEnemy
+###--------
+###Mugshot:Ribitta
+Of course! You won the
+Official Tournament!
+###--------
+###Mugshot:Ribitta
+Anyone would be
+jealous of that!
+###--------
+###Mugshot:Ribitta
+By all means,go
+around and boast
+to everyone!
+###--------
+###Mugshot:Ribitta
+Well,that concludes
+our interview with
+the champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:WoodMan
+Hooooooh!
+###--------
+###Script:78
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+You did it!
+###--------
+###Mugshot:StarMan
+We sure did!
+###--------
+###Mugshot:Ribitta
+Thinking back to the
+Official Tournament,
+how was it?
+###--------
+###Mugshot:StarMan
+My luck in battle
+wasn't all that
+good today,
+###--------
+###Mugshot:StarMan
+but <printPlayerNickname> drew
+in luck for me!
+###Command:printPlayerNickname
+###--------
+###Mugshot:StarMan
+<printPlayerNickname> might just
+be my lucky star!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:Ribitta
+Actually,<printCurrentNavi>,
+I've heard you're
+good at fortune telling...
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Do you think you
+could tell me my
+love fortune?
+###--------
+###Mugshot:StarMan
+Sure, I don't mind!
+###--------
+###Mugshot:StarMan
+Let's see, Ribitta's
+love fortune is...
+......
+###--------
+###Mugshot:Ribitta
+W-What's the result!?
+###--------
+###Mugshot:StarMan
+...O-Oh, yeah,
+<printPlayerNickname>,
+###Command:printPlayerNickname
+###--------
+###Mugshot:StarMan
+## Cuts to script 103
+didn't you have plans
+with <printFriend> today?
+###Command:printFriend
+###--------
+###Mugshot:Ribitta
+Wait! What about the
+results of my fortune!?
+###--------
+###Mugshot:StarMan
+Well, we have stuff
+to take care of,so...
+Buh-bye!
+###--------
+###Mugshot:Ribitta
+Ah! N-No!
+What were the
+results!?
+###--------
+###Script:79
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Congratulations!
+###--------
+###Mugshot:ShadowMan
+...Hmph.
+###--------
+###Mugshot:ShadowMan
+With my ninjutsu,
+this result was
+inevitable...
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi>,as
+you've mentioned,
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+you use all kinds
+of amazing ninjutsu,
+###--------
+###Mugshot:Ribitta
+but is your operator
+a ninja as well!?
+###--------
+###Mugshot:ShadowMan
+Hmph. <printPlayerNickname> is
+still too inexperienced
+to be called a ninja.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:ShadowMan
+More training is
+necessary...
+###--------
+###Mugshot:Ribitta
+I see...
+###--------
+###Mugshot:Ribitta
+By the way,<printCurrentNavi>,
+with you being
+a ninja and all,
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+is it really OK for
+you to make such a
+public appearance?
+###--------
+###Mugshot:ShadowMan
+...Ah!!
+What have I done!?
+###--------
+###Mugshot:ShadowMan
+Yes,come to think
+of it... We do have an
+assassination request...
+###--------
+###Mugshot:ShadowMan
+## Cuts to script 104
+<printPlayerNickname>, let's
+hurry to <printSchool>!
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printSchool
+###--------
+###Mugshot:Ribitta
+T-The interview
+isn't over yet!
+###--------
+###Mugshot:Ribitta
+Also, did you just say
+"assassination"!?
+###--------
+###Mugshot:ShadowMan
+Quiet, you!
+I have matters
+to attend to!
+###--------
+###Mugshot:ShadowMan
+Farewell!!
+###--------
+###Mugshot:Ribitta
+T-That concludes
+our interview with
+the champion!
+###--------
+###Script:80
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:KnightMan
+<printPlayerNickname>,we have
+done it!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:KnightMan
+Being victorious in the
+Official Tournament
+###--------
+###Mugshot:KnightMan
+is the greatest honor
+for a knight!
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi>,you conquered
+the tournament with
+tremendous power,
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+but what's the source
+of that power?
+###--------
+###Mugshot:KnightMan
+Verily,I shall answer!
+My power relies
+on daily training!
+###--------
+###Mugshot:KnightMan
+## Cuts to script 105
+Furthermore,I eat
+<printFavFood> thrice
+every day!
+###Command:printFavFood
+###--------
+###Mugshot:KnightMan
+If you do this, your
+power shall increase
+greatly!
+###--------
+###Mugshot:Ribitta
+A-Ah...
+###--------
+###Mugshot:Ribitta
+So basically,strength
+is something you
+###++++++++
+###Mugshot:Ribitta
+build up little by
+little every day,
+right?
+###--------
+###Mugshot:KnightMan
+Exactly! Strength is
+not built in a day!
+###--------
+###Mugshot:KnightMan
+Firstly,a chivalrous
+knight must...
+###--------
+###Mugshot:Ribitta
+Okay,thank you
+very much!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:KnightMan
+Oh,but I was hoping
+to teach you
+###--------
+###Mugshot:KnightMan
+what chivalry is
+all about...
+###--------
+###Script:81
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:NapalmMan
+I'm feelin' great!
+###--------
+###Mugshot:Ribitta
+You snatched victory in
+one fell swoop with your
+destructive power!
+###--------
+###Mugshot:Ribitta
+Did you have some
+sort of strategy?
+###--------
+###Mugshot:NapalmMan
+Strategy? I got
+nothin' like that!
+###--------
+###Mugshot:NapalmMan
+I blast away any
+enemies in front
+of me! That's it!
+###--------
+###Mugshot:Ribitta
+You battle quite
+roughly,don't you...
+###--------
+###Mugshot:Ribitta
+How was <printPlayerName>'s
+operating?
+###Command:printPlayerName
+###--------
+###Mugshot:NapalmMan
+Operating, huh...
+Well, it wasn't bad?
+###--------
+###Mugshot:NapalmMan
+The chips came in
+pretty handy!
+###--------
+###Mugshot:Ribitta
+Moving on to the
+next question...
+###--------
+###Mugshot:NapalmMan
+There's more
+questions!?
+###--------
+###Mugshot:NapalmMan
+## Cuts to script 106
+C'mon, <printPlayerNickname>!
+Let's go battle
+<printFriend>!
+###Command:printPlayerNickname
+###Command:printFriend
+###--------
+###Mugshot:NapalmMan
+I'm itchin' for
+a fight!
+###--------
+###Mugshot:Ribitta
+U-Unbelievable...
+Without even taking
+the time to enjoy
+###--------
+###Mugshot:Ribitta
+his victory,<printCurrentNavi>
+is already looking
+for the next battle!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Perhaps this hunger for
+battle is the secret
+to their strength!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Script:82
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Congratulations!
+###--------
+###Mugshot:IceMan
+Thank you!
+###--------
+###Mugshot:Ribitta
+You achieved such a
+large victory despite
+your small stature...
+###--------
+###Mugshot:Ribitta
+Wasn't it a gauntlet
+of demanding battles
+for you?
+###--------
+###Mugshot:IceMan
+The size of your
+body doesn't matter
+in NetBattles!
+###--------
+###Mugshot:IceMan
+What's important is
+the relationship with
+your operator!
+###--------
+###Mugshot:IceMan
+I'm sure <printPlayerNickname>
+would say the
+same thing.
+###Command:printPlayerNickname
+###--------
+###Mugshot:Ribitta
+It's truly great
+that you were
+able to meet
+###--------
+###Mugshot:Ribitta
+such a fantastic
+operator, <printCurrentNavi>!
+###Command:printCurrentNavi
+###--------
+###Mugshot:IceMan
+It sure is!
+###--------
+###Mugshot:IceMan
+<printPlayerNickname> and I
+are really close!
+###Command:printPlayerNickname
+###--------
+###Mugshot:IceMan
+## Cuts to script 107
+I think I wanna do
+<printHobby> together
+after this!
+###Command:printHobby
+###--------
+###Mugshot:Ribitta
+That sounds fantastic!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:IceMan
+Bye-bye!
+###--------
+###Script:83
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi>,you won
+with your fearsome
+electric attacks.
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Looking back on the
+Official Tournament,
+how was it?
+###--------
+###Mugshot:ElecMan
+Sure,they were all
+strong opponents,
+###--------
+###Mugshot:ElecMan
+but none of them
+really managed
+to shock me...
+###--------
+###Mugshot:Ribitta
+I see, so you're
+saying you made it
+through with ease!
+###--------
+###Mugshot:Ribitta
+But a Navi that could
+shock even <printCurrentNavi>⋯
+Does one exist?
+###Command:printCurrentNavi
+###--------
+###Mugshot:ElecMan
+## Cuts to script 108
+Hmph, there's plenty
+at <printSchool>⋯
+###Command:printSchool
+###--------
+###Mugshot:Ribitta
+W-Wow,<printSchool>
+has amazing Navis
+like that!?
+###Command:printSchool
+###--------
+###Mugshot:Ribitta
+This <printSchool>
+sounds like a
+terrifying place!!
+###Command:printSchool capitalizeFirst=true
+###--------
+###Mugshot:Ribitta
+You'll get stronger
+in no time for sure
+###++++++++
+###Mugshot:Ribitta
+if you battle in
+that sort of place
+all the time!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Give my regards
+to everyone at
+<printSchool>!
+###Command:printSchool
+###--------
+###Script:84
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Congratulations!
+###--------
+###Mugshot:PlantMan
+Why thank you.
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi>,I'll get
+straight to the point:
+###Command:printCurrentNavi
+###++++++++
+###Mugshot:Ribitta
+Please tell us the
+secret to your strength!
+###--------
+###Mugshot:PlantMan
+The secret to my
+strength?
+###--------
+###Mugshot:PlantMan
+I dodge my enemies'
+attacks like a flower
+shaking in the wind,
+###--------
+###Mugshot:PlantMan
+then impale them like
+a thorn on a rose!
+###--------
+###Mugshot:PlantMan
+"Beauty is strength"
+is my motto!
+###--------
+###Mugshot:Ribitta
+I-I see!!
+###--------
+###Mugshot:Ribitta
+So,your opponents
+get enraptured by
+your beauty,<printCurrentNavi>!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Then...what's the secret
+to your beauty!?
+###--------
+###Mugshot:PlantMan
+## Cuts to script 109
+Let's see... Humans
+should soak in a<printFavFood>
+<printFavFood> bath daily.
+###Command:printFavFood printN=true
+###Command:printFavFood
+###--------
+###Mugshot:Ribitta
+A<printFavFood>⋯<printFavFood> bath...
+R-Right...
+###Command:printFavFood printN=true
+###Command:printFavFood
+###--------
+###Mugshot:Ribitta
+Does <printPlayerNickname>
+always take one?
+###Command:printPlayerNickname
+###--------
+###Mugshot:PlantMan
+Well,sometimes...
+###--------
+###Mugshot:Ribitta
+I-Is that so...?
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi>'s strength
+had an unexpected
+secret behind it!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Script:85
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+You won the tournament
+with unparalleled,
+overwhelming power...
+###--------
+###Mugshot:Ribitta
+Please tell us
+your thoughts!
+###--------
+###Mugshot:Bass
+...Hmph. What a
+pointless farce!
+###--------
+###Mugshot:Bass
+A tournament of
+this level cannot
+satisfy me!
+###--------
+###Mugshot:Ribitta
+Astonishing! He's
+calling the top level
+tournament a farce!
+###--------
+###Mugshot:Ribitta
+Is there no end to
+<printCurrentNavi>'s power!?
+###Command:printCurrentNavi
+###--------
+###Mugshot:Bass
+<printPlayerNickname>,let me fight
+someone stronger...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:Bass
+## Cuts to script 110
+Even <printFriend> can
+amuse me more than a
+tournament like this...
+###Command:printFriend
+###--------
+###Mugshot:Bass
+There should be a Navi
+somewhere on the Net
+that can entertain me...
+###--------
+###Mugshot:Bass
+Let's roam the Net,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Mugshot:Ribitta
+Maybe this is what they
+call the melancholy of
+the strong...
+###--------
+###Mugshot:Ribitta
+It looks like he's off
+to the Net to find a
+stronger opponent!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Script:86
+###Mugshot:Ribitta
+Let's switch over
+to an interview with
+our new champion!
+###--------
+###Mugshot:Ribitta
+I'm here with
+<printPlayerName>'s Navi,
+<printCurrentNavi>!
+###Command:printPlayerName
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+I did it!
+###--------
+###Script:90
+###Mugshot:MegaMan
+Okay,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Mugshot:MegaMan
+Let's work hard and
+get even stronger
+from here on out,too!
+###--------
+###Mugshot:Ribitta
+Those two sure seem
+to get along well!
+###--------
+###Mugshot:Ribitta
+It looks the secret to
+their strength was
+their friendship!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:MegaMan
+T-Thank you!
+###--------
+###Script:91
+###Mugshot:Roll
+<printPlayerNickname>, we gotta
+brag to everyone!!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:Roll
+Ahh,I can't wait!
+I wonder what kind of
+faces they'll make!?
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi>'s face is
+beaming!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+This cheerfulness
+might be the secret
+to their strength!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:Roll
+Thank you very much!
+Yay!
+###--------
+###Script:92
+###Mugshot:GutsMan
+<printPlayerNickname>,I'm kinda
+feelin' gutsier!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:GutsMan
+I wanna battle
+someone right now!
+###--------
+###Mugshot:GutsMan
+Let's hit up everyone
+for a NetBattle!
+###--------
+###Mugshot:Ribitta
+I see...
+Looks like <printPlayerName>
+###Command:printPlayerName
+###--------
+###Mugshot:Ribitta
+has rivals aplenty!
+###--------
+###Mugshot:Ribitta
+It seems their
+strength comes from
+a constant rivalry!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:GutsMan
+Thanks a lot!
+###--------
+###Script:93
+###Mugshot:WindMan
+You've worked hard,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Mugshot:WindMan
+However,there are
+still times you fail to
+sense the wind's flow...
+###--------
+###Mugshot:Ribitta
+Hmm,he's a bit...
+How should I say it...
+Not very Navi-like...
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi> seems
+a bit hard to get
+along with,
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+but perhaps,in this
+aloofness lies the
+key to their victory!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:WindMan
+...Hm.
+###--------
+###Script:94
+###Mugshot:SearchMan
+Apologies, <printPlayerNickname>.
+I'm not very good with
+these kinds of things...
+###Command:printPlayerNickname
+###--------
+###Mugshot:SearchMan
+Let's hurry and
+wrap things up.
+###--------
+###Mugshot:Ribitta
+As expected of a
+soldier-type Navi,
+###--------
+###Mugshot:Ribitta
+he's blunt with his
+answers but holds his
+operator in high regard.
+###--------
+###Mugshot:Ribitta
+I can see the secret
+to their strength
+###++++++++
+###Mugshot:Ribitta
+in this hierarchical
+relationship!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Is there any last
+thing you want to say?
+###--------
+###Mugshot:SearchMan
+･<waitSkip>･<waitSkip>･<waitSkip>*ahem!*
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:SearchMan
+Mission complete!
+###--------
+###Script:95
+###Mugshot:FireMan
+Pressure?
+###--------
+###Mugshot:FireMan
+Well,I'd be lyin'
+if I said there
+wasn't any,
+###--------
+###Mugshot:FireMan
+but once <printPlayerNickname>
+and I warm up,
+###Command:printPlayerNickname
+###--------
+###Mugshot:FireMan
+we get scorchin' hot
+and no one can get
+in our way!
+###--------
+###Mugshot:Ribitta
+Ah! It seems the fire
+in their hearts burns
+the pressure away!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:FireMan
+Yeeeaaah!!
+This is burnin' hoooot!
+###--------
+###Script:96
+###Mugshot:ThunderMan
+<printPlayerNickname>,winning the
+Official Tournament
+today has given rise
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:ThunderMan
+to a new pride in
+your heart. Don't
+lose sight of it.
+###--------
+###Mugshot:Ribitta
+I see...
+###--------
+###Mugshot:Ribitta
+Behind the strictness,
+I also hear a certain
+gentleness!
+###--------
+###Mugshot:Ribitta
+Somehow,I can feel the
+bonds between you two
+from this one exchange!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:ThunderMan
+Glory unto you,
+proud warrior!
+###--------
+###Script:97
+###Mugshot:ProtoMan
+<printPlayerNickname>,you've made
+good use of the
+techniques you honed
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:ProtoMan
+while doing daily
+missions for the
+Officials.
+###--------
+###Mugshot:ProtoMan
+Let's keep on working
+together like this.
+###--------
+###Mugshot:Ribitta
+In the end,if you
+throw yourself into
+serious battles each
+###--------
+###Mugshot:Ribitta
+day,your power and
+technique are sure
+to improve naturally!
+###--------
+###Mugshot:Ribitta
+The secret to their
+strength lies in their
+day-to-day activities!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:ProtoMan
+Now,let's go,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Mugshot:ProtoMan
+New missions await us!
+###--------
+###Script:98
+###Mugshot:NumberMan
+<printPlayerNickname>,from now
+on,just leave the
+battling to me!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:NumberMan
+I might not even
+need an operator
+anymore!
+###--------
+###Mugshot:NumberMan
+Wahahahahaha!
+###--------
+###Mugshot:NumberMan
+･<waitSkip>･<waitSkip>･<waitSkip>Wait,you're
+changing Navis!?
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###Command:waitSkip frames=30
+###--------
+###Mugshot:NumberMan
+D-Don't say that!
+###--------
+###Mugshot:NumberMan
+I-I was just trying
+to show off a little!
+###--------
+###Mugshot:Ribitta
+Hmm, I'm not sure
+how a Navi like this
+was able to win,
+###--------
+###Mugshot:Ribitta
+but it's a fact
+that they did!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:NumberMan
+H-Hey,<printPlayerNickname>,
+your operating was
+the best!
+###Command:printPlayerNickname
+###--------
+###Mugshot:NumberMan
+So please don't
+say that you're
+changing Navis!!
+###--------
+###Script:99
+###Mugshot:MetalMan
+You must be worn
+out,<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Mugshot:MetalMan
+But there's no
+time to rest!
+###--------
+###Mugshot:MetalMan
+After this,join me
+in my training...
+###--------
+###Mugshot:MetalMan
+My fists are
+already craving
+their next battle!
+###--------
+###Mugshot:Ribitta
+As expected...
+he's just won the
+Official Tournament,
+###--------
+###Mugshot:Ribitta
+but he wants to
+train even more!
+###--------
+###Mugshot:Ribitta
+I can't help but
+feel it's a bit
+of a nuisance,
+###--------
+###Mugshot:Ribitta
+but please try your
+best, operator!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:MetalMan
+My fists are already
+starting to tingle!
+###--------
+###Script:100
+###Mugshot:JunkMan
+Basically,I get
+<printPlayerNickname> all
+to myself!
+###Command:printPlayerNickname
+###--------
+###Mugshot:JunkMan
+That gets me excited!
+And it makes me strong!
+###--------
+###Mugshot:Ribitta
+I see! So the secret
+to you two's strength
+is your... Or rather...
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi>'s deep
+affection!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Please get along
+well from here on
+out,too!
+###--------
+###Mugshot:JunkMan
+Yes, I'll do my best!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Script:101
+###Mugshot:AquaMan
+Isn't it almost
+time to eat,drip!?
+###--------
+###Mugshot:Ribitta
+Ah, that's rather
+serious!
+###--------
+###Mugshot:Ribitta
+If you don't hurry,your
+food might get cold!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:AquaMan
+Drip, drip!!
+###--------
+###Script:102
+###Mugshot:WoodMan
+I'm sure your friends
+will be quite jealous
+of our victory.
+###--------
+###Mugshot:Ribitta
+Of course! You won the
+Official Tournament!
+###--------
+###Mugshot:Ribitta
+Anyone would be
+jealous of that!
+###--------
+###Mugshot:Ribitta
+By all means,go
+around and boast
+to everyone!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:WoodMan
+Hooooooh!
+###--------
+###Script:103
+###Mugshot:StarMan
+Wasn't today the
+day we had to
+clean your room?
+###--------
+###Mugshot:Ribitta
+Wait! What about the
+results of my fortune!?
+###--------
+###Mugshot:StarMan
+Well, we have stuff
+to take care of,so...
+Buh-bye!
+###--------
+###Mugshot:Ribitta
+Ah! N-No!
+What were the
+results!?
+###--------
+###Script:104
+###Mugshot:ShadowMan
+<printPlayerNickname>,let's head
+to our next target!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:Ribitta
+T-The interview
+isn't over yet!
+###--------
+###Mugshot:Ribitta
+Also,did you just say
+"assassination"!?
+###--------
+###Mugshot:ShadowMan
+Quiet, you!
+I have matters
+to attend to!
+###--------
+###Mugshot:ShadowMan
+Farewell!!
+###--------
+###Mugshot:Ribitta
+T-That concludes
+our interview with
+the champion!
+###--------
+###Script:105
+###Mugshot:KnightMan
+Furthermore,always
+remember your code
+of honor!
+###--------
+###Mugshot:KnightMan
+If you do this,your
+power shall increase
+greatly!
+###--------
+###Mugshot:Ribitta
+A-Ah...
+###--------
+###Mugshot:Ribitta
+So basically,strength
+is something you
+###++++++++
+###Mugshot:Ribitta
+build up little by
+little every day,
+right?
+###--------
+###Mugshot:KnightMan
+Exactly! Strength is
+not built in a day!
+###--------
+###Mugshot:KnightMan
+Firstly,a chivalrous
+knight must...
+###--------
+###Mugshot:Ribitta
+Okay,thank you
+very much!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:KnightMan
+Oh,but I was hoping
+to teach you
+###--------
+###Mugshot:KnightMan
+what chivalry is
+all about...
+###--------
+###Script:106
+###Mugshot:NapalmMan
+C'mon,<printPlayerNickname>!
+Let's go on the
+Net and battle!
+###Command:printPlayerNickname
+###--------
+###Mugshot:NapalmMan
+I'm itchin' for
+a fight!
+###--------
+###Mugshot:Ribitta
+U-Unbelievable...
+Without even taking
+the time to enjoy
+###--------
+###Mugshot:Ribitta
+his victory,<printCurrentNavi>
+is already looking
+for the next battle!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+Perhaps this hunger for
+battle is the secret
+to their strength!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Script:107
+###Mugshot:IceMan
+I think I wanna go
+on the Net together
+after this!
+###--------
+###Mugshot:Ribitta
+That sounds fantastic!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Mugshot:IceMan
+Bye-bye!
+###--------
+###Script:108
+###Mugshot:ElecMan
+Hmph,there's plenty
+on the Net...
+###--------
+###Mugshot:Ribitta
+W-Wow,the Net
+has amazing Navis
+like that!?
+###--------
+###Mugshot:Ribitta
+You make the Net
+sound like a
+terrifying place!
+###--------
+###Mugshot:Ribitta
+You'll get stronger
+in no time for sure
+###++++++++
+###Mugshot:Ribitta
+if you battle in
+that sort of place
+all the time!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Script:109
+###Mugshot:PlantMan
+Let's see... Humans
+should drink vegetable
+juice every day.
+###--------
+###Mugshot:Ribitta
+Vegetable juice?
+I see,so beauty comes
+from good health!
+###--------
+###Mugshot:Ribitta
+Does <printPlayerNickname>
+always drink it?
+###Command:printPlayerNickname
+###--------
+###Mugshot:PlantMan
+Well,sometimes...
+###--------
+###Mugshot:Ribitta
+I-Is that so...?
+###--------
+###Mugshot:Ribitta
+<printCurrentNavi>'s strength
+had an unexpected
+secret behind it!
+###Command:printCurrentNavi
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------
+###Script:110
+###Mugshot:Bass
+Even viruses on the Net
+amuse me more than a
+tournament like this...
+###--------
+###Mugshot:Bass
+There should be a Navi
+somewhere on the Net
+that can entertain me...
+###--------
+###Mugshot:Bass
+Let's roam the Net,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname
+###--------
+###Mugshot:Ribitta
+Maybe this is what they
+call the melancholy of
+the strong...
+###--------
+###Mugshot:Ribitta
+It looks like he's off
+to the Net to find a
+stronger opponent!
+###--------
+###Mugshot:Ribitta
+That concludes our
+interview with the
+champion!
+###--------
+###Mugshot:Ribitta
+<printPlayerName> & <printCurrentNavi>,
+congratulations!
+###Command:printPlayerName capitalizeFirst=true
+###Command:printCurrentNavi
+###--------

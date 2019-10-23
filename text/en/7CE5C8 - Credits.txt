@@ -1,0 +1,216 @@
+﻿###TextArchive:7CE5C8
+###Script:0
+Planning
+###--------
+###Script:1
+Masahiro Yasuma
+###--------
+###Script:2
+Kohei Ozaki
+###--------
+###Script:3
+Scenario
+###--------
+###Script:4
+Masakazu Eguchi
+###--------
+###Script:5
+Character Design
+###--------
+###Script:6
+Yuji Ishihara
+###--------
+###Script:7
+Hayato Kaji
+###--------
+###Script:8
+LaserMan Design
+###--------
+###Script:9
+Yoshihito Nonaka
+###--------
+###Script:10
+KendoMan Design
+###--------
+###Script:11
+Yuta Koido
+###--------
+###Script:12
+VideoMan Design
+###--------
+###Script:13
+Yosuke Shimizu
+###--------
+###Script:14
+Object
+###--------
+###Script:15
+Kazutaka Sato
+###--------
+###Script:16
+Ikuo Nakayama
+###--------
+###Script:17
+Kyoko Arima
+###--------
+###Script:18
+Tokiko Nakashima
+###--------
+###Script:19
+Mayumi Yoshioka
+###--------
+###Script:20
+Scroll
+###--------
+###Script:21
+Miki Kijima
+###--------
+###Script:22
+Junko Fujisaki
+###--------
+###Script:23
+Chieko Ryugo
+###--------
+###Script:24
+Program
+###--------
+###Script:25
+Koetsu Matsuda
+###--------
+###Script:26
+Hidekazu Shingaki
+###--------
+###Script:27
+Mitsunori Sakano
+###--------
+###Script:28
+Toshihide Anai
+###--------
+###Script:29
+Shinya Ikuta
+###--------
+###Script:30
+Naoko Nishiyama
+###--------
+###Script:31
+Soichi Ito
+###--------
+###Script:32
+Music
+###--------
+###Script:33
+Horiyama Toshihiko
+###--------
+###Script:34
+Akari Kaida
+###--------
+###Script:35
+Sound Effect
+###--------
+###Script:36
+Shinji Amagishi
+###--------
+###Script:37
+Official Illustration
+###--------
+###Script:38
+Shinsuke Komaki
+###--------
+###Script:39
+Jack-In Effect
+###--------
+###Script:40
+Hirokazu Hikita
+###--------
+###Script:41
+Manual Production
+###--------
+###Script:42
+Akemi Iwasaki
+###--------
+###Script:43
+Debug Supervision
+###--------
+###Script:44
+Masato Nanba
+###--------
+###Script:45
+Special Thanks!
+###--------
+###Script:46
+Hiroshi Yamashita
+###--------
+###Script:47
+Teruhiro Shimogawa
+###--------
+###Script:48
+Hiroko Nakamura
+###--------
+###Script:49
+Kazuo Choya
+###--------
+###Script:50
+Kunio Funahara
+###--------
+###Script:51
+Satoshi Ukai
+###--------
+###Script:53
+Yuko Yasuda
+###--------
+###Script:54
+Takashi Kitahara
+###--------
+###Script:55
+Naoto Minamide
+###--------
+###Script:56
+Sara Tanaka
+###--------
+###Script:57
+KonamiJPN Hideo Kojima
+###--------
+###Script:58
+KonamiJPN Masahiro Hinami
+###--------
+###Script:59
+Rockman Club
+###--------
+###Script:60
+Product Dev 2
+###--------
+###Script:61
+CAPCOM
+###--------
+###Script:62
+Producer
+###--------
+###Script:63
+Keiji Inafune
+###--------
+###Script:64
+Clear Time[8px][8px][8px][8px][8px][1px]<printBuffer>:<printBuffer>
+###Command:printBuffer buffer=0 minLength=2 padZeros=true padLeft=true
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Script:65
+Data Library[8px][8px][8px][1px][1px]S[8px]<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padZeros=false padLeft=true
+###--------
+###Script:66
+[8px][8px][8px][8px][8px][8px][8px][8px][8px][8px][8px][8px][8px][8px]M[8px]<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padZeros=false padLeft=true
+###--------
+###Script:67
+[8px][8px][8px][8px][8px][8px][8px][8px][8px][8px][8px][8px][8px][8px]G[8px]<printBuffer>
+###Command:printBuffer buffer=0 minLength=3 padZeros=false padLeft=true
+###--------
+###Script:68
+MegaMan
+###--------
+###Script:69
+Real Operation
+###--------
+###Script:70
+Staff
+###--------

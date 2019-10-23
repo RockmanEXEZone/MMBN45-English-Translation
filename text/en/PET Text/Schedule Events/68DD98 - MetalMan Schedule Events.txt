@@ -1,0 +1,103 @@
+﻿###TextArchive:68DD98
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+Time for
+<printScheduleBuffer>
+to start...
+###Command:printScheduleBuffer
+###--------
+I'm not a big fan
+of TV,though...
+......
+###--------
+###Script:2
+Time to meet
+with <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+"Friends don't let
+ each other down."
+###--------
+Don't be late
+for your meeting.
+###--------
+###Script:3
+Time to eat.
+###--------
+Food is important
+for your health,
+so eat your fill.
+###--------
+###Script:4
+Time for school.
+Do your best...
+###--------
+###Script:5
+<printPlayerNickname>,time
+for 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>⋯
+###Command:printScheduleBuffer
+###--------
+###Script:6
+And...
+###--------
+###Script:21
+###Mugshot:MetalMan
+Time for <printScheduleBuffer>
+to start...
+###Command:printScheduleBuffer
+###--------
+###Mugshot:MetalMan
+I'm not a big fan
+of TV,though...
+・・・・・・
+###--------
+###Script:22
+###Mugshot:MetalMan
+Time to meet
+with <printScheduleBuffer>.
+###Command:printScheduleBuffer
+###--------
+"Friends don't let
+ each other down."
+###--------
+Don't be late
+for your meeting.
+###--------
+###Script:23
+###Mugshot:MetalMan
+Time to eat.
+###--------
+###Mugshot:MetalMan
+Food is important
+for your health,
+so eat your fill.
+###--------
+###Script:24
+###Mugshot:MetalMan
+Time for school.
+Do your best...
+###--------
+###Script:25
+###Mugshot:MetalMan
+<printPlayerNickname>,time
+for 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>⋯
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:MetalMan
+And...
+###--------

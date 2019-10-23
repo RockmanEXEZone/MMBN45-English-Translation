@@ -1,0 +1,24 @@
+﻿###TextArchive:6BA910
+###Script:1
+I feel our battle
+strategy has grown
+somewhat dull...
+###--------
+May I suggest
+changing up our
+use of chips?
+###--------
+###Script:2
+<printPlayerNickname>,you
+are quite the
+strategist!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+However,take care
+not to overthink
+your strategies!
+###--------
+###Script:3
+Next time,we shall
+decide the victor!
+###--------

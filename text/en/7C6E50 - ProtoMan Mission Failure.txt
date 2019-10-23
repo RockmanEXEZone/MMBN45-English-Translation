@@ -1,0 +1,9 @@
+﻿###TextArchive:7C6E50
+###Script:0
+###Mugshot:ProtoMan
+...Mission failed.
+###--------
+###Mugshot:ProtoMan
+I'm...terribly sorry.
+Returning now...
+###--------

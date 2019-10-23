@@ -1,0 +1,15 @@
+﻿###TextArchive:6C7594
+###Script:1
+I'm back.
+Still amped up,
+<printPlayerNickname>?
+###Command:printPlayerNickname
+###--------
+###Script:2
+To think that we
+failed even with
+my lightning speed...
+###++++++++
+We must have let
+our guards down.
+###--------

@@ -1,0 +1,15 @@
+﻿###TextArchive:65E828
+###Script:1
+Too bad...
+Let's do our
+best next time!
+###--------
+###Script:2
+We won!
+Let's do our best
+next time,too!
+###--------
+###Script:3
+That was a
+good match!
+###--------

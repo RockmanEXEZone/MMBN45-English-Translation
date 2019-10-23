@@ -1,0 +1,827 @@
+﻿###TextArchive:69B134
+###Script:0
+Error!
+Put info in
+the form!
+###--------
+###Script:1
+Let's go to
+<printSchool> and
+###Command:printSchool capitalizeFirst=false
+###++++++++
+compare libraries
+with everyone,drip!
+###--------
+###Script:2
+Filling the library
+is a toughie,drip!
+###--------
+How far along
+is everyone
+at <printSchool>?
+###Command:printSchool capitalizeFirst=false
+###--------
+###Script:3
+It's fun collecting
+chips drip by drip!
+###--------
+When you trade
+info with your
+<printSchool> pals,
+###Command:printSchool capitalizeFirst=false
+###--------
+that's when it
+really gets
+exciting,drip!
+###--------
+###Script:5
+Looks like we made
+it home safe,drip!
+###--------
+Next time,I want
+to go Net exploring
+with <printOlderBro>!
+###Command:printOlderBro capitalizeFirst=false
+###--------
+###Script:6
+Drip,drip!
+The Net was
+loads of fun!
+###--------
+You should show
+<printYoungerBro> how
+fun it is,too!
+###Command:printYoungerBro capitalizeFirst=false
+###--------
+###Script:7
+Does <printOlderSis>
+also do stuff like
+surfing the Net?
+###Command:printOlderSis capitalizeFirst=false
+###--------
+Next time let's
+go on the Net
+together,drip!
+###--------
+###Script:8
+It's lots of fun
+meeting all kinds of
+Navis on the Net!
+###--------
+What sort of Navi
+does <printYoungerSis>
+have,drip?
+###Command:printYoungerSis capitalizeFirst=false
+###--------
+###Script:9
+I wanna NetBattle
+with <printFriend>!
+###Command:printFriend capitalizeFirst=false
+###--------
+I'm just kinda in
+that mood,drip!
+###--------
+###Script:10
+No matter how
+fierce of a battle
+you'll have with
+###--------
+<printFriend>,you two
+will still be best
+of friends,drip!
+###Command:printFriend capitalizeFirst=false
+###--------
+###Script:11
+Does <printFriend>
+love NetBattling
+as well,drip?
+###Command:printFriend capitalizeFirst=false
+###--------
+Grab all your
+friends and let's
+hold a competition!
+###--------
+###Script:13
+Drip,drip...
+My stomach's
+rumbling a bit!
+###--------
+I could really gulp
+down some raw
+<printFavFood>,drip!
+###Command:printFavFood capitalizeFirst=false
+###--------
+###Script:14
+When you're on
+the Net and your
+tummy's rumbling,
+###--------
+nothing beats
+some sizzling hot
+<printFavFood>,drip!
+###Command:printFavFood capitalizeFirst=false
+###--------
+###Script:15
+If your eyes are
+weary from virus
+busting,apparently
+###--------
+putting <printFavFood>
+on your eyelids
+helps,drip!
+###Command:printFavFood capitalizeFirst=false
+###--------
+###Script:17
+<printHobby> or
+chip collecting,
+which is more fun?
+###Command:printHobby capitalizeFirst=true
+###--------
+I think they're
+both great fun,
+drip!
+###--------
+###Script:18
+Do you chat about
+chips a lot with
+<printFriend>,drip?
+###Command:printFriend capitalizeFirst=false
+###--------
+Or,maybe you
+prefer talking
+about <printHobby>?
+###Command:printHobby capitalizeFirst=false
+###--------
+###Script:19
+Use your
+<printHobby> power
+###Command:printHobby capitalizeFirst=false
+###++++++++
+to gather more
+chips,drip!
+###--------
+###Script:21
+Drip,drip!
+I was just thinking...
+###--------
+Is there some kind
+of deep connection
+between winning
+###--------
+the tournament,
+and becoming
+a<printDream> <printDream>?
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+...Not really? Drip...
+###--------
+###Script:22
+Someday you'll
+be able to use
+your tournament
+###--------
+experiences,and
+seize your dream
+###++++++++
+of becoming
+a<printDream> <printDream>!
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:23
+Drip,drip!
+I get the feeling
+that you're inching
+###--------
+one step closer
+to becoming a<printDream>
+<printDream>,drip!
+###Command:printDream printN=true
+###Command:printDream capitalizeFirst=false
+###--------
+###Script:25
+There wasn't
+any mail from
+<printCrush>,drip...
+###Command:printCrush capitalizeFirst=false
+###--------
+...Phooey.
+###--------
+###Script:26
+Mail sure is nice,
+drip! You can say
+things in a mail
+###++++++++
+that you normally
+couldn't. Like...
+###--------
+you could write:
+"I really like
+you,<printCrush>!"
+###Command:printCrush capitalizeFirst=false
+###--------
+###Script:27
+Actually,because
+my head is in
+this water tank,
+###--------
+it makes it really
+hard to read the
+mail writing,drip!
+###--------
+But if it's mail
+from <printCrush>,
+###Command:printCrush capitalizeFirst=false
+###--------
+I'll try my best
+to read it,drip!
+###--------
+###Script:29
+<printPlayerNickname>,I'll join
+you in disliking
+<printPlayerEnemy>!
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+And if we get
+any mail from
+<printPlayerEnemy>,
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+we'll throw it out
+without reading
+a word,drip!
+###--------
+###Script:30
+Whenever I think
+of <printPlayerEnemy>,
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+I get a sinking
+feeling in my
+stomach,drip...
+###--------
+If we get any mail
+from <printPlayerEnemy>,
+let's block it,drip!
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+###Script:31
+Have you ever
+gotten any mail
+from <printPlayerEnemy>?
+###Command:printPlayerEnemy capitalizeFirst=false
+###--------
+Because I sure
+haven't,drip!
+###--------
+###Script:33
+The Net sure
+is fun,drip,
+###--------
+but I really like
+<printFavShow>,too!
+###Command:printFavShow capitalizeFirst=false
+###--------
+That jingle they
+play before an ad
+break is nice,drip!
+###--------
+###Script:34
+The skits they
+do on <printFavShow>
+###Command:printFavShow capitalizeFirst=false
+###--------
+remind me of the
+Cyberworld,drip!
+###--------
+I'm glued to
+the screen
+each time,drip!
+###--------
+###Script:35
+When <printFavShow>
+is set to come on
+later in the day,
+###Command:printFavShow capitalizeFirst=false
+###--------
+we'll just have to
+spend a bit less
+time on the Net.
+###--------
+I'm head over
+heels for that
+assistant lady,drip!
+###--------
+###Script:37
+<printPlayerNickname>,if you
+had a lot of
+chips too,
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+would everyone
+look up to you like
+<printIdol>,drip?
+###Command:printIdol capitalizeFirst=false
+###--------
+###Script:38
+Showing <printIdol>
+our Data Library
+progress sounds...
+###Command:printIdol capitalizeFirst=false
+###--------
+Well,it sounds
+like a blast,drip!
+###--------
+###Script:39
+Is <printIdol> a
+NetBattler,drip?
+###Command:printIdol capitalizeFirst=false
+###--------
+If you respect
+them that much,
+<printPlayerNickname>,
+###Command:printPlayerNickname capitalizeFirst=false
+###++++++++
+I bet they must
+be an amazing
+NetBattler,drip!
+###--------
+###Script:41
+Everything you
+see and hear
+on the Net
+###--------
+can help you
+study <printBestSubject>
+better,drip!
+###Command:printBestSubject capitalizeFirst=false
+###--------
+###Script:42
+There are all
+sorts of Navis
+on the Net,drip!
+###--------
+Won't <printBestSubject>
+be really useful
+###Command:printBestSubject capitalizeFirst=false
+###--------
+when you're talking
+with foreign Navis?
+###--------
+Don't you
+think so,drip?
+###--------
+###Script:43
+Hey,<printPlayerNickname>!
+Does <printBestSubject>
+ever come in handy
+###Command:printPlayerNickname capitalizeFirst=false
+###Command:printBestSubject capitalizeFirst=false
+###--------
+when you're
+shopping on
+the Net,drip?
+###--------
+###Script:45
+<printPlayerNickname>,
+if you're bad
+at <printWorstSubject>,
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+you won't make it
+in the tough world
+of the Net,drip!
+###--------
+###Script:46
+Just cramming
+<printWorstSubject> isn't
+enough,drip!
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+You have to learn
+through experience!
+###--------
+...I heard someone
+say that on
+the Net,drip.
+###--------
+###Script:47
+The Net is full
+of mysteries,drip!
+###--------
+If you want to
+understand all
+those mysteries,
+###--------
+I think knowing
+<printWorstSubject> is
+essential,drip!
+###Command:printWorstSubject capitalizeFirst=false
+###--------
+Well,maybe,or
+maybe not...
+###--------
+###Script:49
+<printPlayerNickname>,here's
+what I've been
+thinking,drip...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Getting something
+you've been
+wanting,all through
+###--------
+your own power:
+I think that's the
+greatest thing,drip!
+###--------
+Winning the tour-
+nament,and getting
+a<printWish> <printWish>
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###++++++++
+are both like
+that,drip!
+###--------
+###Script:50
+Is a<printWish> <printWish>
+is as great as
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+winning a
+tournament,drip?
+###--------
+If it is,I definitely
+want one,drip!
+###--------
+###Script:51
+Is a<printWish> <printWish>
+that cool,drip?
+###Command:printWish printN=true
+###Command:printWish capitalizeFirst=false
+###--------
+Is it cooler than
+winning the
+tournament?
+###--------
+...If it is,I can
+respect that,drip!
+###--------
+###Script:53
+Getting nothing but
+serious mail is no
+fun at all,drip!
+###--------
+I want to invite
+<printMostFrequentOpponent> to go
+swimming,drip!
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+###Script:54
+By the way,
+<printPlayerNickname>⋯
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Since <printMostFrequentOpponent>
+is your rival,
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+does that mean
+<printMostFrequentOpponent>'s Navi
+is my rival,drip?
+###Command:printMostFrequentOpponent capitalizeFirst=false
+###--------
+Having a rival
+is so cool,drip!
+###--------
+###Script:55
+<printMostFrequentOpponent> hasn't
+sent us any mail
+to hang out,drip!
+###Command:printMostFrequentOpponent capitalizeFirst=true
+###--------
+I wanna have
+boatloads of fun
+somewhere,drip!
+###--------
+###Script:57
+<printLostToOpponent> is really
+strong,drip!
+###Command:printLostToOpponent capitalizeFirst=true
+###--------
+They must have
+some powerful chips
+in their folder,huh?
+###--------
+###Script:58
+A lot of thought
+goes into making
+a good folder!
+###--------
+I'm sure <printLostToOpponent>
+gives a lot of
+thought too,drip!
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+###Script:59
+I mixed up my
+R and L Button
+equipment,drip!
+###--------
+Think that ever
+happens to
+<printLostToOpponent>'s Navi?
+###Command:printLostToOpponent capitalizeFirst=false
+###--------
+...Or is it just
+me,drip?
+###--------
+###Script:61
+<printPlayerNickname>,
+<printMostLostToOpponent> must
+have a<printMostLostToOpponentsChip> <printMostLostToOpponentsChip>
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printMostLostToOpponent capitalizeFirst=false
+###Command:printMostLostToOpponentsChip printN=true
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+in their
+folder,drip!
+###--------
+That's the secret
+to their strength!
+###--------
+No two ways
+about it,drip!
+###--------
+###Script:62
+<printPlayerNickname>,is our
+equipment perfect
+right now,drip?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Just to be safe,
+why don't we put
+<printMostLostToOpponentsChip> in,too?
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+###Script:63
+<printPlayerNickname>,if we
+put a couple of
+<printMostLostToOpponentsChip> in our
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printMostLostToOpponentsChip capitalizeFirst=false
+###--------
+folder,we won't
+have to worry
+about a thing,drip!
+###--------
+That's the hunch
+I got,drip!
+###--------
+###Script:65
+That battle
+strategy we
+just used...
+##(Technically this just says "the battle strategy just now", I'm assuming context, this makes sense anyway)
+###--------
+We beat <printDefeatedOpponent>
+with that too,
+didn't we,drip?
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:66
+<printPlayerNickname>,
+do you think
+our strength
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+is bigger than
+<printDefeatedOpponent>'s,drip?
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+......
+It is!?
+I knew it,drip!
+###--------
+It makes me so
+happy to hear
+that,drip!
+###--------
+###Script:67
+No matter how many
+battles we do,it
+never gets easier...
+###--------
+...I think <printDefeatedOpponent>
+feels that as
+well,drip...
+###Command:printDefeatedOpponent capitalizeFirst=false
+###--------
+###Script:69
+All that battling
+made my body sore
+all over,drip!
+###--------
+This soreness
+reminds me of
+something...
+###--------
+When <printMostDefeatedOpponent>'s
+<printMostDefeatedOpponentsChip> hits me,
+it really hurts!
+###Command:printMostDefeatedOpponent capitalizeFirst=false
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+Good thing it
+doesn't hit very
+often,drip!
+###--------
+###Script:70
+I'm thirsty from
+all this battling,
+drip!
+###--------
+And when you're
+thirsty,<printMostDefeatedOpponentsChip>
+is the way to go!
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+...Am I wrong,drip?
+###--------
+###Script:71
+<printPlayerNickname>,just
+like you have
+some opponents
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+you can't easily
+deal with...
+###--------
+I'm no good at
+dealing with
+<printMostDefeatedOpponentsChip>,drip!
+###Command:printMostDefeatedOpponentsChip capitalizeFirst=false
+###--------
+###Script:73
+I don't like chip
+combos since I'm
+bad at them,drip...
+###--------
+But <printFavStandardChip1> is
+easy to use,
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+so I like that
+one,drip!
+###--------
+###Script:74
+I like <printFavStandardChip1>
+because it smells
+like water,drip!
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+What do you mean
+it doesn't,drip?
+###--------
+###Script:75
+<printPlayerNickname>,do you
+like <printFavStandardChip1>?
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printFavStandardChip1 capitalizeFirst=false
+###--------
+If you like it,
+then so do I,drip!
+###--------
+###Script:77
+<printFavStandardChip2> is a
+little heavy
+for me...
+###Command:printFavStandardChip2 capitalizeFirst=true
+###--------
+But I'm really glad
+whenever I'm able
+to use it well,drip!
+###--------
+###Script:78
+<printPlayerNickname>,you
+always use
+<printFavStandardChip2> at
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+the most crucial
+moments,drip...
+###--------
+So when you bring
+it out,it makes me
+kinda nervous,drip!
+###--------
+###Script:79
+We sure use
+<printFavStandardChip2> a lot!
+###Command:printFavStandardChip2 capitalizeFirst=false
+###--------
+Let's make sure to
+wash it every once
+in a while,drip!
+###--------
+###Script:81
+Whenever <printFavStandardChip3>
+is used,it's
+shocking enough
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+to make me spill
+my drink,drip...
+###--------
+###Script:82
+<printFavStandardChip3> is a chip
+that really makes
+a splash,drip!
+###Command:printFavStandardChip3 capitalizeFirst=true
+###--------
+###Script:83
+<printPlayerNickname>,you
+should combine
+<printFavStandardChip3> with
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printFavStandardChip3 capitalizeFirst=false
+###--------
+an Aqua-based
+chip,drip!
+###--------
+If you do,that'll
+pump me up
+even more,drip!
+###--------
+###Script:85
+<printFavMegaChip> is
+suuuuper strong,
+drip!
+###Command:printFavMegaChip capitalizeFirst=true
+###--------
+You can only find
+that sort of eye-
+popping power
+###++++++++
+in the Mega-class,
+drip!
+###--------
+###Script:86
+<printFavMegaChip> is
+so cool,drip!
+###Command:printFavMegaChip capitalizeFirst=true
+###--------
+Being able to
+use that kind
+of chip attack
+###--------
+makes me feel
+like I've gotten
+stronger,drip!
+###--------
+###Script:87
+<printFavMegaChip> really
+stands out in the
+library,drip! But,
+###Command:printFavMegaChip capitalizeFirst=true
+###--------
+if you ask me which
+part stands out,I
+couldn't tell you...
+###--------
+###Script:89
+<printFavGigaChip> is really
+strong,but also
+really scary,drip!
+###Command:printFavGigaChip capitalizeFirst=true
+###--------
+###Script:90
+Using <printFavGigaChip>
+puts a lot of
+strain on me,drip...
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+Whenever we use
+it,it feels like
+###++++++++
+the water tank on
+my head is about
+to crack,drip!
+###--------
+###Script:91
+Using <printFavGigaChip> too
+often makes the
+water in my head
+###Command:printFavGigaChip capitalizeFirst=false
+###--------
+all murky,drip!
+So don't use it
+too much,please!
+###--------

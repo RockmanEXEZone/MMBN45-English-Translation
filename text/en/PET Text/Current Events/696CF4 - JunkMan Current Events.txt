@@ -1,0 +1,29 @@
+﻿###TextArchive:696CF4
+###Script:1
+T-The tournament
+is this weekend...
+<printPlayerNickname>,
+###Command:printPlayerNickname
+###--------
+l-let's train
+together and win!
+###--------
+###Script:2
+I-I'll do my
+absolute best
+###--------
+in the tournament
+today...
+###--------
+<printPlayerNickname>,y-you
+gotta give it
+your all,too!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:3
+I-I smell an
+interesting item...
+###--------
+Let's look at
+our Key Items...
+###--------

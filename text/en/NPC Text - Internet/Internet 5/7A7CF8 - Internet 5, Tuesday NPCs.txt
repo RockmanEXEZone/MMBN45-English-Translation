@@ -1,0 +1,39 @@
+﻿###TextArchive:7A7CF8
+###Script:0
+###Mugshot:HeelNaviPurple
+A lot of Fire-based
+viruses are showing
+up today.
+###--------
+###Mugshot:HeelNaviPurple
+I've been wanting a
+Fire-based chip,so
+this is great timing...
+###--------
+###Script:1
+###Mugshot:MrProgGreen
+THIS IS A FIRE
+WARNING!
+###++++++++
+###Mugshot:MrProgGreen
+ALL HIGHLY
+FLAMMABLE NAVIS,
+PLEASE BE ALERT!
+###--------
+###Script:2
+###Mugshot:OfficialNavi
+Tuesday's a patrol day.
+###--------
+###Mugshot:OfficialNavi
+Patrol involves working
+together with civilians
+###++++++++
+###Mugshot:OfficialNavi
+to improve public
+relations.
+###--------
+###Script:3
+###Mugshot:OfficialNavi
+Mm-hmm...
+...No problems here!
+###--------

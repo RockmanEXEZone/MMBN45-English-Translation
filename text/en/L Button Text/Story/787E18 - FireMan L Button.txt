@@ -1,0 +1,172 @@
+﻿###TextArchive:787E18
+###Script:10
+###Mugshot:FireMan
+Let's go check out
+what the Net's
+got to offer!
+###--------
+###Script:11
+###Mugshot:FireMan
+Hey,let's go get an
+Apprentice License!
+###--------
+###Script:12
+###Mugshot:FireMan
+The Apprentice License
+exam? Should be no
+sweat for me,right!?
+###--------
+###Script:13
+###Mugshot:FireMan
+Let's go get
+a "<printChip>"!
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+###Mugshot:FireMan
+Let's go get that
+Apprentice License!
+###--------
+###Script:15
+###Mugshot:FireMan
+Hey,good job on the
+Apprentice License
+exam!
+###++++++++
+###Mugshot:FireMan
+Wanna take a break?
+###--------
+###Script:16
+###Mugshot:FireMan
+I wanna see what's
+the matter in
+Internet3...
+###--------
+###Script:17
+###Mugshot:FireMan
+Guess that Navi we
+beat was the one
+causing all that...
+###--------
+###Mugshot:FireMan
+You tired? We can
+jack out for now
+if you want.
+###--------
+###Script:18
+###Mugshot:FireMan
+I wanna see what's
+the matter in
+Internet5...
+###--------
+###Script:19
+###Mugshot:FireMan
+I wanna see what's
+the matter in
+Internet7...
+###--------
+###Script:20
+###Mugshot:FireMan
+I wanna see what's
+the matter in
+Internet9...
+###--------
+###Script:21
+###Mugshot:FireMan
+I wanna see what's
+the matter in
+Internet10...
+###--------
+###Script:22
+###Mugshot:FireMan
+I wanna see what's
+the matter in
+Internet12...
+###--------
+###Script:23
+###Mugshot:FireMan
+Let's go grab that
+"MinusKey" from those
+BlackWorks guys!
+###--------
+###Script:24
+###Mugshot:FireMan
+Looks like that
+other Navi's got
+the "MinusKey"!
+###--------
+###Script:25
+###Mugshot:FireMan
+Let's go bring back
+that "MinusKey" to
+the Navi in Internet9!
+###--------
+###Script:26
+###Mugshot:FireMan
+Let's get to the
+Official Tournament
+entry desk!
+###--------
+###Script:27
+###Mugshot:FireMan
+Let's go to
+the Undernet!
+###++++++++
+###Mugshot:FireMan
+That Navi we're
+after should be
+near a coffin...
+###--------
+###Script:28
+###Mugshot:FireMan
+Let's go enter that
+Official Tournament,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:29
+###Mugshot:FireMan
+The Official Tournament
+is this weekend!
+I'm blazin' up!!
+###--------
+###Script:30
+###Mugshot:FireMan
+It's time for the
+Official Tournament!
+...I'm blazin' up!!
+###--------
+###Script:31
+###Mugshot:FireMan
+Let's see if we
+can explore the
+Net some more...
+###++++++++
+###Mugshot:FireMan
+Might still be some
+things left.
+###--------
+###Script:32
+###Mugshot:FireMan
+Let's go do the
+Official Tournament
+prelims,<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+###Script:33
+###Mugshot:FireMan
+Hey,let's read that
+mail we just got!
+###--------
+###Script:34
+###Mugshot:FireMan
+Once the weekend's
+over,let's enter that
+Official Tournament!
+###--------
+###Script:35
+###Mugshot:FireMan
+That Navi we're
+after should be
+near a coffin...
+###--------

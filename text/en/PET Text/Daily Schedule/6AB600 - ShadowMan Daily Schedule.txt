@@ -1,0 +1,36 @@
+﻿###TextArchive:6AB600
+###Script:1
+<printPlayerNickname>,the time
+draws near for...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:2
+"<printScheduleBuffer>"
+###Command:printScheduleBuffer
+###--------
+###Script:3
+Let's not delay.
+###--------
+###Script:10
+Today's
+schedule is...
+###--------
+Seems it's empty...
+###--------
+###Script:11
+At <printBuffer>:
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+<printBuffer>
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+<printScheduleBuffer>,
+
+###Command:printScheduleBuffer
+###--------
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:12
+That is all...
+###--------

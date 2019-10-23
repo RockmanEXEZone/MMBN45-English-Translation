@@ -1,0 +1,325 @@
+###TextArchive:697B70
+###Script:0
+###Mugshot:AquaMan
+Today is 
+###--------
+###Mugshot:AquaMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------
+###Mugshot:AquaMan
+<printBuffer>!
+What will you do,drip?
+###Command:printBuffer buffer=1 minLength=0 padZeros=false padLeft=true
+###--------
+###Script:1
+###Mugshot:AquaMan
+Schedule something
+for which day,drip?
+###--------
+###Script:2
+###Mugshot:AquaMan
+What to register?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:3
+###Mugshot:AquaMan
+That day already
+passed, drip!
+###--------
+###Script:4
+###Mugshot:AquaMan
+You can't register
+any more, drip.
+###--------
+###Mugshot:AquaMan
+To add more,delete
+some existing plans
+first,drip.
+###--------
+###Script:5
+###Mugshot:AquaMan
+What to delete?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:6
+###Mugshot:AquaMan
+Check plans for
+which day?
+###--------
+###Script:7
+###Mugshot:AquaMan
+What to register?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:8
+###Mugshot:AquaMan
+What to delete?
+<positionOptionVertical><option><space> Schedule
+<positionOptionVertical><option><space> Holiday
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=8
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###--------
+###Script:10
+###Mugshot:AquaMan
+<printPlayerNickname>, these are
+your things, drip!
+<spacePx><option><space> Check Key Items
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:spacePx count=8
+###Command:option brackets=false left=0 right=0 up=0 down=0
+###Command:space count=1
+###--------
+###Script:20
+###Mugshot:AquaMan
+From what time, drip?
+###--------
+###Script:21
+###Mugshot:AquaMan
+How frequent, drip?
+###--------
+###Script:22
+###Mugshot:AquaMan
+What are the details,
+drip?
+###--------
+###Script:23
+###Mugshot:AquaMan
+Meet with whom, drip?
+###--------
+###Script:24
+###Mugshot:AquaMan
+Is this OK, drip?
+
+
+###--------
+###Mugshot:AquaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:25
+###Mugshot:AquaMan
+<printPlayerNickname>, you
+have plans at that
+time already,drip!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:30
+###Mugshot:AquaMan
+I'll overwrite them!
+That's OK,right,drip?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:31
+###Mugshot:AquaMan
+What kind of holiday,
+drip?
+###--------
+###Script:32
+###Mugshot:AquaMan
+Register where,drip?
+###--------
+###Script:33
+###Mugshot:AquaMan
+Is this OK, drip?
+
+
+###--------
+###Mugshot:AquaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:40
+###Mugshot:AquaMan
+Transfer SubChips
+to me here,drip!
+###--------
+###Script:41
+###Mugshot:AquaMan
+Change my
+equipment here,
+drip!
+###--------
+###Script:42
+###Mugshot:AquaMan
+Check the
+Data Library
+here, drip!
+###--------
+###Script:43
+###Mugshot:AquaMan
+Check your
+mail here,drip!
+###--------
+###Script:44
+###Mugshot:AquaMan
+Check your
+Key Items here,
+drip!
+###--------
+###Script:45
+###Mugshot:AquaMan
+Save your
+progress here,
+drip!
+###--------
+###Script:50
+###Mugshot:AquaMan
+<printBuffer>:
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:AquaMan
+<printBuffer>
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Mugshot:AquaMan
+<printScheduleBuffer> 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:AquaMan
+<printScheduleBuffer>
+ 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:AquaMan
+"<printScheduleBuffer>"
+will be deleted, drip.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:AquaMan
+Is that OK, drip?
+
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:AquaMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:51
+###Mugshot:AquaMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=true padLeft=true
+###--------
+###Mugshot:AquaMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:AquaMan
+<printBuffer> 
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:AquaMan
+(<printScheduleBuffer>)
+ 
+###Command:printScheduleBuffer
+###--------
+###Mugshot:AquaMan
+"<printScheduleBuffer>"
+will be deleted, drip.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:AquaMan
+Is that OK, drip?
+
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:AquaMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:52
+###Mugshot:AquaMan
+<printBuffer>/
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:AquaMan
+<printBuffer>
+ 
+###Command:printBuffer buffer=1 minLength=2 padZeros=false padLeft=true
+###--------
+###Mugshot:AquaMan
+"<printScheduleBuffer>"
+will be deleted, drip.
+###Command:printScheduleBuffer
+###--------
+###Mugshot:AquaMan
+Is that OK, drip?
+
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Mugshot:AquaMan
+<wait>
+###Command:wait frames=1
+###--------
+###Script:61
+###Mugshot:AquaMan
+Read the FrznLetr?
+
+
+###--------
+###Mugshot:AquaMan
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+###Mugshot:AquaMan
+Looks like we can't
+do that right now,drip.
+###--------

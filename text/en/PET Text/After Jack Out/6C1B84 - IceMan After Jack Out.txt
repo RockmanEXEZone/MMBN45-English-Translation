@@ -1,0 +1,14 @@
+﻿###TextArchive:6C1B84
+###Script:1
+I'm back,
+<printPlayerNickname>!
+###Command:printPlayerNickname
+###--------
+Y'know,I'm feeling
+great today!
+###--------
+###Script:2
+Ugh...
+The heat was a
+bit much today...
+###--------

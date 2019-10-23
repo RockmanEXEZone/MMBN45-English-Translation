@@ -1,0 +1,111 @@
+﻿###TextArchive:7B67C8
+###Script:16
+###Mugshot:MrProgGreen
+HELLO,I'M THE
+PROGRAM IN CHARGE
+OF MANAGING
+###--------
+###Mugshot:MrProgGreen
+<printPlayerName>'S
+PERSONAL INFO.
+###Command:printPlayerName capitalizeAll=true
+###--------
+###Mugshot:MrProgGreen
+WANT TO EDIT YOUR
+NAME,OCCUPATION ETC.?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=7
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:17
+###Mugshot:MrProgGreen
+I'LL OPEN UP THE
+SETUP SCREEN.
+###--------
+###Script:20
+###Mugshot:MrProgGreen
+SCHOOL NAME?COMPANY NAME?
+Previous data entry
+###--------
+###Script:21
+###Mugshot:MrProgGreen
+BIG BROTHER'S NAME
+Previous data entry
+###--------
+###Script:22
+###Mugshot:MrProgGreen
+LITTLE BROTHER'S NAME
+Previous data entry
+###--------
+###Script:23
+###Mugshot:MrProgGreen
+BIG SISTER'S NAME
+Previous data entry
+###--------
+###Script:24
+###Mugshot:MrProgGreen
+LITTLE SISTER'S NAME
+Previous data entry
+###--------
+###Script:25
+###Mugshot:MrProgGreen
+FRIEND'S NAME
+Previous data entry
+###--------
+###Script:26
+###Mugshot:MrProgGreen
+FAVORITE FOOD
+Previous data entry
+###--------
+###Script:27
+###Mugshot:MrProgGreen
+HOBBIES
+Previous data entry
+###--------
+###Script:28
+###Mugshot:MrProgGreen
+DREAM
+Previous data entry
+###--------
+###Script:29
+###Mugshot:MrProgGreen
+CRUSH
+Previous data entry
+###--------
+###Script:30
+###Mugshot:MrProgGreen
+IDOL
+Previous data entry
+###--------
+###Script:31
+###Mugshot:MrProgGreen
+ENEMY
+Previous data entry
+###--------
+###Script:32
+###Mugshot:MrProgGreen
+FAVORITE TV SHOW
+Previous data entry
+###--------
+###Script:33
+###Mugshot:MrProgGreen
+BEST SUBJECT
+Previous data entry
+###--------
+###Script:34
+###Mugshot:MrProgGreen
+WORST SUBJECT
+Previous data entry
+###--------
+###Script:35
+###Mugshot:MrProgGreen
+WISH
+Previous data entry
+###--------
+###Script:40
+###Mugshot:MrProgGreen
+OH,OKAY...
+###--------

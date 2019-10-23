@@ -1,0 +1,8 @@
+﻿###TextArchive:78B96C
+###Script:0
+###Mugshot:MetalMan
+...Be on guard,<printPlayerNickname>.
+This area is nothing
+like the Undernet...
+###Command:printPlayerNickname
+###--------

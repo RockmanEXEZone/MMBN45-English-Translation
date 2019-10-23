@@ -1,0 +1,34 @@
+﻿###TextArchive:7A9CAC
+###Script:0
+###Mugshot:NormNaviYellow
+Earlier today,I beat
+a Wood-based virus
+with "<printChip>"!
+###Command:printChip buffer=0 chip=12
+###--------
+###Mugshot:NormNaviYellow
+It burnt pretty well!
+###--------
+###Script:1
+###Mugshot:OfficialNavi
+I'm researching the
+relationship between
+###--------
+###Mugshot:OfficialNavi
+the elements of viruses
+that appear,and the
+days of the week.
+###--------
+###Mugshot:OfficialNavi
+On Tuesday,it's Fire.
+Wednesday is Aqua and
+Thursday is Wood.
+###--------
+###Mugshot:OfficialNavi
+And finally,
+Friday is Elec.
+###--------
+###Mugshot:OfficialNavi
+Hmm... That's what
+I've got so far...
+###--------

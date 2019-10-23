@@ -1,0 +1,233 @@
+﻿###TextArchive:7794EC
+###Script:0
+Got ExamTckt
+###--------
+###Script:1
+Got Apprentice License
+###--------
+###Script:2
+Got Civilian License
+###--------
+###Script:3
+Got Battler License
+###--------
+###Script:4
+Got Trophy
+###--------
+###Script:5
+Got CutKey
+###--------
+###Script:6
+Got CybrSeed
+###--------
+###Script:7
+Got Statue
+###--------
+###Script:8
+Got PassTokn
+###--------
+###Script:9
+Got CutKey2
+###--------
+###Script:10
+Got PlusKey
+###--------
+###Script:11
+Got MinusKey
+###--------
+###Script:12
+Got PassDatA
+###--------
+###Script:13
+Got PassDatB
+###--------
+###Script:14
+Got PassDatC
+###--------
+###Script:15
+Got Transltr
+###--------
+###Script:16
+Got MathDril
+###--------
+###Script:17
+Got FrznLetr
+###--------
+###Script:18
+Got SniprTrn
+###--------
+###Script:19
+Got SilvTckt
+###--------
+###Script:20
+Got GoldTicket
+###--------
+###Script:181
+Got the BigHamr1!
+###--------
+###Script:182
+No more BigHamr1!
+###--------
+###Script:200
+###Mugshot:MrProgGreen
+<printBufferedNavi>
+registered for
+<printTournament>
+###Command:printBufferedNavi buffer=1
+###Command:printTournament buffer=2 entry=0
+###--------
+###Mugshot:MrProgGreen
+<printBufferedNavi>
+registered for
+<printTournament>
+###Command:printBufferedNavi buffer=1
+###Command:printTournament buffer=2 entry=0
+###--------
+###Mugshot:MrProgGreen
+<printBufferedNavi>
+registered for
+<printTournament>
+###Command:printBufferedNavi buffer=1
+###Command:printTournament buffer=2 entry=0
+###--------
+###Mugshot:MrProgGreen
+<printBufferedNavi>
+registered for
+<printTournament>
+###Command:printBufferedNavi buffer=1
+###Command:printTournament buffer=2 entry=0
+###--------
+###Mugshot:MrProgGreen
+<printBufferedNavi>
+registered for
+<printTournament>
+###Command:printBufferedNavi buffer=1
+###Command:printTournament buffer=2 entry=0
+###--------
+###Script:201
+You have no
+registrations
+###--------
+###Script:202
+That's all
+###--------
+###Script:220
+Registered everyone
+for Official Tournament!
+###--------
+###Script:221
+Registered everyone
+for Gold Tournament!
+###--------
+###Script:222
+Registered everyone
+for Silver Tournament!
+###--------
+###Script:223
+Registered everyone
+for Under Tournament!
+###--------
+###Script:229
+Receive mail
+###--------
+###Script:230
+User HP floor
+Type A
+###--------
+###Script:231
+User HP floor
+Type B
+###--------
+###Script:232
+User HP floor
+Type C
+###--------
+###Script:233
+User HP floor
+Type D
+###--------
+###Script:234
+User HP floor
+Type E
+###--------
+###Script:235
+User HP floor
+Type F
+###--------
+###Script:236
+User HP BG
+Type A
+###--------
+###Script:237
+User HP BG
+Type B
+###--------
+###Script:238
+User HP BG
+Type C
+###--------
+###Script:239
+User HP BG
+Type D
+###--------
+###Script:240
+User HP BG
+Type E
+###--------
+###Script:241
+User HP BG
+Type F
+###--------
+###Script:242
+###Mugshot:Lan
+0123456789012345
+0123456789012345
+0123456789012345
+###--------
+###Script:243
+Got the PA
+###--------
+###Script:244
+Got HP Memry
+Get HP Memry
+###--------
+###Script:245
+Mail ON
+###--------
+###Script:246
+SilverT entry OK
+GoldT entry OK
+OfficialT entry OK
+###--------
+UnderT entry OK
+###--------
+Silver=STA002
+Gold=STA103
+Official=STA203
+###--------
+Under=STA303
+###--------
+###Script:247
+ShadeMan defeated flag
+###--------
+###Script:248
+Got 100 Zennys!
+###--------
+###Script:249
+Got 10 Zennys!
+###--------
+###Script:250
+Got the Key Items!
+###--------
+###Script:251
+Chip Set
+###--------
+###Script:252
+Rich
+###--------
+###Script:253
+Got the Sub items
+###--------
+###Script:254
+Got all chips
+###--------

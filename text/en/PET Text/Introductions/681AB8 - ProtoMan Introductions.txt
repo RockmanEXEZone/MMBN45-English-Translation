@@ -1,0 +1,17 @@
+﻿###TextArchive:681AB8
+###Script:1
+Nice to meet you.
+###--------
+The name's
+ProtoMan.
+###--------
+I look forward to
+working with you.
+###--------
+###Script:2
+Long time no see.
+###--------
+<printPlayerNickname>,let's join
+forces once more.
+###Command:printPlayerNickname capitalizeFirst=true
+###--------

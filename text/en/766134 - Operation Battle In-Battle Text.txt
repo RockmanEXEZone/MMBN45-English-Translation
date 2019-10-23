@@ -1,0 +1,1306 @@
+﻿###TextArchive:766134
+###Script:0
+###Mugshot:MegaMan
+Should we run?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:1
+###Mugshot:MegaMan
+<wait>･<wait>･<wait>･<wait>OK!
+We got away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:2
+###Mugshot:MegaMan
+<wait>･<wait>･<wait>･<wait>It's no good!
+We can't run away!
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###Command:wait frames=18
+###--------
+###Script:3
+###Mugshot:MegaMan
+This is no time
+to run away!
+###--------
+###Script:4
+###Mugshot:MegaMan
+## The enemy's changing strategies. Should we,too?
+They're changing strat-
+egies. Should we,too?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:5
+###Mugshot:MegaMan
+What should I do?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:6
+###Mugshot:MegaMan
+What should I use?
+###--------
+###Mugshot:MegaMan
+<positionOptionVertical><option><space> Use the MegaBuster!
+<positionOptionVertical><option><space> Use the shield!
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:7
+###Mugshot:MegaMan
+What should I use?
+###--------
+###Mugshot:MegaMan
+<positionOptionVertical><option><space> Use the MegaBuster!
+<positionOptionVertical><option><space> Use the shield!
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:8
+###Mugshot:Roll
+## They're changing strategies. Wanna do that too?
+They're changing tactics.
+Wanna do that too?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:9
+###Mugshot:Roll
+What should I do now...?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:10
+###Mugshot:Roll
+What should I use...?
+###--------
+###Mugshot:Roll
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> RollArrow
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:11
+###Mugshot:Roll
+What should I use...?
+###--------
+###Mugshot:Roll
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> RollArrow
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:12
+###Mugshot:GutsMan
+## They're changin' strategies, guts! Maybe we should,too?
+They're changing their
+plan! Should we?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:13
+###Mugshot:GutsMan
+What do I do!?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:14
+###Mugshot:GutsMan
+What should I equip?
+###--------
+###Mugshot:GutsMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> GutsHammer
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:15
+###Mugshot:GutsMan
+What should I equip?
+###--------
+###Mugshot:GutsMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> GutsHammer
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:16
+###Mugshot:WindMan
+## Seems they're changing strategies... Should we reconsider as well?
+Seems they're changing
+strategies... Should we?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:17
+###Mugshot:WindMan
+Now then, what to do...?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:18
+###Mugshot:WindMan
+Hm,how shall I
+direct the wind?
+###--------
+###Mugshot:WindMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> Hit them with Wind
+<positionOptionVertical><option><space> Suck them with Fan
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:19
+###Mugshot:WindMan
+How shall I
+direct the wind?
+###--------
+###Mugshot:WindMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> Hit them with Wind
+<positionOptionVertical><option><space> Suck them with Fan
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:20
+###Mugshot:SearchMan
+## The enemy's changing strategies. Shall we,too?
+They're changing strat-
+egies. Shall we,too?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:21
+###Mugshot:SearchMan
+Standing by for orders.
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:22
+###Mugshot:SearchMan
+Brief me on equipment.
+###--------
+###Mugshot:SearchMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> ScopeGun
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:23
+###Mugshot:SearchMan
+Brief me on equipment.
+###--------
+###Mugshot:SearchMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> ScopeGun
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:24
+###Mugshot:FireMan
+## They're changin' their plan. Should we do that too?
+They're changing their
+plan. Maybe we should?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:25
+###Mugshot:FireMan
+Okay, what do I do?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:26
+###Mugshot:FireMan
+What should I
+burn 'em with!?
+###--------
+###Mugshot:FireMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> FireArm
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:27
+###Mugshot:FireMan
+What should I
+burn 'em with!?
+###--------
+###Mugshot:FireMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> FireArm
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:28
+###Mugshot:ThunderMan
+## The enemy is changing tactics. Should we do the same?
+The enemy is changing
+tactics. Do the same?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:29
+###Mugshot:ThunderMan
+How should I fight?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:30
+###Mugshot:ThunderMan
+How shall I pass
+down judgment?
+###--------
+###Mugshot:ThunderMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> ElecBeam
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:31
+###Mugshot:ThunderMan
+How shall I pass
+down judgment?
+###--------
+###Mugshot:ThunderMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> ElecBeam
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:32
+###Mugshot:ProtoMan
+## The enemy's changing strategies. Shall we do the same?
+They're changing strat-
+egies. Shall we,too?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:33
+###Mugshot:ProtoMan
+Awaiting your orders.
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:34
+###Mugshot:ProtoMan
+What should I equip?
+###--------
+###Mugshot:ProtoMan
+<positionOptionVertical><option><space> Shield
+<positionOptionVertical><option><space> LongSword
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:35
+###Mugshot:ProtoMan
+What should I equip?
+###--------
+###Mugshot:ProtoMan
+<positionOptionVertical><option><space> Shield
+<positionOptionVertical><option><space> LongSword
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:36
+###Mugshot:NumberMan
+## Enemy switching strategies. Switch ours as well?
+Enemy switching strat-
+egies. Switch ours too?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:37
+###Mugshot:NumberMan
+What strategy to use?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:38
+###Mugshot:NumberMan
+What shall I equip?
+###--------
+###Mugshot:NumberMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> Shield
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:39
+###Mugshot:NumberMan
+What shall I equip?
+###--------
+###Mugshot:NumberMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> Shield
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:40
+###Mugshot:MetalMan
+## They're changing strategies. Should we we revise ours,too?
+They're changing their
+approach. Change ours?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:41
+###Mugshot:MetalMan
+Alright... What do I do?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:42
+###Mugshot:MetalMan
+What shall I crush
+them with?
+###--------
+###Mugshot:MetalMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> MetalBlade
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:43
+###Mugshot:MetalMan
+What shall I crush
+them with?
+###--------
+###Mugshot:MetalMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> MetalBlade
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:44
+###Mugshot:JunkMan
+## T-They're switching gears... S-Should we do that too?
+T-They're switching
+gears... Should we,too?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:45
+###Mugshot:JunkMan
+What should I do...?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:46
+###Mugshot:JunkMan
+W-What should I use?
+###--------
+###Mugshot:JunkMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> JunkPress
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:47
+###Mugshot:JunkMan
+W-What should I use?
+###--------
+###Mugshot:JunkMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> JunkPress
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:48
+###Mugshot:AquaMan
+## The enemy's changing strategies, drip! Should we,too?
+They're changing their
+plan,drip! Should we?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:49
+###Mugshot:AquaMan
+What should I do, drip?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:50
+###Mugshot:AquaMan
+Tell me what
+to use,drip!
+###--------
+###Mugshot:AquaMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> AquaShot
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:51
+###Mugshot:AquaMan
+Tell me what
+to use,drip!
+###--------
+###Mugshot:AquaMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> AquaShot
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:52
+###Mugshot:WoodMan
+## The enemy is changing strategies. Shall we do so too?
+The enemy is changing
+tactics. Shall we,too?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:53
+###Mugshot:WoodMan
+Tell me your strategy.
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:54
+###Mugshot:WoodMan
+Which equipment
+to use...?
+###--------
+###Mugshot:WoodMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:55
+###Mugshot:WoodMan
+Which equipment
+to use...?
+###--------
+###Mugshot:WoodMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:64
+###Mugshot:StarMan
+## The enemy's changing strategies. Wanna do do the same?
+They're changing tactics.
+Wanna do the same?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:65
+###Mugshot:StarMan
+What should I do?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:66
+###Mugshot:StarMan
+What should I use?
+###--------
+###Mugshot:StarMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:67
+###Mugshot:StarMan
+What should I use?
+###--------
+###Mugshot:StarMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:68
+###Mugshot:ShadowMan
+## They've switched course. Shall we change strategies?
+They've switched course.
+Change strategies?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:69
+###Mugshot:ShadowMan
+What should I do?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:70
+###Mugshot:ShadowMan
+What should I use?
+###--------
+###Mugshot:ShadowMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:71
+###Mugshot:ShadowMan
+What should I use?
+###--------
+###Mugshot:ShadowMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:72
+###Mugshot:KnightMan
+## The enemy changes their strategy! Perhaps a good idea?
+Our foe changes their
+strategy! Shall we,too?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:73
+###Mugshot:KnightMan
+What should I do?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:74
+###Mugshot:KnightMan
+What should I use?
+###--------
+###Mugshot:KnightMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:75
+###Mugshot:KnightMan
+What should I use?
+###--------
+###Mugshot:KnightMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:76
+###Mugshot:NapalmMan
+## They're changin' strategies. Think we should,too?
+They're changin' their
+plan. Think we should?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:77
+###Mugshot:NapalmMan
+What should I do?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:78
+###Mugshot:NapalmMan
+What should I use?
+###--------
+###Mugshot:NapalmMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:79
+###Mugshot:NapalmMan
+What should I use?
+###--------
+###Mugshot:NapalmMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:80
+###Mugshot:IceMan
+## They're changing their tactics. Wanna do that too?
+They're changing their
+plan. Wanna do that too?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:81
+###Mugshot:IceMan
+What should I do?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:82
+###Mugshot:IceMan
+What should I use?
+###--------
+###Mugshot:IceMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:83
+###Mugshot:IceMan
+What should I use?
+###--------
+###Mugshot:IceMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:84
+###Mugshot:ElecMan
+## The enemy's shifting gears. Should we change it up too?
+The enemy's shifting
+gears. Shall we,too?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:85
+###Mugshot:ElecMan
+What should I do?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:86
+###Mugshot:ElecMan
+What should I use?
+###--------
+###Mugshot:ElecMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:87
+###Mugshot:ElecMan
+What should I use?
+###--------
+###Mugshot:ElecMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:88
+###Mugshot:PlantMan
+## They're adjusting their strategy... Shouldn't we do the same?
+They're adjusting their
+strategy... Shouldn't we?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:89
+###Mugshot:PlantMan
+What should I do?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:90
+###Mugshot:PlantMan
+What should I use?
+###--------
+###Mugshot:PlantMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:91
+###Mugshot:PlantMan
+What should I use?
+###--------
+###Mugshot:PlantMan
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:92
+###Mugshot:Bass
+## They're changing strategies... Change ours too?
+They're changing strat-
+egies... Change ours?
+<positionOptionHorizontal><option><space> Yes  <option><space> No
+###Command:positionOptionHorizontal width=8
+###Command:option brackets=false left=0 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=1 up=1 down=1
+###Command:space count=1
+###--------
+###Script:93
+###Mugshot:Bass
+What should I do?
+<positionOptionVertical><option><space> Chase the enemy!
+<positionOptionVertical><option><space> Get out of row!
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=1
+###Command:space count=1
+###--------
+###Script:94
+###Mugshot:Bass
+What should I use?
+###--------
+###Mugshot:Bass
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------
+###Script:95
+###Mugshot:Bass
+What should I use?
+###--------
+###Mugshot:Bass
+<positionOptionVertical><option><space> Use the Buster!
+<positionOptionVertical><option><space> DeathForest
+<positionOptionVertical><option><space> Wait for a chip
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=0 right=0 up=0 down=1
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=1 right=1 up=0 down=2
+###Command:space count=1
+###Command:positionOptionVertical width=13
+###Command:option brackets=false left=2 right=2 up=1 down=2
+###Command:space count=1
+###--------

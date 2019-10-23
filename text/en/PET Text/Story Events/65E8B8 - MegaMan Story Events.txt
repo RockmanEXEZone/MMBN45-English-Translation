@@ -1,0 +1,153 @@
+﻿###TextArchive:65E8B8
+###Script:10
+Let's explore the
+Net some more!
+###--------
+###Script:11
+Let's go take
+the Apprentice
+License exam!
+###--------
+###Script:12
+Let's do our best
+on the Apprentice
+License exam!
+###--------
+###Script:13
+Let's go get
+a "<printChip>"!
+###Command:printChip buffer=0 chip=104
+###--------
+###Script:14
+Let's go pick up
+our Apprentice
+License!
+###--------
+###Script:15
+Great job on
+the Apprentice
+License exam!
+###++++++++
+How about a
+little break?
+###--------
+###Script:16
+I wonder what's
+happening in
+Internet3...
+###--------
+###Script:17
+Looks like the Navi
+we beat was behind
+the incident...
+###--------
+Are you worn out?
+Want to jack
+out for a bit?
+###--------
+###Script:18
+I wonder what's
+happening in
+Internet5...
+###--------
+###Script:19
+I wonder what's
+happening in
+Internet7...
+###--------
+###Script:20
+I wonder what's
+happening in
+Internet9...
+###--------
+###Script:21
+I wonder what's
+happening in
+Internet10...
+###--------
+###Script:22
+I wonder what's
+happening in
+Internet12...
+###--------
+###Script:23
+Let's get that
+"MinusKey" back
+from BlackWorks!
+###--------
+###Script:24
+Looks like the
+other Navi has
+the "MinusKey"!
+###--------
+###Script:25
+Let's bring back
+the "MinusKey"
+###++++++++
+to the Navi
+in Internet9!
+###--------
+###Script:26
+###--------
+Let's go to the
+Official Tournament
+entry desk!
+###--------
+###Script:27
+Let's go to
+the Undernet!
+###--------
+We're supposed to
+look for a coffin
+to find the criminal.
+###--------
+###Script:28
+###--------
+<printPlayerNickname>,let's go
+enter the Official
+Tournament!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:29
+The Official
+Tournament is
+this weekend!
+###++++++++
+Let's give it
+all we've got!
+###--------
+###Script:30
+To win the Official
+Tournament...
+###++++++++
+That's every
+NetBattler's
+dream,right?
+###--------
+###Script:31
+There might still
+be more secrets
+on the Net!
+###--------
+Let's try exploring
+some more!
+###--------
+###Script:32
+###--------
+<printPlayerNickname>,let's
+do the Official
+Tournament prelims!
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:33
+Hey,let's read the
+mail we just got!
+###--------
+###Script:34
+Once the
+weekend is over,
+###--------
+let's go enter
+the Official
+Tournament!
+###--------

@@ -1,0 +1,149 @@
+﻿###TextArchive:6F7A04
+###Script:0
+What will you
+do,drip?
+###--------
+###Script:15
+MegaMan BN4.5
+Real Operation
+battle mode,drip.
+###--------
+###Script:16
+MegaMan BN4
+with Chip Gate
+battle mode,drip.
+###--------
+###Script:17
+1 round decides
+the winner.
+Have fun,drip!
+###--------
+###Script:18
+First to win 2 out
+of 3 rounds will be
+the champ,drip!
+###--------
+###Script:19
+Both players use
+the BattleChip Gate
+in this mode,drip.
+###--------
+###Script:20
+Neither player uses
+the BattleChip Gate
+in this mode,drip.
+###--------
+###Script:30
+Your friend
+isn't ready!
+Hold on,drip...
+###--------
+###Script:31
+Communication
+error... Check the
+Game Link cable.
+###--------
+###Script:33
+Let's battle!
+###--------
+###Script:34
+Both players use
+the BattleChip Gate
+in this mode,drip.
+###--------
+Make sure both
+the Game Link
+cable and the
+###--------
+BattleChip Gate
+are connected,
+drip.
+###--------
+###Script:35
+Neither player uses
+the BattleChip Gate
+in this mode,drip.
+###--------
+Disconnect the
+BattleChip Gate
+and try again,drip.
+###--------
+###Script:36
+Preparing
+communication.
+Hold on,drip...
+###--------
+###Script:37
+This mode is for
+battling MegaMan
+Battle Network 4.
+###--------
+Make sure your
+friend has
+MegaMan BN4,drip.
+###--------
+###Script:40
+Nice battle,drip!
+I'd like to win
+the next one too!
+###--------
+###Script:41
+Drip,drip! We won!
+I'm so happy,drip!
+###--------
+###Script:45
+We lost,but don't
+cry! After the rain
+there's a rainbow!
+###--------
+###Script:46
+We lost,drip!
+When it rains,
+it pours...
+###--------
+###Script:50
+A close tie...
+I'll try harder
+next battle,drip!
+###--------
+###Script:51
+Communication
+error... Check the
+Game Link cable.
+###--------
+###Script:55
+This mode is Single
+Battle with the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode as
+your friend,drip.
+###--------
+###Script:56
+This mode is Single
+Battle without the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode as
+your friend,drip.
+###--------
+###Script:57
+This mode is Triple
+Battle with the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode as
+your friend,drip.
+###--------
+###Script:58
+This mode is Triple
+Battle without the
+BattleChip Gate.
+###--------
+Make sure to pick
+the same mode as
+your friend,drip.
+###--------

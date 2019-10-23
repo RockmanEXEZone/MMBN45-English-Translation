@@ -1,0 +1,131 @@
+﻿###TextArchive:6AAB54
+###Script:0
+!!
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+<wait>
+###Command:wait frames=96
+###--------
+###Script:1
+<printPlayerNickname>,
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>
+will begin soon...
+###Command:printScheduleBuffer
+###--------
+But...
+
+###--------
+What exactly is
+<printScheduleBuffer>⋯?
+###Command:printScheduleBuffer
+###--------
+###Script:2
+###--------
+<printPlayerNickname>,it's time
+for your meeting
+with <printScheduleBuffer>.
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printScheduleBuffer
+###--------
+###Script:3
+It's time to eat...
+###--------
+Me? No worries.
+I have some ninja
+ration balls on me.
+###--------
+All ninjas carry
+these wherever
+they go.
+###--------
+###Script:4
+It's time
+for school.
+###--------
+Studying is still
+just as important
+as in the old days.
+###--------
+###Script:5
+<printPlayerNickname>,
+it's time for
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:6
+Furthermore...
+###--------
+###Script:21
+###Mugshot:ShadowMan
+<printPlayerNickname>,
+
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:ShadowMan
+<printScheduleBuffer>
+will begin soon...
+###Command:printScheduleBuffer
+###--------
+###Mugshot:ShadowMan
+But...
+
+###--------
+###Mugshot:ShadowMan
+What exactly is
+<printScheduleBuffer>⋯?
+###Command:printScheduleBuffer
+###--------
+###Script:22
+###Mugshot:ShadowMan
+###--------
+###Mugshot:ShadowMan
+<printPlayerNickname>,it's time
+for your meeting
+with <printScheduleBuffer>.
+###Command:printPlayerNickname capitalizeFirst=true
+###Command:printScheduleBuffer
+###--------
+###Script:23
+###Mugshot:ShadowMan
+It's time to eat...
+###--------
+###Mugshot:ShadowMan
+Me? No worries.
+I have some ninja
+ration balls on me.
+###--------
+###Mugshot:ShadowMan
+All ninjas carry these
+wherever they go.
+###--------
+###Script:24
+###Mugshot:ShadowMan
+It's time for school.
+###--------
+###Mugshot:ShadowMan
+Studying is still
+just as important
+as in the old days.
+###--------
+###Script:25
+###Mugshot:ShadowMan
+<printPlayerNickname>,it's time
+for 
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Mugshot:ShadowMan
+<printScheduleBuffer>!
+###Command:printScheduleBuffer
+###--------
+###Script:26
+###Mugshot:ShadowMan
+Furthermore...
+###--------

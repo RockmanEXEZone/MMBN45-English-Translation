@@ -1,0 +1,136 @@
+﻿###TextArchive:6CB184
+###Script:1
+Ah,
+Happy New Year!
+###--------
+Well,I'm already
+amped up for
+the new year.
+###--------
+###Script:2
+Hmm...today is
+April Fools' Day.
+###--------
+Better be careful,
+###--------
+###--------
+###--------
+###--------
+or you might be in
+for a shock today...
+###--------
+###Script:3
+Oh,yeah. Today is
+Valentine's Day.
+###--------
+The sparks are
+flying today...
+###--------
+###Script:4
+Oh,yeah. Today is
+Valentine's Day.
+###--------
+The sparks are
+flying today...
+###--------
+###Script:5
+Tonight is
+Halloween.
+###--------
+H-Hey,what's
+that look for...!?
+###--------
+Yeah,I've got
+horns on my head,
+###--------
+but I'm not
+a monster!!
+###++++++++
+And I might
+control electricity,
+###++++++++
+but it's not like
+a thunderstorm
+or anything!
+###++++++++
+If anyone's a
+monster here,
+it's ThunderMan!
+###--------
+###Script:6
+ 
+###--------
+ 
+###--------
+ 
+###--------
+###Script:7
+ 
+###--------
+ 
+###--------
+###Script:8
+Tonight is
+Christmas Eve.
+###--------
+I like Christmas.
+The whole town is
+lit up with lights!
+###--------
+###Script:9
+Merry Christmas!
+###--------
+The Christmas
+spirit is at its
+peak today...
+###--------
+Once it's over,all
+the decorations
+are taken down!
+###--------
+For me,that's
+really the saddest
+day of the year!
+###--------
+###Script:10
+Tonight is
+New Year's Eve...
+###--------
+Many things have
+happened this year,
+###++++++++
+but tonight,all
+will be reset!
+###--------
+All the bad times...
+All the troubles...
+###--------
+Yes...everything
+will be reset to
+a clean state!
+###--------
+###Script:11
+Today is your
+birthday,right?
+###--------
+Congrats.
+###--------
+Sorry...I don't
+really have a
+present for you.
+###--------
+###Script:12
+ 
+###--------
+ 
+###--------
+###Script:17
+Today is
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------
+###Script:18
+And...
+"<printScheduleBuffer>".
+###Command:printScheduleBuffer
+###--------

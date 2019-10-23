@@ -1,0 +1,767 @@
+﻿###TextArchive:6B6CA4
+###Script:1
+Now that we've
+jacked out,
+###--------
+may I ask you
+a little about
+yourself,<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Let me see...
+###--------
+Do you have an
+older brother?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Ah...in that case,
+I must ask
+for his name...
+###--------
+###Script:2
+I see...
+Is that so?
+###--------
+###Script:3
+Now that we've
+jacked out,
+###--------
+may I ask you
+a little about
+yourself,<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Let me see...
+###--------
+Do you have a
+younger brother?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Ah...in that case,
+I must ask
+for his name...
+###--------
+###Script:4
+I see...
+Is that so?
+###--------
+###Script:5
+Now that we've
+jacked out,
+###--------
+may I ask you
+a little about
+yourself,<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Let me see...
+###--------
+Do you have an
+older sister?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Ah...in that case,
+I must ask
+for her name...
+###--------
+###Script:6
+I see...
+Is that so?
+###--------
+###Script:7
+Now that we've
+jacked out,
+###--------
+may I ask you
+a little about
+yourself,<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+Let me see...
+###--------
+Do you have a
+younger sister?
+###--------
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+Ah...in that case,
+I must ask
+for her name...
+###--------
+###Script:8
+I see...is that so?
+###--------
+###Script:9
+If you do battle
+with a good rival,
+###++++++++
+you can grow
+tremendously.
+###--------
+If you don't
+mind,<printPlayerNickname>,
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+would you introduce
+me to a close
+friend of yours?
+###--------
+###Script:11
+Whether you are
+in battle,or just
+exploring the Net,
+###--------
+your body is your
+greatest asset!
+###--------
+To train your body,
+the first step is
+the right food!
+###--------
+<printPlayerNickname>,what
+food do you like?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:13
+My eyes grew
+weary from looking
+at the library...
+###--------
+Whilst we
+take a break,
+###--------
+may I ask you
+a little about
+yourself,<printPlayerNickname>?
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+...Let me see.
+###--------
+<printPlayerNickname>,what
+sort of hobby
+do you have?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I imagine it must
+be quite the
+dignified hobby...
+###--------
+###Script:15
+The tournament
+has concluded...
+###--------
+Now that things
+have calmed
+down a little,
+###--------
+there is something
+I would like
+to ask you...
+###--------
+For a knight,the
+two things most
+precious to us...
+###--------
+are our loyalty,
+and our ambition.
+###--------
+Without great
+ambition,you will not
+make a fine knight.
+###--------
+<printPlayerNickname>,please
+tell me what you
+aspire to become...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:17
+You never know
+when you will get
+important mail.
+###--------
+You should make it
+a habit to check
+your mail carefully.
+###--------
+Speaking of
+which...
+###--------
+Seeing as you
+may eventually
+receive mail
+###--------
+from the person
+for which you
+hold feelings,
+###--------
+I must humbly ask
+you to inform me
+of their name...
+###--------
+###Script:19
+You never know
+when you'll get
+important mail.
+###--------
+You should make it
+a habit to check
+your mail carefully.
+###--------
+Speaking of
+which...
+###--------
+Seeing as you
+may eventually
+receive mail
+###--------
+from the person
+for which you
+hold feelings,
+###--------
+I must humbly ask
+you to inform me
+of their name...
+###--------
+###Script:21
+BattleChips are
+somewhat like
+small medals...
+###--------
+Gathering all of
+the chips on
+your own merits
+###--------
+is certainly a
+feat worthy
+of admiration.
+###--------
+By the way,
+###--------
+<printPlayerNickname>,who
+do you admire?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I would like to
+meet them as well,
+even just once.
+###--------
+###Script:23
+It is important to
+watch your manners
+when writing mail.
+###--------
+One of the rules
+of being a knight
+###--------
+is to treat all
+people with manners
+and respect.
+###--------
+But even so,
+there must be
+some people who
+###++++++++
+you cannot bring
+yourself to like,
+no matter what...
+###--------
+Within your
+environment,who
+would that be?
+###--------
+###Script:25
+Battling is
+enjoyable,but from
+what I have heard,
+###--------
+this "television"
+thing is seemingly
+rather fun as well.
+###--------
+I am quite fond
+of battling,
+###--------
+but sadly,I am not
+very knowledgeable
+about TV...
+###--------
+It would be
+troubling if we
+had no topics to
+###--------
+discuss together,so
+I made it my duty
+to study up on TV.
+###--------
+Could you recommend
+me an interesting
+TV program?
+###--------
+###Script:27
+<printPlayerNickname>,now that
+our business on the
+Net is finished,
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I have something
+I would like to say.
+###--------
+<printPlayerNickname>,if you
+wish to become
+a qualified knight,
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+you must be able
+to study well.
+###--------
+Is there a subject
+you are skilled at?
+###--------
+###Script:29
+<printPlayerNickname>,now that
+our business on the
+Net is finished,
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+I have something
+I would like to say.
+###--------
+<printPlayerNickname>,if you
+wish to become
+a qualified knight,
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+you must be able
+to study well.
+###--------
+Is there a subject
+you are poor at?
+###--------
+###Script:31
+If you wish to
+obtain something,
+such as victory
+###--------
+in battle,then
+you must put forth
+your best effort.
+###--------
+This fact is of the
+utmost importance.
+###--------
+<printPlayerNickname>,would you
+tell me what you
+want right now?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+###Script:32
+Similar to filling
+the Data Library,
+###--------
+I would like
+to fill my mind
+###--------
+with knowledge
+about you,
+<printPlayerNickname>.
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+So,without delay...
+###--------
+<printPlayerNickname>,would
+you please tell me
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+the name of
+the preschool
+you attend?
+###--------
+###Script:33
+Similar to filling
+the Data Library,
+###--------
+I would like
+to fill my mind
+###--------
+with knowledge
+about you,
+<printPlayerNickname>.
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+So,without delay...
+###--------
+<printPlayerNickname>,would
+you please tell me
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+the name of
+the school
+you attend?
+###--------
+###Script:34
+Similar to filling
+the Data Library,
+###--------
+I would like
+to fill my mind
+###--------
+with knowledge
+about you,
+<printPlayerNickname>.
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+So,without delay...
+###--------
+<printPlayerNickname>,would
+you please tell me
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+the name of
+the company
+you work for?
+###--------
+###Script:40
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:41
+Do you have more
+older brothers?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:42
+I see...
+Is that so?
+###--------
+###Script:43
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:44
+Do you have more
+younger brothers?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:45
+I see...
+Is that so?
+###--------
+###Script:46
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:47
+Do you have more
+older sisters?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:48
+I see...
+Is that so?
+###--------
+###Script:49
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+###Script:50
+Do you have more
+younger sisters?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:51
+I see...
+Is that so?
+###--------
+###Script:52
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+<printStringBuffer2>
+###Command:printStringBuffer2
+###--------
+<printStringBuffer3>
+###Command:printStringBuffer3
+###--------
+###Script:53
+Might you have
+other friends?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:54
+I see...
+Is that so?
+###--------
+###Script:55
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:56
+Might you have
+any other hobbies?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:57
+I see...
+Is that so?
+###--------
+###Script:58
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:59
+Might you like any
+other TV programs?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:60
+I see...
+Is that so?
+###--------
+###Script:61
+<printPlayerNickname>,
+aside from
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+<printStringBuffer1>
+###Command:printStringBuffer1
+###--------
+###Script:62
+Might you desire
+any other things?
+<option><space> I do  <option><space> I don't
+###Command:option brackets=false left=1 right=1 up=0 down=0
+###Command:space count=1
+###Command:option brackets=false left=0 right=0 up=1 down=1
+###Command:space count=1
+###--------
+###Script:63
+I see...
+Is that so?
+###--------
+###Script:80
+<printPlayerNickname>'s older
+brother,eh...?
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+Surely,he must
+be a fine knight!
+###--------
+###Script:81
+I am certain your
+younger brother
+###++++++++
+will mature into
+a fine knight
+before long.
+###--------
+###Script:82
+Your older sister
+must be a
+courageous woman,
+###--------
+just like
+Joan of Arc!
+###--------
+###Script:83
+Listen carefully,
+<printPlayerNickname>.
+###Command:printPlayerNickname capitalizeFirst=false
+###--------
+One of the core
+principles of
+being a knight
+###--------
+is protecting those
+who are younger
+than you!
+###--------
+###Script:84
+Such a heroic
+name!
+###--------
+Your friend must
+be an outstanding
+knight!
+###--------
+###Script:85
+Such a delectable
+name! I would
+love to see
+###--------
+what it looks like
+with my own eyes,
+even just once.
+###--------
+###Script:86
+As I suspected,
+you have a
+dignified hobby.
+###--------
+Having good taste
+is a requirement
+for being a knight!
+###--------
+###Script:87
+You have such a
+wonderful ambition!
+###--------
+Please,work
+hard to make
+it come true!
+###--------
+###Script:88
+There is nothing
+to be embarrassed
+about!
+###--------
+A knight is only
+able to draw out
+their true power
+###--------
+when protecting
+their loved ones!
+###--------
+###Script:89
+Hmmm... Based
+on their name,
+I would surmise
+###--------
+that person is a
+famous knight from
+a faraway land...
+###--------
+###Script:90
+I understand...
+###--------
+I shall...remember
+this person.
+......
+###--------
+###Script:91
+Regardless of how
+much you like it,
+###++++++++
+it is not good to
+watch too much TV!
+###--------
+###Script:92
+So there is a
+subject you
+excel at!
+###++++++++
+It is just as
+I expected!
+###--------
+###Script:93
+If you put forth
+your greatest
+effort,
+###--------
+there is nothing
+which you
+cannot conquer.
+###--------
+Perseverance is
+the key to success!
+###--------
+###Script:94
+...I see.
+###--------
+Then,to obtain it,
+you must put in
+enough effort!
+###--------
+###Script:95
+Oho! It would fill
+me with pride
+###--------
+if I were able
+to go there,too!
+###--------

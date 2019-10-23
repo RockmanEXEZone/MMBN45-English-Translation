@@ -1,0 +1,32 @@
+﻿###TextArchive:6CB080
+###Script:1
+The day of the
+tournament is
+coming up...
+###--------
+Jack me into
+the Net later,
+###--------
+so I can
+battle a bunch
+###--------
+and raise
+my voltage.
+###--------
+###Script:2
+Here we are...
+Tournament day.
+###--------
+Let's pull out all
+the stops right
+out of the gate...
+###--------
+###Script:3
+<printPlayerNickname>,it looks
+like we have an
+interesting item...
+###Command:printPlayerNickname capitalizeFirst=true
+###--------
+How about checking
+our Key Items...?
+###--------

@@ -1,0 +1,7 @@
+﻿###TextArchive:693778
+###Script:1
+Jack in!
+JunkMan,
+Execute!!<wait>
+###Command:wait frames=30
+###--------
