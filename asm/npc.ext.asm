@@ -403,3 +403,64 @@ npc_resetNPC:
 	pop	r15
 
 	.pool
+
+
+.align 4
+npc_internet3:
+	.dw	0x8057968		// NPC00
+	.dw	0x80579E9		// NPC01
+	.dw	0x8057A1D		// NPC02
+	.dw	0x8057AB5		// NPC03
+	.dw	0x8057B03		// NPC04
+	.dw	npc_internet3_npc05	// NPC05
+	.dw	npc_internet3_npc06	// NPC06
+	.dw	npc_internet3_npc07	// NPC07
+	.dw	0x8057BD6		// NPC08
+	.dw	0x8057C07		// NPC09
+	.dw	0x8057CCF		// NPC10
+	.dw	0x8057D2C		// NPC11
+	.dw	0x8057D8E		// NPC12
+	.dw	0x8057DF3		// NPC13
+	.dw	npc_internet3_npc14	// NPC14
+	.dw	0x8057E3C		// NPC15
+	.dw	0x8057E44		// NPC16
+	.dw	0x8057E4C		// NPC17
+	.dw	0x8057E54		// NPC18
+	.dw	0x8057E5C		// NPC19
+	.dw	0x8057A84		// Unused NPC 3
+//	.dw	0x8057C88		// Unused NPC 5 (no text)
+	.dw	0x8057CB1		// Unused NPC 6
+//	.dw	0x8057CF8		// Unused NPC 7 (no text)
+	.dw	0x00000FF
+
+npc_internet3_npc05:
+	// Jump if world time range
+	.db	0x44,0x04,	00,06,	59,17
+	.dw	0x8057A38	// Unused NPC 1
+	// Jump
+	.db	0x02
+	.dw	0x8057B3F	// Old NPC05
+
+npc_internet3_npc06:
+	// Jump if world time range
+	.db	0x44,0x04,	00,06,	59,17
+	.dw	0x8057A5E	// Unused NPC 2
+	// Jump
+	.db	0x02
+	.dw	0x8057B66	// Old NPC06
+
+npc_internet3_npc07:
+	// Jump if world time range
+	.db	0x44,0x04,	00,18,	59,29
+	.dw	0x8057D0E
+	// Jump
+	.db	0x02
+	.dw	0x8057B8D	// Old NPC07
+
+npc_internet3_npc14:
+	// Jump if weekday range
+	.db	0x3F,0x0C,	1,5
+	.dw	0x8057E0E
+	// Jump
+	.db	0x02
+	.dw	0x8057B19	// Unused NPC 4

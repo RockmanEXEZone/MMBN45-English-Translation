@@ -66,13 +66,13 @@ save_checkSaveString:
 	ldr	r0,=0x804ABA0
 	bl	@compareSaveString
 	tst	r0,r0
-	beq	@@end
+	beq	@@valid
 
 	// Check Japanese save string
 	add	r0,=@jpSaveString
 	bl	@compareSaveString
 	tst	r0,r0
-	bne	@@end
+	bne	@@invalid
 
 	// Perform save conversion
 	// Clear last valid time/date
@@ -298,8 +298,14 @@ save_checkSaveString:
 	bl	0x804AB38
 .endif
 
+@@valid:
+	bl	@removeChipCodes
+
 	// Return valid save
 	mov	r0,0x0
+	b	@@end
+@@invalid:
+	mov	r0,0x1
 @@end:
 	pop	r4-r7,r15
 
@@ -323,6 +329,89 @@ save_checkSaveString:
 	mov	r0,0x1
 @@end:
 	bx	r14
+
+
+@removeChipCodes:
+	push	r4,r14
+
+	// Reset property 0x26 for each Navi
+	mov	r1,r10
+	ldr	r1,[r1,0x78]
+	mov	r2,(0x17 - 0x1)
+	lsl	r2,r2,0x6
+	add	r2,0x26
+	mov	r0,0x3
+@@loopNavi:
+	strb	r0,[r1,r2]
+	sub	r2,0x40
+	bpl	@@loopNavi
+
+	// Remove codes from folders
+	ldr	r1,=0x1FF01FF
+	mov	r2,r10
+	ldr	r2,[r2,0x74]
+	ldr	r3,=((0x17 * 0x3C) - 0x4)
+@@loopFolder:
+	ldr	r0,[r2,r3]
+	and	r0,r1
+	str	r0,[r2,r3]
+	sub	r3,0x4
+	bpl	@@loopFolder
+
+	// Remove codes from pack
+	mov	r3,r10
+	ldr	r3,[r3,0x50]
+	mov	r4,(0x137 - 0xFF)
+	add	r4,0xFF
+@@loopPack:
+	// Check if there are different codes
+	ldr	r0,[r3]
+	cmp	r0,0x63
+	ble	@@nextPack
+	// Sum codes
+	lsr	r1,r0,0x10
+	add	r0,r0,r1
+	lsl	r1,r0,0x10
+	lsl	r0,r0,0x18
+	add	r0,r0,r1
+	lsr	r0,r0,0x18
+	cmp	r0,0x63
+	ble	@@setCount
+	mov	r0,0x63
+@@setCount:
+	str	r0,[r3]
+	// Set pack ID to minimum
+	ldrh	r0,[r3,0x4]
+	sub	r0,0x1
+	ldrh	r1,[r3,0x6]
+	sub	r1,0x1
+	cmp	r0,r1
+	bls	@@next1
+	mov	r0,r1
+@@next1:
+	ldrh	r1,[r3,0x8]
+	sub	r1,0x1
+	ldrh	r2,[r3,0xA]
+	sub	r2,0x1
+	cmp	r1,r2
+	bls	@@next2
+	mov	r1,r2
+@@next2:
+	cmp	r0,r1
+	bls	@@next3
+	mov	r0,r1
+@@next3:
+	mov	r1,0x0
+	add	r0,0x1
+	str	r0,[r3,0x4]
+	str	r1,[r3,0x8]
+	// Next chip
+@@nextPack:
+	add	r3,0xC
+	sub	r4,0x1
+	bgt	@@loopPack
+
+	pop	r4,r15
 
 
 .align 2

@@ -238,9 +238,9 @@ come back again...
 ###--------
 ###Script:7
 ###Mugshot:OfficialNavi
-Oh,I'm sorry.
-Registration has
-ended for today...
+Oh,I'm sorry. We're
+not accepting any
+more entries today...
 ###--------
 ###Script:8
 ###Mugshot:OfficialNavi

@@ -1,7 +1,29 @@
-The following glitches have been fixed in the MMBN4.5 translation as well as the
-Japanese Update Patch.
+The following bugfixes and improvements have been implemented in the MMBN4.5
+translation as well as the Japanese Update Patch.
 
 
+VERSION 1.1
+28 NOVEMBER 2019
+
+Made hacked Navis now spawn regardless of when you read the Mail News e-mail.
+This fixes a design flaw where if you read the mail after jacking in, your Navi
+would tell you to go to the designated area, but the hacked Navi would not
+spawn. Note: with this change, if you are already on the spawn location when you
+read the mail, you will need to step off the spawn location first, then step
+back on it to spawn the Navi.
+
+Fixed animation timings on HawkCut chips.
+
+Re-added 6 NPCs in Internet3 that went unused due to all NPC slots already being
+in use.
+
+Fixed a glitch with GutsMan chips causing a desync when playing against EXE4. On
+the EXE4 side, the rocks would fall during the dim, but on the EXE4.5 side, the
+rocks would fall AFTER the dim, in different locations.
+
+
+VERSION 1.0
+26 OCTOBER 2019
 
 Fixed an issue where time-sensitive NPCs checked the world update time rather
 than the current time when determining when to spawn. Since world updates
@@ -170,6 +192,10 @@ Job as SearchMan or NapalmMan that takes place in an Undernet area.
 Fixed the MB for Lightning2 and Lightning3 chips (taken from MMBN4).
 
 Fixed folder editor ID sort not matching library order for BurnMan chips.
+
+Fixed GutsMan's battle sprite palette missing a shade of red for his V1 chip and
+playable version, as well as some missing pixels on his battle sprite around his
+Navi emblem.
 
 Fixed a number of behind-the-scenes glitches that did not affect gameplay at
 all, but will reduce error logs in emulators.

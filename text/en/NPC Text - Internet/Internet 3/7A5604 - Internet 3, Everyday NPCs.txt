@@ -57,8 +57,9 @@ Come again!
 ###--------
 ###Script:1
 ###Mugshot:OfficialNavi
-You've already
-entered today!
+Sorry,we're not
+accepting any
+more entries today.
 ###--------
 ###Script:2
 ###Mugshot:OfficialNavi
@@ -359,7 +360,7 @@ SILVER TOURNAMENT!
 ###--------
 ###Mugshot:MrProgGreen
 BUT WAIT,
-THERE'S MORE
+THERE'S MORE!
 ###++++++++
 ###Mugshot:MrProgGreen
 THERE'S EVEN A

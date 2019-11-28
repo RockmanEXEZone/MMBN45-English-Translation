@@ -647,6 +647,44 @@ bugfix_protomanChipSpawns:
 
 
 .align 2
+bugfix_hawkCut1:
+	push	r14
+
+	bne	@@end
+
+	// Spawn sword
+	ldr	r4,=0x10703
+	mov	r7,0x60
+	add	r7,r7,r5
+	ldr	r0,=0x8094A73
+	mov	r14,r15
+	bx	r0
+
+@@end:
+	pop	r15
+
+
+.align 2
+bugfix_hawkCut2:
+	push	r14
+
+	ldrh	r0,[r5,0x20]
+	cmp	r0,0x13
+	blt	@@end
+
+	// Reset sword, need to do this for 2 frames
+	ldr	r0,[r5,0x60]
+	mov	r1,0xFF
+	strb	r1,[r0,0x11]
+
+@@end:
+	pop	r1
+	add	r1,(0x808D4DD - bugfix_hawkCut2Return)
+	ldrh	r0,[r5,0x20]
+	cmp	r0,0xA		// timing for slash effect
+	bx	r1
+
+.align 2
 bugfix_extraSwords:
 	cmp	r0,0x74
 	blt	@@end

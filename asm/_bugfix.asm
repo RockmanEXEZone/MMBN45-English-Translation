@@ -5,10 +5,6 @@
 //	bl	0x80668A8	// Spawn Heart Data
 //	bl	0x8068CCC	// Spawn Star Data
 
-//.org 0x8027FAC
-//	ldr	r2,=bugfix_videomanTapeDodgeTarget|1
-//	bx	r2
-//	.pool
 .org 0x80255A8
 	ldr	r2,=bugfix_videomanTapeDodgeTarget|1
 	bx	r2
@@ -16,6 +12,75 @@
 	ldr	r2,=bugfix_videomanTapeDodgeHitbox|1
 	bx	r2
 	.pool
+
+.org 0x802DAB4	// Let ghost Navis spawn without jacking out
+.area 0x6C,0x00
+	push	r4-r7,r14
+	bl	0x802EFB2
+	bne	@@end
+
+	// Check if on spawn tile
+	mov	r7,r10
+	ldr	r7,[r7,0x40]
+	ldr	r0,[r7,0x28]
+	add	r0,0x24
+	bl	0x802B12A
+
+	mov	r6,r0
+	cmp	r6,0xD0
+	blt	@@unset
+	cmp	r6,0xEF
+	bgt	@@unset
+
+	ldr	r4,[0x802DB20]
+	ldr	r5,[0x802DB5C]
+@@loop:
+	ldrh	r0,[r4]
+	tst	r0,r0
+	beq	@@unset
+	cmp	r0,r6
+	bne	@@next
+
+	// Found the ghost data
+	// Check should be active
+	ldrh	r0,[r4,0x4]
+	bl	0x80287A0
+	beq	@@unset
+	// Check already started
+	ldrh	r0,[r4,0x2]
+	bl	0x80287A0
+	bne	@@unset
+
+	mov	r0,0x1E
+	mov	r1,0x39
+	bl	0x80287AE
+	bne	@@end
+
+	// Start the battle
+	// Set started
+	ldrh	r0,[r4,0x2]
+	bl	0x8028710
+	ldrh	r0,[r4,0x6]
+	bl	0x8028710
+	// Start battle
+	ldr	r0,[0x802DB78]
+	ldr	r1,[r5]
+	bl	0x802EF08
+	b	@@end
+@@next:
+	add	r4,0x8
+	add	r5,0x4
+	b	@@loop
+
+@@unset:
+	// Remove the ghost disable flag
+	mov	r0,0x1E
+	mov	r1,0x39
+	bl	0x802874E
+
+@@end:
+	pop	r4-r7,r15
+.endarea
 
 
 .org 0x80C0BDA	// Playable Bass uses proper animation for Shooting Buster
@@ -183,6 +248,9 @@
 	strb	r0,[r5,0x11]
 	mov	r0,0x0
 	strb	r0,[r5,0x10]
+
+.org 0x8097B42	// GutsMan desync in EXE4 battle
+	tst	r0,r0
 
 .org 0x8034D2A	// text input scroll out graphical error
 	cmp	r7,0x1F
@@ -405,6 +473,72 @@ bugfix_protomanChipSpawnSlash:
 	bl	0x80AA892
 
 	pop	r4,r6-r7,r15
+.endarea
+
+
+.org 0x808D43C	// HawkCut comes out too early
+.area 0x22,0x00
+	bne	@@state1
+
+	// Start swing animation
+	mov	r0,0x5
+	strb	r0,[r5,0x10]
+	mov	r0,0xFF
+	strb	r0,[r5,0x11]
+
+	// Start timer
+	mov	r0,0x14
+	strh	r0,[r5,0x20]
+
+	// Play SFX
+	mov	r0,0x8E
+	bl	0x8000534
+
+	// Set state
+	mov	r0,0x4
+	strb	r0,[r5,0xB]
+
+@@state1:
+	ldrh	r0,[r5,0x20]
+	cmp	r0,0x13
+	ldr	r1,=bugfix_hawkCut1|1
+	mov	r14,r15		// doesn't update flags
+	bx	r1
+.endarea
+.org 0x808D460
+	cmp	r0,0xA		// timing for slash effect
+.org 0x808D4AC
+.area 0x4
+	.pool
+.endarea
+.org 0x808D4BA
+.area 0x22,0x00
+	bne	@@state1
+
+	// Start swing animation
+	mov	r0,0x5
+	strb	r0,[r5,0x10]
+	mov	r0,0xFF
+	strb	r0,[r5,0x11]
+
+	// Start timer
+	mov	r0,0x14
+	strh	r0,[r5,0x20]
+
+	// Play SFX
+	mov	r0,0x8E
+	bl	0x8000534
+
+	// Set state
+	mov	r0,0x4
+	strb	r0,[r5,0xB]
+
+@@state1:
+	ldr	r0,=bugfix_hawkCut2|1
+	mov	r14,r15
+	bx	r0
+bugfix_hawkCut2Return:
+	.pool
 .endarea
 
 

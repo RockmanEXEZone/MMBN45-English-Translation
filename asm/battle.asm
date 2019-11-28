@@ -25,15 +25,6 @@
 	mov	r4,filesize(TEMP+"/76E940.img.bin")/0x40
 
 
-// New wider OAMs for ElemPlus/ElemPowr
-.org 0x80157D0
-	.dw	0x6016500
-.org 0x8016360
-	.dh	0x4013,0x8002,0xCB28
-.org 0x8016368
-	.dh	0x4013,0x8022,0xCB30
-
-
 // Character x in the x2 for time freezing Full Synchro attacks
 .org 0x8017644
 	.dw	file_601738+0x40*0x4A

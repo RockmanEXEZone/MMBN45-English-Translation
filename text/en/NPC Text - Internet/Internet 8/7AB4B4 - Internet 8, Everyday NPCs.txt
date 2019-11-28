@@ -358,12 +358,13 @@ up more BugFrags.
 ###--------
 ###Script:9
 ###Mugshot:OfficialNavi
-Registration has
-ended for today!
+Sorry,we're not
+accepting any
+more entries today.
 ###--------
 ###Mugshot:OfficialNavi
-Please come
-again next time!
+Please come back
+another day!
 ###--------
 ###Script:10
 ###Mugshot:OfficialNavi

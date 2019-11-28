@@ -157,6 +157,70 @@ clock_setTimeStateTable:
 clock_setRtcInitState:
 	ldr	r0,=0x200F850
 	ldrb	r0,[r0,0x9]	// fake rtc state
+	cmp	r0,0x1
+	beq	@@checkContinue
+	cmp	r0,0x5
+	beq	@@checkContinue
+
+	// Check need to fill existing RTC
+	ldrb	r0,[r5,0xF]
+	tst	r0,r0
+	beq	@@checkContinue
+
+	// RTC not running, init from last datetime (if possible)
+	// Check last datetime valid
+	ldr	r0,=(0x2003D40+0xC)
+	ldrb	r1,[r0]		// year
+	cmp	r1,0x63
+	bgt	@@checkContinue
+
+	ldrb	r1,[r0,0x1]	// month
+	cmp	r1,0x1
+	blt	@@checkContinue
+	cmp	r1,0xC
+	bgt	@@checkContinue
+
+	ldr	r1,=0x800644F	// get days in month
+	mov	r14,r1
+	bl	r14
+	ldr	r2,=(0x2003D40+0xC)
+
+	ldrb	r1,[r2,0x2]	// day
+	cmp	r1,0x1
+	blt	@@checkContinue
+	cmp	r1,r0
+	bgt	@@checkContinue
+
+	ldrb	r1,[r2,0x3]	// hour
+	cmp	r1,0x17
+	bgt	@@checkContinue
+	ldrb	r1,[r2,0x4]	// minute
+	cmp	r1,0x3B
+	bgt	@@checkContinue
+
+	// Copy datetime
+	ldr	r0,=0x200F850
+	add	r0,0x14
+	ldrb	r1,[r2]		// year
+	strb	r1,[r0,0x0]
+	ldrb	r1,[r2,0x1]	// month
+	strb	r1,[r0,0x1]
+	ldrb	r1,[r2,0x2]	// day
+	strb	r1,[r0,0x2]
+	ldrb	r1,[r2,0x3]	// hour
+	strb	r1,[r0,0x4]
+	ldrb	r1,[r2,0x4]	// minute
+	strb	r1,[r0,0x5]
+
+	// Set weekday
+	mov	r1,0x0
+	ldr	r2,=0x80065C1
+	mov	r14,r2
+	bl	r14
+
+@@checkContinue:
+	ldr	r0,=0x200F850
+	ldrb	r0,[r0,0x9]	// fake rtc state
 	cmp	r0,0x3
 	bne	@@normal
 
@@ -207,56 +271,6 @@ clock_disableRtcInitAbort:
 	tst	r0,r0
 	bne	@@substate04
 
-	// Check last datetime valid
-	ldr	r0,=(0x2003D40+0xC)
-	ldrb	r1,[r0]		// year
-	cmp	r1,0x63
-	bgt	@@message
-
-	ldrb	r1,[r0,0x1]	// month
-	cmp	r1,0x1
-	blt	@@message
-	cmp	r1,0xC
-	bgt	@@message
-
-	ldr	r1,=0x800644F	// get days in month
-	mov	r14,r1
-	bl	r14
-	ldr	r2,=(0x2003D40+0xC)
-
-	ldrb	r1,[r2,0x2]	// day
-	cmp	r1,0x1
-	blt	@@message
-	cmp	r1,r0
-	bgt	@@message
-
-	ldrb	r1,[r2,0x3]	// hour
-	cmp	r1,0x17
-	bgt	@@message
-	ldrb	r1,[r2,0x4]	// minute
-	cmp	r1,0x3B
-	bgt	@@message
-
-	// Copy datetime
-	ldr	r0,=(0x200F850+0x14)
-	ldrb	r1,[r2]		// year
-	strb	r1,[r0]
-	ldrb	r1,[r2,0x1]	// month
-	strb	r1,[r0,0x1]
-	ldrb	r1,[r2,0x2]	// day
-	strb	r1,[r0,0x2]
-	ldrb	r1,[r2,0x3]	// hour
-	strb	r1,[r0,0x4]
-	ldrb	r1,[r2,0x4]	// minute
-	strb	r1,[r0,0x5]
-
-	// Set weekday
-	mov	r1,0x0
-	ldr	r2,=0x80065C1
-	mov	r14,r2
-	bl	r14
-
-@@message:
 	// Show RTC battery empty message
 	ldr	r0,=file_clockmsg
 	mov	r1,0x0
@@ -282,9 +296,12 @@ clock_disableRtcInitAbort:
 	//mov	r14,r1
 	//bl	r14
 
+@@nextState:
 	// Go to state 04
 	mov	r0,0x4
 	strb	r0,[r5,0x1]
+	mov	r0,0x0
+	strb	r0,[r5,0x2]
 
 @@end:
 	pop	r4,r15
@@ -303,7 +320,7 @@ clock_applyRtcChange:
 	strb	r0,[r1,0x10]
 
 	ldrb	r0,[r1,0x9]	// fake rtc state
-	cmp	r0,0x2		// rtc broken at startup, but chose Set Time
+	cmp	r0,0x2		// rtc broken at startup, but chose New Game or Set Time
 	beq	@@markTimeSet
 	cmp	r0,0x3		// rtc broken at startup, and chose Continue
 	bne	@@normal

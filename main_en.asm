@@ -10,8 +10,8 @@
 .definelabel	FREE_SPACE1,	0x81D9110	// End of .text section
 .definelabel	FREE_SPACE2,	0x81E0164	// After VC blinder flash
 
-VAR_VERSION_DATE	equ	0x20191025
-VAR_VERSION_REVISION	equ	2
+VAR_VERSION_DATE	equ	0x20191114
+VAR_VERSION_REVISION	equ	0
 //VAR_VERSION_REVISION	equ	(FILE_SIZE/4)-0x8000000
 
 .table "tools/plugins/exe45t-utf8.tbl"
@@ -77,7 +77,7 @@ VersionInfo:
 	.dw	0x45345242	// BR4E
 .endif
 	.dw	FILE_SIZE
-	.ascii	"v1.0"
+	.ascii	"v1.1"
 VersionInfo_end:
 
 	// Extended assembly patches

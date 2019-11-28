@@ -2,7 +2,7 @@
 ###Script:0
 ###Mugshot:NormNaviYellow
 Today is Friday:
-AKA,Battle Day!
+AKA,battle day!
 ###--------
 ###Mugshot:NormNaviYellow
 How about it?

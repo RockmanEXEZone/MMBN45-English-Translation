@@ -694,22 +694,22 @@ tools\PixelPet ^
 	Import-Bitmap "img\battle\elemplus\pal.png" Read-Palettes Convert-Palettes GBA ^
 	Import-Bitmap "img\battle\elemplus\fireplus.png" Convert-Bitmap GBA ^
 	Generate-Tilemap GBA-4BPP -x  0 -w 32 --no-reduce ^
-	Generate-Tilemap GBA-4BPP -x 32 -w 32 --no-reduce ^
+	Generate-Tilemap GBA-4BPP -x 32 -w 16 --no-reduce ^
 	Serialize-Tileset Export-Bytes "%_TEMP%\721ADC.img.bin" ^
 	Clear-Tileset ^
 	Import-Bitmap "img\battle\elemplus\aquapowr.png" Convert-Bitmap GBA ^
 	Generate-Tilemap GBA-4BPP -x  0 -w 32 --no-reduce ^
-	Generate-Tilemap GBA-4BPP -x 32 -w 32 --no-reduce ^
+	Generate-Tilemap GBA-4BPP -x 32 -w 16 --no-reduce ^
 	Serialize-Tileset Export-Bytes "%_TEMP%\721C5C.img.bin" ^
 	Clear-Tileset ^
 	Import-Bitmap "img\battle\elemplus\thunplus.png" Convert-Bitmap GBA ^
 	Generate-Tilemap GBA-4BPP -x  0 -w 32 --no-reduce ^
-	Generate-Tilemap GBA-4BPP -x 32 -w 32 --no-reduce ^
+	Generate-Tilemap GBA-4BPP -x 32 -w 16 --no-reduce ^
 	Serialize-Tileset Export-Bytes "%_TEMP%\721DDC.img.bin" ^
 	Clear-Tileset ^
 	Import-Bitmap "img\battle\elemplus\woodpowr.png" Convert-Bitmap GBA ^
 	Generate-Tilemap GBA-4BPP -x  0 -w 32 --no-reduce ^
-	Generate-Tilemap GBA-4BPP -x 32 -w 32 --no-reduce ^
+	Generate-Tilemap GBA-4BPP -x 32 -w 16 --no-reduce ^
 	Serialize-Tileset Export-Bytes "%_TEMP%\721F5C.img.bin"
 if %errorlevel% neq 0 goto :error
 

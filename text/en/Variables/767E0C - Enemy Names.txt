@@ -234,7 +234,7 @@ Wonder
 Wither
 ###--------
 ###Script:78
-WeathEX
+WeatherEX
 ###--------
 ###Script:79
 Spidy

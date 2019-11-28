@@ -133,8 +133,9 @@ and come back again.
 ###--------
 ###Script:5
 ###Mugshot:HeelNaviPurple
-Registration has
-closed for today...
+We're not accepting
+any more entries
+today...
 ###--------
 ###Script:6
 ###Mugshot:HeelNaviPurple
