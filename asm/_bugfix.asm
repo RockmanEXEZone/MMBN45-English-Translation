@@ -281,9 +281,9 @@
 	pop	r15
 
 .org 0x803A7E8	// Day of month set glitch
-	.dw	bugfix_monthSet|1
-.org 0x803A7F0
+	// Should be overridden for US/EU
 	.dw	bugfix_yearSet|1
+	.dw	bugfix_monthSet|1
 
 .org 0x80B2404	// Remove Navi reappear SFX for GutPunch
 	b	0x80B240A
