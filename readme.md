@@ -3,7 +3,7 @@
 This repository holds the source code for the Mega Man Battle Network 4.5: Real
 Operation - English Translation patch.
 
-**Looking for the download link? Grab the translation patch and bonus materials from [The Rockman EXE Zone](https://www.therockmanexezone.com/general/2019/10/23/mega-man-battle-network-4-5-real-operation-english-translation-patch-now-available/)!**
+**Looking for the download link? Grab the translation patch and bonus materials from [The Rockman EXE Zone](https://www.therockmanexezone.com/general/2019/10/26/mega-man-battle-network-4-5-real-operation-english-translation/)!**
 
 ## Reporting bugs
 Bugs and suggestions are not accepted in this repository. Please visit the project
